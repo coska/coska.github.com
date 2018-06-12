@@ -1,0 +1,257 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+.topMore {
+  float:right;
+}
+
+.navbar-default {
+    background-color: #fff !important;
+    border-color: transparent !important;
+}
+
+.navbar-brand {
+   padding:0 !important;
+   height:auto;
+ }
+ .navbar {
+   margin-bottom: 0 !important;
+ }
+.carousel {
+  border-top: 6px solid #00306e;
+  margin-top: 6px !important;
+}
+.menu-sub-header {
+	font-size:14px;
+	font-weight:bold;
+}
+@media (min-width: 1002px) {
+  .navbar-nav .dropdown> a {
+   padding-top: 45px;
+  }
+}
+
+/*  CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.firstrow  {
+  margin-bottom: 40px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 20px;
+  padding-bottom: 20px;
+}
+.firstrow .col-md-4 > h3{
+  margin-bottom: 20px;
+  text-align: center;
+}
+.firstrow h2 {
+  font-weight: normal;
+}
+.firstrow .col-md-4 .row {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.icon-bar {
+    width: 100%;
+    text-align: center;
+    overflow: auto;
+}
+.nodecoration { 
+	text-decoration: none !important;
+	color: #5a5a5a;
+}
+.icon-bar > a {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.gallery {
+  max-width: 540px;
+}
+
+.gallery > .thumbnail>a>img {
+  width: 250px;
+}
+.thumbnail img {
+	min-height:80px !important;
+	height:120px !important;
+}
+
+.gallery > .thumbnail>a>img {
+  width: 250px;
+}
+.thumbnail img {
+	min-height:80px !important;
+	height:120px !important;
+}
+.thumbnail p {
+	white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width:220px;
+}
+h3 > .underline  {
+  border-bottom: 2px solid #00f;
+}
+
+h4 {
+	padding-top:20px;
+	font-weight:600;
+}
+dt {
+	font-weight:400;	
+}
+
+.plain-divider {
+    margin: 10px 0; /* Space out the Bootstrap <hr> more */
+    border-top: none !important;
+}
+
+footer {
+  height: 33px;
+  background-color: #00306e;
+  color: #fff;
+  text-align: center;
+  padding-top: 6px;
+}
+.back-to-list {
+	border : 1px solid #cccccc;
+	cursor:pointer;
+}
+.content-table table {
+	border: 1px solid #cccccc;
+	padding:5px 5px 5px 5px;
+}
+.content-table td {
+	border: 1px solid #cccccc;
+	padding:5px 5px 5px 5px;
+}
+.content-table th {
+	border: 1px solid #cccccc;
+	padding:5px 5px 5px 5px;
+	font-weight:bold;
+	text-align:center;
+}
+
+.content-table-pray-schedule table {
+	border: 1px solid #cccccc;
+	padding:5px 5px 5px 5px;
+}
+.content-table-pray-schedule td {
+	border: 1px solid #cccccc;
+	padding:5px 5px 5px 5px;
+}
+.content-table-pray-schedule th {
+	border: 1px solid #cccccc;
+	padding:5px 5px 5px 5px;
+	font-weight:bold;
+	text-align:center;
+}
+
+.pcoff {
+		display:none;
+}
+
+@media (min-width: 768px) {
+	.nav a{
+    	font-size: 1.2em !important;
+    	font-weight: bold;
+    }
+    
+	.dropdown-menu li > a  {
+    	font-size: 1.0em !important;
+    }   
+
+    /* make Dropdown with Hover  */
+    .dropdown:hover .dropdown-menu {
+	    display: block;
+    	margin-top: 0; // remove the gap so it doesn't close
+ 	}
+ 	
+ 	#leftMenu > .dropdown-menu {
+		display: block;
+        position: static;
+        background-color:transparent;
+        border:0 none;
+        box-shadow:none;
+        margin-top: 20px;
+        margin-right: 20px;
+        position:static;
+        width:100%;
+ 	}
+ 	.topBanner {
+ 		height: 72px; 
+ 	}
+ 	.topBanner > .bannerText {
+ 		color: #fff; font-size: 24px; padding-top:22px
+ 	}
+
+ 	body {
+ 		padding-top: 94px; 
+ 	}
+}
+
+
+@media (max-width: 768px) {
+    .mobileoff {
+    	display:none;
+    } 
+    .pcoff {
+		display:inline;
+	}
+    .mobileFlex100 {
+    	width:100%;
+    }
+    .mobileFlex70 {
+    	width:70%;
+    }
+    .mobileFlex80 {
+    	width:80%;
+    }
+    .mobileFlex90 {
+    	width:90%;
+    }
+    
+     .mobileFlex50 {
+    	width:50%;
+    }
+    .buildingView {
+    	padding: 0 10px 0 10px;
+    	margin: 0 10px 0 10px;
+    }
+    .buildingView > img {
+    	width:100%;
+    }
+ 	.topBanner {
+ 		height: 60px; 
+ 	}
+ 	.topBanner > .bannerText {
+ 		color: #fff; font-size: 18px; padding-top:20px
+ 	}
+ 	body {
+ 		padding-top: 85px; 
+ 	}
+ 	.article {
+    	margin: 0 10px 0 10px;
+ 	}
+ 	h4 {
+		background-color:#efefef;
+	}
+}
+
+.videoBox {
+	width:120px !important;
+	height:90px !important;
+}
+
+.embed-responsive-4by3 {
+	padding-bottom: 0 !important; 
+}
+
+.boardGeneral thead> tr > th {
+	text-align: center !important;
+}

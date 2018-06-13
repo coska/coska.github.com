@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <div id="myCarousel" class="carousel slide" data-ride="carousel"  >
+      <!-- Indicators -->
+      <ol class="carousel-indicators" >
+        <li data-target="#myCarousel" data-slide-to="{{$index}}" class="{{($index == '0') && 'active' ||''}}" ng-repeat="item in carousels"></li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+        <div class="item {{($index == '0') && 'active' ||''}}"  ng-repeat="item in carousels">
+          	<img  ng-src="/fileman/view/{{item.bg}}" />
+          	<ng-switch on="item.mode">
+	            <div class="carousel-caption" ng-switch-when="image">
+	              <img ng-if="item.captionImg !='' "  ng-src="/fileman/view/{{item.captionImg}}"  />
+	            </div>
+	            <div class="carousel-caption" ng-switch-default ng-bind-html="item.caption"></div>
+            </ng-switch>
+        </div>
+      </div> <!--/carousel-inner -->
+
+      <a class="left carousel-control" ng-href="#myCarousel" role="button" data-slide="prev" target="_self">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" ng-href="#myCarousel" role="button" data-slide="next" target="_self">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div><!-- /.carousel -->
+
+    <div class=" firstrow">
+      <div class="container">
+        <!-- Three columns of text below the carousel -->
+        <div class="row " >
+          <div class="col-md-4">
+            <a ng-href="#/boards/10?pgid=m020101" class="nodecoration"><h3>주일 예배</h3></a>
+            <div class="row">
+              <div class="embed-responsive embed-responsive-16by9 video-wrapper" >
+			    <youtube-video class="embed-responsive-item" video-id="video1">금주의 주일예배
+                	설교 영상을 제공 합니다.</youtube-video>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <a href="#/boards/11?pgid=m020102" class="nodecoration"><h3>수요 예배</h3>
+            <div class="row">
+              <div class=" embed-responsive embed-responsive-16by9 video-wrapper" >
+			    <youtube-video class="embed-responsive-item" video-id="video2">금주의 수요예배
+                                설교 영상을 제공 합니다.</youtube-video>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <a ng-href="#/boards/12?pgid=m020201" class="nodecoration"><h3>주일 찬양</h3></a>
+            <div class="row">
+              <div class="embed-responsive embed-responsive-16by9 video-wrapper">
+			    <youtube-video class="embed-responsive-item" video-id="video3">금주의 주일찬양 찬양
+                   	영상을 제공 합니다.</youtube-video>
+			  </div>
+			 </div>
+          </div>
+        </div><!-- /.row -->
+      </div>
+    </div>
+
+    <hr class="plain-divider"/>
+
+    <div class="container ">
+      <div class="row">
+        <div class="icon-bar">
+          <a class="active" ng-href="#/boards/10?pgid=m020101"><img src="./html/img/main/link_01.png" title="예배영상"/></a>
+          <!-- <a class="active" ng-href="#/boards/9?pgid=m010302" ><img src="./html/img/main/link_02.png" title="주보"/></a>-->
+          <a class="active" ng-href="#/boards/6?pgid=m010202"><img src="./html/img/main/link_03.png" title="갤러리"/></a>
+          <a class="active" ng-href="#/boards/2?pgid=m020301"><img src="./html/img/main/link_04.png" title="영성컬럼"/></a>
+          <a class="active" ng-href="#/sub/m030101"><img src="./html/img/main/link_05.png" title="선교"/></a>
+          <a class="active" ng-href="#/sub/m010103"><img src="./html/img/main/link_06.png" title="섬기는이"/></a>
+          <a class="active mobileoff" ng-href="#/sub/m010301"><img src="./html/img/main/link_07.png" title="예배시간"/></a>
+          <a class="active mobileoff" ng-href="/#/sub/m010401"><img src="./html/img/main/link_08.png" title="오시는길"/></a>
+        </div>
+      </div> <!-- /.row -->
+    </div>
+
+    <hr class="plain-divider"/>
+
+    <div class="container ">
+      <div class="row mainNews">
+          <div class=" col-md-4">
+            <div class="col-lg-12">
+                <h3 style="text-align:left">News
+                <a ng-href="#/boards/{{newBoardInfo.id}}?pgid={{newBoardInfo.pgid}}"><img src="./html/img/main/icon_more.png" class="topMore"/></a></h3>
+            </div>
+            <div >
+              <table class="table table-hover" >
+                <tbody>
+                  <tr ng-repeat="item in newItems | limitTo:6">
+                  	<td><a ng-href="#/boards/{{newBoardInfo.id}}/items/{{item.id}}?pgid={{newBoardInfo.pgid}}">{{item.title}}</a></td>
+                  	<td>{{item.create_date}}</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+          <div class=" col-md-8" >
+            <div class="col-lg-12">
+                <h3 >Gallery
+                <a ng-href="#/boards/{{galleryBoardInfo.id}}?pgid={{boardInfo.pgid}}"><img src="./html/img/main/icon_more.png" class="topMore"/></a></h3>
+            </div>
+
+            <div class=" col-md-4  col-xs-6 thumb thumbnail text-center" ng-repeat="item in galleryItems | limitTo:6">
+                <a  ng-href="#/boards/{{galleryBoardInfo.id}}/items/{{item.id}}?pgid={{galleryBoardInfo.pgid}}">
+                    <img class=" img-responsive" ng-src="/fileman/viewThumb/{{item.fid}}" alt="{{item.title}}"/>
+                   {{item.title}}
+                </a>
+
+            </div>
+        </div>
+      </div>  <!-- /.row -->
+
+    </div><!-- /.container -->
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="utf-8" />
+</head>
+<body >
+	<div class="container">
+		<nav class="navbar navbar-default navbar-fixed-top" >
+			<div class="container"  style="max-width:1024px">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false"
+						aria-controls="navbar">
+						<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span
+							class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" ng-href="#/"><img src="./html/img/main/top_logo.png" width="220" /></a>
+				</div>
+				<div id="navbar" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav" ng-controller="MenuCtrl">
+						<li class="dropdown menu-sub-header"" ng-repeat="menu in menuList" ng-switch="menu.type">
+						<a ng-switch-when="extlink"	ng-href="{{menu.url}}" target="_blank" aria-haspopup="true" aria-expanded="false">{{menu.title}}</a>
+						<a ng-switch-default ng-href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+							aria-expanded="false">{{menu.title}}<span class="caret"></span></a>
+							<ul ng-switch-default class="dropdown-menu">
+								<ng-repeat ng-repeat="subMenu in menu.subMenu" ng-switch="subMenu.type">
+								<li ng-switch-when="header" class="dropdown-header menu-sub-header">{{subMenu.title}}</li>
+								<li ng-switch-when="divider" role="separator" class="divider"></li>
+								<li ng-switch-when="board"><a ng-href="#/boards/{{subMenu.boardId}}?pgid={{subMenu.pgid}}">{{subMenu.title}}</a></li>
+								<li ng-switch-when="extlink"><a ng-href="{{subMenu.url}}" target="_blank" aria-haspopup="true" aria-expanded="false">{{subMenu.title}}</a></li>
+								<li ng-switch-default class="dropdown-link"><a ng-href="#/sub/{{subMenu.pgid}}">{{subMenu.title}}</a></li>
+								</ng-repeat>
+							</ul></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+	</div>
+</body>
+</html>

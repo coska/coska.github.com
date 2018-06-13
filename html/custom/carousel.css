@@ -1,0 +1,191 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  //padding-bottom: 40px;
+  color: #5a5a5a;
+}
+
+
+/* CUSTOMIZE THE NAVBAR
+-------------------------------------------------- */
+
+/* Special class on .container surrounding .navbar, used for positioning it into place. */
+.navbar-wrapper {
+  //position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 20;
+}
+
+/* Flip around the padding for proper display in narrow viewports */
+.navbar-wrapper > .container {
+  padding-right: 0;
+  padding-left: 0;
+}
+.navbar-wrapper .navbar {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.navbar-wrapper .navbar .container {
+  width: auto;
+}
+
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  height: 303px;
+  /*margin-bottom: 60px;*/
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  z-index: 10;
+  top:1px;;
+  left:-100%;;
+  right:-100%;;
+  margin:auto;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+  height: 303px;
+  background-color: #777;
+}
+.carousel-inner > .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  /*max-width: 100%;*/
+    margin: auto; 
+    min-height: 100%;
+    left: -100%;
+    right: -100%;
+    top: -100%;
+    bottom: -100%;"
+}
+
+
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 10px 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+  /* Navbar positioning foo */
+  .navbar-wrapper {
+    margin-top: 0px;
+  }
+  .navbar-wrapper .container {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .navbar-wrapper .navbar {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  /* The navbar becomes detached from the top, so we round the corners */
+  .navbar-wrapper .navbar {
+    border-radius: 4px;
+  }
+
+  /* Bump up size of carousel content */
+  .carousel-caption p {
+    margin-bottom: 20px;
+    font-size: 18px;
+    line-height: 1.4;
+  }
+
+  .featurette-heading {
+    font-size: 30px;
+  }
+}
+
+@media (min-width: 992px) {
+  .featurette-heading {
+    margin-top: 120px;
+  }
+}
+
+@media (max-width: 767px) {
+  .navbar-brand>img {
+    width: 200px !important;
+  }
+  .icon-bar img {
+    width:60px;
+  }
+
+
+  .topMore {
+    float:right;
+    transform: scale(0.7, 0.7);
+    -ms-transform: scale(0.7, 0.7);
+    -webkit-transform: scale(0.7, 0.7);
+  }
+  
+	.carousel {
+	 height: 170px;
+	}
+	.carousel .item {
+	  height: 170px;
+	  background-color: #777;
+	}
+	.carousel-inner {
+	 height: 170px;
+	}
+  .carousel-inner > .item > img {
+    position: absolute;
+    top: 0;
+    /*left: 0;*/
+    min-width: 100%;
+        margin: auto; 
+    min-height: 100%;
+    left: -100%;
+    right: -100%;
+    top: -100%;
+    bottom: -100%;"
+  }
+  .carousel-caption > h1 {
+  	font-size: 18px;
+  	line-height: 0.5;
+  }
+  .carousel-caption > h2 {
+  	font-size: 14px;
+  	line-height: 0.5;
+  }
+  .carousel-caption  {
+      z-index: 10;
+	  top:1px;;
+	  left:-100%;;
+	  right:-100%;;
+	  margin:auto;
+  }
+  .carousel-caption > img {
+    width:500px;
+    /*transform: scale(0.5, 0.5);
+    -ms-transform: scale(0.7, 0.5);
+    -webkit-transform: scale(0.5, 0.5);*/
+    /*border:1px solid #ff0;*/
+  }
+}

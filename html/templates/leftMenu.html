@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="utf-8" />
+</head>
+<body>
+
+	<ul class="dropdown-menu" ng-controller="LeftMenuCtrl">
+		<ng-repeat ng-repeat="subMenu in menuList" ng-switch="subMenu.type">
+			<li ng-switch-when="header" class="dropdown-header menu-sub-header">{{subMenu.title}}</li>
+			<li ng-switch-when="divider" role="separator" class="divider"></li>
+			<li ng-switch-when="board"><a href="#/boards/{{subMenu.boardId}}?pgid={{subMenu.pgid}}">{{subMenu.title}}</a></li>
+			<li ng-switch-when="extlink"><a ng-href="{{subMenu.url}}" target="_blank" aria-haspopup="true" aria-expanded="false">{{subMenu.title}}</a></li>
+			<li ng-switch-default class="dropdown-link"><a href="#/sub/{{subMenu.pgid}}">{{subMenu.title}}</a></li>
+		</ng-repeat>
+	</ul>
+</body>
+</html>

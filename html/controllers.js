@@ -7,7 +7,7 @@ var churchApp = angular.module('churchApp', [ 'youtube-embed', 'ngSanitize' ]);
 const ERR_DATA = '데이타 가져오기에 실패했습니다.';
 
 churchApp.run(function($rootScope){
-	  
+
 	});
 
 churchApp.controller('StaticSubCtrl', function(menuService, $scope, $routeParams, $compile, $anchorScroll, $location) {
@@ -23,7 +23,7 @@ churchApp.controller('StaticSubCtrl', function(menuService, $scope, $routeParams
 	        $anchorScroll();
 	      }
 	    };
-	    
+
 	if(_isMobile) {
 		menuService.getMenu().then(function() {
 			menuService.setSubMenu($routeParams.pgid);
@@ -36,23 +36,23 @@ churchApp.controller('StaticSubCtrl', function(menuService, $scope, $routeParams
 							'pgid': menuService.leftMenu[i].pgid,
 							'url':'/html/contents/' +menuService.leftMenu[i].pgid + '.html'
 					});
-					
+
 				}
 			}
 			$scope.curAnchor = '/html/contents/' +$routeParams.pgid + '.html'
 			$scope.template = {
 					'pgid' : $routeParams.pgid,
-					'menus' : menus					
+					'menus' : menus
 			};
 			$scope.finishLoading = function(event, templateName) {
 				console.log();
 			}
 			$scope.$on("$includeContentLoaded", function(event, templateName){
 				if(templateName == $scope.curAnchor ) {
-					$scope.gotoAnchor($routeParams.pgid);			     
+					$scope.gotoAnchor($routeParams.pgid);
 				}
 			});
-			
+
 		})
 	} else {
 		$scope.template = {
@@ -69,18 +69,18 @@ churchApp.controller('MenuCtrl', function MenuCtrl(menuService, $scope) {
 	});
 });
 
-churchApp.controller('LeftMenuCtrl', 
+churchApp.controller('LeftMenuCtrl',
 	function MenuCtrl(menuService, $scope,	$routeParams) {
 		if($routeParams.pgid) {
-			menuService.setSubMenu($routeParams.pgid);			
+			menuService.setSubMenu($routeParams.pgid);
 		}
 		$scope.menuList = menuService.leftMenu;
 });
 
-churchApp.controller('SubBannerCtrl', 
+churchApp.controller('SubBannerCtrl',
 		function SubBannerCtrl(menuService, $scope,	$routeParams) {
 			if($routeParams.pgid) {
-				menuService.setSubMenu($routeParams.pgid);			
+				menuService.setSubMenu($routeParams.pgid);
 			}
 			$scope.mid = menuService.mid;
 			$scope.mtext = menuService.mtext;
@@ -90,7 +90,7 @@ churchApp.factory('menuService', function($http) {
 	var menuService = {
 		leftMenu: [],
 		mid:"m01",
-		mtext:"이글스 필드 한인교회를 소개 합니다",
+		mtext:"About Coska",
 		fullMenu: [],
 		getMenu : function() {
 			var promise = $http.get('/html/menu.json',{cache:true}).then(
@@ -106,32 +106,32 @@ churchApp.factory('menuService', function($http) {
 			var menu = [];
 			this.mid = pgid.substring(0,3);
 			if(menuService.fullMenu.length == 0) {
-				
+
 			} else {
 				for(var i = 0; i< menuService.fullMenu.length; i ++) {
 					if(menuService.fullMenu[i].pgid == this.mid) {
 						menu= menuService.fullMenu[i].subMenu;
 						break;
-					}	
+					}
 				}
 			}
 			switch(this.mid) {
 			    case 'm02':
-			        this.mtext = '이글스 필드 설교와 찬양';
+			        this.mtext = 'm02';
 			        break;
 			    case 'm03':
-			        this.mtext = '이글스 필드 선교와 봉사';
+			        this.mtext = 'm03';
 			        break;
 			    case 'm04':
-			        this.mtext = '이글스 필드 교회교육';
+			        this.mtext = 'm03';
 			        break;
 			    case 'm05':
-			        this.mtext = '이글스 필드 양육과 훈련';
+			        this.mtext = 'm03';
 			        break;
 			    default:
-			        this.mtext = "이글스 필드 한인교회를 소개 합니다"
+			        this.mtext = "m03"
 			}
-			menuService.leftMenu = menu;							
+			menuService.leftMenu = menu;
 		}
 	};
 	return menuService;
@@ -141,6 +141,7 @@ churchApp.controller('MainCtrl', function MainController(boardService, $scope,  
 	$scope.go = function ( path ) {
 		  $location.path( path );
 	};
+	/*
 	boardService.getMainVideos().then(function(result) {
 		$scope.video1 = result.video1;
 		$scope.video2 = result.video2;
@@ -160,6 +161,7 @@ churchApp.controller('MainCtrl', function MainController(boardService, $scope,  
 		$scope.galleryBoardInfo = result.boardInfo;
 		$scope.galleryItems = result.items;
 	});
+	*/
 });
 
 churchApp.controller('BoardListCtrl', function BoardListController(boardService,menuService,
@@ -177,7 +179,7 @@ churchApp.controller('BoardListCtrl', function BoardListController(boardService,
 		$scope.prevRange = result.prevRange;
 		$scope.nextRange = result.nextRange;
 		$scope.pgid = result.pgid;
-		menuService.setSubMenu($scope.boardInfo.pgid);		
+		menuService.setSubMenu($scope.boardInfo.pgid);
 	});
 
 });

@@ -1,0 +1,30 @@
+[
+	{
+		"title":"About",
+		"pgid":"m01",
+		"subMenu":[
+			{"title":"코스카 역사", 	"type":"header"},
+			{"title":"인사말", 		"pgid":"m010101", "type":"html"},
+			{"title":"발자취", 		"pgid":"m010102", "type":"html"},
+			{"title":"임원진 소개", 	"pgid":"m010103", "type":"html"},
+			{"type":"divider"}
+		]
+	},
+	{
+		"title":"Events",
+		"pgid":"m02",
+		"subMenu":[
+			{"title":"세미나", 	"type":"header"},
+			{"title":"코스카 Lab", 	"pgid":"m020101", "type":"html",	"boardId":"10"},
+			{"title":"Picnic", 	"pgid":"m020102", "type":"html",	"boardId":"11"},
+			{"type":"divider"},
+			{"title":"신년회", 		"pgid":"m020201", "type":"html",	"boardId":"12"}
+		]
+	},
+
+	{
+		"title":"Facebook",
+		"type":"extlink",
+		"url":"https://www.facebook.com/groups/coska4u"
+	}
+]

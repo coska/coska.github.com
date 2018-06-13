@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="utf-8" />
+</head>
+<body>
+	<div>
+		<div class="row vcenter topBanner" style="background: url('./html/img/subbg_{{mid}}.png') repeat-x "  ng-controller="SubBannerCtrl">
+			<div class="container align-middle bannerText">
+				<span class="">{{mtext}}</span>
+			</div>
+		</div>
+		<div class="container" >
+			<div class="row ">
+				<div class="col-md-2 ">
+					<!-- ---------------- -->
+					<div id="leftMenu" ng-include src="'/html/templates/leftMenu.html'"></div>
+					<!-- ---------------- -->
+				</div>
+				<div class="col-md-10 article" style="max-width:780px" >
+					<div ng-include="template.url"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

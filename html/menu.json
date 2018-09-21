@@ -3,22 +3,33 @@
 		"title":"About",
 		"pgid":"m01",
 		"subMenu":[
-			{"title":"코스카 역사", 	"type":"header"},
-			{"title":"인사말", 		"pgid":"m010101", "type":"html"},
-			{"title":"발자취", 		"pgid":"m010102", "type":"html"},
-			{"title":"임원진 소개", 	"pgid":"m010103", "type":"html"},
-			{"type":"divider"}
+			{"title":"코스카 ", 	"type":"header"},
+			{"title":"코스카 소개", "pgid":"m010101", "type":"html"},
+			{"type":"divider"},
+			{"title":"발자취 ", 	"type":"header"},
+			{"title":"1978~1989", 		"pgid":"m010201", "type":"html"},
+			{"title":"1990~1999", 		"pgid":"m010202", "type":"html"},
+			{"title":"2000~2009", 		"pgid":"m010203", "type":"html"},
+			{"title":"2010~2018", 		"pgid":"m010204", "type":"html"}
 		]
 	},
 	{
-		"title":"Events",
+		"title":"세미나",
 		"pgid":"m02",
 		"subMenu":[
-			{"title":"세미나", 	"type":"header"},
-			{"title":"코스카 Lab", 	"pgid":"m020101", "type":"html",	"boardId":"10"},
-			{"title":"Picnic", 	"pgid":"m020102", "type":"html",	"boardId":"11"},
-			{"type":"divider"},
-			{"title":"신년회", 		"pgid":"m020201", "type":"html",	"boardId":"12"}
+			{"title":"IT 기술 세미나", 	"pgid":"m020101", "type":"html"	},
+			{"title":"코스카 Lab", 	"pgid":"m020102", "type":"html"	},
+			{"title":"취업 세미나", 	"pgid":"m020102", "type":"html"	}
+		]
+	},			
+	{
+		"title":"Events",
+		"pgid":"m03",
+		"subMenu":[
+			{"title":"신년회", 		"pgid":"m030201", "type":"html"},
+			{"title":"가족 Picnic", 	"pgid":"m030102", "type":"html"},
+			{"title":"그룹 캠핑", 	"pgid":"m030103", "type":"html"},
+			{"title":"골프대회", 	"pgid":"m030104", "type":"html"}
 		]
 	},
 

@@ -167,10 +167,14 @@ footer {
     }   
 
     /* make Dropdown with Hover  */
-    .dropdown:hover .dropdown-menu {
+   .dropdown:hover .dropdown-menu {
 	    display: block;
     	margin-top: 0; // remove the gap so it doesn't close
- 	}
+	 }
+	 
+	 .dropdown-link {
+		 margin-left: 10px;
+	 }
  	
  	#leftMenu > .dropdown-menu {
 		display: block;

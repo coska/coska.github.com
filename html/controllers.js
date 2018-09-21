@@ -57,7 +57,7 @@ churchApp.controller('StaticSubCtrl', function(menuService, $scope, $routeParams
 	} else {
 		$scope.template = {
 			'pgid' : $routeParams.pgid,
-			'url' : './html/contents/' + $routeParams.pgid + '.html'
+			'url' : './html/contents/' + menuService.mid + '/'+ $routeParams.pgid + '.html'
 		};
 		console.log('/+Param: ' + $scope.template.url + " mid:" +menuService.mid)
 	}
@@ -116,6 +116,9 @@ churchApp.factory('menuService', function($http) {
 				}
 			}
 			switch(this.mid) {
+			    case 'm01':
+			        this.mtext = 'm01';
+			        break;
 			    case 'm02':
 			        this.mtext = 'm02';
 			        break;
@@ -123,13 +126,10 @@ churchApp.factory('menuService', function($http) {
 			        this.mtext = 'm03';
 			        break;
 			    case 'm04':
-			        this.mtext = 'm03';
-			        break;
-			    case 'm05':
-			        this.mtext = 'm03';
+			        this.mtext = 'm04';
 			        break;
 			    default:
-			        this.mtext = "m03"
+			        this.mtext = "."
 			}
 			menuService.leftMenu = menu;
 		}

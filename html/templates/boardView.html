@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="utf-8" />
+</head>
+<body>
+	<div >
+		<div class="row vcenter topBanner" style=" background: url('./html/img/subbg_{{mid}}.png') repeat-x "  ng-controller="SubBannerCtrl">
+			<div class="container align-middle bannerText"	>
+				<span class="">{{mtext}}</span>
+			</div>
+		</div>
+		<div class="container" >
+			<div class="row ">			
+				<div class="col-md-2 mobileoff">
+					<div id="leftMenu" ng-include src="'/html/templates/leftMenu.html'"></div>
+				</div>
+				<div class="col-md-10 article"  style="max-width:780px" >
+					<ng-switch on="mode">
+						<div class="article" ng-switch-when="generalView">
+							<h3>{{item.title}}</h3>
+							<div class="text-right">
+								<ul class="list-unstyled list-inline">
+									<li><i class="fa fa-calendar"></i> {{item.create_date}}</li>
+									<li><div  ng-click="go(boardInfo)" class="btn-sm  back-to-list ">List</div ></li>
+								</ul>
+							</div>					
+							<div class="article-content" ng-bind-html="item.contents"></div>
+							<div class="col-sm-12 col-md-12 col-xs-12 thumb" ng-repeat="file in attaches">
+								<div class="">
+									<div>	
+										<a href="/fileman/view/{{file.fid}}"  target="_new"><img class="img-responsive img-rounded"	ng-src="/fileman/view/{{file.fid}}" alt="{{file.title}}" /></a><br/><br/>
+									</div>
+								</div>
+							</div>
+							<div class="text-right">
+								<ul class="list-unstyled list-inline">
+									<li><i class="fa fa-calendar"></i> {{item.create_date}}</li>
+									<li><div  ng-click="go(boardInfo)" class="btn-sm back-to-list ">List</div ></li>
+								</ul>
+							</div>
+						</div>
+					</ng-switch>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="utf-8" />
+</head>
+<body>
+
+	<h3>{{boardInfo.title}}</h3>
+	<table class="table table-hover boardGeneral">
+		<colgroup>
+			<col width="40">
+			<col width="450">
+			<col width="100" align="center">
+			<col width="60" >
+		</colgroup>
+		<thead>
+			<th class="mobileoff">No</th>
+			<th class="mobileFlex70">제목</th>
+			<th >작성일</th>
+			<th class="mobileoff">조회수</th>
+		</thead>
+		<tbody>
+			<tr ng-repeat="item in items">
+				<td align="center" class="mobileoff">{{item.rnum}}</td>
+				<td><a href="#/boards/{{boardInfo.id}}/items/{{item.id}}/?pgid={{pgid}}&curPage={{curPage}}">{{item.title}}</a></td>
+				<td align="center">{{item.create_date}}</td>
+				<td align="center" class="mobileoff">{{item.read_cnt}}</td>
+			</tr>
+		</tbody>
+	</table>
+	
+	<div class="row"  style="text-align:right">
+		<nav aria-label="Page navigation ">
+			<ul class="pagination pagination-sm justify-content-center">
+				<li class="page-item" ><a class="page-link"   ng-if="curPage != prevRange" ng-href="#/boards/{{boardInfo.id}}?pgid={{boardInfo.pgid}}&curPage={{prevRange}}">Previous</a></li>
+				<li class="page-item" ><a class="page-link" ng-if="curPage != nextRange" ng-href="#/boards/{{boardInfo.id}}?pgid={{boardInfo.pgid}}&curPage={{nextRange}}">Next</a></li>
+			</ul>
+		</nav>
+	</div>
+	 
+</body>
+</html>

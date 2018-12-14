@@ -23,9 +23,9 @@
     {
       "title": "세미나", "pgid": "m02",
       "subMenu": [
-        {"title": "Techday","pgid": "m020101","layout": "page","doctype": "html"},
-        {"title": "코스카 Lab","pgid": "m020102","layout": "page","doctype": "html"},
-        {"title": "취업 세미나","pgid": "m020103","layout": "page","doctype": "html"}
+        {"title": "Techday","pgid": "m020101","layout": "page","doctype": "markdown"},
+        {"title": "COSKA Lab","pgid": "m020102","layout": "page","doctype": "markdown"},
+        {"title": "취업 세미나","pgid": "m020103","layout": "page","doctype": "markdown"}
       ]
     },
     {

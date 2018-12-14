@@ -9,134 +9,45 @@
   },
   "assets": "./src/assets",
   "menus": [{
-      "title": "About",
-      "pgid": "m01",
-      "subMenu": [{
-          "title": "코스카 ",
-          "layout": "header"
-        },
-        {
-          "title": "코스카 소개",
-          "pgid": "m010101",
-          "layout": "page",
-          "doctype": "html"
-        },
-        {
-          "layout": "divider"
-        },
-        {
-          "title": "발자취 ",
-          "layout": "header"
-        },
-        {
-          "title": "1978~1989",
-          "pgid": "m010201",
-          "layout": "page",
-          "doctype": "html"
-        },
-        {
-          "title": "1990~1999",
-          "pgid": "m010202",
-          "layout": "page",
-          "doctype": "html"
-        },
-        {
-          "title": "2000~2009",
-          "pgid": "m010203",
-          "layout": "page",
-          "doctype": "html"
-        },
-        {
-          "title": "2010~2018",
-          "pgid": "m010204",
-          "layout": "page",
-          "doctype": "html"
-        }
+      "title": "About", "pgid": "m01",
+      "subMenu": [
+        {"title": "코스카 소개","pgid": "m010101","layout": "page","doctype": "html"},
+        {"layout": "divider" },
+        {"title": "발자취 ", "layout": "header"},
+        {"title": "1978~1989","pgid": "m010201","layout": "page","doctype": "html"},
+        {"title": "1990~1999","pgid": "m010202","layout": "page","doctype": "html"},
+        {"title": "2000~2009","pgid": "m010203","layout": "page","doctype": "html"},
+        {"title": "2010~","pgid": "m010204","layout": "page","doctype": "html"}
       ]
     },
     {
-      "title": "세미나",
-      "pgid": "m02",
-      "subMenu": [{
-          "title": "IT 기술 세미나",
-          "pgid": "m020101",
-          "layout": "page",
-          "doctype": "html"
-        },
-        {
-          "title": "코스카 Lab",
-          "pgid": "m020102",
-          "layout": "page",
-          "doctype": "html"
-        },
-        {
-          "title": "취업 세미나",
-          "pgid": "m020103",
-          "layout": "page",
-          "doctype": "html"
-        }
+      "title": "세미나", "pgid": "m02",
+      "subMenu": [
+        {"title": "Techday","pgid": "m020101","layout": "page","doctype": "html"},
+        {"title": "코스카 Lab","pgid": "m020102","layout": "page","doctype": "html"},
+        {"title": "취업 세미나","pgid": "m020103","layout": "page","doctype": "html"}
       ]
     },
     {
-      "title": "Events",
-      "pgid": "m03",
-      "subMenu": [{
-          "title": "New Year Party",
-          "pgid": "m030201",
-          "layout": "section",
-          "doctype": "markdown",
-          "format": "list"
-        },
-        {
-          "title": "Picnics",
-          "pgid": "m030102",
-          "layout": "section",
-          "doctype": "markdown",
-          "format": "card"
-        },
-        {
-          "title": "Campings",
-          "pgid": "m030103",
-          "layout": "section",
-          "doctype": "markdown",
-          "format": "card"
-        },
-        {
-          "title": "Golf Coska",
-          "pgid": "m030104",
-          "layout": "section",
-          "doctype": "markdown",
-          "format": "card"
-        }
+      "title": "Events", "pgid": "m03",
+      "subMenu": [
+        {"title": "New Year Party","pgid": "m030201","layout": "section","doctype": "markdown","format": "list"},
+        {"title": "Picnics/Campings","pgid": "m030102","layout": "section","doctype": "markdown","format": "card"},
+        {"title": "Campings","pgid": "m030103",     "layout": "section","doctype": "markdown","format": "card"},
+        {"title": "Golf Coska","pgid": "m030104",   "layout": "section","doctype": "markdown","format": "card"}
       ]
     },
     {
-      "title": "Archives",
-      "pgid": "archives",
-      "subMenu": [{
-          "title": "RSS Canada",
-          "pgid": "rss-canada",
-          "layout": "page",
-          "doctype": "xml"
-        },
-        {
-          "title": "Manual",
-          "pgid": "manual",
-          "layout": "page",
-          "doctype": "markdown"
-        },
-        {
-          "title": "BBS",
-          "pgid": "bbs",
-          "layout": "section",
-          "doctype": "xml"
-        }
+      "title": "Archives", "pgid": "archives",
+      "subMenu": [
+        {"title": "구인/구직","pgid": "archv0101","layout": "section","doctype": "xml"},
+        {"layout": "divider" },
+        {"title": "Test ", "layout": "header"},
+        {"title": "RSS Canada","pgid": "rss-canada","layout": "page","doctype": "xml"},
+        {"title": "Manual","pgid": "manual","layout": "page","doctype": "markdown"},
+        {"title": "BBS","pgid": "bbs","layout": "section","doctype": "xml"}
       ]
     },
-    {
-      "title": "Facebook",
-      "layout": "extlink",
-      "url": "https://www.facebook.com/groups/coska4u"
-    }
+    {"title": "Facebook","layout": "extlink","url": "https://www.facebook.com/groups/coska4u"}
   ]
 }

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>황성규</author>
+    <comments/>
+    <content>By The Associated Press&#xD;
+Special to CNET News.com &#xD;
+July 18, 2001, 6:00 a.m. PT &#xD;
+&#xD;
+SEATTLE--Microsoft will not include the software needed to run programs written in the Java programming language in its new Windows XP operating system, the software giant said Tuesday.&#xD;
+&#xD;
+Microsoft spokesman Tom Pilla said the company decided not to include support for the language so it wouldn't violate a legal settlement agreement. &#xD;
+&#xD;
+Java maker Sun Microsystems in January settled a lawsuit it brought against Microsoft three years ago in the U.S. District Court in San Jose, charging Redmond-based Microsoft with infringing a licensing agreement to use Java. &#xD;
+&#xD;
+Java, introduced by Sun in 1995, lets developers write a software application that can run on a variety of computers, regardless of the underlying operating system. The language is widely used on Web sites and Sun had hoped to make Java a universal programming language. &#xD;
+&#xD;
+Sun alleged that Microsoft violated the terms of an agreement signed in 1996 by creating a Windows-only version of Java that was incompatible with other software. Sun also claimed copyright infringement, but a judge later dismissed that part of the claim. &#xD;
+&#xD;
+Under an agreement, Microsoft agreed to no longer license from Sun any current or new versions of Java, but it would have been allowed to distribute products carrying outdated versions of the Java technology for seven years. &#xD;
+&#xD;
+Microsoft also had to pay Sun $20 million, and was barred from using Sun's "Java Compatible" trademark. &#xD;
+&#xD;
+"In the wake of the settlement agreement with Sun and the resolution of that litigation, this approach simplifies our implementation and adherence of that agreement," Pilla said. &#xD;
+&#xD;
+In light of the settlement agreement, which gave Microsoft just seven years to phase out Java, he said the decision should come as no surprise. "The reality is that (Java) represents a lot of code that the vast majority of users don't need," Pilla said. &#xD;
+&#xD;
+A Sun spokeswoman could not immediately be reached for comment Tuesday. &#xD;
+&#xD;
+Pilla denied that the move was aimed at phasing out support for Java in Microsoft applications. He said Windows XP users will be able to easily download Java off a Microsoft update site if they come across a software application running on Java. &#xD;
+&#xD;
+The U.S. Circuit Court of Appeals for the District of Columbia also addressed Microsoft's use of Java in its ruling last month that unanimously reversed the breakup of Microsoft. &#xD;
+&#xD;
+The court overturned the court-ordered breakup of Microsoft, but upheld the trial judge's finding that the software giant violated antitrust laws by muscling hardware and software companies into giving its operating systems preferential treatment. &#xD;
+&#xD;
+In its ruling, the court said making an incompatible version of Java was not illegal, but said Microsoft's agreements with software vendors to use only the Microsoft-compatible Java version was illegal. &#xD;
+&#xD;
+Microsoft, meanwhile, has recently begun developing a set of Internet services, called .Net, based on Extensible Markup Language (XML). The .Net strategy calls for selling a series of paid services over the Internet that users can access on any computer device. This could range from booking plane flights to buying concert tickets. &#xD;
+&#xD;
+</content>
+    <postId>7A14A2DD-988E-43D3-B35C-B4A9850959C2</postId>
+    <pubDate>2001-07-20T00:00:00-04:00</pubDate>
+    <title>Microsoft: No Java support in Windows XP </title>
+</post>

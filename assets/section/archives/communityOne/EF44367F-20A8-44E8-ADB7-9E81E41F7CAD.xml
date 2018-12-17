@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>Andrew</author>
+    <comments/>
+    <content>강윤정씨 내공이 점점 깊어 지는 군요...&#xD;
+누구는 머리빠지게 고민하고 있는데,,&#xD;
+순간 머리로 스쳐가는 권법으로 단숨에 처리 하다니....&#xD;
+&#xD;
+factory class만드는 것 까지는 생각해 보지는 않았습니다.&#xD;
+넘 복잡하니까요...&#xD;
+소스코드좀 올려주시죠... 강대협!...&#xD;
+&#xD;
+-신소협-&#xD;
+&#xD;
+황성규 wrote:&#xD;
+&gt; 저도 윤정씨랑 똑같은 생각을 했습니다.&#xD;
+&gt; &#xD;
+&gt; 강윤정 wrote:&#xD;
+&gt; &gt; 순간 머리에 스치는 생각은.. 이건 interface쓰면 해결되지 않나..&#xD;
+&gt; &gt; 하는 -_-;&#xD;
+&gt; &gt; &#xD;
+&gt; &gt; 1. 매년 바뀔 tax calculation class를 감싸는 interface 생성&#xD;
+&gt; &gt; 2. 1의 interface를 implement하는 당해년도 specific tax class 생성&#xD;
+&gt; &gt; 3. 특정 tax class를 생성하는 factory class 만들고, 그&#xD;
+&gt; &gt;  factory class는 외부 property file로부터 생성시킬 특정&#xD;
+&gt; &gt;   class name을 읽어들여서 tax object 만들어 return.&#xD;
+&gt; &gt; 4. caller class는 interface의 method getTax()만 call.&#xD;
+&gt; &gt; 5. 당해년도의 바뀐 tax class를 포함한 jar file로 production  site에 deploy.&#xD;
+&gt; &gt; &#xD;
+&gt; &gt; 물론 tax calculation의 상당부분이 동일하고&#xD;
+&gt; &gt; 차이점을 external화 할 수 있다면 XML을 써서 해도 좋겠고..&#xD;
+&gt; &gt; 공통계산 부분 class를 만들고&#xD;
+&gt; &gt; 당해년도 specific 부분을 떼어서 따로 class를 만든다면..&#xD;
+&gt; &gt; XML을 쓰지 않더라도 가능할 것 같은데요.&#xD;
+&gt; &gt; &#xD;
+&gt; &gt; &#xD;
+&gt; &gt; &#xD;
+&gt; &gt; &#xD;
+&gt; &gt; &#xD;
+&gt; &gt; &#xD;
+&gt; &gt; </content>
+    <postId>EF44367F-20A8-44E8-ADB7-9E81E41F7CAD</postId>
+    <pubDate>2001-10-16T00:00:00-04:00</pubDate>
+    <title>RE: I like your idea.</title>
+</post>

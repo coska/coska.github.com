@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>강윤정</author>
+    <comments/>
+    <content>I haven't look up your last comment before I&#xD;
+posted it up.. &#xD;
+We should thinkg about any possibility of&#xD;
+memory leak or delayed garbage collection due to&#xD;
+late reference clean up. I guess you might need to&#xD;
+run some professional analysis tool or put some&#xD;
+the current memory usage print-out on some several points to see how memory is used up and freed up in a given period of time.&#xD;
+&#xD;
+서정민 wrote:&#xD;
+&gt; 안녕하세요. 서정민씨아이디를 빌어 글을 올립니다. &#xD;
+&gt; &#xD;
+&gt; 저희회사에 한 application(JSP, servlet)이 tomcat4.0.3 위에 개발된게하나 있습니다. NT환경에서 돌아가고, Oracle을 쓰고 있습니다. 잘 돌아갑니다. 고객중의 하나가 AIX에서 웹서버를 운영해야하는 상황이라 AIX위에 tomcat설치하고 application 배포하여 쓰려하는데, performance 가 너무 좋지않아 이의 해결책을 찾고 있습니다. &#xD;
+&gt; &#xD;
+&gt; 혹시 이런환경에서 유사한 문제를 접하신분이나 우선 짚어봐야할곳이라고 생각나는 부분이 있으시면 조언(here or kimj@rogers.com &#xD;
+&gt; )바랍니다. &#xD;
+&gt; &#xD;
+&gt; java option으로 -Xrunprohprof의 결과로 어떻게 접근하는지 알고 계신분도 조언부탁드립니다. &#xD;
+&gt; 하나 이상한건 -verbose:gc 가 나타내는 메세지중에 memory allocation fail이 좀 보입니다. -Xms -Xmx로는 별 효과를 보지 못하고 있습니다. &#xD;
+&gt; &#xD;
+&gt; 김종윤 kimj@rogers.com </content>
+    <postId>61E4AD5E-2366-4238-A658-18A7CCA20719</postId>
+    <pubDate>2002-09-03T00:00:00-04:00</pubDate>
+    <title>RE: performance issue for java on AIX</title>
+</post>

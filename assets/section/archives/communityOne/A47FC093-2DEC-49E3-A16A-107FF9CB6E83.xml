@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김중수</author>
+    <comments>
+        <comment>
+            <author>이철건</author>
+            <date>2011-06-14T00:00:00-04:00</date>
+            <content>user agent text 라는 것이 브라우저마다 다르기도 하고, 또 &lt;a href="http://html.nhncorp.com/?mid=blog&amp;category=90&amp;document_srl=2154" target="_blank"&gt;얼마든지 바뀔 수 있는 값&lt;/a&gt;이라 어떤 정규화된 방식으로 값을 추출하는 것이 힘들어 보입니다. 그래서 &lt;a href="http://nerds.palmdrive.net/useragent/code.html" target="_blank"&gt;흔히들&lt;/a&gt; 임시방편으로 특정 문자열의 인덱스 값으로 데이터를 추출하는 방식을 취하고 있는 것 같습니다.&#xD;
+&lt;a href="http://useragentstring.com/pages/api.php" target="_blank"&gt;여기&lt;/a&gt; 보시면 문자열을 분석해서 되돌려주는 서비스를 하고 있는데요. 도움이 되었으면 좋겠습니다.</content>
+        </comment>
+    </comments>
+    <content>Agent text Parsing 하는 java Library있으신 분..&#xD;
+또는 Parsing해보신 분..&#xD;
+&#xD;
+Agent text string에서 Brower, Browser version, device, device model등의 정보를 extract해야 하는데..&#xD;
+Java에 적당한 library가 없어서요..&#xD;
+&#xD;
+Google의 library나..&#xD;
+UserAgentUtils로 정보를 parsing해 보신분..&#xD;
+example주시면...보답하겠습니다.&#xD;
+&#xD;
+그럼..</content>
+    <postId>A47FC093-2DEC-49E3-A16A-107FF9CB6E83</postId>
+    <pubDate>2011-06-13T00:00:00-04:00</pubDate>
+    <title>Agent String Parsing Method</title>
+</post>

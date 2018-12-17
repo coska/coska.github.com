@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>허현옥</author>
+    <comments>
+        <comment>
+            <author>최덕선</author>
+            <date>2010-08-24T00:00:00-04:00</date>
+            <content>그렇게 마음에 드셨다니 다행이네요. 그렇게 좋은 줄은 몰랐습니다. 회사에서 그냥 쓰고 있길레, 좋은 가 보다 했죠.</content>
+        </comment>
+    </comments>
+    <content>최덕선씨와 이계영씨가 Hudson을 추천하셔서 다운받아 설치해봤습니다..&#xD;
+&#xD;
+결과는.... O....M....G !!!!&#xD;
+&#xD;
+진짜 진짜 너무 잘만들었네요. war하나에 진짜 모든걸 담아놨네요. CruiseControl은 모든 Control이 xml로 이루어지고 빌드의 결과만 web-app에서 볼수가 있는데 Hudson은 시작부터 끝까지 전부다 web-app에서 해결이 되는군요.&#xD;
+&#xD;
+따로 메뉴얼이나 "how-to"를 보지도 않고 그냥 프로그램 Tomcat에서 돌리고 그냥 보이는데로 툭~툭~ 눌러보고 했더니... 제가 만들어놓은 Subversion 써버에서 소스를 전부 주욱 내려받더니 소스안에 있는 build.xml을 읽어서 빌드를 전부 다해주고 ant claspath에 파일 하나가 missing서 빌드가 Fail됬다고 gmail로 통보가 바로되고 그게 제 Blackberry까지 바로 오는군요...&#xD;
+&#xD;
+다운받아서 설치하고 전체 빌드까지 돌려보는데 1시간 남짓 걸렸습니다. Hudson의 기능에도 놀랐지만 만든사람들이 사용자들에 대한 배려도 정말 꼼꼼하게 잘 했다는 생각까지 들더군요... 왜 CruiseControl에서 Hudson으로 옮겨가는지 알겠더군요...&#xD;
+&#xD;
+최덕선씨 이계영씨 감사합니다. 정말 훌륭한 Tool을 추천해주셨네요 .^_____^</content>
+    <postId>E6E3F7CE-2D18-41F8-A538-1B8FF6C193AC</postId>
+    <pubDate>2010-08-20T00:00:00-04:00</pubDate>
+    <title>OMG!! Hudson is Awesome !!!</title>
+</post>

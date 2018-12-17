@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김민</author>
+    <comments/>
+    <content>Sun provide Hotspot mechanism for Java's performance as a default from JDK1.3. Hotspot has server and client side.&#xD;
+In JDK1.3, only client hotspot is included, but JDK 1.3.1 includes client and server hotspot VM.&#xD;
+Actually VM is same and only compiler is different. From following description, you can get an idea about it.&#xD;
+&#xD;
+&#xD;
+--- Java HotSpot Client Compiler&#xD;
+The client compiler is tuned for the performance profile of typical client applications. The Java HotSpot Client Compiler is a simple and fast two-phased compiler. In the first phase, a platform-independent front end constructs an intermediate representation (IR) from the bytecodes. In the second phase, the platform-specific background generates machine code from the IR. Emphasis is placed on extracting and preserving as much information as possible from the bytecode level (for example, locality information, initial control flow graph), which directly translates into reduced compilation time. Note that the client VM does only minimal inlining and no deoptimization.&#xD;
+&#xD;
+--- Java HotSpot Server Compiler&#xD;
+The server compiler is tuned for the performance profile of typical server applications. The Java HotSpot Server Compiler is a high-end fully-optimizing compiler. It uses an advanced static single assignment (SSA)-based IR for optimizations. The optimizer performs all the classic optimizations, including dead code elimination, loop invariant hoisting, common subexpression elimination, and constant propagation. It also features optimizations more specific to Java technology, such as null-check and range-check elimination. The register allocator is a global graph coloring allocator and makes full use of large register sets commonly found in RISC microprocessors. The compiler is highly portable, relying on a machine description file to describe all aspects of the target hardware. While the compiler is slow by JIT standards, it is still much faster than conventional optimizing compilers. And the improved code quality "pays back" the compile time by reducing execution times of compiled code. The server compiler performs full inlining and full deoptimization.&#xD;
+&#xD;
+They said, it's much better than JIT.&#xD;
+&#xD;
+Take care ..</content>
+    <postId>C426992F-A6E5-4125-A8CC-8DFCD1593A1B</postId>
+    <pubDate>2001-05-10T00:00:00-04:00</pubDate>
+    <title>Java Hotspot !!!</title>
+</post>

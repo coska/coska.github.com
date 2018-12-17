@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments/>
+    <content>아직 언제가 될지 시간이 정해지지는 않았지만, 그날이 오면 &#xD;
+다음 자료를 바탕으로 시작합니다. &#xD;
+이것은 Pizza shop을 위한 servlet code입니다. &#xD;
+이 원초적인 코드를 분석하면서 각종 디자인패턴을 적용하고 &#xD;
+하나의 framework으로 자라나는 과정을 따라가 볼 예정입니다. &#xD;
+지난번에 한 OOP 2nd round와 많은 부분 중복이 됩니다. 참고하시기 바랍니다. &#xD;
+&#xD;
+Scott New Home for Design Pattern classes - &#xD;
+&#xD;
+http://www3.sympatico.ca/scottlee/&#xD;
+--&gt; Java --&gt; Code repository --&gt; Pattern&#xD;
+or directly &#xD;
+http://www3.sympatico.ca/scottlee/java/pattern/&#xD;
+&#xD;
+find pattern.war for PizzaServlet for tomcat&#xD;
+and read http://www3.sympatico.ca/scottlee/java/pattern/&#xD;
+readme_pattern.txt&#xD;
+for installation and test run.&#xD;
+</content>
+    <postId>EEAC71D1-F224-475E-9BD4-3700790D8E8A</postId>
+    <pubDate>2001-07-26T00:00:00-04:00</pubDate>
+    <title>1차 수업용 코드 </title>
+</post>

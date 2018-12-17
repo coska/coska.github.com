@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>Brendan(김성욱)</author>
+    <comments/>
+    <content>제 경험으로는 Tree를 따로 제어하는 옵션은 사용하지 않았음에도 자동 출력되었습니다. 제가 건드린 옵션은 &#xD;
+&#xD;
+-private &#xD;
+-helpfile &#xD;
+-windowtitle &#xD;
+-doctitle &#xD;
+-use &#xD;
+-header &#xD;
+-footer &#xD;
+-author &#xD;
+-docencoding &#xD;
+&#xD;
+정도였구요...&#xD;
+혹 javadoc 1.3의 매뉴얼이 필요하심 메일주세요. 저는 두가지 pdf 파일을 가지고 있고요, Sun 사이트에서 다운로드 가능합니다. bran_kim@hotmail.com 입니다.&#xD;
+그럼... 즐.자. 하세요.</content>
+    <postId>E15BE3D7-4693-406C-8EEC-27AE29FE0E11</postId>
+    <pubDate>2002-03-13T00:00:00-05:00</pubDate>
+    <title>RE: Java documentation</title>
+</post>

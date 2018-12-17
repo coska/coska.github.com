@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김동원</author>
+    <comments>
+        <comment>
+            <author>Yuni</author>
+            <date>2010-07-29T00:00:00-04:00</date>
+            <content>class: a programmer-defined data type</content>
+        </comment>
+        <comment>
+            <author>Yuni</author>
+            <date>2010-07-29T00:00:00-04:00</date>
+            <content>encapsulation: the hiding of implementation details</content>
+        </comment>
+        <comment>
+            <author>Yuni</author>
+            <date>2010-07-29T00:00:00-04:00</date>
+            <content>polymorphism: selecting a method among several methods that have the same name</content>
+        </comment>
+        <comment>
+            <author>Yuni</author>
+            <date>2010-07-29T00:00:00-04:00</date>
+            <content>on the basis of the actual types of the implicit parameters</content>
+        </comment>
+        <comment>
+            <author>Yuni</author>
+            <date>2010-07-29T00:00:00-04:00</date>
+            <content>abstract classesdiffer from interfaces in an important way -</content>
+        </comment>
+        <comment>
+            <author>Yuni</author>
+            <date>2010-07-29T00:00:00-04:00</date>
+            <content>they can have instance variable, and they can have some concrete methods</content>
+        </comment>
+        <comment>
+            <author>Yuni</author>
+            <date>2010-07-29T00:00:00-04:00</date>
+            <content>OOD: Object-oriented design (맞나요?)</content>
+        </comment>
+        <comment>
+            <author>김동원</author>
+            <date>2010-07-30T00:00:00-04:00</date>
+            <content>The interviewer also asked when we need polymorphism and what benefits we get from polymorphism.</content>
+        </comment>
+    </comments>
+    <content>웹 프로그램 개발자 면접시 받은 질문입니다. 기본적인 질문인 것 같은 데 관련 용어가 기억이 안나고 정확하게 알고 있지 못한 부분도 있고 해서 면접결과가 잘 나올지 모르겠습니다. 다른 분들께 도움이 되기를 바랍니다. 질문에 답을 아시는 분들은 한손 거들어 주십시요.&lt;br&gt;&lt;br&gt;Web applications:&lt;br&gt;1. What are the benefits of MVC application model for web applications?&lt;br&gt;2. What are three methods for maintain state in a web application?&lt;br&gt;3. What are three potential bottle necks in web application performance?&lt;br&gt;4. Name at least 5 web application frameworks.&lt;br&gt;5. Outline 4 pros and 4 cons for using a web application framework.&lt;br&gt;6. Provide three general hurdles encountered in scaling out a web application.&lt;br&gt;&lt;br&gt;Object Oriented:&lt;br&gt;1. What is object oriented programming and how does it differ from other paradigms?&lt;br&gt;2. What is a class?&lt;br&gt;3. What is a design pattern?&lt;br&gt;4. What is OOD?&lt;br&gt;5. What is polymorphism?&lt;br&gt;6. What is encapsulation?&lt;br&gt;7. What is the difference between an Interface and an Abstract class?</content>
+    <postId>56307DFE-C3A2-4725-ABC9-6D521A0B498E</postId>
+    <pubDate>2010-07-28T00:00:00-04:00</pubDate>
+    <title>웹개발자 면접시 받은 질문입니다.</title>
+</post>

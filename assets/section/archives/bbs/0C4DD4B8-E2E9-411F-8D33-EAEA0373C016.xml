@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>관리자</author>
+    <comments>
+        <comment>
+            <author>Hye Sung</author>
+            <date>2002-03-22T00:00:00-05:00</date>
+            <content>(1) a.수강료는 $50,$60 (3)b.주말 (4)small but practical project</content>
+        </comment>
+        <comment>
+            <author>김세환</author>
+            <date>2002-03-22T00:00:00-05:00</date>
+            <content>(1) $50/$60 (3) anyday (4) JAVA, WEBSPERE, MQ, CORBA</content>
+        </comment>
+        <comment>
+            <author>이진경</author>
+            <date>2002-03-22T00:00:00-05:00</date>
+            <content>(1)$50,$60 (3)no matter(4)photoshop, flash^^</content>
+        </comment>
+        <comment>
+            <author>박권수</author>
+            <date>2002-03-23T00:00:00-05:00</date>
+            <content>(1) $50/$60 (3) weekday (기타) 과정의 분리필요 (SQL*Plus intermediate only, PL*SQL only, etc.)</content>
+        </comment>
+        <comment>
+            <author>관리자</author>
+            <date>2002-03-23T00:00:00-05:00</date>
+            <content>신덕현씨 답변 이동 (1) 적당하다 (3) 주말</content>
+        </comment>
+        <comment>
+            <author>김승엽</author>
+            <date>2002-03-24T00:00:00-05:00</date>
+            <content>(1) b, (3) a, (4) Java, MQ series, PCML</content>
+        </comment>
+        <comment>
+            <author>황선용</author>
+            <date>2002-03-24T00:00:00-05:00</date>
+            <content>(1) $50/$60 (3) 주말 (4) JAVA, WebSphere</content>
+        </comment>
+        <comment>
+            <author>이 승 열</author>
+            <date>2002-03-24T00:00:00-05:00</date>
+            <content>(1)$40/$50(3)주중(4)VB,Java</content>
+        </comment>
+        <comment>
+            <author>홍대의</author>
+            <date>2002-03-24T00:00:00-05:00</date>
+            <content>1:40,50 2:주말 3: Java, MQ, WebSpjere</content>
+        </comment>
+        <comment>
+            <author>배성은</author>
+            <date>2002-03-24T00:00:00-05:00</date>
+            <content>(1)$40/$50 (3)주말(4)COM, XML, JAVA</content>
+        </comment>
+        <comment>
+            <author>김성삼</author>
+            <date>2002-03-25T00:00:00-05:00</date>
+            <content>(1)b (2)주말 (3)Java,JSP</content>
+        </comment>
+        <comment>
+            <author>이정우</author>
+            <date>2002-03-26T00:00:00-05:00</date>
+            <content>(1)$50/$60(3)anyday(4)Java,JSP,CORBA</content>
+        </comment>
+        <comment>
+            <author>김준영</author>
+            <date>2002-03-26T00:00:00-05:00</date>
+            <content>1) b 2)b 3) Team Project</content>
+        </comment>
+        <comment>
+            <author>한민정</author>
+            <date>2002-03-28T00:00:00-05:00</date>
+            <content>1)b 3)b 4)photoshop</content>
+        </comment>
+        <comment>
+            <author>EunJeoung Kang</author>
+            <date>2002-03-28T00:00:00-05:00</date>
+            <content>(1) b (2) n/a (3) b (4) XML</content>
+        </comment>
+        <comment>
+            <author>rainman</author>
+            <date>2002-03-28T00:00:00-05:00</date>
+            <content>(1)50/50(2)Basic concept for ORACLE concerned tools (TOAD, DEV2000, DES2000, J2EE) (3)weekday (4)N/A</content>
+        </comment>
+        <comment>
+            <author>jinsilboo</author>
+            <date>2002-03-31T00:00:00-05:00</date>
+            <content>(1)b (3)weekend (4)Visual Basic, ASP</content>
+        </comment>
+        <comment>
+            <author>박중열</author>
+            <date>2002-03-31T00:00:00-05:00</date>
+            <content>1) 회비 납부자는 더싸게. 2)주말 3) Flash</content>
+        </comment>
+    </comments>
+    <content>COSKA에서는 올해 회원간의 교육을 활성화하기 위한 첫단계로 다음과 같은 교육을 계획하고 있습니다. 이에 대한 회원 여러분들의 의견을 수집하고자 하오니 바쁘신 중에도 [설문내용]에 대한 답을 주시면 감사하겠습니다.&lt;br&gt;----------------------------------------------------------------------&lt;br&gt;[교육내용] Oracle Database 프로그래밍 기초 (실습 포함)&lt;br&gt;&lt;br&gt;▲ SQL*PLUS기본과정 (3시간)&lt;br&gt;&lt;br&gt;기본적인 SQL 문장 작성&lt;br&gt;데이터 제한과 정렬&lt;br&gt;단일행 함수&lt;br&gt;다중테이블로부터 데이터 디스플레이&lt;br&gt;그룹 함수를 사용한 데이터 집계&lt;br&gt;서브쿼리&lt;br&gt;다중 열 서브쿼리&lt;br&gt;데이터 조작&lt;br&gt;트랜잭션&lt;br&gt;테이블 생성과 관리&lt;br&gt;&lt;br&gt;▲ SQL*PLUS중급과정(2시간)&lt;br&gt;&lt;br&gt;뷰 생성&lt;br&gt;시퀀스&lt;br&gt;인덱스&lt;br&gt;사용자 접근 제어(객체 권한을 GRANT, REVOKE)&lt;br&gt;&lt;br&gt;▲&amp;nbsp;&amp;nbsp;PL*SQL기본과정 (4시간)&lt;br&gt;&lt;br&gt;PL/SQL 환경&lt;br&gt;PL/SQL 변수 선언&lt;br&gt;PL/SQL에서의 SELECT 문장&lt;br&gt;IF 문&lt;br&gt;PL/SQL 블록 구문과 지침&lt;br&gt;커서(Cursor)&lt;br&gt;PL/SQL 레코드&lt;br&gt;----------------------------------------------------------------------&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;[설문내용]&lt;br&gt;&lt;br&gt;(1) 위 강의(9시간) 수강료에 대해 회비납부자는 $60, 미납자는 $70 입니다.&lt;br&gt;a. 비싸다. 수강료는 _______&lt;br&gt;b. 적당하다&lt;br&gt;c. 싸다. 수강료는 _______&lt;br&gt;&lt;br&gt;(2) 위 강의 내용에 추가되어야 할 항목 있다면?&lt;br&gt;&lt;br&gt;(3) 적당한 강의 시간대는?&lt;br&gt;a. 주중이 좋다&lt;br&gt;b. 주말이 좋다 &lt;br&gt;&lt;br&gt;(4) 다른 주제의 강의를 한다면 어떤 것이 좋은가?&lt;br&gt;----------------------------------------------------------------------&lt;br&gt;[설문답변 안내]&lt;br&gt;위 설문의 답변은 아래에 있는 \\&amp;quot;Comment\\&amp;quot;란을 이용해 주시기 바랍니다.&lt;br&gt;(설문의 번호와 답변만을 box에 입력하시고, Comment button을 클릭하시면 됩니다.)&lt;br&gt;답변쓰기를 이용할 경우, 이 article이 전체목록을 너무 많이 차지할까 해서입니다. &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 감사합니다.&lt;br&gt;======================================================================&lt;br&gt;</content>
+    <postId>0C4DD4B8-E2E9-411F-8D33-EAEA0373C016</postId>
+    <pubDate>2002-03-20T00:00:00-05:00</pubDate>
+    <title>Oracle DB 교육 의견 수집</title>
+</post>

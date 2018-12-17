@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>Bran</author>
+    <comments/>
+    <content>Yes, you are right.&#xD;
+&#xD;
+If a system has all applications, application server, webserver and moreover DB server in only one machine we need not (or must not) use EJBs at all.&#xD;
+Even if the db server resides apart from the application server, it is the same.&#xD;
+&#xD;
+At least we have applications in one machine, we surely will not use EJBs. This is generally applied to (small) companies. I agree with u wholly in such a case.&#xD;
+&#xD;
+But think about the fact. Why do many companies try to import EJBs technology? Why are they interested in the concept of it? I am sure they are not stupid. I mean a perfect concept or idiom does not exist and at that point of view, EJB is not a perfect solution that will live forever.&#xD;
+&#xD;
+For a example, think about a union of small companies. Of course a small company's sole system never needed EJB but now one big company needs another system. Do we have to develop all the system that will be needed? (Logical system merged means 'Distributed application system')&#xD;
+&#xD;
+So I am convinced that we will need not only EJB but also 'NEW THING' when we face such a case. I emphasize that EJB is not a new thing. It is originated from 'distributed processing, transaction, security'.&#xD;
+&#xD;
+I want us to talk about it more in detail later. Even if negative opinion will be okay, 'cause this is not for a decision of whether we all should use or not EJBs.&#xD;
+&#xD;
+Thanks.</content>
+    <postId>5B75C006-F003-465E-AC18-002C9870B5B6</postId>
+    <pubDate>2001-04-09T00:00:00-04:00</pubDate>
+    <title>What if the exception?</title>
+</post>

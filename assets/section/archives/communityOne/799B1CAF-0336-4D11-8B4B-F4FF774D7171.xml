@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>최덕선</author>
+    <comments/>
+    <content> 데이타 베이스에 Unicode(nvarchar)로 정의된 필드가 있는데,&#xD;
+&#xD;
+search 랑 display 가 잘 안돼네요.(JDBC)&#xD;
+&#xD;
+ 혹시 경험 있으신 분 한 수 부탁드립니다.&#xD;
+</content>
+    <postId>799B1CAF-0336-4D11-8B4B-F4FF774D7171</postId>
+    <pubDate>2004-08-27T00:00:00-04:00</pubDate>
+    <title>Unicode display/search in SQL Server</title>
+</post>

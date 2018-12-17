@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>강동욱</author>
+    <comments/>
+    <content>요즘 가장 뜨는 new technology하면 UDDI, XML 또는&amp;nbsp;&amp;nbsp;Web Service&lt;br&gt;등이 그중 일부 이죠.&lt;br&gt;&lt;br&gt;이것들이 무언가 하고 좀 살펴 보았는데..&lt;br&gt;&lt;br&gt;&amp;#49761;게 얘기 해서 &lt;br&gt;전에는 http(web protocol)를 통해서 web URL과 거기에 따르는 parameter를 web server에 request하면&amp;nbsp;&amp;nbsp;server가 response로 지정된 &lt;br&gt;html page나 db에서 가져온 data에 business logic을 적용 한후 순간적으로 &lt;br&gt;만들어진 html 형식의 page를 response합니다. 이것이 지금 까지 우리가 &lt;br&gt;웹에 접속 하면 서버와 서로 통신 하는 방식이죠.&lt;br&gt;&lt;br&gt;그런데 이것들과 request는 같은데 html page를 만들어서 &lt;br&gt;response하는게 아니고 XML fille을 return 합니다.&lt;br&gt;그러면 xml을 받아서 무엇에 씁니까?&lt;br&gt;화면에 띄워도 무슨 말인지 모르죠?&lt;br&gt;&lt;br&gt;그래서 일반 사용자가 쓰는게 아니고,&lt;br&gt;일반 사용자에게 서비스하는 다른 application(web application 또는 일반 utility 등)이 사용 하죠. 그래서 받은 xml을 받아서 알맞은 모양으로 바구어서&lt;br&gt;다시 일반 사용자에게 서비스 하죠.&lt;br&gt;&lt;br&gt;따라서 서비스 하는 회사를 위한 웹 서비스라 보면 되죠.&lt;br&gt;&lt;br&gt;예를 들면 환율 같은것을 서비스 하고 싶으면&lt;br&gt;환율 서비스를 하는 웹 사이트 접속 해서 요구 하면 xml로 리턴 되는데&lt;br&gt;그것을 받아서 자기네들 웹에서 서비스 하는것 처럼 할수 있어서 &lt;br&gt;직접 그 데이타를 구하기 위한 투자를 줄일수 있죠.&lt;br&gt;&lt;br&gt;그래서 그런 서비스를 어디서 어떻게 하는지,&lt;br&gt;우리도 그런 서비스를 한다면 다른 회사 에게 어떻게 알려야 할지 ,&lt;br&gt;이런것들에 대한 표준화 시켜서 등록하고 검색 할수 있도록 한&lt;br&gt;그런조직적인 활동과 사이트 를 위해 UDDI가 생긴 것입니다.&lt;br&gt;&lt;br&gt;오늘은 이만&lt;br&gt;&lt;br&gt;</content>
+    <postId>E060B8DD-2BB7-40A0-914E-D28F760F26BE</postId>
+    <pubDate>2001-12-30T00:00:00-05:00</pubDate>
+    <title>[i] UDDI and Web Service</title>
+</post>

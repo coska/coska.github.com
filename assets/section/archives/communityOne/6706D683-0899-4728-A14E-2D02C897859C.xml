@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>황성규</author>
+    <comments/>
+    <content>Schedule/Event를 등록하실때 Access를 선택하셔야 하는데&#xD;
+private, public, valued members only 이렇게 세가지 option이 있습니다. (sounds like private, protected and public huh)&#xD;
+&#xD;
+private는 본인만 볼수있는 event이고 검정색으로 나타납니다.&#xD;
+public은 모두다 볼수있는 event이고 파란색링크로 나타납니다.&#xD;
+그리고 Valued member에게만 있는 option이 바로 valued members only입니다. 이 option을 선택하면 valued member들에게만 나타나고 빨간색 링크입니다.&#xD;
+&#xD;
+앞으로 자바세미나, 야유회, 기타 행사등은 valued members only 기능을 이용해 주세요.&#xD;
+&#xD;
+</content>
+    <postId>6706D683-0899-4728-A14E-2D02C897859C</postId>
+    <pubDate>2001-04-10T00:00:00-04:00</pubDate>
+    <title>우리들만의 스케줄관리가 가능해 졌습니다.</title>
+</post>

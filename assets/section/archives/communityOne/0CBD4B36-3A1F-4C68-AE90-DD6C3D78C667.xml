@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>Site Admin</author>
+    <comments/>
+    <content>이제 커뮤니티원을 통해 개인 스케줄관리와 그룹 스케줄관리가 가능해 졌습니다. &#xD;
+&#xD;
+홈페이지에 상단에 Event Calendar를 보실수 있습니다.&#xD;
+그리고 메뉴바에 Schedule/Event메뉴가 새로 생겼습니다.&#xD;
+회원이면 누구나 자신의 Schedule/Event를 등록하고 관리할수 있습니다. 등록된 Schedule/Event는 홈페이지의 달력에 항상 나타납니다.&#xD;
+&#xD;
+Schedule/Event가 Private이면 자신의 달력에만 나타나고 Public이면 모든 사람의 달력에 나타납니다. 세미나 일정, 야유회 아니면 기타 모임등 그룹일정관리가 가능해 졌습니다. &#xD;
+&#xD;
+그룹일정은 파란색링크리고 개인일정은 검정색링크입니다.&#xD;
+&#xD;
+&#xD;
+</content>
+    <postId>0CBD4B36-3A1F-4C68-AE90-DD6C3D78C667</postId>
+    <pubDate>2001-03-13T00:00:00-05:00</pubDate>
+    <title>Event Calendar서비스를 오픈합니다.</title>
+</post>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>dslee28</author>
+    <comments>
+        <comment>
+            <author>dslee28</author>
+            <date>2011-10-12T00:00:00-04:00</date>
+            <content>참석합니다</content>
+        </comment>
+        <comment>
+            <author>robin1116</author>
+            <date>2011-10-12T00:00:00-04:00</date>
+            <content>역쉬 대단하십니다. 기대 만땅입니다. 참석하도록 최선을...^^</content>
+        </comment>
+        <comment>
+            <author>seangogo</author>
+            <date>2011-10-16T00:00:00-04:00</date>
+            <content>참석합니다. </content>
+        </comment>
+        <comment>
+            <author>yuni</author>
+            <date>2011-10-16T00:00:00-04:00</date>
+            <content>참석합니다.</content>
+        </comment>
+        <comment>
+            <author>mannerh</author>
+            <date>2011-10-17T00:00:00-04:00</date>
+            <content>저는 한 개만 해도 몸이 안따라 주던데 .. 5개 씩이나 하시다니 ... 대단하십니다. </content>
+        </comment>
+        <comment>
+            <author>cavecafe</author>
+            <date>2011-10-23T00:00:00-04:00</date>
+            <content>참여해 주신 모든 분들께 감사드립니다. 다시 기회가 주어지면 더 많은 정보를 공유하도록 하겠습니다.</content>
+        </comment>
+    </comments>
+    <content>&lt;p&gt;&lt;span style="font-family: Tahoma, Verdana, Arial, sans-serif; line-height: 17px; font-size: 13px; color: #2a2a2a;"&gt;&lt;strong style="line-height: 17px; font-weight: bold;"&gt;&lt;span class="ecx" style="line-height: normal; font-size: medium;"&gt;Mobile App Hello World A LA CARTE&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;SPEAKER :&amp;nbsp;&lt;span style="font-family: Tahoma, Verdana, Arial, sans-serif; font-size: 13px; color: #2a2a2a; line-height: 17px;"&gt;김형태&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #2a2a2a; font-family: Tahoma, Verdana, Arial, sans-serif; font-size: small;"&gt;&lt;span style="font-size: 13px; line-height: 17px;"&gt;PROLOG:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #2a2a2a; font-family: Tahoma, Verdana, Arial, sans-serif; font-size: small;"&gt;&lt;span style="font-size: 13px; line-height: 17px;"&gt;코스카에서는&amp;nbsp;&lt;span style="line-height: 17px;" lang="EN-US"&gt;2010&lt;/span&gt;년부터&amp;nbsp;&lt;span style="line-height: 17px;" lang="EN-US"&gt;&amp;lsquo;&lt;/span&gt;모바일&lt;span style="line-height: 17px;" lang="EN-US"&gt;&amp;rsquo;&amp;nbsp;&lt;/span&gt;이라는 공통된 주제로 다양한 세미나와 팀 프로젝트를 진행한 바 있는데요&lt;span style="line-height: 17px;" lang="EN-US"&gt;,&lt;/span&gt;이번에는 다양한 방법으로 가장 기본적인 프로그램&amp;nbsp;&lt;span style="line-height: 17px;" lang="EN-US"&gt;(Hello World&amp;nbsp;&lt;/span&gt;종류&lt;span style="line-height: 17px;" lang="EN-US"&gt;)&lt;/span&gt;을 만들어 보면서 각종 모바일&amp;nbsp;&lt;span style="line-height: 17px;" lang="EN-US"&gt;App&amp;nbsp;&lt;/span&gt;개발환경에 대해 정리해 보는 시간이 될 것 같습니다&lt;span style="line-height: 17px;" lang="EN-US"&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #2a2a2a; font-family: Tahoma, Verdana, Arial, sans-serif; font-size: small;"&gt;&lt;span style="font-size: 13px; line-height: 17px;"&gt;주제:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #2a2a2a; font-family: Tahoma, Verdana, Arial, sans-serif; font-size: small;"&gt;&lt;span style="font-size: 13px; line-height: 17px;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="ecxMsoListParagraph" style="line-height: 17px; margin-top: 0px; margin-right: 0px; margin-bottom: 1.35em; margin-left: 38pt; text-indent: -18pt;"&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;1.&lt;span style="line-height: normal; font: normal normal normal 7pt/normal 'Times New Roman';"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;Android&lt;/span&gt;&lt;/p&gt;
+&lt;p class="ecxMsoListParagraph" style="line-height: 17px; margin-top: 0px; margin-right: 0px; margin-bottom: 1.35em; margin-left: 60pt; text-indent: -20pt;"&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;A.&lt;span style="line-height: normal; font: normal normal normal 7pt/normal 'Times New Roman';"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;Android SDK&lt;/span&gt;&lt;/p&gt;
+&lt;p class="ecxMsoListParagraph" style="line-height: 17px; margin-top: 0px; margin-right: 0px; margin-bottom: 1.35em; margin-left: 60pt; text-indent: -20pt;"&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;B.&lt;span style="line-height: normal; font: normal normal normal 7pt/normal 'Times New Roman';"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;Using JNI&lt;/span&gt;&lt;/p&gt;
+&lt;p class="ecxMsoListParagraph" style="line-height: 17px; margin-top: 0px; margin-right: 0px; margin-bottom: 1.35em; margin-left: 60pt; text-indent: -20pt;"&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;C.&lt;span style="line-height: normal; font: normal normal normal 7pt/normal 'Times New Roman';"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;Mono for Android&lt;/span&gt;&lt;/p&gt;
+&lt;p class="ecxMsoListParagraph" style="line-height: 17px; margin-top: 0px; margin-right: 0px; margin-bottom: 1.35em; margin-left: 60pt; text-indent: -20pt;"&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;D.&lt;span style="line-height: normal; font: normal normal normal 7pt/normal 'Times New Roman';"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;Using PhoneGAP&lt;/span&gt;&lt;/p&gt;
+&lt;p class="ecxMsoListParagraph" style="line-height: 17px; margin-top: 0px; margin-right: 0px; margin-bottom: 1.35em; margin-left: 38pt; text-indent: -18pt;"&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;2.&lt;span style="line-height: normal; font: normal normal normal 7pt/normal 'Times New Roman';"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;iPhone&lt;/span&gt;&lt;/p&gt;
+&lt;p class="ecxMsoListParagraph" style="line-height: 17px; margin-top: 0px; margin-right: 0px; margin-bottom: 1.35em; margin-left: 60pt; text-indent: -20pt;"&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;A.&lt;span style="line-height: normal; font: normal normal normal 7pt/normal 'Times New Roman';"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;iPhone SDK&lt;/span&gt;&lt;/p&gt;
+&lt;p class="ecxMsoListParagraph" style="line-height: 17px; margin-top: 0px; margin-right: 0px; margin-bottom: 1.35em; margin-left: 60pt; text-indent: -20pt;"&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;B.&lt;span style="line-height: normal; font: normal normal normal 7pt/normal 'Times New Roman';"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;Mono for iPhone&lt;/span&gt;&lt;/p&gt;
+&lt;p class="ecxMsoListParagraph" style="line-height: 17px; margin-top: 0px; margin-right: 0px; margin-bottom: 1.35em; margin-left: 38pt; text-indent: -18pt;"&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;3.&lt;span style="line-height: normal; font: normal normal normal 7pt/normal 'Times New Roman';"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;Windows Phone 7 Mango&lt;/span&gt;&lt;/p&gt;
+&lt;p class="ecxMsoListParagraph" style="line-height: 17px; margin-top: 0px; margin-right: 0px; margin-bottom: 1.35em; margin-left: 60pt; text-indent: -20pt;"&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;A.&lt;span style="line-height: normal; font: normal normal normal 7pt/normal 'Times New Roman';"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;Silverlight &amp;amp; XAML&lt;/span&gt;&lt;/p&gt;
+&lt;p class="ecxMsoListParagraph" style="line-height: 17px; margin-top: 0px; margin-right: 0px; margin-bottom: 1.35em; margin-left: 60pt; text-indent: -20pt;"&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;B.&lt;span style="line-height: normal; font: normal normal normal 7pt/normal 'Times New Roman';"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;Using PhoneGAP&lt;/span&gt;&lt;/p&gt;
+&lt;p class="ecxMsoListParagraph" style="line-height: 17px; margin-top: 0px; margin-right: 0px; margin-bottom: 1.35em; margin-left: 38pt; text-indent: -18pt;"&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;4.&lt;span style="line-height: normal; font: normal normal normal 7pt/normal 'Times New Roman';"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;Using Flash Builder 4.5&lt;/span&gt;&lt;/p&gt;
+&lt;p class="ecxMsoListParagraph" style="line-height: 17px; margin-top: 0px; margin-right: 0px; margin-bottom: 1.35em; margin-left: 38pt; text-indent: -18pt;"&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;5.&lt;span style="line-height: normal; font: normal normal normal 7pt/normal 'Times New Roman';"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;Using HTML5 + Java script&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="ecxMsoListParagraph" style="line-height: 17px; margin-top: 0px; margin-right: 0px; margin-bottom: 1.35em; margin-left: 38pt; text-indent: -18pt;"&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;바쁘신대도 자진해서 세미나를 준비해 주실 김형태 전회장님께 감사드리며 짧은 공고이지만 참석하실 분들은 댓글을 부탁드립니다.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="ecxMsoListParagraph" style="line-height: 17px; margin-top: 0px; margin-right: 0px; margin-bottom: 1.35em; margin-left: 38pt; text-indent: -18pt;"&gt;&lt;span style="line-height: 17px;" lang="EN-US"&gt;주위에 연락되시는 분들께도 의사 타진 부탁드립니다.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="ecxMsoListParagraph" style="line-height: 17px; margin-top: 0px; margin-right: 0px; margin-bottom: 1.35em; margin-left: 38pt; text-indent: -18pt;"&gt;만약을 위해서 프로젝터 갖고 계신 분 준비 해 주시면 감사하겠습니다.&lt;/p&gt;
+&lt;p class="ecxMsoListParagraph" style="line-height: 17px; margin-top: 0px; margin-right: 0px; margin-bottom: 1.35em; margin-left: 38pt; text-indent: -18pt;"&gt;&amp;nbsp;&lt;/p&gt;</content>
+    <postId>7928056E-6CC0-4771-B927-4D96DD421792</postId>
+    <pubDate>2011-10-12T00:00:00-04:00</pubDate>
+    <title>코스카 모바일 세미나 - OCT. 20TH, 2011 : 7PM @ GALLERIA SEMINAR ROOM</title>
+</post>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>고상호</author>
+    <comments>
+        <comment>
+            <author>고상호</author>
+            <date>2004-02-06T00:00:00-05:00</date>
+            <content>참고로, Tomcat을 매뉴얼로 stratup하고 나서 실행하면 잘됩니다. 단지 Eclipse에서 Run Server 할때 에러가 발생합니다. 그리고 Eclipse에 Lomboz도 plugin되어 있습니다.</content>
+        </comment>
+    </comments>
+    <content>Anybody give an answer?&#xD;
+I tested Eclipse v2.1.2 &amp; Tomcat v4.1.29 with EclipseTomcat plugin.&#xD;
+But I couldn’t run the server after created a project. It happened the followed error.&#xD;
+I attached the error message just for reference.&#xD;
+It seems setting problem such as classpath. What am I wrong?&#xD;
+Could you me a hint or an answer?&#xD;
+&#xD;
+------------------------------------------------------&#xD;
+&#xD;
+2004. 2. 6. 오전 10:40:0 org.apache.coyote.http11.Http11Protocol init&#xD;
+정보: Initializing Coyote HTTP/1.1 on port 8080&#xD;
+Exception during startup processing&#xD;
+java.lang.reflect.InvocationTargetException&#xD;
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xD;
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)&#xD;
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)&#xD;
+	at java.lang.reflect.Method.invoke(Method.java:324)&#xD;
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)&#xD;
+Caused by: java.lang.NoClassDefFoundError: javax/management/MBeanRegistration&#xD;
+	at java.lang.ClassLoader.findBootstrapClass(Native Method)&#xD;
+	at java.lang.ClassLoader.findBootstrapClass0(ClassLoader.java:723)&#xD;
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:294)&#xD;
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:292)&#xD;
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:265)&#xD;
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:255)&#xD;
+	at org.apache.catalina.loader.StandardClassLoader.loadClass(StandardClassLoader.java:941)&#xD;
+	at org.apache.catalina.loader.StandardClassLoader.loadClass(StandardClassLoader.java:857)&#xD;
+	at org.apache.catalina.loader.StandardClassLoader.loadClass(StandardClassLoader.java:941)&#xD;
+	at org.apache.catalina.loader.StandardClassLoader.loadClass(StandardClassLoader.java:857)&#xD;
+	at java.lang.ClassLoader.loadClassInternal(ClassLoader.java:315)&#xD;
+	at java.lang.ClassLoader.defineClass0(Native Method)&#xD;
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:502)&#xD;
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:123)&#xD;
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:250)&#xD;
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:54)&#xD;
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:193)&#xD;
+	at java.security.AccessController.doPrivileged(Native Method)&#xD;
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:186)&#xD;
+	at org.apache.catalina.loader.StandardClassLoader.findClass(StandardClassLoader.java:621)&#xD;
+	at org.apache.catalina.loader.StandardClassLoader.loadClass(StandardClassLoader.java:958)&#xD;
+	at org.apache.catalina.loader.StandardClassLoader.loadClass(StandardClassLoader.java:857)&#xD;
+	at java.lang.ClassLoader.loadClassInternal(ClassLoader.java:315)&#xD;
+	at java.lang.Class.forName0(Native Method)&#xD;
+	at java.lang.Class.forName(Class.java:140)&#xD;
+	at org.apache.coyote.tomcat4.CoyoteConnector.initialize(CoyoteConnector.java:1097)&#xD;
+	at org.apache.catalina.core.StandardService.initialize(StandardService.java:579)&#xD;
+	at org.apache.catalina.core.StandardServer.initialize(StandardServer.java:2246)&#xD;
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:511)&#xD;
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)&#xD;
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)&#xD;
+	... 5 more&#xD;
+</content>
+    <postId>98853B1C-4894-4F44-9CBF-2FA94BA9A2E0</postId>
+    <pubDate>2004-02-06T00:00:00-05:00</pubDate>
+    <title>Eclipse &amp; Tomcat Plugin problem</title>
+</post>

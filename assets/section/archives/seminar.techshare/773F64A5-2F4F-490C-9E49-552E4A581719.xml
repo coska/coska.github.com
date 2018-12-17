@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>구게시판</author>
+    <comments/>
+    <content>Hello.&lt;br&gt;I want to delete Linux partitions from my hard drive.&lt;br&gt;Of course I tried dos fdisk and linux fdisk for it.&lt;br&gt;Unfortunately I can`t.&lt;br&gt;If you know how to do that, Please let me know it.&lt;br&gt;On linux I command ` fdisk -d`, but it is not available command.&lt;br&gt;I heard from many linux partitions could be deleted by linux fdisk.&lt;br&gt;If you know this as well, please answer me.&lt;br&gt;Thank you for reading.&lt;br&gt;</content>
+    <postId>773F64A5-2F4F-490C-9E49-552E4A581719</postId>
+    <pubDate>2001-08-31T00:00:00-04:00</pubDate>
+    <title>[2000/4/8] Linux partitions??? (James)</title>
+</post>

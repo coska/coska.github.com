@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>심용해</author>
+    <comments>
+        <comment>
+            <author>박재홍</author>
+            <date>2008-02-22T00:00:00-05:00</date>
+            <content>이 푸른하늘 만들기는 조금 어려운걸...  이런걸 심용해씨는 어찌 다 알았노?</content>
+        </comment>
+        <comment>
+            <author>심용해</author>
+            <date>2008-02-24T00:00:00-05:00</date>
+            <content>저도 이곳 저곳 떠돌아 다니면서 배우는 거죠..배운걸 복습하면서 문서화 하는거죠..크크...^^</content>
+        </comment>
+    </comments>
+    <content>사진을 찍는날에 구름이 많아 푸른하늘을 못 찍었을경우 합성하는법을 배워봅시다.&lt;br&gt;&lt;br&gt;우선 원본의 사진과 푸른하늘이 있는 사진 두개를 포토샵에서 불러 옵니다. &lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/trn01.jpg"&gt;&lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/trn02.jpg"&gt;&lt;br&gt;&lt;br&gt;푸른하늘 사진 전체를 복사하여 원본의 사진에 붙여 넣습니다. &lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/trn03.jpg"&gt;&lt;br&gt;&lt;br&gt;그러면 원본의 사진 layer 정보(오른쪽 아래)는 그림과 같이 될것입니다. &lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/trn04.jpg"&gt;&lt;br&gt;&lt;br&gt;그럼 여기서 중요합니다. layer 정보 에서 "Normal" 이라고 되어 있는 옵션을 "Darken"으로 수정합니다. 그럼 사진이 아래처럼 변하게 될 것입니다.&lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/trn05.jpg"&gt;&lt;br&gt;&lt;br&gt;layer 정보에서 아래 빨간색 동그라미의 아이콘을 이용해서 mask 를 하나 추가 합니다. &lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/trn06.jpg"&gt;&lt;br&gt;&lt;br&gt;왼쪽 메뉴에서 Gradient tool 을 선택합니다. &lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/trn07.jpg"&gt;&lt;br&gt;&lt;br&gt;선택한 gradient tool의 옵션을 두번째것으로 선택합니다. 그리고 opacity는 100% 로 해줍니다.&lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/trn08.jpg"&gt;&lt;br&gt;&lt;br&gt;그다음 중요한것!!! 색상을 검정으로 해야 합니다 .&lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/trn09.jpg"&gt;&lt;br&gt;&lt;br&gt;그후 shift 키를 누르고 마우스를 아래에서 위로 두 사진이 겹치는 부분까지 올려줍니다. 저의 경우 중간정도로 하겠습니다. 한 두세번 정도 좌측, 중간, 우측에서 해주세요&lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/trn10.jpg"&gt;&lt;br&gt;&lt;br&gt;두 사진의 합성이 자연스럽다 싶으면 한두번으로 끝내주셔도 됩니다.&lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/trn11.jpg"&gt;&lt;br&gt;&lt;br&gt;이번에는 opacity를 40~50% 로 해주시고 제일 아래에서 위 끝까지 두 세번 올려줍니다. &lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/trn12.jpg"&gt;&lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/trn13.jpg"&gt;&lt;br&gt;&lt;br&gt;그럼 거의 자연스러운 모습의 사진이 나오게 됩니다. &lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/trn14.jpg"&gt;&lt;br&gt;&lt;br&gt;Ctrl+shift+B 를 눌러 모들 사진을 합쳐 줍니다. 그럼 layer 정보가 아래와 같이 변화게 됩니다. &lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/trn15.jpg"&gt;&lt;br&gt;&lt;br&gt;그후 사진의 샤프한 맛과 밝기 조정하는 curve 를 해줍니다. ctrl+M. 물론 S자로 해주시는거 잊지 마세요.(전편에 설명 있습니다..)&lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/trn16.jpg"&gt;&lt;br&gt;&lt;br&gt;그럼 합성된 사진 완성입니다.&lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/trn17.jpg"&gt;</content>
+    <postId>478DA7AE-1857-4D4B-A9A9-5BC4A5AD7AE9</postId>
+    <pubDate>2008-02-22T00:00:00-05:00</pubDate>
+    <title>포토샵을 이용한 몇가지 편집 팁 - #4 푸른하늘 만들기</title>
+</post>

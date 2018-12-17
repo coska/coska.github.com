@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>부기흡</author>
+    <comments/>
+    <content>COUTRY OF CITIZENSHIP은 statusInCanada로 변경된것 같구요,&lt;br&gt;FIRST LANGUAGE는 preferredLanguage와 같읍니다.&lt;br&gt;&lt;br&gt;Emergency contact은 안하기로 결정 되었던것 같은 확인해 보십시요.&lt;br&gt;&lt;br&gt;Education class에서 'programs'가 Degree/Diploma와 같읍니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;gt;오늘 루비 작업을 위해서 jsp 파일 수정 중에 발견된 사항들입니다.&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;--------STUDENT------------------&lt;br&gt;&amp;gt;COUTRY OF CITIZENSHIP,&lt;br&gt;&amp;gt;FIRST LANGUAGE,&lt;br&gt;&amp;gt;Emergency - Contack, Telephone&lt;br&gt;&amp;gt;Education - Degree/Diploma&lt;br&gt;&amp;gt;위의 데이타에 대한 정의가 된 Model 이 없더군요.&lt;br&gt;&amp;gt;제가 못 본건지 아니면 아직 정의가 안된건지 확인 바랍니다.&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;그리고,&lt;br&gt;&amp;gt;스크린에서 Student의 Education에 있던 From, To 에서&lt;br&gt;&amp;gt;From,To를 Graduation Date로 변경하였습니다.&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;CVS에서 받아 확인하시고, 잘못된 부분들은 바로 작업하시면 됩니다.&lt;br&gt;&amp;gt;물론, sync 하실때 comment 달아주시는거 잊지 말아주시구요..^^&lt;br&gt;</content>
+    <postId>A9CF5D6C-8160-4CC4-8EAC-289E42E06A8B</postId>
+    <pubDate>2006-03-17T00:00:00-05:00</pubDate>
+    <title>[re] Model의 필요한 수정사항들...</title>
+</post>

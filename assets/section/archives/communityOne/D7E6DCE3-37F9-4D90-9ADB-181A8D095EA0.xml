@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments/>
+    <content>&#xD;
+If you are using VAJ, you can do tracking with breakpoint at the line of servlet code. Another way is to insert&#xD;
+System.out.println("result -&gt; " + username) between lines. &#xD;
+There is no special debugging method for servlet because servlet is a java code. &#xD;
+&#xD;
+If you want to debug your JSP in VAJ, you can turn on JSP monitor in your Websphere Test Environment dialog box. &#xD;
+&#xD;
+Scott Lee</content>
+    <postId>D7E6DCE3-37F9-4D90-9ADB-181A8D095EA0</postId>
+    <pubDate>2001-08-08T00:00:00-04:00</pubDate>
+    <title>RE: Servlet Debugging?</title>
+</post>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>Park Jinho</author>
+    <comments>
+        <comment>
+            <author>Sonia</author>
+            <date>2005-06-26T00:00:00-04:00</date>
+            <content>수요일은 제가 시간이 되지 않을것 같습니다. 저 하나로 인해서 시간을 변경하지는 마시고요. 저는 Meeting Minutes나 File Gate공지 사항에 올려 주신 자료들을 참조한후,부족하거나 모르는 부분이 생기면 서로에게 시간 낭비가 되지 않는 범위내에서 질문을 올리도록 하겠습니다.</content>
+        </comment>
+        <comment>
+            <author>이상윤</author>
+            <date>2005-06-26T00:00:00-04:00</date>
+            <content>화요일 목요일을 저녁을 제외한 아무 때나 가능 합니다. 둘째날..준비 해보도록 하겠습니다.</content>
+        </comment>
+        <comment>
+            <author>김형태</author>
+            <date>2005-06-27T00:00:00-04:00</date>
+            <content>불새팀의 출발을 축하해요. 전 넷째 날 (네트워킹) 한번 맞아서 해 볼께요.</content>
+        </comment>
+        <comment>
+            <author>Park Jinho</author>
+            <date>2005-06-27T00:00:00-04:00</date>
+            <content>최이경씨, 가능한 날을 적어주세요.(나머지 분들도...) 다음번 부터는 되도록이면 모두가 참여하는 쪽으로 정하는게 나을까 싶어요. 6명밖에 안되는 학생분들을 빼놓고 진행 시키는 건 좀...다행히 첫 수업은 간단한 내용이라서 충분히 노트만 보고도 복습이 가능하다고 보니까, 노트를 참고하시고 질문 주시기 바랍니다.</content>
+        </comment>
+        <comment>
+            <author>Park Jinho</author>
+            <date>2005-06-27T00:00:00-04:00</date>
+            <content>협조 감사드립니다. ^_^ FileGate 화이링~</content>
+        </comment>
+        <comment>
+            <author>Kelly J Lee</author>
+            <date>2005-06-27T00:00:00-04:00</date>
+            <content>진호씨 준비에 수고 많으셨네요&lt;br&gt;불새팀 화이팅~~!!! ^__^&lt;br&gt;</content>
+        </comment>
+        <comment>
+            <author>alexna</author>
+            <date>2005-06-27T00:00:00-04:00</date>
+            <content>저가 개인적으로 한번더 연락을 취하겠읍니다만, 현재로는 7월6일 수요일날 모임을 갖도록 하죠...</content>
+        </comment>
+        <comment>
+            <author>최봉준</author>
+            <date>2005-06-28T00:00:00-04:00</date>
+            <content>진호씨가 이렇게 수고하시니, 다들 병아리에서 불새가 될날이 머지 않을 것 같읍니다. 안되면 깨꼬닭이라도.. ㅋㅋ&lt;br&gt;제가 네트맨 파트에 참가했으니 넷째날 수업을 담당했으면 합니다.&lt;br&gt;솔직히 저도 그쪽은 잘 모르니 공부겸 해서 준비하도록 하죠. 혹시 경험있는 네트맨이 계시면 저는 다른 파트를 맡구요. 일주일에 한번 교육이 되면 큰문제가 없는 한 7월 28일(수)가 될 것 같군요.&lt;br&gt;매주 교육에 최대한 참석하도록 하겠습니다. 그래야 교육의 연결성이 유지될 것 같군요. 네트맨당 만세. 쩝쩝.</content>
+        </comment>
+        <comment>
+            <author>John Ko</author>
+            <date>2005-06-28T00:00:00-04:00</date>
+            <content>저는 수요일만 피하고 싶습니다만... 다른 요일은 다 괜챦은데요..</content>
+        </comment>
+        <comment>
+            <author>alexna</author>
+            <date>2005-06-28T00:00:00-04:00</date>
+            <content>불새보다는 봉황이되고싶은디...봉황이라고 불러줘 잉...봉황팀 만만세...</content>
+        </comment>
+        <comment>
+            <author>최봉준</author>
+            <date>2005-06-30T00:00:00-04:00</date>
+            <content>아이구, 제가 김형태님이 찍어 놓으신 수업을 찍었군요.&lt;br&gt;제가 셋째날 파일 핸들링 파트를 맡아야 되겠군요. &lt;br&gt;</content>
+        </comment>
+    </comments>
+    <content>안녕하세요, 박진호 입니다.&lt;br&gt;&lt;br&gt;지난번 만남에서 논의된 C# 교육 일정을 좀더 자세히 적어봤습니다. 크게 문제가 없다면, 교육은 여기 올리는 데로 진행하도록 하겠습니다.&lt;br&gt;&lt;br&gt;FileGate C# 교육 계획&lt;br&gt;&lt;br&gt;목적 : C#을 전혀 접해보지 못한 분들을 위한 Starting Guide 역할 - 직접 FileGate mini를 만들면서 VS IDE(Tool)사용법과 syntax, 그리고 OOP 식의 프로그래밍 개발과정을 이해할 수 있게 함. &lt;br&gt;&lt;br&gt;FileGate mini : &lt;br&gt;&lt;br&gt;1)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;display file contents on the windows form by pressing “read file” button&lt;br&gt;2)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;send this file contents through the network and display on other machine&lt;br&gt;&lt;br&gt;교육일정:&lt;br&gt;첫째날)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;OO( object &amp;#8211;oriented ) design concept 소개, VS IDE 설치 및 사용법 소개, 간단한 windows form 만들기 ( create project-&amp;gt;add button-&amp;gt; add label-&amp;gt;change text to “hello” by pressing button -&amp;gt; compile -&amp;gt; run )&lt;br&gt;둘째날) UI design - windows forms&lt;br&gt;셋째날)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Add File handling class : read file and display on the windows form&lt;br&gt;넷째날)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Add networking : make a connection, send file through the network&lt;br&gt;다섯째날)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Finalize and add some fancy stuff&lt;br&gt;&lt;br&gt;첫날 수업은 제가 준비를 하겠습니다.&lt;br&gt;저번에 나수환씨께서 조사한 바에 의하면 수요일 저녁이 가장 좋은 날이었던거 같은데 만일 불가능하신 분이 계시면 리플달아 주시기 바랍니다.&lt;br&gt;&lt;br&gt;김형태, 이상윤, 조복산, 최봉준씨 께서는 가능하신 수업날을 결정해 주셨으면 감사하겠습니다. ( 예 - 첫째날 : 박진호 )&lt;br&gt;&lt;br&gt;첫날 수업장소와 시간은 다음과 같습니다.&lt;br&gt;(자세한 사항은 나수환씨의 포스팅을 보시기 바랍니다.)&lt;br&gt;&lt;br&gt;날짜: 7월 6일(수요일)&lt;br&gt;장소: 베이뷰 &amp; 세퍼드 에 위치한 베이뷰 몰 도서관( 베이뷰 전철역에서 하차)&lt;br&gt;시간: 7시 (코리언 타임 없습니다.)&lt;br&gt;&lt;br&gt;최이경,김석,박재홍,나수환,권영란,최선두씨께서는 혹시 궁금한 사항이나 따로 배우고 싶은 주제가 있으시면 교육전에 미리 리플을 주시기 바랍니다.( 강사님들도 준비할 시간이 필요하기 때문에)&lt;br&gt;&lt;br&gt;감사합니다. 이상 병아리팀의 보고였습니다. 충성!!!</content>
+    <postId>5C776CD6-3C68-47ED-82BE-5B002C01AB0B</postId>
+    <pubDate>2005-06-26T00:00:00-04:00</pubDate>
+    <title>불새(아직은 병아리) 팀 ...ㅋㅋㅋ</title>
+</post>

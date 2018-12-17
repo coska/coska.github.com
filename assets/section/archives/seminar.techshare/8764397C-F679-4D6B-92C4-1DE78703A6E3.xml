@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>강동욱</author>
+    <comments/>
+    <content>회사에서나 집에서 웹프로젝트를 로컬에서 만들어서 테스트 하죠.&lt;br&gt;&lt;br&gt;그때 직접 IP address를 주거나 local이니깐 &lt;br&gt;&lt;br&gt;http://localhost/mynewproject/index.html&lt;br&gt;&lt;br&gt;뭐 이런식으로 테스트 하잔아요?&lt;br&gt;&lt;br&gt;이때 접속이 안되는 경우는&lt;br&gt;&lt;br&gt;1. command line 에서 ipconfig.exe를 실행 해서 현재 내 pc의 IP address를 알아 낸뒤 localhost 대신에 직접 IP address를 사용 해도 됩니다.&lt;br&gt;(win9x인경우는 아마 winipcfg.exe인가 할거에요. 비슷한걸 찾아 보세요.)&lt;br&gt;&lt;br&gt;2. Internet Explorer의 옵션에서 &lt;br&gt;&lt;br&gt;internet option -&amp;gt; Connection tab-&amp;gt; 로 가서 &lt;br&gt;모든 proxy settings 을 제거 하고 브라우져를 다시 실행해 보면 됩니다.&lt;br&gt;&lt;br&gt;그런데 나중에 또 안되는 경우는 proxy setting 다시 자동으로 생성되는 경우가 자주 있는데 그럴때 마다 제거 해야하죠.&lt;br&gt;물론 레지스트리에 가서 자동 셋팅을 제거 하면 되는데.. 잘 기억이 안되는 군요..&lt;br&gt;아마 proxy라는 키워드로 검색 하면 auto어쩌고 하면서 registry key가 나오는데.. 그걸 고치면 될거에요.. 확실하진 않지만..&lt;br&gt;&lt;br&gt;그럼 오늘은 이만..&lt;br&gt;&lt;br&gt;check if IIS server is running&lt;br&gt;check if there is duplicated virtual directory</content>
+    <postId>8764397C-F679-4D6B-92C4-1DE78703A6E3</postId>
+    <pubDate>2001-12-22T00:00:00-05:00</pubDate>
+    <title>[i] 웹 프로젝트중 localhost로 접속 안될때..</title>
+</post>

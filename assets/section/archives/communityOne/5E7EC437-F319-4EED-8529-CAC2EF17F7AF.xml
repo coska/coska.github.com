@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이계영</author>
+    <comments/>
+    <content>XDoclet generate DAO, DTO(or Value Object) classes.&#xD;
+&#xD;
+If you write JDBC application using JSPs, still you have to write almost same code as using, DAO, DTO except you pass around ResultSet.&#xD;
+DAO is more about querying database while DTO is more about instantiating and binding the result set into objects.&#xD;
+&#xD;
+As Brendan mentioned, struts framework gives you ability to write code streamlined and reusable.&#xD;
+If you write simple JSPs using scriplets, you still need to define classes to pass among JSPs. For example, you need to pass the result of SearchAccounts.jsp to DisplayAccounts.jsp and DisplayAccountDetail. You are going to create list of accounts which is almost same as DTO.&#xD;
+And your database access logic can be easily converted DAO.&#xD;
+&#xD;
+So in a nutshell, if you create JSPs application, you still have proprietary version of DAO, DTO. It may be well defined or it may be specific your needs to meet your nees. DAO, DTO are patterns which streamlines your work and let other programmers understand the code easily.</content>
+    <postId>5E7EC437-F319-4EED-8529-CAC2EF17F7AF</postId>
+    <pubDate>2003-11-21T00:00:00-05:00</pubDate>
+    <title>RE: DAO class generator?</title>
+</post>

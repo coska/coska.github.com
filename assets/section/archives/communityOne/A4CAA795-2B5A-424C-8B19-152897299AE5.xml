@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>강윤정</author>
+    <comments>
+        <comment>
+            <author>김경환</author>
+            <date>2002-12-28T00:00:00-05:00</date>
+            <content>ㅠ.ㅠ....여긴 한번 적으면 삭제가 불가능하군요....무서버</content>
+        </comment>
+        <comment>
+            <author>김경환</author>
+            <date>2002-12-28T00:00:00-05:00</date>
+            <content>음...근데 그럼 instance variable이 아니니....무효...에휴...쩍팔려</content>
+        </comment>
+    </comments>
+    <content>심심해서 퀴즈하나..&#xD;
+&#xD;
+public class Tester&#xD;
+{&#xD;
+   private String m_Value = "HAHAHA";&#xD;
+&#xD;
+   public void setValue(String aValue)&#xD;
+   {&#xD;
+      m_Value = aValue;&#xD;
+   }&#xD;
+}&#xD;
+&#xD;
+이 클래스의 instance가 가진 m_Value를 access하는&#xD;
+방법이 있을까요, 없을까요? 있다면 어떻게?&#xD;
+</content>
+    <postId>A4CAA795-2B5A-424C-8B19-152897299AE5</postId>
+    <pubDate>2002-12-27T00:00:00-05:00</pubDate>
+    <title>Q: How to access private attribute without getter method?</title>
+</post>

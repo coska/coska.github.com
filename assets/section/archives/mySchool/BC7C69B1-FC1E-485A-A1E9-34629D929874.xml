@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>부기흡</author>
+    <comments>
+        <comment>
+            <author>허현옥</author>
+            <date>2006-03-17T00:00:00-05:00</date>
+            <content>네. 제가 테스트하고 알려드리겠습니다... 그리고, 프리젠테이션 파일 이메일로 보내드렸는데.. 확인 하시고, 이메일로 답장 좀 주세용</content>
+        </comment>
+    </comments>
+    <content>UserManager class가 보이길래 그중에 &lt;br&gt;- addUser&lt;br&gt;- editUser&lt;br&gt;- listUser를&lt;br&gt;실지 모델을 사용하여 implement해 보았는데 이것에 대하여 주말쯤에 잠깐 conference call을 했으면 좋겠네요.&lt;br&gt;&lt;br&gt;테스트는 못해 보았읍니다, UI를 시작하는데 문제가 있어서. 여기에 대해서도 논의를 좀하고. 현옥씨가 한번 테스트 해보세요.&lt;br&gt;&lt;br&gt;일단 여기서 패턴이 정해지면, 다음주부터 전체적인 인티그레이션 작업에 들어가죠. 아직 모델쪽 세부 작업이 좀 남아있기는 하지만, 전체 시스템 조립에는 지장이 없을것 같읍니다.</content>
+    <postId>BC7C69B1-FC1E-485A-A1E9-34629D929874</postId>
+    <pubDate>2006-03-17T00:00:00-05:00</pubDate>
+    <title>시스템 인티그레이션 계획</title>
+</post>

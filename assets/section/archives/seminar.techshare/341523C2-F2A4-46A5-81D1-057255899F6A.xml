@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>강동욱</author>
+    <comments/>
+    <content>From the Start menu, choose Run. &lt;br&gt;In the Run dialog box, type: regedit. &lt;br&gt;Navigate to the HKEY_LOCAL_MACHINE\\\\SOFTWARE\\\\Microsoft\\\\Windows NT\\\\CurrentVersion\\\\Winlogon key. &lt;br&gt;Set the AutoAdminLogon value to 1. If there is not, add the key.&lt;br&gt;Set or add the value of DefaultPassword.&lt;br&gt;</content>
+    <postId>341523C2-F2A4-46A5-81D1-057255899F6A</postId>
+    <pubDate>2001-12-12T00:00:00-05:00</pubDate>
+    <title>[I] auto logon on Windows NT/2000</title>
+</post>

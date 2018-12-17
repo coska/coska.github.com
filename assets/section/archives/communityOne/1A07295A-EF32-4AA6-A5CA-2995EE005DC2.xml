@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김민</author>
+    <comments>
+        <comment>
+            <author>황성규</author>
+            <date>2002-07-10T00:00:00-04:00</date>
+            <content>잘되네요. 고마워요~</content>
+        </comment>
+    </comments>
+    <content>죄송합니다. 불편을 끼쳐 드려서 ...&#xD;
+회사안에서는 되었는데 밖에서는 접속이 안되는 이유가 Security때문입니다. 각 Session마다 하나의 Port가 Dynamic하게 부여가 되기때문에 그것을 관리하는것이 힘들어서..&#xD;
+&#xD;
+아무튼 저희가 해결했으므로 사용 가능합니다.</content>
+    <postId>1A07295A-EF32-4AA6-A5CA-2995EE005DC2</postId>
+    <pubDate>2002-07-10T00:00:00-04:00</pubDate>
+    <title>해결되어습니다. 사용 가능합니다.</title>
+</post>

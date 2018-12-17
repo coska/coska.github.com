@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김형태</author>
+    <comments>
+        <comment>
+            <author>Sonia</author>
+            <date>2005-06-23T00:00:00-04:00</date>
+            <content>감사합니다. 좋은 하루 되세요.</content>
+        </comment>
+        <comment>
+            <author>나수환</author>
+            <date>2005-06-23T00:00:00-04:00</date>
+            <content>저(나수환), 박재홍씨가 참석해야하나, 부득히 참석하지 못해 죄송합니다. 가급적이면 참석하도록 노력 해보겠읍니다.</content>
+        </comment>
+        <comment>
+            <author>Kelly J Lee</author>
+            <date>2005-06-23T00:00:00-04:00</date>
+            <content>김 형태씨, 꼼꼼한 자료 감사합니다.&lt;br&gt;이번 토요일 모임에서 많은 진전이 있을것 같네요. 신나네요 ^^&lt;br&gt;그때 뵙겠습니다.</content>
+        </comment>
+        <comment>
+            <author>최봉준</author>
+            <date>2005-06-23T00:00:00-04:00</date>
+            <content>수고들이 많으시네요. &lt;br&gt;한가지 말씀드리고 싶은 것은 모임을 정각에 시작할 수 있었으면 합니다. 봉사하시는 분이나 미리 약속이 있어서 늦게 오시는 분들외에는 정각 1시에 모임이 시작될 수 있었으면 합니다. 저도 코리안이지만 캐나다에 까지 와서 코리안 타임을 고려해야 한다면 모순이 아닐까 합니다. (이러다가 제가 늦으면 꾸사리 듣겠죠? ^^;)</content>
+        </comment>
+        <comment>
+            <author>김형태</author>
+            <date>2005-06-23T00:00:00-04:00</date>
+            <content>정각에 시작하도록 저도 노력할께요. ^^</content>
+        </comment>
+        <comment>
+            <author>김형태</author>
+            <date>2005-06-23T00:00:00-04:00</date>
+            <content>나수환씨 모임 일정 전체 공지메일 한번 보내 주시는 게 어떨찌요. 아무래도 무슨 얘기를 하게 될지 아시고 오시는게 시간을 절약할 수 있지 않을까 싶습니다.</content>
+        </comment>
+        <comment>
+            <author>박재홍</author>
+            <date>2005-06-23T00:00:00-04:00</date>
+            <content>User Access control 관련된 모듈도 생각해야 할까요?&lt;br&gt;토요일에 참가할 수 있도록 해보겠습니다.</content>
+        </comment>
+        <comment>
+            <author>이상윤</author>
+            <date>2005-06-24T00:00:00-04:00</date>
+            <content>기타 사항에 CVS 또는 VSS 또는 Source Version control 선택 대해서 경험담 이 있었으면 합니다.</content>
+        </comment>
+        <comment>
+            <author>김형태</author>
+            <date>2005-06-24T00:00:00-04:00</date>
+            <content>예, User Access Control 도 필요하겠네요. (1 대 n 으로 File Transfer를 하는 모드에서 Remote Machine 에 접속하기 위한 ...)&lt;br&gt;글구, CVS로 작업해 보신 경험이 있으신 분들 중에 한 분이 CVS 설명을 좀 해 주시면 어떨까요?</content>
+        </comment>
+    </comments>
+    <content>안녕하세요. 김형태 입니다. 나수환씨, 박재홍씨가 개인적인 사정으로 25일 토요일만 불참 하시게 되어서 제가 대신 Agenda를 적어 올립니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;[ FILE GATE 2차 모임에서 다뤄졌으면 하는 내용 ]&lt;br&gt;&lt;br&gt;먼저, 다음 내용 이외에도 다뤄져야 할 내용이 많을 것 같으니 글을 읽어보시고 생각나시는 것이 있으시면 커멘트 달아주세요. 시간은 지난 번 모임과 같이 &lt;br&gt;&lt;br&gt;시간 : 6월 25일 토요일 오후 1시 - 4시 까지 &lt;br&gt;장소 : 365 한방병원 (노스욕 청기와 옆) &lt;br&gt;&lt;br&gt;입니다. 혹시 처음 오시는 분이신데 노스욕 지리를 잘 모르신다면 Finch 역에서 무조건 전화 주세요(416-888-8606). (지난번 이상윤씨가 무려 한 시간 반을 헤매셨다는... -_-)&lt;br&gt;&lt;br&gt;시간이 세 시간이지만 얘기하다 보면 금방 가버리는 감이 있습니다. 그래서 논의할 사항들을 미리 좀 알려 주시면 더욱 감사하겠습니다. 우선 제가 생각해 본 사항들을 적습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;1. 기존 프로그램 DEMO : 유사한 프로그램에 대한 기능설명과 UI를 통해서 대략적으로 프로그램해야 할 것이 무엇인지 생각을 공유해 보겠습니다. (WinBackup, 윈도우 사랑 파일박사, etc) &lt;br&gt;*** 다른 프로그램 괜찮다 싶은 것 아시는 분은 코멘트 부탁드립니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;2. 전체 일정 논의 ( 교육 파트 / 설계 파트) : &lt;br&gt;&lt;br&gt;*** '파트' 란 말이 싫으시다면 이번에 팀 이름을 작명하면 어떨까 싶습니다.&lt;br&gt;가끔 교육팀. 설계팀 이렇게 부르니까 코스카에 있는 교육팀 자체와 혼동이 된다는 생각이 들었습니다.(조장님 이름을 따서 부르면 어떨까요? ^^)&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;A. 전체 프로젝트 스케줄 정하기 &lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(언제까지 라는 시한을 그래도 잡아야 진척이 더 잘 될 것 같습니다. 정 안 되면 나중에 더 늘이더라도 ... ^^)&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;B. 교육 파트 일정, 강의내용 확정 또는 공고&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(이미 지난 번 토요일 별도 모임에서 어느 정도 정하신 것으로 알고 있습니다. 만일 전체 프로젝트 스케줄에 맞춰 조정이 필요하다면 조정해 확정하도록 해야 하겠습니다.)&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;C. 설계 파트&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- 기본적인 모듈 구성 : &lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(그냥 제 나름대로 나눠 본 모듈 입니다. 빠진 것들도 꽤 많을 것 같으니 집중적인(^^) 코멘트 부탁합니다.&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; -------------------------------------------------&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; * File I/O : &lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;+ File Event Monitor&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;+ File Change Management&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;+ Windows NT Service Handler for I/O&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; -------------------------------------------------&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; * Networking : &lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;+ Socket Interface (Sender / Receiver)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;+ Security Control&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;+ Stream Encryption&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;+ Windows NT Service Handler for Networking&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; -------------------------------------------------&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; * UI : &lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;+ Configuration UI&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;+ Installer Graphics&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;+ Graphic Elements&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; -------------------------------------------------&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; * Config : &lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;+ Configuration Management&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;+ Error or Event Logging&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;+ Backup Scheduler (Timer)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;+ Installer / Uninstaller&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;+ 라이센스 관리(필요하다면...)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; -------------------------------------------------&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- 모듈별 설계 담당 정하기 : &lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;위의 모듈에 다가 살을 좀 더 붙여서 논의를 거듭해서 결정난 기본 모듈 구조를 가지고 각자 맡은 바를 정하면 되지 않을까 싶습니다. 거기에 담당별로 가능한 한 일정을 어림잡아 보구요.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- 설계 파트 정기 모임 일정/장소 정하기&lt;br&gt;&lt;br&gt;&lt;br&gt;3. 다음 전체 미팅 일정 정하기 (필요하다면...)&lt;br&gt;&lt;br&gt;&lt;br&gt;4. 기타 사항&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; A. VSS (Visual Source Safe) 사용설명 (필요하다면...)&lt;br&gt;&amp;nbsp;&amp;nbsp; B. Code Naming Rule&lt;br&gt;&amp;nbsp;&amp;nbsp; C. Comment Rule&lt;br&gt;&amp;nbsp;&amp;nbsp; D. Code에서 에러 발생시 책임소재 명시하기 &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (Caller 가 들어가서 코드를 고치지 않는다)&lt;br&gt;&amp;nbsp;&amp;nbsp; E. 프로젝트 결과물에 대한 저작권 명시 및 NDA&lt;br&gt;&amp;nbsp;&amp;nbsp; F. 교육 파트 교육 일정 종료후 개발 파트로 흡수 방법 &lt;br&gt;&amp;nbsp;&amp;nbsp; G. FileGate 게시판 보기 permission 관련 (코스카 회원만 볼 수 있게?)&lt;br&gt;&lt;br&gt;&lt;br&gt;5. 기타 건의 및 제안 사항 논의&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; ....&lt;br&gt;&lt;br&gt;전체적으로 모임 시간이 빡빡할 것 같습니다. 한번씩 논의될 사항 또는 제안 사항을 미리 한번 생각해 봐 주시면 더욱 감사하겠습니다.&lt;br&gt;&lt;br&gt;이번 미팅까지 셋팅할 것이 많을 것 같구요. 다음 번 미팅 때는 작은 것이라도 코딩하면서 뭔가 하나씩 작은 중간 아웃풋이 나올 수 있을 것 같은데요. 저 혼자만의 생각은 절대 아니라고 굳게 믿/쑵/니/다/. 감사합니다. &lt;br&gt;&lt;br&gt;</content>
+    <postId>D404B18C-7DF7-4998-92FA-37A6E6043695</postId>
+    <pubDate>2005-06-23T00:00:00-04:00</pubDate>
+    <title>FILE GATE 2차 모임 간이 Agenda</title>
+</post>

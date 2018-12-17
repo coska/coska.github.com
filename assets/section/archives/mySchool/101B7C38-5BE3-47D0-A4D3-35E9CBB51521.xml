@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>부기흡</author>
+    <comments>
+        <comment>
+            <author>S. Suh Lee</author>
+            <date>2006-01-10T00:00:00-05:00</date>
+            <content>I will try to attend. It's Ms. Lee, by the way.</content>
+        </comment>
+        <comment>
+            <author>허현옥</author>
+            <date>2006-01-10T00:00:00-05:00</date>
+            <content>As I sent a mail to you all, our customer has free time only on Thursday. I hope everybody can come to join. Location will be same place at North York( I think... ).</content>
+        </comment>
+        <comment>
+            <author>부기흡</author>
+            <date>2006-01-11T00:00:00-05:00</date>
+            <content>oops, my apologies Ms. Lee ;-)</content>
+        </comment>
+        <comment>
+            <author>허현옥</author>
+            <date>2006-01-11T00:00:00-05:00</date>
+            <content>I guess our off line meeting is settled. 한방병원 7pm Thursday. I will send confirmation mail to you guys.</content>
+        </comment>
+    </comments>
+    <content>The customer has requested for a design review on the screen mockups in http://studygroup.wikispaces.com/sdd.html.&lt;br&gt;&lt;br&gt;Could Mr. Heo lead/arrange this review? &lt;br&gt;&lt;br&gt;Also this would be a good opportunity for Mr. Lee (if he could attend) to catch up and understand the work process of the system in preparation for Ruby/Watir testing. Same goes for Nariy for the User Manual development, I think.</content>
+    <postId>101B7C38-5BE3-47D0-A4D3-35E9CBB51521</postId>
+    <pubDate>2006-01-10T00:00:00-05:00</pubDate>
+    <title>Customer request for UI design review</title>
+</post>

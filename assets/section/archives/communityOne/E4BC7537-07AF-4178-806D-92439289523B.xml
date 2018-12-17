@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments/>
+    <content>Deploying Pizza demo to your VAJ 3.5&#xD;
+&#xD;
+Source code url for this text - http://www3.sympatico.ca/scottlee/java/pattern/vaj/pizza1/&#xD;
+&#xD;
+Jul 28, 2001 Scott Lee , rojaware@bigfoot.com&#xD;
+&#xD;
+1. create directory name 'pizza' under &#xD;
+your X:/VAJ3.5/ide/project_resources/IBM Websphere Test Environment&#xD;
+/hosts/default_hosts/default_app/web/html/ (X:/VAJ3.5 - your drive and root path name for VAJ installation. &#xD;
+Adjust this with your current setting)&#xD;
+&#xD;
+2. Copy PizzaForm.html to &#xD;
+your X:/VAJ3.5/ide/project_resources/IBM Websphere Test Environment&#xD;
+/hosts/default_hosts/default_app/web/html/pizza&#xD;
+&#xD;
+&#xD;
+3. Create sub directory 'java_source' under &#xD;
+your X:/VAJ3.5/ide/project_resources/IBM Websphere Test Environment&#xD;
+/hosts/default_hosts/default_app/web/ (X:/VAJ3.5 - your drive and root path name for VAJ installation. &#xD;
+Adjust this with your current setting)&#xD;
+&#xD;
+4. Export your PizzaServlet.java from VAJ workspace to &#xD;
+your X:/VAJ3.5/ide/project_resources/IBM Websphere Test Environment&#xD;
+/hosts/default_hosts/default_app/web/java_source/ (X:/VAJ3.5 - your drive and root path name for VAJ installation. &#xD;
+Adjust this with your current setting)&#xD;
+&#xD;
+&#xD;
+5. Open your VAJ workspace&#xD;
+Create new project named 'Pizza'&#xD;
+import 'PizzaServlet.java' to this project, no package name is required for this at now.&#xD;
+&#xD;
+6. Start your servlet engine in WTE(Websphere Test Environment)&#xD;
+From workspace, click 'workspace-&gt; tool -&gt; Websphere Test Environment. &#xD;
+You will have 'Websphere Test Environment' dialog box. Select 'Edit Classpath' to update&#xD;
+your new project in directory path because this directory has your own servlet&#xD;
+&#xD;
+7. You will see all project list in your workspace in this dialog box. Select &#xD;
+'Websphere Test Environment' and 'Pizza' as your own project. Then WTE remembers &#xD;
+this class.&#xD;
+&#xD;
+8. Click 'Start Servlet Engine' button to start sevlet engine&#xD;
+&#xD;
+9. Open your browser and type&#xD;
+'http://localhost:8080/html/pizza/PizzaForm.html'&#xD;
+&#xD;
+It will display pizza order screen. Type any text and press OrderPizza.&#xD;
+Next screen will come back to you display the result.&#xD;
+</content>
+    <postId>E4BC7537-07AF-4178-806D-92439289523B</postId>
+    <pubDate>2001-07-29T00:00:00-04:00</pubDate>
+    <title>PizzaServlet on Visual Age for Java: Deployment and Test</title>
+</post>

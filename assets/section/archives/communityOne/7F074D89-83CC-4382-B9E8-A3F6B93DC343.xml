@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>Brendan(김성욱)</author>
+    <comments/>
+    <content>커뮤니티원의 프로그램에서 ResultSet의 반환(close)이 '강제적'으로 이뤄지지 않는 걸로 알고 있는데요, 맞나요? &#xD;
+&#xD;
+Statement의 반환 시, ResultSet도 자동 반환이 되는 것으로 대부분 알고 계시지만, 그것은 garbage collection으로 넘긴다는 뜻이지 실제로 ResultSet에 할당된 자원이 반환되는 것은 아니라고 알고 있습니다. 따라서 많은 양의 레코드를 select하는 경우, 이 반환이 제대로 이뤄지지 못하면 DBMS에 무리가 발생할 수도 있게 되죠. 한국에 있을 때, 여러 강사들이 이에 대해 프로그래머가 간과하는 부분이라고 지적했던 것을 기억합니다.&#xD;
+&#xD;
+제 생각에는 ResultSet을 쓰고 나면 garbage collection에 기대하지 말고, Statement를 close()하기 전에 프로그램에서 강제 반환시킴이 performance 측면에서도 훨씬 좋다고 봅니다. 선배님 의견은 어떠세요?&#xD;
+</content>
+    <postId>7F074D89-83CC-4382-B9E8-A3F6B93DC343</postId>
+    <pubDate>2002-09-11T00:00:00-04:00</pubDate>
+    <title>Spencer님에게</title>
+</post>

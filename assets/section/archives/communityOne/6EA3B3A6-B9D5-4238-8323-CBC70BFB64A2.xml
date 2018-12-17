@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김성욱</author>
+    <comments>
+        <comment>
+            <author>김성욱</author>
+            <date>2010-11-29T00:00:00-05:00</date>
+            <content>It is simply because of a performance issue. Varargs creates actually arrays and assigns the variable parameters into it first.&#xD;
+&#xD;
+So the best approach when you want to use it is, figure first if there should be methods taking specific number of parameters which is called very frequently. If there is, you should create it(them) first that doesn't use Varargs.</content>
+        </comment>
+    </comments>
+    <content>Okay, let's have a brain cooled down. :)&#xD;
+&#xD;
+This one is not coding required, sounds good?&#xD;
+&#xD;
+Here is the question.&#xD;
+&#xD;
+If you take a look at the source code of java.util.EnumSet, you will see a bunch of something (you may say 'stupid'?) interesting at &lt;b&gt;of()&lt;/b&gt; methods.&#xD;
+&#xD;
+And they look like a 'junior programmer-kind' work - copy &amp; paste thingis! :)&#xD;
+&#xD;
+What do you know is the reason they have to be like that?</content>
+    <postId>6EA3B3A6-B9D5-4238-8323-CBC70BFB64A2</postId>
+    <pubDate>2010-11-22T00:00:00-05:00</pubDate>
+    <title>Java5 quiz - EnumSet (Varargs)</title>
+</post>

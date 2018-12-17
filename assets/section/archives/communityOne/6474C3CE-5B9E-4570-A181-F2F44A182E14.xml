@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김성욱</author>
+    <comments>
+        <comment>
+            <author>이성기</author>
+            <date>2003-06-17T00:00:00-04:00</date>
+            <content>WSAD같은 것이 없으면 Eclipse를 무료로 다운로드받아서 써보세요. WSAD와 거의 같고, 요즘 개발자들사이에 호응을 많이 얻고 있습니다. 제가 근무하는 곳에서도 모두 이걸 사용합니다. WSAD는 약 3000불정도함으로 회사측에서는 반드시 필요하지 않으면 Eclipse를 권합니다. IBM에서 지원한 것이므로 WAS와 사용하기 좋게 되어있습니다.</content>
+        </comment>
+        <comment>
+            <author>이성기</author>
+            <date>2003-06-17T00:00:00-04:00</date>
+            <content>You can download all documents from http://www7b.software.ibm.com/wsdd/ or buy a book (Enterprise Java Programming with IBM WebSphere&#xD;
+ from &#xD;
+http://www.amazon.com/exec/obidos/tg/detail/-/0201616173/002-6983799-0680801?v=glance&amp;s=books&#xD;
+And Websphere Application Server Certification Study Guide&#xD;
+ from http://www.bestwebbuys.com/books/compare/isbn/1931182108/isrc/b-bs-author&#xD;
+백제진씨가 아마 이분야의 자격증을 취득했을거예요.</content>
+        </comment>
+    </comments>
+    <content>Hello everyone.&#xD;
+&#xD;
+Do you have any ideas of how to start mastering 'Websphere' by oneself?&#xD;
+&#xD;
+For example, where(URL) &amp; what to download, manuals or user guides, and so on. Any comments, information, idea, or experiences are welcomed.&#xD;
+&#xD;
+I feel it would be absolutely better to learn it for corresponding to job markets.&#xD;
+&#xD;
+Thank you in advance.</content>
+    <postId>6474C3CE-5B9E-4570-A181-F2F44A182E14</postId>
+    <pubDate>2003-06-16T00:00:00-04:00</pubDate>
+    <title>Question about Websphere</title>
+</post>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>나수환</author>
+    <comments/>
+    <content>감사합니다.- 이곳 환경을 알려주는것이 도움이 될듯 합니다.&lt;br&gt;개발환경: Jsp, XPDL, Java(J2ee), Oracle9i, OpenJms 그리고, 윈도우환경입니다.&lt;br&gt;&lt;br&gt;제품은 웹이며, 하나의 프로젝트(데이타)는 꼬리를 물고, 끝날때 까지 따라 다립니다. (음, 쉽게 표현하자면, 결제시프템이라고 할까요..)&lt;br&gt;사원에서 시작한 문서가 의사결정자인 사장까지 올라간다고 하면 이해될까요.&lt;br&gt;&lt;br&gt;현재 개발자로써 근무하지 않아 웹에서의 컴버전 프로그램을 만든다는것이 이해가 팍 와 닿지 않는데..&lt;br&gt;&lt;br&gt;Mainframe에서의 컨버전 프로그램을 만들어 처리했던 경험은 있읍니다만,&lt;br&gt;&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;1. 현 버젼에서 지원되지 않는 데이터 포맷을 위하여, 데이터 컨버젼 프로그램을 만들어야 됩니다.&lt;br&gt;&amp;gt;2. 기간을 정해 놓고 그 기간 이전의 것은 백업을 받아 둡니다.&lt;br&gt;&amp;gt;이상 허접한 제 답변이었습니다.&lt;br&gt;&amp;gt;^^;;&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;나수환 입니다.&lt;br&gt;&amp;gt;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;다음 두가지의 문제점을 현재 고민하고 있답니다. 혹, 경험을 하신 분이나, 나의 생각은 이렇다 라는 이야기를 공유했으면 하는 바램입니다.&lt;br&gt;&amp;gt;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;1.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Versioning for projects.&lt;br&gt;&amp;gt;&amp;gt;Old Project (Data)의 경우는 새로운 코드(New Code)를 적용할 경우 실해이 되지 않는 경우가 생기곤 합니다. 예를 들면, 데이타의 포멧문제, Class등, 여러가지의 이유로써..&lt;br&gt;&amp;gt;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;이런 경우 나는 이렇게 생각(대처)한다.. &lt;br&gt;&amp;gt;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2.&amp;nbsp;&amp;nbsp; Archive data &amp; to move old data from OLTP db to warehouse or OLAP&lt;br&gt;&amp;gt;&amp;gt;어드민 레벨(Admin level) 에서 데이타의 관리를 어떻게 하면 좋을까?&lt;br&gt;&amp;gt;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;이런 경우 나는 이렇게 생각(대처)한다..&lt;br&gt;&amp;gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;</content>
+    <postId>D9473681-F008-45A2-981A-9FBDA69D59AF</postId>
+    <pubDate>2005-02-02T00:00:00-05:00</pubDate>
+    <title>[re] 질문입니다.</title>
+</post>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>황성규</author>
+    <comments/>
+    <content>&lt;img src="http://comm1.storageasp.net:7889/genie/genie.jpg"&gt;&#xD;
+지난번 신민용씨 세미나때 약속드린것처럼 미리 Genie를 사용해볼수 있는 기회를 드립니다.&#xD;
+&#xD;
+아래 링크를 Click하시면 Genie Demo site로 이동합니다.&#xD;
+http://comm1.storageasp.net:7889/genie/index.jsp&#xD;
+&#xD;
+User ID / Paddword는  guest/guest 입니다.&#xD;
+Oracle User ID / Oracle Password는 genie_demo/genie_demo입니다.&#xD;
+&#xD;
+제가 미리 말씀드린 10여개의 테이블이 이미 만들어져 있습니다.&#xD;
+아울러 데이타도 제법 그럴싸하게 만들어 놓았으니 직접 사용해 보시기 바랍니다.&#xD;
+&#xD;
+아래 Query예제는 세미나 Wosk-shop시간에 다함께 풀어볼 문제의 일부입니다.&#xD;
+&#xD;
+1.	List all items with the price $200 and more&#xD;
+2.	List all the sales-rep in Mississauga branch.&#xD;
+3.	List all client name and email in North York, Markham and Richmond Hill&#xD;
+4.	List Scott Lee’s Sep 2002 Sales (order number, date, total amount)&#xD;
+5.	List City and number of clients (exclude if number of client &lt; 10)&#xD;
+6.	List Top 10 sold items in year 2001&#xD;
+7.	Top 10 Sales Rep in 1st quarter of 2002&#xD;
+&#xD;
+</content>
+    <postId>6B715D4F-D48D-48D0-AA35-BDF443DCEE89</postId>
+    <pubDate>2002-10-01T00:00:00-04:00</pubDate>
+    <title>Genie Preview Site - 미리 맛보세요.</title>
+</post>

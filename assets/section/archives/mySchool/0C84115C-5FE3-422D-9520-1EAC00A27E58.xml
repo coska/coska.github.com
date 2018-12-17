@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>허현옥</author>
+    <comments>
+        <comment>
+            <author>부기흡</author>
+            <date>2006-04-14T00:00:00-04:00</date>
+            <content>알았읍니다.</content>
+        </comment>
+    </comments>
+    <content># STUDENT 테이블에.&lt;br&gt;UNIQUE(STUDENT_NUMBER) 이 속성을 없에야 할 것 같습니다.&lt;br&gt;&lt;br&gt;학생번호는 미입학 학생들은 전부 공백으로 들어가기때문에&lt;br&gt;중복 에러가 나더군요. PK만 가지고도 충분할 것 같습니다.&lt;br&gt;&lt;br&gt;저도 데이타 호출시에는 personID 로 호출하기 때문에 Unique 속성은&lt;br&gt;삭제해도 될 것 같습니다.</content>
+    <postId>0C84115C-5FE3-422D-9520-1EAC00A27E58</postId>
+    <pubDate>2006-04-13T00:00:00-04:00</pubDate>
+    <title>Student schema 변경 바랍니다.</title>
+</post>

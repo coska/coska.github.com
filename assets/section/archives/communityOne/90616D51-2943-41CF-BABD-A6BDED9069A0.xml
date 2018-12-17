@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>황성규</author>
+    <comments/>
+    <content>지난번 제 세미나를 들으신분은 아시겠지만 Article table에 created time 만을 Date field로 저장하였습니다. 그런데 자주 업데이트하는 article의 경우 언제 마지막 update되었는지가 중요하겠더군요. 그래서 artccle  table에 last modified date filed를 추가하고 artciel이 변경될때 마다 time stamp를 찍도록 하였습니다.&#xD;
+&#xD;
+세미나 일정의 경우 여러사람이 update를 하는데 최초등록후 이틀이 지나면 새로운 무서를 나타내는 new image가 사라져서 주목을 끌기 어렵게 되는 단점을 보강했습니다.&#xD;
+&#xD;
+이제는 문서에 변경이 있으면 이 또한 새문서로 취급해서 나타냅니다.&#xD;
+&#xD;
+&#xD;
+&#xD;
+</content>
+    <postId>90616D51-2943-41CF-BABD-A6BDED9069A0</postId>
+    <pubDate>2001-04-30T00:00:00-04:00</pubDate>
+    <title>간단한 업그레이드 - Last Modified Date</title>
+</post>

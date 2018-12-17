@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>허현옥</author>
+    <comments>
+        <comment>
+            <author>부기흡</author>
+            <date>2006-02-21T00:00:00-05:00</date>
+            <content>Great. I will take a look. &lt;br&gt;&lt;br&gt;There are other important work items that need to be done but nobody seems to be working on currently.&lt;br&gt;- Update the operational data in the requirements doc with the latest DDL&lt;br&gt;- Finish the installation guide&lt;br&gt;- Start working on the user guide&lt;br&gt;If you have an extra mileage, it will be great to complete the above tasks. &lt;br&gt;&lt;br&gt;Also, this might be a good time to have a second UI review with Mr. Park and get it confirmed to avoid a possible rework at a later time.&lt;br&gt;</content>
+        </comment>
+        <comment>
+            <author>KB</author>
+            <date>2006-02-21T00:00:00-05:00</date>
+            <content>Current Hibernate code base being used is 3.0. It can be downloaded from &lt;br&gt;&lt;a href=http://prdownloads.sourceforge.net/hibernate/?sort_by=date&amp;sort=desc target=_blank&gt;http://prdownloads.sourceforge.net/hibernate/?sort_by=date&amp;sort=desc&lt;/a&gt;&lt;br&gt;Will check in the jar files when I have a chance.</content>
+        </comment>
+    </comments>
+    <content>CVS에서 Coska_MySchool 프로젝트를 sync 받으시기 바랍니다.&lt;br&gt;&lt;br&gt;이제 Struts 를 위한 화면 디자인은 완전히 마무리되었네요.&lt;br&gt;이제 저도 부기흡 회장님이 하고 계신 작업에 뛰어 들어도 되겠군요..^^;&lt;br&gt;&lt;br&gt;아.. Ruby/Watir 프로젝트에도 테스트기준을 지금 나와있는 Struts+Tiles를&lt;br&gt;기반으로 작업계획을 잡으시면 되지 않을까 하네요.&lt;br&gt;&lt;br&gt;부 회장님이 하고 계신 작업을 어느정도 제가 따라잡고 나면&lt;br&gt;Ruby/Watir 로 금방 따라 가도록 하겠습니다.^^&lt;br&gt;&lt;br&gt;그럼 sync 하시고 궁금하신 점 있으면 질문 주세요.</content>
+    <postId>CBE668C3-25A0-42C0-A017-6F492925E1CC</postId>
+    <pubDate>2006-02-20T00:00:00-05:00</pubDate>
+    <title>Struts+Tiles 디자인 완료되었습니다.</title>
+</post>

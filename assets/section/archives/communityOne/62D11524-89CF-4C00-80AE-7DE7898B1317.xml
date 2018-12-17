@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments>
+        <comment>
+            <author>최덕선</author>
+            <date>2004-10-07T00:00:00-04:00</date>
+            <content>아이디어가 아무리 좋아도, 복잡고 어렵고 통제하기 힘든 시스템은 오래하기 힘든 것 같아요. 한번쯤 검토해 보시고, 회사 프로젝트에 제안해 봄직해 보이네요.</content>
+        </comment>
+    </comments>
+    <content>세상은 예상한 대로 가는 것 같습니다. 내가 책에서 light framework (heavy framework such as EJB and Struts)라는 개념을 도입했는데, 이제 가볍고 생산성이 높은 프레임워크에 대한 수요가 생기는 듯하군요. 여기 웹사이트에서 누군가 보낸 글입니다.&#xD;
+&#xD;
+Date:         Mon, 12 Apr 2004 13:00:02 +0200&#xD;
+Reply-To:     LE QUANG TU &lt;vgbvn@numericable.fr&gt;&#xD;
+Sender:       An interest list for Sun Java Center J2EE Pattern Catalog&#xD;
+              &lt;J2EEPATTERNS-INTEREST@JAVA.SUN.COM&gt;&#xD;
+From:         LE QUANG TU &lt;vgbvn@NUMERICABLE.FR&gt;&#xD;
+Subject:      Re: The best java/j2ee framework?&#xD;
+Comments: To: Dao Xuan Nam &lt;namdx@fujitsu.com.vn&gt;&#xD;
+Content-Type: multipart/related; type="multipart/alternative";&#xD;
+&#xD;
+[multipart/alternative]&#xD;
+--------------------------------------------------------------------------------Hi Nam,&#xD;
+&#xD;
+I've found some j2ee frameworks that can support 3 tiers such as roja, realMethods, spring. What I'm looking for are something like reviews or suggestions of those.&#xD;
+  ----- Original Message ----- &#xD;
+  From: Dao Xuan Nam &#xD;
+  To: LE QUANG TU &#xD;
+  Sent: Monday, April 12, 2004 12:29 PM&#xD;
+  Subject: Re: The best java/j2ee framework?&#xD;
+&#xD;
+&#xD;
+  Hi Tu,&#xD;
+&#xD;
+  In my understanding, you have no framework that can support you in 3 tier. But I think that you can intergrate some frameworks like Strut, Hibernate, ... for your problem.&#xD;
+&#xD;
+  In my company, I am responsible to design a framework for web-tier and another framework for Business Tier. Then, all web developers can use two frameworksl in developement. It saves much time.&#xD;
+&#xD;
+  Nam&#xD;
+ </content>
+    <postId>62D11524-89CF-4C00-80AE-7DE7898B1317</postId>
+    <pubDate>2004-10-06T00:00:00-04:00</pubDate>
+    <title>RE: Spring framework (java/J2EE framework)</title>
+</post>

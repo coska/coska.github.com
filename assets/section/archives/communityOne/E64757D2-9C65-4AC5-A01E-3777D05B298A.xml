@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>신민용</author>
+    <comments/>
+    <content>#!C:\app\Perls\perl\bin\perl.exe&#xD;
+use strict 'vars';&#xD;
+use strict 'subs';&#xD;
+&#xD;
+use CGI;&#xD;
+&#xD;
+print "Content-Type: text/html\n\n";&#xD;
+&#xD;
+my $cgi = CGI-&gt;new;&#xD;
+&#xD;
+   my $text = $cgi-&gt;param("text");&#xD;
+   my $name = $cgi-&gt;param("name");&#xD;
+   &#xD;
+   &#xD;
+   if ( $text )&#xD;
+   {        &#xD;
+        my $fd;&#xD;
+        eval&#xD;
+        {&#xD;
+            open($fd, "+&gt;$name") or die "&gt;&gt;&gt;Cannot open file[$name]&lt;&lt;&lt;";&#xD;
+            print $fd $text;&#xD;
+            close($fd);&#xD;
+            &#xD;
+            print "name=$name&lt;br&gt;";&#xD;
+            print "text=$text&lt;br&gt;";&#xD;
+        };&#xD;
+        &#xD;
+        if ( $@ )&#xD;
+        {&#xD;
+            print "### ERROR ###&lt;br&gt; $@ &lt;br&gt;";   &#xD;
+        }    &#xD;
+   }&#xD;
+   &#xD;
+else&#xD;
+{&#xD;
+print &lt;&lt; "EOF"&#xD;
+&#xD;
+&lt;html&gt;&#xD;
+&lt;body&gt;&#xD;
+&lt;table&gt;&#xD;
+&lt;form action="/cgi-bin/port.cgi" method="POST"&gt;&#xD;
+&#xD;
+&lt;tr&gt;&lt;td&gt;&#xD;
+   &lt;input name="name" value="input.txt"/&gt;&#xD;
+&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;&#xD;
+   &lt;textarea name="text" rows="30" cols="120"&gt; &lt;/textarea&gt;&#xD;
+&lt;/td&gt;&lt;/tr&gt;&#xD;
+&lt;tr&gt;&lt;td&gt;&#xD;
+  &lt;input type="submit" value="submit"/&gt;&#xD;
+&lt;/td&gt;&lt;/tr&gt;  &#xD;
+&lt;/form&gt;&#xD;
+&lt;/body&gt;&#xD;
+&lt;/html&gt;&#xD;
+EOF&#xD;
+}&#xD;
+&#xD;
+&#xD;
+1;&#xD;
+&#xD;
+6. Prop   905-832-8502&#xD;
+   905-832-8566  : To Daniel.&#xD;
+ &#xD;
+7. VELCOM. &#xD;
+ 905-793-6894</content>
+    <postId>E64757D2-9C65-4AC5-A01E-3777D05B298A</postId>
+    <pubDate>2011-08-22T00:00:00-04:00</pubDate>
+    <title>test</title>
+</post>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments/>
+    <content>---&lt; 2.2 Homework &gt;-------------------------------------&#xD;
+This assignment will be reviewed on April ?, 9:30 Morning Class&#xD;
+&#xD;
+Inventory Management&#xD;
+As subsequent series from the 'PetStore' application, a inventory management application will be added. First time, this will be developed as a separate and standalone program with own UI and own classes. The IM(Inventory Management)&#xD;
+has two functionality - 1. incoming stocks, 2. outgoing stocks&#xD;
+&#xD;
+1. outgoing stocks&#xD;
+When new orders from sales department arrive, it displays current available stocks. If orders is decided, the order amount is deducted from the inventory total. &#xD;
+If the remaining stocks is below minimum level, it generates back order to suppliers , not exceeding recommending maximum stocks. Inventory staff defines maximum and minimum stocks level for each product in advance.&#xD;
+&#xD;
+2. incoming stocks&#xD;
+When new stocks is delivered from suppliers, inventory staff updates the quantity.&#xD;
+&#xD;
+As same as 2.1 AddressBook application, you can build this UI in Swing, Servlet or JSP optionally and consider RDB option for data storage if you can. The expected output from developers will be class diagram, pseudo code and real runnable codes. Due date will be posted soon after discussion. &#xD;
+&#xD;
+&lt;&gt;&#xD;
+&#xD;
+Inventory Manager&#xD;
+Product ID : ________&#xD;
+Quantity : ________&#xD;
+Available stock : ________&#xD;
+&#xD;
+[check] [Order] [Add] [Cancel]&#xD;
+------------------------------------&#xD;
+Result Message : XXXXXX xxxxxx XXXXXX&#xD;
+&#xD;
+</content>
+    <postId>D7416A6A-6265-4247-9E9D-B29BE6119763</postId>
+    <pubDate>2001-04-28T00:00:00-04:00</pubDate>
+    <title>2.2 Homework </title>
+</post>

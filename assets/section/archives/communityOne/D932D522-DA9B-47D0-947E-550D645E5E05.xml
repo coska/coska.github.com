@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>Bran</author>
+    <comments/>
+    <content>Hi. I'm afraid if I can answer u well.&#xD;
+&#xD;
+Firstly, in e-commerce implementation EJB is not mandatory of course. There are applications only used by JSPs plus Servlets. EJBs should be considered in the distributed system environment (with programming and resources) and satisfies well easily changeable busines requirements. You'd better not think that EJB is the sole solution to EC system development. But what is sure is after u constructed it by EJBs, You will have many advantages. What? You'll find them out. Actually I'm going to develope a service called 'EC hosting' in my company sooner or later and I'm going to use EJBs. Now I'm designing three types of system and my mission is that each has to provide common services in the different environment. So what'll be developed should include various functional processes. Why I chose EJB is that EJBs are flexible, portable, reusable as a component, moreover extensible with XML. XML is a perfect technology if we have to build a B2B system.&#xD;
+&#xD;
+2. I have not heard that which RDB is great with EJBs. EJB does not considerate what the database is at all. Enterprise Beans can participate in handling DB it if we use BMP. But what we will face to one problem while developing it. It is mapping Objects to RDB tables. So maybe we would use OR mapping tools like 'Top-Link'. (I think if we design RDB from the first including object concepts we will not use it.)&#xD;
+&#xD;
+3. As u know EJBs' application needs some elements. Web server, JVM(jdk), J2EE, Applicaton Server(JSP/Servlet container + EJB container), DB. You may feel difficult to install all of these a little, but I'm sure it is not so difficult. At last I hope you'll know the EJBs are very depent on vendor's product of an application server to develope, so you'd better recognize what functions the product provides.&#xD;
+&#xD;
+Thanks.</content>
+    <postId>D932D522-DA9B-47D0-947E-550D645E5E05</postId>
+    <pubDate>2001-04-18T00:00:00-04:00</pubDate>
+    <title>RE: Anyone starts J2EE before?</title>
+</post>

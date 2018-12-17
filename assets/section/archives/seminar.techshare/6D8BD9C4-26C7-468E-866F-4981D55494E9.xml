@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김동원</author>
+    <comments/>
+    <content>CouchDB&lt;br&gt;Version: 1.0.1&lt;br&gt;DB Data: Semi-structured, document oriented data (Schema-free)&lt;br&gt;DB Change/Upgrade: Flexible and easy&amp;nbsp;&amp;nbsp;&lt;br&gt;DB Distribution: A peer based distributed database system&lt;br&gt;Access Language: JSON (JavaScript Object Notation) API&lt;br&gt;Data Type: strings, numbers, dates, ordered lists and associative maps&lt;br&gt;Indexing: Documents are indexed in b-trees by their name (DocID) and a Sequence ID.&lt;br&gt;Updating: being serialized &lt;br&gt;Reading: using a Multi-Version Concurrency Control (MVCC) model, no locking out </content>
+    <postId>6D8BD9C4-26C7-468E-866F-4981D55494E9</postId>
+    <pubDate>2010-10-31T00:00:00-04:00</pubDate>
+    <title>CouchDB</title>
+</post>

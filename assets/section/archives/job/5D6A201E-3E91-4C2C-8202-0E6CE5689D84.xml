@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>박선교</author>
+    <comments>
+        <comment>
+            <author>이상훈</author>
+            <date>2007-11-26T00:00:00-05:00</date>
+            <content>메일 드렸습니다.</content>
+        </comment>
+    </comments>
+    <content>I found a good article from July 30, 2007 issue of Computer World. If you prepare an interview, it might help reading it. &lt;br&gt;&lt;br&gt;I can't attach the file. (error with &lt;br&gt;"Warning: move_uploaded_file(data/career/Why_Should_I_Hire_You.doc) [function.move-uploaded-file]: failed to open stream: Permission denied in /home/coskaco/public_html/v2003/write_ok.php on line 221&lt;br&gt;&lt;br&gt;Warning: move_uploaded_file() [function.move-uploaded-file]: Unable to move '/tmp/phpKihh2J' to 'data/career/Why_Should_I_Hire_You.doc' in /home/coskaco/public_html/v2003/write_ok.php on line 221".&lt;br&gt;&lt;br&gt;If someone is interested in this article, please send me an e-mail (sun.park@scotiabank.com), then I'll send it to you.&lt;br&gt;&lt;br&gt;Or you can go to ComputerWorld.com and search 'Why should i hire you' and you'll be able to see it on-line.&lt;br&gt;&lt;br&gt;Thanks</content>
+    <postId>5D6A201E-3E91-4C2C-8202-0E6CE5689D84</postId>
+    <pubDate>2007-11-26T00:00:00-05:00</pubDate>
+    <title>Why Should I Hire You?</title>
+</post>

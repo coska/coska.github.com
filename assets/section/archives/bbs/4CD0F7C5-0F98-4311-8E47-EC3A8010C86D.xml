@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>허현옥</author>
+    <comments>
+        <comment>
+            <author>김경용</author>
+            <date>2010-09-15T00:00:00-04:00</date>
+            <content>참여하고 싶은데,,, 제 자바실력으로 폐가 될지 모르겠습니다.</content>
+        </comment>
+        <comment>
+            <author>허현옥</author>
+            <date>2010-09-15T00:00:00-04:00</date>
+            <content>겸손도 지나치면 안좋은 법인데요. 경용씨 ^^;;;</content>
+        </comment>
+        <comment>
+            <author>권세은</author>
+            <date>2010-09-15T00:00:00-04:00</date>
+            <content>참여는 하고싶은데, 프로그램은 전혀 할줄 모릅니다.. T.T</content>
+        </comment>
+        <comment>
+            <author>구진회</author>
+            <date>2010-09-16T00:00:00-04:00</date>
+            <content>정말 오랜만에 흥분되는 프로젝트라 생각됩니다. 아무쪼록 좋은 과실을 거둘 수 있게 힘써봅시다.</content>
+        </comment>
+        <comment>
+            <author>김형태</author>
+            <date>2010-09-18T00:00:00-04:00</date>
+            <content>음~, 취지도 좋고, 간단하게 시작하니 재미도 있겠군요.</content>
+        </comment>
+        <comment>
+            <author>황대현</author>
+            <date>2010-09-19T00:00:00-04:00</date>
+            <content>현재 제가 필요로 하는 프로젝트인 것 같습니다. 프로젝트를 해야 공부를 열심히 할 것 같아서.. --;;</content>
+        </comment>
+        <comment>
+            <author>김병용</author>
+            <date>2010-09-20T00:00:00-04:00</date>
+            <content>도움이 될지 모르겠지만 참여하고 싶습니다. ^^</content>
+        </comment>
+        <comment>
+            <author>차상철</author>
+            <date>2010-09-20T00:00:00-04:00</date>
+            <content>Please count me in for the project. 역시 코딩을 해야 살아 있는 것 같아서..</content>
+        </comment>
+        <comment>
+            <author>박만식</author>
+            <date>2010-09-20T00:00:00-04:00</date>
+            <content>I'm willing to join this project.</content>
+        </comment>
+        <comment>
+            <author>김동원</author>
+            <date>2010-09-26T00:00:00-04:00</date>
+            <content>어느정도 시간을 낼 수 있을지 모르지만 아뭏튼 참여하고 싶습니다.</content>
+        </comment>
+        <comment>
+            <author>정경호</author>
+            <date>2010-09-28T00:00:00-04:00</date>
+            <content>간단한 코딩밖에 하지 못하는 프로그램 초보이지만, 소프트웨어 개발과정을 직접 보고 공부하기 위해 참여하고 싶습니다!</content>
+        </comment>
+    </comments>
+    <content>올해 전반기에 실행한 Mobile 세미나에 이어&lt;br&gt;Android 프로젝트를 진행할까 합니다.&lt;br&gt;&lt;br&gt;공부+프로젝트이기에 Java만 좀 하실줄알면 참여하실수 있으리라 봅니다.&lt;br&gt;제가 그냥 혼자해도 되겠지만 하나의 프로젝트를 여러명이 같이 하는게&lt;br&gt;서로서로에게 도움도 될거같아서 Coska프로젝트로 진행을 하게되었습니다.&lt;br&gt;중요한건 "세미나 아님!" 입니다.^^; 모두 실제로 프로젝트에 참여하셔서 &lt;br&gt;코딩 하셔야 됩니다.&lt;br&gt;&lt;br&gt;이번프로젝트는 Myschool 프로젝트처럼 실제 프로덕션까지 갈 계획이기때문에&lt;br&gt;실제로 열심히 참여하실수 있는분들이 오시면 더 좋을 거 같구요. 현제 계획은&lt;br&gt;끝까지 참여하신분들의 이름을 프로그램상에 표기까지 할 생각이기에 혹시 나중에&lt;br&gt;이력서나 경력에 조금은 더 도움이 되시리라 믿습니다.&lt;br&gt;&lt;br&gt;현제 계획은 Twitter나 Facebook Mobile app 처럼 Android에&lt;br&gt;Coska 사이트에 새글이 올라오면 자동으로 업데이트해주고, Android에서 바로&lt;br&gt;글을 올릴수도 있게 하는 App을 생각중이구요. 시작은 아주 간단한 List형태로&lt;br&gt;글을 보여주고 글을 입력할수 있는 정도의 기능만으로 시작을 할것입니다. &lt;br&gt;App의 사이즈를 제한하기위해서 Android에 보내는 request를 현재 php로&lt;br&gt;되어있는 Coska 사이트에 php로 Web Service형태로 돌려주는 기능을 &lt;br&gt;Coska 사이트에도 탑재할 생각이니까 php도 좀 하실줄 아시는 분이 계시면&lt;br&gt;더 좋겠네요. 서버와의 통신은 xml 형태로 될거구 Login에 대한 encryption도&lt;br&gt;포함될거구요... 뭐 암튼 많은 분들이 참여하셔서 더 좋은 아이디어가 있으시면&lt;br&gt;방향의 선회도 가능합니다.&lt;br&gt;&lt;br&gt;첫 모바일 프로젝트이기에 무리한 기능을 넣어서 중간에 유야무야되는 일을 없도록&lt;br&gt;할 계획입니다. 이유는 예전에도 늘 그랬듯이 "할려면 제대로 하죠???" 라고&lt;br&gt;첫 프로젝트 모임에 나와서 프로젝트 사이즈만 부풀리시고는 안나오시는 분들이 많더라구요..^^;;;&lt;br&gt;&lt;br&gt;현재 Galleria의 사정으로 장소가 문제이긴 한데요. 얼마나 많은 분들이 관심이 있으신지 보구&lt;br&gt;첫모임은 그냥 커피숍같은데서 하고 실제 프로젝트 시작되면 저희집 지하 벙커(?)에서 맥주마시면서&lt;br&gt;진행해도 지장 없을거 같으니 큰문제는 아닐거 같네요. (Coska 프로젝터도 저희집에 있다는...)&lt;br&gt;&lt;br&gt;적어도 이번달 마지막주나 10월 첫째주에는 첫 모임을 햇으면 하는 계획입니다.&lt;br&gt;관심있으신 분들은 답글에 성함과 email을 남겨주시면 계획이 잡히는 데로 Coska에 공지도하고&lt;br&gt;메일로도 보내드리겠습니다. &lt;br&gt;&lt;br&gt;글구 혹시 프로젝트에 참여하고 싶으신데 학생이시거나 아니면 그 외에 기타 여건이 어려우신분들은&lt;br&gt;답글이나 저에게 메일 주시면 제가 최대한 도와드리겠습니다.&lt;br&gt;&lt;br&gt;그럼 프로젝트 첫모임때 뵈요.</content>
+    <postId>4CD0F7C5-0F98-4311-8E47-EC3A8010C86D</postId>
+    <pubDate>2010-09-15T00:00:00-04:00</pubDate>
+    <title>첫 Android App 프로젝트를 시작할까 합니다.</title>
+</post>

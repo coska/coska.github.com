@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>최덕선</author>
+    <comments>
+        <comment>
+            <author>이성기</author>
+            <date>2003-10-24T00:00:00-04:00</date>
+            <content>https://roja.dev.java.net/servlets/ProjectDocumentList?folderID=68 에 가면, 제가 토요타에서 일할때 만든 ANT용 websphere deployment sample과 자료를 볼수 있습니다. 자세한 사항은 저의 회사로 연락주세요.</content>
+        </comment>
+    </comments>
+    <content>현재 근무하는 회사에서 활발하게 testing관련된 툴를 광범히 하게 검토 중에 있습니다.&#xD;
+&#xD;
+ junit, jTest, OpenSTA, IntroScope 등등&#xD;
+혹시 사용하게 계시거나, 좋은 방법론/툴 있으시면 추천바라며, Automated deployment 에 관련해서도 마찬가지입니다.&#xD;
+&#xD;
+ Ant, Cruise Control 등이 검토중입니다. &#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+</content>
+    <postId>FEC01F4D-587F-40C9-8751-1EF11236F54A</postId>
+    <pubDate>2003-10-24T00:00:00-04:00</pubDate>
+    <title>Testing/Automated deployment tools</title>
+</post>

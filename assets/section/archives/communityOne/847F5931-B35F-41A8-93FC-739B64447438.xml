@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>신민용</author>
+    <comments>
+        <comment>
+            <author>황성규</author>
+            <date>2002-04-11T00:00:00-04:00</date>
+            <content>Thank you. Sir!</content>
+        </comment>
+    </comments>
+    <content>한가지를 덧붙여서,&#xD;
+제가 쓰는 방법을 소개할까 합니다.&#xD;
+기본적으로 는 같은 방법이지만.....&#xD;
+개발중 사람마다 느끼는 것은 같은가 봅니다.&#xD;
+(string array를 어찌 처리할까 고민하는 것은...)&#xD;
+&#xD;
+ArrayList에서 상속을 받아서 MyArray만든다음&#xD;
+몇가지 입맛에 맞게 바꾼다음 사용합니다.&#xD;
+여러 번거러운 과정을 wrap할수 있습니다.&#xD;
+&#xD;
+그리고 웬만하면 Vector사용하지 말고&#xD;
+ArrayList 를 사용하세요..&#xD;
+속도가 훨씬 빠름니다.&#xD;
+단,concurrent 하게 사용는 경우는 제외하고요...&#xD;
+&#xD;
+예)&#xD;
+-------------------------------------&#xD;
+&#xD;
+MyArray arr = new MyArray();&#xD;
+arr.add("999");&#xD;
+arr.add("333");&#xD;
+arr.add("555");&#xD;
+someMethod( arr.toStringArray() );&#xD;
+&#xD;
+arr.sort();&#xD;
+someMethod( arr.toStringArray() );&#xD;
+&#xD;
+&#xD;
+-------------------------------------&#xD;
+public class MyArray extends ArrayList&#xD;
+{&#xD;
+       &#xD;
+       public String[] toStringArray()&#xD;
+       {&#xD;
+       	      String[] result = new String[size()];&#xD;
+       	      toArray(result);&#xD;
+       	      return result;&#xD;
+       }&#xD;
+       &#xD;
+       public void addStringArray(String[] values)&#xD;
+       {&#xD;
+       	      int i = 0;&#xD;
+       	      while( i &lt; values.length ) add(values[i++]);&#xD;
+       }&#xD;
+&#xD;
+       public void removeAll()&#xD;
+       {&#xD;
+       	      removeRange(0, size());&#xD;
+       }&#xD;
+              &#xD;
+       public void sort()&#xD;
+       {&#xD;
+       	      String[] values = getStringArray();&#xD;
+       	      Arrays.sort(values);&#xD;
+       	      int i = 0;&#xD;
+       	      while( i &lt; values.length ) set(i,values[i++]);&#xD;
+       }&#xD;
+       &#xD;
+&#xD;
+}&#xD;
+-------------------end-----------------------&#xD;
+&#xD;
+황성규 wrote:&#xD;
+&gt; String[] myStrArr = new String ( myVector.size() ); &#xD;
+&gt; for (int i=0; i&lt; myVector.size(); i++) &#xD;
+&gt; myStrArr[i] = (String) myVector.elementAt(i); &#xD;
+&gt; &#xD;
+&gt; someMethod( myStrArr ); &#xD;
+&gt; &#xD;
+&gt; 이부분을 이렇게하면 좀 더 간단하군요.&#xD;
+&gt; &#xD;
+&gt; String[] myStrArr = new String ( myVector.size() ); &#xD;
+&gt; myVector.toArray( myStrArr );&#xD;
+&gt; &#xD;
+&gt; someMethod( myStrArr ); &#xD;
+&gt; &#xD;
+&gt; </content>
+    <postId>847F5931-B35F-41A8-93FC-739B64447438</postId>
+    <pubDate>2002-04-11T00:00:00-04:00</pubDate>
+    <title>RE: RE: How to build String array dynamically?</title>
+</post>

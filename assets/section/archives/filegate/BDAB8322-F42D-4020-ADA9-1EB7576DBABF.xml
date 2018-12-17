@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>박진호</author>
+    <comments/>
+    <content>&lt;b&gt;C# 기초&lt;/b&gt;&lt;br&gt;&lt;br&gt;참, 하나 빼먹은게 있어서 다시 짧게 올립니다.&lt;br&gt;&lt;br&gt;Namespace&lt;br&gt;&lt;br&gt;“Justin got a girl friend”&lt;br&gt;&lt;br&gt;캐나다에 와서 Justin이라는 이름을 많이 듣게 됩니다. 친구중에서 도 몇명있고 지하철 타고 Justin이라고 부르면 몇명이 쳐다볼 만큼 흔한 이름입니다. 그럼 제가 지금 말하는 Justin은 어느 Justin 을 가르키는 걸까요? 모르시겠죠? 요럴때 namespace가 유용한 거죠. Namespace를 그냥 name prefix라고 해도 될지 모르겠네요. 예를 들면 이런 거죠.&lt;br&gt;캐나다에 토론토에 무슨무슨 학교, 몇반, 몇번 Justin. 이런식으로 이름을 붙이는거죠.&lt;br&gt;코드로 볼까여?&lt;br&gt;&lt;br&gt;namespace Canada.Toronto.XXXschool.XXclass.No31&lt;br&gt;{&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;class Justin&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;{&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;...&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;}&lt;br&gt;}&lt;br&gt;&lt;br&gt;ㅎㅎ 불새팀 화이링~!</content>
+    <postId>BDAB8322-F42D-4020-ADA9-1EB7576DBABF</postId>
+    <pubDate>2005-07-05T00:00:00-04:00</pubDate>
+    <title>[불새 병아리] 수업 준비 노트 - namespace</title>
+</post>

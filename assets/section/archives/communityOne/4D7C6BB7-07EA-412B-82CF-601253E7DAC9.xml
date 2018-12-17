@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김민</author>
+    <comments>
+        <comment>
+            <author>이성기</author>
+            <date>2002-04-11T00:00:00-04:00</date>
+            <content>좋은 주제입니다. Logging API에 대하여 해볼까하는데...</content>
+        </comment>
+    </comments>
+    <content>J2SE 1.4 Version을 바탕으로 Performance Tuning 에 관한 세미나를 준비해 볼까 합니다. 기존의 Java Developer들은 보통 기존의 기능밖에 알지 못하며 그곳에만 모든것을 의지하는 경향이 있는데 얼마전 나온 Version 1.4에는 여러가지 우리가 생각해야 될것들이 많이 있어서 잘 알지 못하면 너무나도 좋은 기능을 간과하기 쉬운것 같기에...&#xD;
+&#xD;
+이를 테면 ---&#xD;
+&#xD;
+New I/O Architecture : I/O를 혁신적으로 효율적으로 사용..&#xD;
+&amp;#150; Non Blocking I/O&#xD;
+&amp;#150; Improved Buffer Management, File I/O&#xD;
+&#xD;
+Concurrent Garbage Collection : Java Runtime Option&#xD;
+&amp;#150; -Xcongc&#xD;
+&#xD;
+등등...&#xD;
+&#xD;
+일정은 Security 세미나시 함께 결정하는것이 좋을듯 합니다.</content>
+    <postId>4D7C6BB7-07EA-412B-82CF-601253E7DAC9</postId>
+    <pubDate>2002-04-10T00:00:00-04:00</pubDate>
+    <title>Performance Tuning based on J2SE 1.4</title>
+</post>

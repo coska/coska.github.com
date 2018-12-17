@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>강윤정</author>
+    <comments>
+        <comment>
+            <author>이성기</author>
+            <date>2004-10-29T00:00:00-04:00</date>
+            <content>Is this Websphere Test Environment in WSAD or standalone Websphere? then what is WAS version?</content>
+        </comment>
+    </comments>
+    <content>I am in transition of my dev environment of Eclipse + Tomcat to WebSphere studio and server and have quite a bit of issues now.&#xD;
+&#xD;
+Where does WebSphere store its loggging in case some "unexpected" exceptions happens within the deployed application?&#xD;
+&#xD;
+WebSphere has its own log directory and some kind of &#xD;
+file named as "...exception" seems to be the file keeping &#xD;
+all kinds of errors that hadn't been caught by the application itself.&#xD;
+But I cannot find any exception stack information or anything.&#xD;
+Every exceptions I saw on that file was all IBM's own exceptions not my application.&#xD;
+&#xD;
+Tomcat catches these unexpected errors and put them on&#xD;
+its own log file so it is quite good spot to get a clue of&#xD;
+what went wrong.&#xD;
+&#xD;
+I'd like to find a similar log file in WebSphere but so far no luck..&#xD;
+</content>
+    <postId>C59D6CBA-9309-4DA1-8A38-C6DF93998A4A</postId>
+    <pubDate>2004-10-29T00:00:00-04:00</pubDate>
+    <title>WebSphere - how to see unexpected error?</title>
+</post>

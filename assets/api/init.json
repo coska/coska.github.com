@@ -40,14 +40,27 @@
     {
       "title": "Archives", "pgid": "archives",
       "subMenu": [
-        {"title": "구인/구직","pgid": "archv0101","layout": "section","doctype": "xml"},
+        {"title": "세미나","pgid": "seminar","layout": "section","doctype": "xml"},
+        {"title": " .Tech Share","pgid": "seminar.techshare","layout": "section","doctype": "xml"},
+        {"title": " .DOTNET Study","pgid": "seminar.dotnet","layout": "section","doctype": "xml"},
+        {"title": "운영자 자료실","pgid": "admin.files","layout": "section","doctype": "xml"},
+        {"title": "My School","pgid": "mySchool","layout": "section","doctype": "xml"},
+        {"title": "PC Education","pgid": "pcedu","layout": "section","doctype": "xml"},
+        {"title": "게시판","pgid": "bbs","layout": "section","doctype": "xml"},
+        {"title": "수다떨기","pgid": "suda","layout": "section","doctype": "xml"},
+        {"title": "FileGate","pgid": "filegate","layout": "section","doctype": "xml"},
+        {"title": "EYE FIVE","pgid": "eyefive","layout": "section","doctype": "xml"},
+        {"title": "Living in Canada","pgid": "livinginCanada","layout": "section","doctype": "xml"},
+        {"title": ".Immigration","pgid": "livinginCanada.immigration","layout": "section","doctype": "xml"},
+        {"title": ".Classified","pgid": "livinginCanada.classified","layout": "section","doctype": "xml"},
+        {"title": "Golf Coska","pgid": "golfCoska","layout": "section","doctype": "xml"},
+        {"title": "COMMUNITY ONE","pgid": "communityOne","layout": "section","doctype": "xml"},
+        {"title": "구인/구직","pgid": "job","layout": "section","doctype": "xml"},
+        {"title": "공지","pgid": "notice","layout": "section","doctype": "xml"},
         {"layout": "divider" },
-        {"title": "Test ", "layout": "header"},
-        {"title": "RSS Canada","pgid": "rss-canada","layout": "page","doctype": "xml"},
-        {"title": "Manual","pgid": "manual","layout": "page","doctype": "markdown"},
-        {"title": "BBS","pgid": "bbs","layout": "section","doctype": "xml"}
+        {"title": "Manual","pgid": "manual","layout": "page","doctype": "markdown"}
       ]
-    },
-    {"title": "Facebook","layout": "extlink","url": "https://www.facebook.com/groups/coska4u"}
+    }
+    
   ]
 }

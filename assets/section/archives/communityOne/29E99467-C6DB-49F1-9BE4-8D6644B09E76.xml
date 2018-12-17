@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>홍영기</author>
+    <comments>
+        <comment>
+            <author>thomas lee</author>
+            <date>2003-01-31T00:00:00-05:00</date>
+            <content>Pool tornament after seminar ???</content>
+        </comment>
+    </comments>
+    <content>작년 신민용님과 황성규님의 오라클 데이타베이스 강의에 이어&#xD;
+Database Performance Tuning 세미나를 할까 합니다.&#xD;
+&#xD;
+당구를 처음 배울 땐 어떻게든 한번 맞춰 보는게 목표지만,&#xD;
+어느 정도 실력이 늘면 뒷 공을 볼 줄 아는 안목이 필요하게 됩니다.&#xD;
+SQL도 마찬가지인 것 같습니다.&#xD;
+처음엔 원하는 결과를 얻기 위해 SQL구문자체에만 신경쓰게 되지만,&#xD;
+내가 작성한 SQL이 어떻게 수행되는지 점차 관심을 두게 됩니다.&#xD;
+그리고 관심의 가운데엔 Optimizer란 놈이 있더군요.&#xD;
+&#xD;
+&lt;a href="http://download-east.oracle.com/docs/cd/B10501_01/server.920/a96533.pdf" target="_blank"&gt;Oracle9i : Database Performance Tuning Guide and Reference&lt;/a&gt;&#xD;
+란 오라클 문서를 위주로 DBA가 아닌 Application개발자로서 필요하다고 생각되는 부분을 &#xD;
+요약할 발표할 생각입니다. &#xD;
+&#xD;
+Database Performance Tuning&#xD;
+1. Performance Tuning 이해 : SQL Processing Architecture, Optimizer Operations 등등&#xD;
+2. Optimizer Operations : IN-List Iterators, Concatenation, Remote 등등&#xD;
+3. How the Optimizer Transforms SQL Statements : Unnests Subqueries, Merges Views 등등&#xD;
+4. Understanding Indexes : Bitmap index 등등&#xD;
+5. SQL Statement Tuning : Some tips for SQL&#xD;
+&#xD;
+요즘은 기계 자체가 너무 좋아져서 대부분 튜닝을 염두에 두지 않아도 되지만,&#xD;
+간혹 문제가 되는 SQL 등이 있을 때 문제를 해결할 수 있는 바탕이 될 것 같습니다.&#xD;
+&#xD;
+참 WhiteBoard가 있으면 좋겠네요.&#xD;
+&#xD;
+일시 : 2월 7일 (금요일 오후 7:30 pm)&#xD;
+장소 : 1228 Garcia st. Mississauga 905-814-6170 (최덕선 자택)&#xD;
+       (Britannia &amp; Creditview southeast side)&#xD;
+       I would recommend you to come from CreditView since there is no traffic sign from Britania&#xD;
+&#xD;
+       1.See the Duval rd(new) on your right side before tthe Britania and turn to the right(east), and soon you will meet the WhiteHorn&#xD;
+       2.At the WhiteHorn turn to the left(north), you wouldn't miss the Garcia st on your left side.&#xD;
+&#xD;
+       지도를 올릴려고 하는데 잘 안돼네요. 아시는 분 조언 부탁드립니다.&#xD;
+&#xD;
+&lt;a href="http://city.mississauga.on.ca/tranwork/engineer/design/html/stguide/Z38Esurr.htm" target="_blank"&gt;미시사가 지도&lt;/a&gt;의 A2지역을 보세요.&#xD;
+&#xD;
+&#xD;
+참석하실분 (비번 : 1)&#xD;
+---------------------------------------------&#xD;
+홍영기&#xD;
+최덕선 (장소 제공합니다.)&#xD;
+황성규&#xD;
+Thomas Lee&#xD;
+강윤정&#xD;
+이성기 ( bring white board ) - 7 pm is little bit early. no time to take dinner with family. &#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+</content>
+    <postId>29E99467-C6DB-49F1-9BE4-8D6644B09E76</postId>
+    <pubDate>2003-01-29T00:00:00-05:00</pubDate>
+    <title>Database Performance Tuning 세미나 제안 [7:30 pm]</title>
+</post>

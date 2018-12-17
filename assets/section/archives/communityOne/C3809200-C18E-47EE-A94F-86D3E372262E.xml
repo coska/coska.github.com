@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments/>
+    <content>Use Microsoft Access with Java  &#xD;
+jdbc servlet to access MS access sample source code is available at &#xD;
+http://webhome.idirect.com/~scottl/java/e-commerce/DBaccess/&#xD;
+=====================================================================&#xD;
+&#xD;
+Re 2: Use Microsoft Access with Java &#xD;
+Use Microsoft Access with Java&#xD;
+How do you connect to an Access-based database with JDBC?&#xD;
+&#xD;
+1. First, check your PC whether you have MS access. If you have office98 or 2000 CD, you can install MS access. &#xD;
+&#xD;
+2. MS access provides sample databases. Find address book database for now. Maybe MS access asks you to insert CD to install the database. &#xD;
+&#xD;
+3. Next, you need to configure your data source in ODBC driver. &#xD;
+go to Control panel -&gt; ODBC(data source) if win 98 and open it. &#xD;
+or Control panel -&gt; Administrative tools -&gt; ODBC data source -&gt; open it. You will see User DSN at first. &#xD;
+&#xD;
+4. select MS access database by double click. You will have another window&#xD;
+&#xD;
+5. write description ' address book ' and select database 'addressbook.mdb' in your MS access directory (c:\program files\microsoft office\office\samples\addressbook for example)&#xD;
+&#xD;
+6. select none in system database box. &#xD;
+Your data source setting is done. Next is to open your java source code for testing jdbc access. I already gave you 'jdbcServlet.java' in mail or previous item of this board. &#xD;
+&#xD;
+Only thing you need to change is JDBC class driver and jdbc url. &#xD;
+&#xD;
+Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");&#xD;
+&#xD;
+This class is provided by sun in jdk1.2 so you don't need to download any extra. &#xD;
+&#xD;
+Once you have a driver loaded and your data source set up, getting a connection is a simple matter of feeding the correct URL, name, and password to the getConnection() method.&#xD;
+&#xD;
+A JDBC URL takes the following form:&#xD;
+&#xD;
+jdbc::&#xD;
+&#xD;
+In the case of Microsoft Access and the ODBC bridge, it would take the form:&#xD;
+&#xD;
+jdbc:odbc:&#xD;
+&#xD;
+where is the name that you gave the data source when you set it up.&#xD;
+&#xD;
+As an aside for those using other drivers, is the name of the connectivity mechanism used by the driver.&#xD;
+&#xD;
+In my answer, I've assumed quite a bit of JDBC knowledge. If you're completely new to JDBC, or even if you just need to brush up your skills a bit, head on over to the JDBC Short Course (see Resources), an excellent training course that will get you up to speed quickly.&#xD;
+&#xD;
+In this addresss book database with ms access the user id is 'Admin' and password is null "". So the line will be &#xD;
+&#xD;
+Class.forName( "sun.jdbc.odbc.JdbcOdbcDriver" );&#xD;
+newCon = DriverManager.getConnection( "jdbc:odbc:MS Access Database", "Admin", "" );&#xD;
+&#xD;
+7. You need to place this 'jdbcServlet.java' to your tomcat servlet code directory for example if you have 'examples' directory&#xD;
+&#xD;
+c:/tomcat/webapps/examples/WEB-INF/classes &#xD;
+or if you have 'oop' direcotory after downloaded oop.war. &#xD;
+&#xD;
+c:/tomcat/webapps/oop/WEB-INF/classes &#xD;
+&#xD;
+8. compile the code at the 'classes' directory. &#xD;
+&#xD;
+9. start your tomcat&#xD;
+&#xD;
+10. open browser and type url &#xD;
+http://localhost:8080/examples/servlet/jdbcServlet&#xD;
+or &#xD;
+http://localhost:8080/oop/servlet/jdbcServlet&#xD;
+based on your local directory structure. &#xD;
+&#xD;
+11. Then you will see the record dump screen from your address book sample db in MS access...&#xD;
+&#xD;
+12. Congratulations! Do you like Java ? Please reply to me. I am curious. &#xD;
+&#xD;
+--- for more detail on JDBC ----------&#xD;
+&#xD;
+Resources&#xD;
+&#xD;
+Sun's JDBC driver database:&#xD;
+http://industry.java.sun.com/products/jdbc/drivers&#xD;
+JDBC Short Course from Java.sun.com:&#xD;
+http://developer.java.sun.com/developer/onlineTraining/Database/JDBCShortCourse/index.html&#xD;
+&#xD;
+* &#xD;
+* * reply to &#xD;
+* * rojaware@bigfoot.com &#xD;
+ &#xD;
+</content>
+    <postId>C3809200-C18E-47EE-A94F-86D3E372262E</postId>
+    <pubDate>2001-04-28T00:00:00-04:00</pubDate>
+    <title>Use Microsoft Access with Java  </title>
+</post>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>신민용</author>
+    <comments>
+        <comment>
+            <author>고상호</author>
+            <date>2004-08-12T00:00:00-04:00</date>
+            <content>Could be an answer.&#xD;
+http://www.junlu.com/msg/30251.html</content>
+        </comment>
+    </comments>
+    <content>LocalString 관련 메세지가 계속 뜨는데,&#xD;
+config문제인것 같은데 어캐해야 합니까?&#xD;
+&#xD;
+[INFO] PropertyMessageResources - -Initializing, config='org.apache.struts.util.LocalStrings', returnNull=true&#xD;
+&#xD;
+[INFO] PropertyMessageResources - -Initializing, config='org.apache.struts.action.ActionResources', returnNull&#xD;
+=true&#xD;
+[INFO] PropertyMessageResources - -Initializing, config='struts.test.AlternateApplicationResources', returnNul&#xD;
+l=true&#xD;
+[INFO] PropertyMessageResources - -Initializing, config='struts.test.ApplicationResources', returnNull=true&#xD;
+[INFO] ValidatorPlugIn - -Loading validation rules file from '/WEB-INF/validator-rules.xml'&#xD;
+[INFO] ValidatorPlugIn - -Loading validation rules file from '/WEB-INF/validation.xml'&#xD;
+&lt;12-Aug-04 2:08:55 EDT PM&gt; &lt;Notice&gt; &lt;WebLogicServer&gt; &lt;ListenThread listening on port 7001&gt;&#xD;
+&lt;12-Aug-04 2:08:56 EDT PM&gt; &lt;Notice&gt; &lt;Management&gt; &lt;Starting discovery of Managed Server... This feature is on b&#xD;
+y default, you may turn this off by passing -Dweblogic.management.discover=false&gt;&#xD;
+&lt;12-Aug-04 2:08:56 EDT PM&gt; &lt;Notice&gt; &lt;WebLogicServer&gt; &lt;Started WebLogic Admin Server "examplesServer" for domai&#xD;
+n "examples" running in Development Mode&gt;&#xD;
+[INFO] PropertyMessageResources - -Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNu&#xD;
+ll=true&#xD;
+[INFO] PropertyMessageResources - -Initializing, config='org.apache.struts.util.LocalStrings', returnNull=true&#xD;
+&#xD;
+[INFO] PropertyMessageResources - -Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNu&#xD;
+ll=true&#xD;
+[INFO] PropertyMessageResources - -Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNu&#xD;
+ll=true&#xD;
+[INFO] PropertyMessageResources - -Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNu&#xD;
+ll=true&#xD;
+[INFO] PropertyMessageResources - -Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNu&#xD;
+ll=true&#xD;
+[INFO] PropertyMessageResources - -Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNu&#xD;
+ll=true&#xD;
+[INFO] PropertyMessageResources - -Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNu&#xD;
+ll=true&#xD;
+[INFO] PropertyMessageResources - -Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNu&#xD;
+ll=true&#xD;
+[INFO] PropertyMessageResources - -Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNu&#xD;
+ll=true</content>
+    <postId>F14B3D73-9871-48F7-A919-B1F5C4A7BF50</postId>
+    <pubDate>2004-08-12T00:00:00-04:00</pubDate>
+    <title>strusts message question</title>
+</post>

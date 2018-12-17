@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>강윤정</author>
+    <comments/>
+    <content>Here are the attached sample source zip file.&#xD;
+Please run&#xD;
+&gt;java tax.paycal.CalculatorTest Rule2001&#xD;
+or&#xD;
+&gt;java tax.paycal.CalculatorTest Rule2002&#xD;
+&#xD;
+The argument is the name of specific rule engine&#xD;
+class. You can modify this to reading from the&#xD;
+property file.&#xD;
+&#xD;
+&#xD;
+</content>
+    <postId>3CB0C3DA-FBA5-439C-9A3D-3E38D7AC6640</postId>
+    <pubDate>2001-10-18T00:00:00-04:00</pubDate>
+    <title>RE: RE: I like your idea.</title>
+</post>

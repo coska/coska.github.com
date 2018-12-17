@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments>
+        <comment>
+            <author>김경환</author>
+            <date>2003-11-12T00:00:00-05:00</date>
+            <content>감사합니다. ^^</content>
+        </comment>
+    </comments>
+    <content>지난 7월부터 지금까지 여러군데 잡써치를 해보면서 Struts를 채용하여 웹개발을 하는 회사가 매우 많이 확산&amp;#46124;다는 것을 피부로 느꼇습니다. &#xD;
+&#xD;
+내가 전해 일하던 Edulinx Canada도 IBM의 Websphere business component composer framework을 버리고 Struts framework을 web presentation으로 활용하면서 자체적으로 framework을 개발하기로 했고, 현재 일하고 있는 Ford Motor에서도 Struts Framework과 자체 개발하고 있는 framework을 혼합하여 사용하고 있습니다. 물론 지난 해부터 1년간 일했던 Toyota motors도 architect방침이 Struts를 사용하기로 해서 지금 거의 모든 웹 프로젝트는 이를 채택하고 있습니다. &#xD;
+&#xD;
+그간 여러군데를 면접보면서 느낀 것은 회사중에는 EJB를 사용하는 회사, 그렇지 않은 회사도 있었지만, Struts framework은 거의 모든 회사가 공통적으로 사용하고 있었습니다. &#xD;
+&#xD;
+제가 Ford에 들어갈때, 2시간 면접중에서 마지막 30분은 Websphere Studio Application Developer (일명, WSAD, "와사드") 5.0에 내장된 Struts component를 이용하여 간단한 web application을 만들어 보는 것이 였습니다. Eclipse만 사용해 보았고, WSAD 5는 처음이 였기에 주어진 문제를 다 못풀고 말로 때우고 나왔습니다. &#xD;
+&#xD;
+일차 전화면접때 물어본 질문이 Struts framework을 사용할 때, ActionForm과 Action클래스를 매핑하는 파일이름이 무었인가였습니다. &#xD;
+&#xD;
+이제 Struts는 web application의 공통 문화로 자리 잡는 것 같습니다. 사용하다 보면 다소 불편한 점도 많지만, 일반 회사들에서 web application developer들간의 knowledge transfer없이 바로 협력하여 일할 수 있다는 잇점때문에 선호하는 것 같습니다. &#xD;
+&#xD;
+개인적으로 이 프레임워크가 마음에 안들더라도 취업을 위해서는 잘 공부해 두어야 하는 것인 현실인 것 같습니다.&#xD;
+&#xD;
+요즘 수요가 많은 자바기술자들의 항목을 보면 대개 다음 같은 stream으로 나뉘어 지는 것 같습니다. &#xD;
+&#xD;
+공통항목&#xD;
+========&#xD;
+&lt;pre&gt;&#xD;
+Design&#xD;
+  UML&#xD;
+  RUP&#xD;
+  Design Patterns (대개, Singleton, MVC, Adaptor 패턴을 많이 물어보고, Interface, Factory pattern까지는 간혹가다)&#xD;
+&#xD;
+API&#xD;
+  J2EE (대부분, Servlet, JSP, JDBC, JNDI정도를 의미하며 굳이 EJB를 필요로 할 경우는 EJB라는 항목을 별도로 많이 적는다)&#xD;
+  XML&#xD;
+  XSLT&#xD;
+Tool&#xD;
+  Ant&#xD;
+Database&#xD;
+  SQL&#xD;
+  Stored Procedure&#xD;
+JSP engine&#xD;
+  Tomcat&#xD;
+Framework&#xD;
+  Struts&#xD;
+Web Server&#xD;
+  Apache&#xD;
+OS&#xD;
+  Unix, 2000&#xD;
+  Shell script&#xD;
+&#xD;
+계열항목 &#xD;
+========&#xD;
+a)IBM 계열 (대체로 Business application, 전산실 요원으로 대규모 기업 - 정부, 금융, 자동차등)&#xD;
+Websphere (4,5v)&#xD;
+DB2&#xD;
+Websphere studio application developer 혹은 Eclipse&#xD;
+&#xD;
+b)다른 계열 (일반 software house, 중소규모 또는 IBM host가 없는 회사)&#xD;
+Weblogic&#xD;
+Oracle&#xD;
+자바 IDE는 구속적이지 않다.&#xD;
+&#xD;
+&lt;/pre&gt;&#xD;
+&#xD;
+공통항목에, A 혹은 B 계열의 기술을 가지고 있으면 취업이 가능한 것 같습니다. &#xD;
+새롭게 변화된 상황은 대부분의 job agent들이 구직자들을 사전&#xD;
+에 대면 면접을 하고 나서 고객에게 추천한다는 겁니다. 대체로 &#xD;
+Contract과 Full time 자리가 반반정도로 시장에 나오는 것 같습니다. &#xD;
+</content>
+    <postId>0DAEDD3C-700E-4593-A4AD-6B881BD54539</postId>
+    <pubDate>2003-11-11T00:00:00-05:00</pubDate>
+    <title>요즘 구직 시장 현황 - Struts framework 바람이 불어와</title>
+</post>

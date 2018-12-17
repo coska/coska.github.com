@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>최덕선</author>
+    <comments>
+        <comment>
+            <author>강윤정</author>
+            <date>2004-10-04T00:00:00-04:00</date>
+            <content>It's so called denial of service attack.&#xD;
+MS IIS 서버의  denial of service attack solution patch 버전이 있는것 같은데 그 patch들을 설치하셨나요..?&#xD;
+한국에서 똑같은 경우를 당했었는데 그때는 급한대로 &#xD;
+source ip address를 찾아 IIS admin tool로 그 ip address만 blocking했습니다. 만약 그 스크립트가 source ip address도 ramdomly generate해서 request를 보내면 이 방법을 쓸수 없지만요.&#xD;
+</content>
+        </comment>
+    </comments>
+    <content> 현재 production에 credit card apply 하는 applciation 이&#xD;
+&#xD;
+있는데, 정체 불명의 script(추정)가 수천건의 거의 동일한 정보을 submit 함으로 해서, web server를 공략하고 있습니다.&#xD;
+&#xD;
+ 혹시 이런 bogus script에 의한 공격을 application/server admin 측면에서 효과적으로 대처하는 방안을 듣고 싶습니다.&#xD;
+&#xD;
+ 참고로 저희는 IIS/WebSphere/Win2000 환경으로 되어있습니다.&#xD;
+&#xD;
+&#xD;
+ </content>
+    <postId>24CE6385-02AD-4258-82CA-C8CA113D0CF8</postId>
+    <pubDate>2004-10-04T00:00:00-04:00</pubDate>
+    <title>How to block the bogus script</title>
+</post>

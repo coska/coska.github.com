@@ -12,12 +12,14 @@
       "title": "About", "pgid": "m01",
       "subMenu": [
         {"title": "코스카 소개","pgid": "m010101","layout": "page","doctype": "html"},
+        {"title": "임원진 소개","pgid": "m010102","layout": "page","doctype": "markdown"},
         {"layout": "divider" },
         {"title": "발자취 ", "layout": "header"},
-        {"title": "1978~1989","pgid": "m010201","layout": "page","doctype": "html", "disabled":true},
-        {"title": "1990~1999","pgid": "m010202","layout": "page","doctype": "html"},
-        {"title": "2000~2009","pgid": "m010203","layout": "page","doctype": "html"},
-        {"title": "2010~","pgid": "m010204","layout": "page","doctype": "html"}
+        {"title": "1979~1999","pgid": "m010201","layout": "page","doctype": "markdown", "disabled":false},
+        {"title": "2000~2009","pgid": "m010203","layout": "page","doctype": "markdown"},
+        {"title": "2010~","pgid": "m010204","layout": "page","doctype": "markdown"},
+        {"layout": "divider" },
+        {"title": "추억의 앨범","pgid": "m010301","layout": "section","doctype": "markdown", "format": "card"}
       ]
     },
     {
@@ -32,8 +34,8 @@
       "title": "Events", "pgid": "m03",
       "subMenu": [
         {"title": "New Year Party","pgid": "m030201","layout": "section","doctype": "markdown","format": "list"},
-        {"title": "Picnics/Campings","pgid": "m030102","layout": "section","doctype": "markdown","format": "card"},
-        {"title": "Campings","pgid": "m030103",     "layout": "section","doctype": "markdown","format": "card"},
+        {"title": "Picnics/Campings","pgid": "m030102","layout": "section","doctype": "markdown","format": "card", "disabled":true},
+        {"title": "Campings","pgid": "m030103",     "layout": "section","doctype": "markdown","format": "card", "disabled":true},
         {"title": "Golf Coska","pgid": "m030104",   "layout": "section","doctype": "markdown","format": "list"}
       ]
     },

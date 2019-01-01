@@ -60,10 +60,10 @@
         {"title": "구인/구직","pgid": "job","layout": "section","doctype": "xml"},
         {"title": "공지","pgid": "notice","layout": "section","doctype": "xml"},
         {"layout": "divider" },
-        {"title": "Manual","pgid": "manual","layout": "page","doctype": "markdown"},
-        {"title": "Facebook","layout": "extlink","url": "https://www.facebook.com/groups/coska4u"}
+        {"title": "Manual","pgid": "manual","layout": "page","doctype": "markdown"}
       ]
-    }
+    },
+    {"title": "Facebook","layout": "extlink","url": "https://www.facebook.com/groups/coska4u"}
     
   ]
 }

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>S. Suh Lee</author>
+    <comments/>
+    <content>Hi, all&lt;br&gt;&lt;br&gt;I checked in some more scripts for watir testing. Now all cases described in the Test Plan document are covered.&lt;br&gt;&lt;br&gt;I am planning to make a simple procedure to run these scripts soon.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;Also, there are some changes for some jsp files under Coska_MySchool project. I added/changed some of the ids for a few buttons, tables etc. Please synchronize your files before you work on them.&lt;br&gt;&lt;br&gt;Thanks,&lt;br&gt;</content>
+    <postId>EFC842EE-C0DE-409D-BA13-789AD60BD514</postId>
+    <pubDate>2006-03-13T00:00:00-05:00</pubDate>
+    <title>myschool_watir scripts checked in</title>
+</post>

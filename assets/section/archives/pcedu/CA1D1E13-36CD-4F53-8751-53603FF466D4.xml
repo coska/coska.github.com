@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>코스카</author>
+    <comments>
+        <comment>
+            <author>이상윤</author>
+            <date>2005-06-03T00:00:00-04:00</date>
+            <content>File Gate 스케줄과 중복 되는데 어떻게 해야 하나요?</content>
+        </comment>
+        <comment>
+            <author>김세환</author>
+            <date>2005-06-03T00:00:00-04:00</date>
+            <content>아침 일찍이나 오후 늦게는 안될까요???</content>
+        </comment>
+        <comment>
+            <author>변성민</author>
+            <date>2005-06-04T00:00:00-04:00</date>
+            <content>시간이 유동적인지 아닌지는 저도 자세하게 아는 바가 없어서 죄송합니다. 교육팀장님 혹은 회장님에게 문의하시면 답을 얻으실 수 있을 거 같습니다. 관심 가져주셔서 감사합니다 ^^</content>
+        </comment>
+    </comments>
+    <content>&lt;p&gt;&lt;font face='굴림체, 궁서체, 바탕체'&gt; 다음과 같이 XML 교육을 시행하고자 하니 관심있는 회원들은 밑에 Comment란을 &lt;br&gt;  이용하여 지원바랍니다.&lt;/font&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;font face='굴림체, 궁서체, 바탕체'&gt; &lt;strong&gt;A. 강의 목표 및 기술 수준:&lt;/strong&gt;&lt;br&gt;&lt;br&gt;  · XML 의 개념과 활용 에대한 전반적인 이해&lt;br&gt;&lt;br&gt;  · XML의 validation 과 presentation skill (DTD, XSL)&lt;br&gt;&lt;br&gt;  · XML 초급 과정 &lt;/font&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;font face='굴림체, 궁서체, 바탕체'&gt;&lt;strong&gt;B. 강의 대상:&lt;/strong&gt;&lt;br&gt;&lt;br&gt;  · XML과 XML-subset(XSL, DTD, etc.) 에 대한 이해를 필요로 하시는 COSKA 회원&lt;br&gt;&lt;br&gt;  · 최소 5인이상 교육생 필요&lt;/font&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;font face='굴림체, 궁서체, 바탕체'&gt;&lt;strong&gt;C. 강의 일정:&lt;/strong&gt;&lt;br&gt;&lt;br&gt;  · June 11, June 18, June 25, July 1 (토요일)&lt;br&gt;&lt;br&gt;  ( * COSKA의 다른 행사에 따라 변경될 수 있음 )&lt;/font&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;font face='굴림체, 궁서체, 바탕체'&gt; &lt;strong&gt;D. 강의 시간:&lt;/strong&gt;&lt;br&gt;&lt;br&gt;  · 2 hours a day (1:30 PM ~ 3:30 PM)&lt;br&gt;&lt;br&gt;  · Total minimum hours: 8 hours&lt;/font&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;font face='굴림체, 궁서체, 바탕체'&gt;&lt;strong&gt;E. 강의료&lt;/strong&gt;&lt;br&gt;&lt;br&gt;  $20 (회비 납부 회원 및 노인회 교육 봉사자는 무료)&lt;/font&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;font face='굴림체, 궁서체, 바탕체'&gt;&lt;strong&gt;F. 강의 내용 계획:&lt;/strong&gt;&lt;br&gt;&lt;br&gt;  · XML 정의&lt;br&gt;&lt;br&gt;  · XML 문법&lt;br&gt;&lt;br&gt;  · XML 활용&lt;br&gt;&lt;br&gt;  · DTD 정의&lt;br&gt;&lt;br&gt;  · DTD Validation&lt;br&gt;&lt;br&gt;  · XSL 정의&lt;br&gt;&lt;br&gt;  · XSL 문법 (XSL BASIC)&lt;br&gt;&lt;br&gt;  · XSL 활용&lt;br&gt;&lt;br&gt;  ( * 시간 관계상 XSL 문법은 전반기 교육에서는 ½ 분량의 양을 학습하거나, 혹은 homework 로 나머지 ½ 의 학습을 대체 하기로 &lt;br&gt;  한다. )&lt;/font&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;font face='굴림체, 궁서체, 바탕체'&gt;&lt;strong&gt;G. 추후 학습 방향 (후반기 교육) 예정: XML 중급 과정&lt;/strong&gt;&lt;br&gt;&lt;br&gt;  · XSD&lt;br&gt;&lt;br&gt;  · XSL advanced&lt;br&gt;&lt;br&gt;  · XML API ( DOM, XPATH ) and programming with XML&lt;br&gt;&lt;br&gt;  · XML Web Service 개념과 활용 ( SOAP API )&lt;br&gt;&lt;br&gt;  · 기타 XML 의 활용 ( Wireless Markup language or Integration with SQL DBMS )&lt;/font&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;강사 Profile&lt;/strong&gt;&lt;br&gt;&lt;br&gt;  이름: 변 성민 &lt;br&gt;&lt;br&gt;  · Contact: jinibyun@hotmail.com / 416-569-9480&lt;br&gt;&lt;br&gt;  · 현재 GMA Technologies 에서 C# and ASP.NET developer 로 근무중&lt;br&gt;&lt;br&gt;  · 현재 World source Financial Inc., 에서 SQL Reporting developer 로 근무중&lt;br&gt;&lt;br&gt;  · 2005.1-2005.2 : XML client application ? InfoPath developing&lt;br&gt;&lt;br&gt;  · 2001.9-2001.11 (KT 에서 XML 강의) / 2004.4-2004.5( 토론토에서 XML 강의)&lt;br&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <postId>CA1D1E13-36CD-4F53-8751-53603FF466D4</postId>
+    <pubDate>2005-05-30T00:00:00-04:00</pubDate>
+    <title>COSKA XML 교육 공고</title>
+</post>

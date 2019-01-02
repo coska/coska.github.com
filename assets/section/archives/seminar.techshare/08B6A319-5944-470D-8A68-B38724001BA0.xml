@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이상윤</author>
+    <comments/>
+    <content>TASK Meeting Location&lt;br&gt;&lt;br&gt;September 28th&lt;br&gt;Last Wednesday of Every Month&lt;br&gt;6:00 to 9:00&lt;br&gt;&lt;br&gt;205 Richmond Street West, Suite 702&lt;br&gt;South-East Corner of Duncan/Richmond&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;Just back from Defcon. A great presentation was done by Jame Butler and Sherri Sparks (of rootkit.com).&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;Essentially, they explained, then demonstrated memory subversion - a first for rootkits. The proof of concept was built on the FU rootkit. It clearly has a ways to go before we'll see this full featured and stable in the wild, but its a good look at the future. &lt;br&gt;&lt;br&gt;Read all the details at: http://www.phrack.org/phrack/63/p63-0x08_Raising_The_Bar_For_Windows_Rootkit_Detection.txt&lt;br&gt;_________________&lt;br&gt;- Brian Bourne, CISSP, MCSE:Security </content>
+    <postId>08B6A319-5944-470D-8A68-B38724001BA0</postId>
+    <pubDate>2005-09-27T00:00:00-04:00</pubDate>
+    <title>The topic: "Shadow Walker: Raising the Bar for Windows Rootkit Detection"</title>
+</post>

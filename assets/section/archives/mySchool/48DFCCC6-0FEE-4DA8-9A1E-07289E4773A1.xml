@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>KB</author>
+    <comments>
+        <comment>
+            <author>허현옥</author>
+            <date>2006-04-03T00:00:00-04:00</date>
+            <content>Thanks, I will work on it again.</content>
+        </comment>
+    </comments>
+    <content>The datatype for COURSE_ID has been changed from 'long' to 'varchar'.&lt;br&gt;* Re-install the database.&lt;br&gt;* Re-load the model and run JUnits to vefity.&lt;br&gt;&lt;br&gt;Thanks.&lt;br&gt;&lt;br&gt;</content>
+    <postId>48DFCCC6-0FEE-4DA8-9A1E-07289E4773A1</postId>
+    <pubDate>2006-04-03T00:00:00-04:00</pubDate>
+    <title>COURSE_ID datatype change</title>
+</post>

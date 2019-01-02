@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>허현옥</author>
+    <comments>
+        <comment>
+            <author>허현옥</author>
+            <date>2006-04-12T00:00:00-04:00</date>
+            <content>아..그리고 POJO 파일들이 전부 implements Serializable 해주는게 좋지않을까요? Student 의 객체로 Education을 찾을때는 &lt;br&gt;&lt;br&gt;createQuery("from Education e Where e.student = :student ");&lt;br&gt;query.setSerializable("student", student);&lt;br&gt;&lt;br&gt;이런식으로 찾으면 되더군요. 그런데 Student클래스 Serializable 되어 있지 않으면 저렇게 쓸수가 없습니다. &lt;br&gt;&lt;br&gt;확인 부탁드릴께요.저런 사용법이 좋은건지 나쁜지도 아직 모르겠네요...</content>
+        </comment>
+        <comment>
+            <author>부기흡</author>
+            <date>2006-04-12T00:00:00-04:00</date>
+            <content>I don't want the model (or database schemas for that matter) to be polluted by Hibernate.</content>
+        </comment>
+    </comments>
+    <content>현재 작업중에 &lt;br&gt;&lt;br&gt;Query query = hSession.createQuery( "from Student student Where student.personID = :personID " );&lt;br&gt;&lt;br&gt;이런 식으로 createQuery를 사용해서 데이타를 받아오면&lt;br&gt;Hibernate의 Lazy 속성이 기본적으로 true로 적용이 되는 거 같습니다.&lt;br&gt;&lt;br&gt;저는 다시 책을 찾아봐야 겠지만, Model쪽을 맡아주신 회장님이&lt;br&gt;확인을 해주시면 더 확실하지 않을까 싶네요...(책임전가... ^^; )&lt;br&gt;&lt;br&gt;문제는&lt;br&gt;위와같이 해서 Student 객채를 받아서 jsp로 넘겨서 &lt;br&gt;Student의 Address객체의 값을 찍으려고 하면 Hibernate session이 &lt;br&gt;이미 닫혔다고 에러가 나더라구요. 그래서 현재는 그냥 Student 객체를&lt;br&gt;얻은후에 address같은 멤버객체들을 다 불러와서 한번씩 사용함으로서&lt;br&gt;lazy속성을 우회해 나가고 있습니다. 제 기억에는 createQuery 대신&lt;br&gt;find나 다른 메써드나 다른 방법이 있는 것으로 알고 있습니다...&lt;br&gt;&lt;br&gt;암튼...이쪽은 한번 더 확인하고 가야 할 듯 해요..^^</content>
+    <postId>17CFB50E-B995-4F61-9689-FC084669B6CC</postId>
+    <pubDate>2006-04-11T00:00:00-04:00</pubDate>
+    <title>Hibernate 의 lazy 속성에 대해서...</title>
+</post>

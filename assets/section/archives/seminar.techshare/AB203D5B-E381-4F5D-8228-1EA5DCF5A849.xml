@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>Brendan</author>
+    <comments>
+        <comment>
+            <author>박경종</author>
+            <date>2003-08-16T00:00:00-04:00</date>
+            <content>I don't see any problem on this. Anyone has the same problem ?</content>
+        </comment>
+        <comment>
+            <author>Brendan</author>
+            <date>2003-08-17T00:00:00-04:00</date>
+            <content>Now it works good. Should any problems be, I will mention again.</content>
+        </comment>
+        <comment>
+            <author>Jin</author>
+            <date>2003-09-10T00:00:00-04:00</date>
+            <content>sdfjsdsd</content>
+        </comment>
+    </comments>
+    <content>I couldn't find the pattern particularly, but would you try clicking different left-sided menu after you login? You will probably see the session is expired in just several minutes. My IE is 6.0. Thanks.</content>
+    <postId>AB203D5B-E381-4F5D-8228-1EA5DCF5A849</postId>
+    <pubDate>2003-08-13T00:00:00-04:00</pubDate>
+    <title>Session management has a problem</title>
+</post>

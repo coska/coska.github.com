@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>S. Suh Lee</author>
+    <comments/>
+    <content>Thanks a lot for the great presentation Mr. Heo. The story board was great and the discussion was interesting and most of all, the projector was beautiful! &lt;br&gt;&lt;br&gt;I thought I might need to clarify some of the point I made during the discussion on user "roles":&lt;br&gt;&lt;br&gt;1. I made my comments in assumption that we are using JAAS role-based security framework for user authentication and authorization. But if we are not worried too much about security and there is no business requirement to display different pages according to the user permissions, it doesn't really matter how we handle user roles. I just finished developing App server plug-in for our web applications' security requirement, so my mind was fixed on JAAS:-) Sorry about the confusion.&lt;br&gt;&lt;br&gt;2. My comment on the large number of test cases for the proposed user permission scheme is still valid, I think. If there are 4 different areas, each with read/write/delete permissions, the possible number of combinations equals to the possible number of 12 digit binary number! To prove the program correctly works with this permission scheme, we have to run a script that test all the functionality for each of these combinations, which will take a very long time. So, if we go for this scheme, I think we need to limit our test to only a few most frequent combination. &lt;br&gt;&lt;br&gt;That's all. Thanks;-)&lt;br&gt;</content>
+    <postId>B81273BE-87A4-44BD-8912-44DC2E23F440</postId>
+    <pubDate>2006-01-13T00:00:00-05:00</pubDate>
+    <title>[re] MySchool off line meeting - Welcome anybody who is interested in this project</title>
+</post>

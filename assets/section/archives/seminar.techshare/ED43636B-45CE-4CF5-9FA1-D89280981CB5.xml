@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>부기흡</author>
+    <comments>
+        <comment>
+            <author>오승준</author>
+            <date>2004-01-27T00:00:00-05:00</date>
+            <content>Congratulations! Also, it's pretty interesting article.</content>
+        </comment>
+        <comment>
+            <author>임정숙</author>
+            <date>2004-01-27T00:00:00-05:00</date>
+            <content>축하합니다. 저한테는 너무 기술적이인 부분인 많아 어려웠지만, 그래도 재밌게 읽었습니다.</content>
+        </comment>
+        <comment>
+            <author>박경종</author>
+            <date>2004-01-30T00:00:00-05:00</date>
+            <content>축하합니다 !!!</content>
+        </comment>
+    </comments>
+    <content>My paper has been published in the January (2004) issue of Websphere Developer Technical Journal. Not a bad start for Chinese New Year :-) It is about data round-tripping between SQL and XML domains.&lt;br&gt;&lt;br&gt;Enjoy!&lt;br&gt;&lt;br&gt;http://www-106.ibm.com/developerworks/websphere/techjournal/0401_boo/boo.html</content>
+    <postId>ED43636B-45CE-4CF5-9FA1-D89280981CB5</postId>
+    <pubDate>2004-01-22T00:00:00-05:00</pubDate>
+    <title>New technical article on XML and SQL</title>
+</post>

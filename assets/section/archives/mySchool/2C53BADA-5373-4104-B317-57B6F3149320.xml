@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>허현옥</author>
+    <comments/>
+    <content>아..그동안 제가 그냥 하는일 없이 바쁜관계로....^^;;;; 손을 못보고 있다가 다시 손보고 올려놨습니다.&lt;br&gt;&lt;br&gt;주소는 똑같습니다. http://ms.koreansenior.ca/ &lt;br&gt;&lt;br&gt;아시다시피 기본이 되는 기술은 Java, Struts, Hibernate였는데.. Hibernate에 문제가 좀 있어서 그동안 손 좀 보느라 제대로 된 데모를 못보셨습니&lt;br&gt;다...&lt;br&gt;&lt;br&gt;최근에 찾아본 문서에 보니까 Hibernate가 자체적으로 제공하는 Connection Pool에는 문제가 좀 있다더군요. 그래서, c3p0를 Pool로 사용한 후부터는 아직 큰 문제없이 잘 돌고 있습니다. 자체진단으로는 그부분만 문제였었네요.(그랬으면 좋겠습니다...^^; )&lt;br&gt;&lt;br&gt;그외 아직 마무리 안된 부분은 클라이언트(?)되시는 박경종 전회장님과 상의를 거쳐서 조금만 마무리 작업하면 1차 릴리즈가 가능할 것 같네요..^^&lt;br&gt;&lt;br&gt;그럼 시간되시는 분들은 그냥 구경오셔서 여기저기 클릭만 해주셔도 테스트에 많은 도움이 될 것 같습니다..^^&lt;br&gt;&lt;br&gt;그럼 더운 날씨 다들 몸 조심하시길~~</content>
+    <postId>2C53BADA-5373-4104-B317-57B6F3149320</postId>
+    <pubDate>2006-08-07T00:00:00-04:00</pubDate>
+    <title>MySchool 웹에서 다시 보실수 있습니다.</title>
+</post>

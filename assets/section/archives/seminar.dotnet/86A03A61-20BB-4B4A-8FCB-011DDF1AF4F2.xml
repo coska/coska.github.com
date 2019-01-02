@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>허현옥</author>
+    <comments/>
+    <content>권혁준씨가 재미있는(?) 주제를 가지고 세미나를 준비하셨습니다.&lt;br&gt;&lt;br&gt;8월 6일 7시&lt;br&gt;갤러리아 문화센타&lt;br&gt;&lt;br&gt;Abstract:&lt;br&gt;The maximum matching algorithm is the first non-trivial polynomial time&lt;br&gt;algorithm. It was invented by Jack Edmonds,&lt;br&gt;http://en.wikipedia.org/wiki/Jack_Edmonds . First, we will talk about this&lt;br&gt;algorithm in bipartite graphs. And, then, we will move to non-bipartite&lt;br&gt;graphs. The key of this transition is that "the flower is shrinkable".&lt;br&gt;&lt;br&gt;The talk is based on the paper: Jack Edmonds, Paths, Trees, and Flowers,&lt;br&gt;Canad. J. Math. 17, 449-467 (1965).</content>
+    <postId>86A03A61-20BB-4B4A-8FCB-011DDF1AF4F2</postId>
+    <pubDate>2009-08-05T00:00:00-04:00</pubDate>
+    <title>8월 6일 세미나 - 알고리즘</title>
+</post>

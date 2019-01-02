@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>Brendan</author>
+    <comments>
+        <comment>
+            <author>코스카</author>
+            <date>2003-08-13T00:00:00-04:00</date>
+            <content>로그인은 말씀하신대로 session 타임 아웃이 설정되어 있습니다. 그리고 게시판의 글쓰기 권한은 다시 설정되었네요 감사합니다^^.</content>
+        </comment>
+    </comments>
+    <content>사용중 로그인 상태가 계속 끊어지네요. Session 타임 아웃이 강제로 설정되어 있나요? 한번 확인해보심이 좋겠습니다.&lt;br&gt;그리고, 회원 게시판에 회원인 저도 글쓰기가 안되게 되던데... 혹시 '임원게시판'인가요? 사실 이런 내용의 질문을 어디에 올려야 할지 고민하다가 여기로 올릴 수 밖에 없었습니다.&lt;br&gt;그럼 이만.</content>
+    <postId>C53D3977-D415-46AD-A1F8-A39CBFBA3D58</postId>
+    <pubDate>2003-08-13T00:00:00-04:00</pubDate>
+    <title>사이트 관련 질문</title>
+</post>

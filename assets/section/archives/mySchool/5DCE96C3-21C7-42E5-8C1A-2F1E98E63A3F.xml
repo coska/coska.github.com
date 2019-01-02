@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>허현옥</author>
+    <comments/>
+    <content>메일 드렸듯이 일반 기본기능들은 전부완료되었습니다.&lt;br&gt;&lt;br&gt;마무리가 안된부분은 현재 Date타입으로 되어있는 모델들에&lt;br&gt;대해서 데이타를 어떻게 받아서 처리 할 것인지 제가 결정을 못해서&lt;br&gt;날짜 데이타가 들어가는 것들은 전부 일단 null이 들어갑니다.&lt;br&gt; 물론, 날짜데이타가 critical한 데이타들이 아니기때문에 기능을&lt;br&gt;사용하는데는 전혀 문제가 없습니다.&lt;br&gt;&lt;br&gt;아직 마무리되어야 하는 것들은 화면상에 있는데&lt;br&gt;model에 빠져있는 것( FIRST LANGUAGE, COUTRY OF CITIZENSHIP ...)과 Model에 있는 데 기존의 기능정의가 안되어 있는 것(Major 등..)에&lt;br&gt;대해서 마무리를 하면 기능구현은 완전히 마무리 될 것같습니다.&lt;br&gt;&lt;br&gt;물론, 그러는 동안 저는 1차적 validation을 해야할 것이구요.&lt;br&gt;테스팅 스크립트들도 추가되어야 겠죠.&lt;br&gt;&lt;br&gt;위의 내용이 빨리 마무리 될수록 1차 release가 빨리 가능해질것 같네요.&lt;br&gt;&lt;br&gt;그럼 즐거운 연휴들 되세요~</content>
+    <postId>5DCE96C3-21C7-42E5-8C1A-2F1E98E63A3F</postId>
+    <pubDate>2006-04-14T00:00:00-04:00</pubDate>
+    <title>기본 기능구현 완료.</title>
+</post>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김동원</author>
+    <comments>
+        <comment>
+            <author>권칠환</author>
+            <date>2010-10-25T00:00:00-04:00</date>
+            <content>&lt;a href=http://netbeans.org/community/sources/ target=_blank&gt;http://netbeans.org/community/sources/&lt;/a&gt;</content>
+        </comment>
+        <comment>
+            <author>김동원</author>
+            <date>2010-10-25T00:00:00-04:00</date>
+            <content>Netbeans 자체도 사실 데스크탑 어플리케이션의 하나이니깐 Netbeans의 개발 방향이라던가 그 소스를 보면 알 수 있겠네요.</content>
+        </comment>
+        <comment>
+            <author>김동원</author>
+            <date>2010-10-25T00:00:00-04:00</date>
+            <content>Nebeans 으로 Desktop Application Project를 생성해 보면 AWT와 Swing이 같이 사용이 되네요.</content>
+        </comment>
+        <comment>
+            <author>김동원</author>
+            <date>2010-10-25T00:00:00-04:00</date>
+            <content>pro Swing:      * part of java library, no need for additional native libraries     * works the same</content>
+        </comment>
+        <comment>
+            <author>김동원</author>
+            <date>2010-10-25T00:00:00-04:00</date>
+            <content>JavaFX로 Desktop, mobile, Web과 TV 까지 호환이 가능하게 개발을 할 수 있다고 합니다.</content>
+        </comment>
+        <comment>
+            <author>Thomas</author>
+            <date>2010-10-27T00:00:00-04:00</date>
+            <content>맨 마지막 JavaFX 가 추세 인 듯 합니다만... 프로젝트의 상황에 따라 다를 것 같습니다.</content>
+        </comment>
+    </comments>
+    <content>자바로 데스크탑 어플리케이션을 개발 할려고 합니다. MVC 디자인 기법을 적용할 때 UI 개발을 위한 관련 자료를 인터넷에서 찾아보니 다음과 같은 용어들이 눈에 들어옵니다. 당연히 Swing 과 AWT, SWT 있고요. JavaFX 그리고 JRuby가 있습니다. 이외에 데스크탑 어플리케이션 개발을 위한 다른 기술이 있는 지는 잘 모르겠습니다만, 어떤 기술을 선택을 해서 개발을 하는 것이 좋을 지 고민이 되네요. 오라클이 션을 인수한 후 기술을 계속 지원 할 지도 고려를 해야 될 것 같고요.&lt;br&gt;고견 부탁드립니다.&lt;br&gt;&lt;br&gt;다음 자료를 인터넷에서 찾아보았습니다.&lt;br&gt;&lt;br&gt;pro Swing:&lt;br&gt;&lt;br&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;* part of java library, no need for additional native libraries&lt;br&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;* works the same way on all platforms&lt;br&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;* Integrated GUI Editor in Netbeans&lt;br&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;* good online tutorials by sun&lt;br&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;* Supported by official java extensions (like java OpenGL)&lt;br&gt;&lt;br&gt;contra Swing:&lt;br&gt;&lt;br&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;* Native look and feel may behave different from the real native system.&lt;br&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;* heavy components (native/awt) hide swing components, not a problem most of the time as as use of heave components is rather rare&lt;br&gt;&lt;br&gt;pro SWT:&lt;br&gt;&lt;br&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;* uses native elements when possible, so always native behavior&lt;br&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;* supported by eclipse, gui editor VEP (VEP also supports Swing and AWT)&lt;br&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;* large number of examples online&lt;br&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;* has an integrated awt/swt bridge to allow use of awt and swing components&lt;br&gt;&lt;br&gt;contra SWT:&lt;br&gt;&lt;br&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;* requires native libraries for each supported system&lt;br&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;* may not support every behavior on all systems because of native resources used (hint options)&lt;br&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;* managing native resources, while native components will often be disposed with their parent other resources such as Fonts have to be manually released or registered as dispose listener to a component for automatic release.&lt;br&gt;&lt;br&gt;</content>
+    <postId>B888565E-D6A9-412E-A990-AF32B0984F74</postId>
+    <pubDate>2010-10-23T00:00:00-04:00</pubDate>
+    <title>자바로 데스크탑 어플리케이션 개발?</title>
+</post>

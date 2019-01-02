@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>허현옥</author>
+    <comments>
+        <comment>
+            <author>부기흡</author>
+            <date>2006-03-20T00:00:00-05:00</date>
+            <content>I will add Administrator to the db installation script to simplify the steps.</content>
+        </comment>
+    </comments>
+    <content>부 회장님이 그쪽을 먼저 해달라고 하셔서 우선 부회장님이 하신 model 부분의 user 부분을 스트러츠 와 붙여놨습니다.&lt;br&gt;&lt;br&gt;Coska_MySchool 을 업데이트 받으시고,&lt;br&gt;일단 각자디비에 하드코딩으로 관리자를 하나 입력해놓으세요(로그인 때문에 필요합니다..사용자도 없이 로그인을 할 수 는 없으니까요..^^)&lt;br&gt;&lt;br&gt;그리고 나서 프로젝트 내에 있는 build.xml 파일을 각자 환경에&lt;br&gt;맞게 조금 고치시고..(2군데만 고치면 됩니다. 주석으로 달아놨습니다.)&lt;br&gt;build.xml을 실행하시면 알아서 컴파일에 배치까지 다 됩니다.&lt;br&gt;&lt;br&gt;그럼 로그인 하시고, Manager 메뉴에서 사용자 리스트,추가,수정 되는 걸 &lt;br&gt;보실 수 있을 겁니다.&lt;br&gt;&lt;br&gt;지금은 role 부분은 그냥 가짜 데이타가 들어갑니다. 이 부분은 정확히 &lt;br&gt;한번 더 어떤 데이타를 넣을 건지 확인후에 마무리 해야 될 것 같네요..^^&lt;br&gt;&lt;br&gt;그럼 테스트들 해보시고 이상하거는 답변/메일 주세요.</content>
+    <postId>FC8A783C-4F73-41D4-85E7-CDBCF72FDD4C</postId>
+    <pubDate>2006-03-18T00:00:00-05:00</pubDate>
+    <title>Mamager / User 관리가 브라우저에서 돌아갑니다.</title>
+</post>

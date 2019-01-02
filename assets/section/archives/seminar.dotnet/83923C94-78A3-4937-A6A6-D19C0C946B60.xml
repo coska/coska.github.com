@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이동수</author>
+    <comments>
+        <comment>
+            <author>Robin Lee</author>
+            <date>2009-03-06T00:00:00-05:00</date>
+            <content>좋은정보 감사. 저도 사이트 하나 추천해드릴께요. 구글어플리케이션과 비슷한 기능의 온라이 어플리케이션을 제공하는 사이트입니다. 즉, 자신의 PC에 엑셀, 워드등의 어플리케이션을 설치할 필요없이 온라인으로 사용하고 공유가능한거죠. 여러가지 제품중 우리스타디같은경우엔 조호 프로젝트를 사용해도 좋을거같네요. 암튼, 여러가지 제품이 있으니 꽤 유용하게 사용하실수있습니다.&lt;br&gt;www.zoho.com&lt;br&gt;</content>
+        </comment>
+    </comments>
+    <content>혹시 moodle 이라고 들어 보셨나요..&lt;br&gt;이게 블로그도 아닌 것이 온라인 클래스 관리 풀이더라고요.&lt;br&gt;php랑 mysql등의 DB만 있음 쉽게 관리 할 수 있는 솔루션인데.. 뭐 성적 관리 등등의 그런 기능들은 필요 없지만 코스카 온라인 스터디을 moodle 솔루션으로 바꿔서 해 보는게 어떨까 싶어서요.&lt;br&gt;역할도 학생이랑 선생 뭐 등등으로 나눠 져서 일정관리 질문 메일링 리스트 등등의 기능을 쉽게 이용 할 수 있을 거라 생각 합니다.&lt;br&gt;이번에 coska 가 새로운 유료 호스팅 사이트로 이전 하니깐 아마도 php mysql은 갖춰 졌을 거라 생각 합니다. 그럼 간단한 설정으로 온라인 스터디 솔루션 가능 할 수 있을 거 같구요.. &lt;br&gt;뭐 moodle 이 아니더라도 더 효과적인 솔루션 아시면 추천 해주시는 것도 괜찮을 것 같습니다.&lt;br&gt;현재의 코스카 사이트의 온라인 스터디 인터페이스는 너무 비효율적인 것 같아서... 그럼.. 테스팅 페이지는 제 사이트에 올려 놓았습니다.&lt;br&gt;&lt;br&gt;http://eclass.omeganetcafe.com&lt;br&gt;&lt;br&gt;그럼 좋은 하루 되세요 </content>
+    <postId>83923C94-78A3-4937-A6A6-D19C0C946B60</postId>
+    <pubDate>2009-03-05T00:00:00-05:00</pubDate>
+    <title>php based 솔루션 - drupal, moodle, etc</title>
+</post>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>나수환</author>
+    <comments/>
+    <content>나수환 입니다.&lt;br&gt;&lt;br&gt;다음 두가지의 문제점을 현재 고민하고 있답니다. 혹, 경험을 하신 분이나, 나의 생각은 이렇다 라는 이야기를 공유했으면 하는 바램입니다.&lt;br&gt;&lt;br&gt;1.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Versioning for projects.&lt;br&gt;Old Project (Data)의 경우는 새로운 코드(New Code)를 적용할 경우 실해이 되지 않는 경우가 생기곤 합니다. 예를 들면, 데이타의 포멧문제, Class등, 여러가지의 이유로써..&lt;br&gt;&lt;br&gt;이런 경우 나는 이렇게 생각(대처)한다.. &lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2.&amp;nbsp;&amp;nbsp; Archive data &amp; to move old data from OLTP db to warehouse or OLAP&lt;br&gt;어드민 레벨(Admin level) 에서 데이타의 관리를 어떻게 하면 좋을까?&lt;br&gt;&lt;br&gt;이런 경우 나는 이렇게 생각(대처)한다..&lt;br&gt;</content>
+    <postId>1D28006B-DBD9-4DB4-AE2D-E8AD40928117</postId>
+    <pubDate>2005-02-01T00:00:00-05:00</pubDate>
+    <title>질문입니다.</title>
+</post>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>허현옥</author>
+    <comments>
+        <comment>
+            <author>부기흡</author>
+            <date>2006-04-07T00:00:00-04:00</date>
+            <content>cool.</content>
+        </comment>
+    </comments>
+    <content>주메뉴 Search, Student, Course, Manager 중에&lt;br&gt;&lt;br&gt;Manager는 예전에 완료 되었죠.&lt;br&gt;Search 메뉴는 간단한 검색이었기때문에 Course 시작하기전에 간단히 마무리 했구요.&lt;br&gt;오늘 Course까지 완료되었습니다. Course-ReportCard의 세부사항보기를&lt;br&gt;제외한 Course의 모든 기능이 완료되었습니다. ReportCard의 세부사항은 Student와 연결되어있기때문에 Student가 완료된 후에 마무리 작업을 조금만 하면 될 것 같습니다.&lt;br&gt;&lt;br&gt;만약, 주말에 별일이 없다면 잘~하면 주말에 Student까지 마무리를 지을수 있을 것 같습니다.&lt;br&gt;&lt;br&gt;그후에는 Validation밑 웹 테스팅작업을 들어가면 될 것 같네요.&lt;br&gt;&lt;br&gt;그럼 즐거운 주말들 보내시구요~ &lt;br&gt;&lt;br&gt;진척사항은 CVS에서 update 받으셔서 로컬에서 돌려보세요.</content>
+    <postId>48B1D9F8-DF67-429D-B54D-67F87E2A5BA6</postId>
+    <pubDate>2006-04-06T00:00:00-04:00</pubDate>
+    <title>주메뉴 Search, Course 까지 완료 &amp;#46124;습니다.</title>
+</post>

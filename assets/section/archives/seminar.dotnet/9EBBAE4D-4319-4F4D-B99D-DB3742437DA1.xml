@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>허현옥</author>
+    <comments>
+        <comment>
+            <author>SP Nam</author>
+            <date>2010-03-22T00:00:00-04:00</date>
+            <content>와.. SDK만 깔고 게을러서 제대로 시작도 못했는데 저도 얼른 해봐야겠어요~</content>
+        </comment>
+    </comments>
+    <content>현재 DB(SQLite)이용한 Note기능은 다 됩니다. 아직 System Dependent한 기능들(GPS, email, SMS 등...)은 공부중이구요.( Phone이 없으니 확인이 안됨).&lt;br&gt;&lt;br&gt;최대한 자주사용할 기능들을 간단하게나마 사용을 해서 나중에 Reference를 할수있게 하려고 준비중입니다.^^&lt;br&gt;&lt;br&gt;프로그래밍이 정말 쉽게 잘 되있네요. 관심있는 분들은 빨리 시작해보시길 바랍니다. 저도 Android공부하기 시작한지 1달도 안?답니다. ^0^&lt;br&gt;&lt;br&gt;&lt;img src="http://photos-b.ak.fbcdn.net/hphotos-ak-snc3/hs445.snc3/25545_102655836437062_100000779376580_50636_6720340_n.jpg" /&gt;&lt;br /&gt;&lt;br&gt;첫 리스트화면&lt;br&gt;&lt;br&gt;&lt;img src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc3/hs445.snc3/25545_102655839770395_100000779376580_50637_8287661_n.jpg" /&gt;&lt;br /&gt;&lt;br&gt;선택하면 크게 보이는 화면&lt;br&gt;&lt;br&gt;&lt;img src="http://photos-g.ak.fbcdn.net/hphotos-ak-snc3/hs465.snc3/25545_102655843103728_100000779376580_50638_5290576_n.jpg" /&gt;&lt;br /&gt;&lt;br&gt;길게 클릭을 한 메뉴 - (컴퓨터 오른쪽 메뉴 같은 기능이죠.)&lt;br&gt;&lt;br&gt;&lt;img src="http://photos-a.ak.fbcdn.net/hphotos-ak-snc3/hs445.snc3/25545_102655846437061_100000779376580_50639_7231007_n.jpg" /&gt;&lt;br /&gt;&lt;br&gt;업데이트하는 스크린&lt;br&gt;&lt;br&gt;&lt;img src="http://photos-d.ak.fbcdn.net/hphotos-ak-ash1/hs465.ash1/25545_102655849770394_100000779376580_50640_6036054_n.jpg" /&gt;&lt;br /&gt;&lt;br&gt;Alert을 보여주는 화면&lt;br&gt;&lt;br&gt;&lt;img src="http://photos-f.ak.fbcdn.net/hphotos-ak-ash1/hs465.ash1/25545_102655853103727_100000779376580_50641_2206737_n.jpg" /&gt;&lt;br /&gt;&lt;br&gt;System Icon을 이용해서 메뉴를 보여주는 화면&lt;br&gt;&lt;br&gt;&lt;img src="http://photos-h.ak.fbcdn.net/hphotos-ak-ash1/hs465.ash1/25545_102655856437060_100000779376580_50642_7972021_n.jpg" /&gt;&lt;br /&gt;&lt;br&gt;메인 스크린에서 메뉴를 누른 경우.&lt;br&gt;&lt;br&gt;&lt;img src="http://photos-b.ak.fbcdn.net/hphotos-ak-snc3/hs465.snc3/25545_102655859770393_100000779376580_50643_3643496_n.jpg" /&gt;&lt;br /&gt;&lt;br&gt;세 노트를 입력하는 화면&lt;br&gt;</content>
+    <postId>9EBBAE4D-4319-4F4D-B99D-DB3742437DA1</postId>
+    <pubDate>2010-03-21T00:00:00-04:00</pubDate>
+    <title>Android 두번째 세미나용 프로젝트 진척사항 with Screenshots</title>
+</post>

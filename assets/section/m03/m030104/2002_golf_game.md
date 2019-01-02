@@ -1,5 +1,5 @@
 ---
-id: m010301_003
+id: 2002_golf_game
 title: 2002년 골프대회 시상식 
 publishedAt: Sat Nov 11 2002 17:49:01 GMT-0500 (EST)
 desc: ()

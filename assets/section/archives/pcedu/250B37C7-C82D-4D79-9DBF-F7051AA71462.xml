@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>D.J. Park</author>
-    <comments/>
-    <content>안녕하세요?&lt;br&gt;&lt;br&gt;web application의 security를 위하여 Active Directory로부터 user id와 group을 Web program에서 읽어서 access 허용 여부를 결정하려고 하는데..&lt;br&gt;혹시 사용할 수 있는 script 있으신 분 연락주시면 대단히 감사하겠습니다.&lt;br&gt;상황에 따라 저희 회사가 사례를 할 수도 있겠습니다.&lt;br&gt;&lt;br&gt;djpark60@hotmail.com 이나 613-525-2784 ext 374 입니다.&lt;br&gt;&lt;br&gt;좋은 하루 되세요.&lt;br&gt;&lt;br&gt;</content>
-    <postId>250B37C7-C82D-4D79-9DBF-F7051AA71462</postId>
-    <pubDate>2007-03-30T00:00:00-04:00</pubDate>
-    <title>[Q] AD ( Active Directoy )를 이용한 Authentication script</title>
-</post>

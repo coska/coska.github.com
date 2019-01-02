@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>강동욱</author>
-    <comments/>
-    <content>소스보기가 막아 져 있는 경우는.. 여러 가지 방법이 있는데..&lt;br&gt;아주 악질적으로 막힌것은 어쩔수 없지만 대부분&lt;br&gt;&lt;br&gt;1. 오른쪽 마우스 클릭을 막아 놓았거나 &lt;br&gt;2. 메뉴버튼도 막아놓았거나&lt;br&gt;3. 또는 WM_CONTEXTMENU가 작동하지 않도록 해놓은경우가 많죠.&lt;br&gt;&lt;br&gt;첨가된 프로그램을 실행 하면 현재 떠있는 브라우져 리스트가 나오는데..&lt;br&gt;[Send]를 누르면 popup context menu가 뜹니다.&lt;br&gt;그러면 거기서 소스보기(View Source) 또는 Properties를 보고 소스나 경로를 알수 있죠. 가급적이면.. 보고자 하는 브라우져만 화면 에 띄워놓아야 메뉴가 잘 보입니다.&lt;br&gt;&lt;br&gt;그래도 잘 안되는 경우는..&lt;br&gt;툴바에 있는 history 버튼(해시계모양)을 누르면 오늘 access한 page가 모두 나오는데.. 그중 소스 보기 막힌 페이지를 클릭 하면.. 그것이.. 작은 윈도가 아닌 큰 브라우져 윈도우로 뜨면서 위의 풀다운 메뉴가 생깁니다.&lt;br&gt;그러면 'View'(보기)메뉴로 가서 [Source]를 클릭 하면 되죵.&lt;br&gt;&lt;br&gt;그럼. 나중에 또..</content>
-    <postId>CA105CB1-206F-4381-9546-D620997F3C91</postId>
-    <pubDate>2001-12-12T00:00:00-05:00</pubDate>
-    <title>[I] Html 소스 보기 방지된것 볼려면...</title>
-</post>

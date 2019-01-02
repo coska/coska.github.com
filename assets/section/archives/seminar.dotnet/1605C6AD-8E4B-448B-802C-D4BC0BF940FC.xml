@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>이상윤</author>
-    <comments/>
-    <content>1. Fiddler&amp;nbsp;&amp;nbsp;&lt;br&gt;http://www.fiddlertool.com/fiddler/ &lt;br&gt;익스플로로를 통해서 패킷이 전송되는 정보를 볼 수 있습니다. &lt;br&gt;&lt;br&gt;2. Reflector&amp;nbsp;&amp;nbsp;&lt;br&gt;http://www.aisto.com/roeder/dotnet/&lt;br&gt;닷넷 Dll의 정보를 열어 볼때 사용 하는 Tool 입니다.&lt;br&gt;&lt;br&gt;3. Fuslogvw.exe 닷넷을 설치 했으면 로컬 드라이브에 있습니다.&lt;br&gt;어셈블리 로드 정보를 알아야 할때 아주 유용합니다.&lt;br&gt;&lt;br&gt;4. CopySourceAsHtml &lt;br&gt;http://www.jtleigh.com/people/colin/software/CopySourceAsHtml/&lt;br&gt;소스코드를 HTML로 저장 할 수 있습니다.&lt;br&gt;&lt;br&gt;5. DebugView &lt;br&gt;http://www.microsoft.com/technet/sysinternals/Miscellaneous/DebugView.mspx&lt;br&gt;디버깅 하기 어려울때 도움이 됩니다.&lt;br&gt;&lt;br&gt;6. ZoomIt &lt;br&gt;http://www.microsoft.com/technet/sysinternals/utilities/zoomit.mspx&lt;br&gt;프리젠 테이션 용으로 적합니다.</content>
-    <postId>1605C6AD-8E4B-448B-802C-D4BC0BF940FC</postId>
-    <pubDate>2007-04-05T00:00:00-04:00</pubDate>
-    <title>닷넷을 개발 하면서 사용하면 도움이되는 툴 입니다.</title>
-</post>

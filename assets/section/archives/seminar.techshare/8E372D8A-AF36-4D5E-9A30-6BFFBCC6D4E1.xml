@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>김승엽</author>
-    <comments/>
-    <content>Using the AS/400's Source Entry Utility (SEU), the author shows you how to &lt;br&gt;delete all lines within a specified range of lines containing a specified &lt;br&gt;character string (line command DDS). Included are links where you can download &lt;br&gt;the code he has written.&lt;br&gt;&lt;br&gt;SOURCE: AS400 Network (Free registration to site required.)&lt;br&gt;http://www.as400network.com/features/newmf/article.cfm?ID=7115&lt;br&gt;</content>
-    <postId>8E372D8A-AF36-4D5E-9A30-6BFFBCC6D4E1</postId>
-    <pubDate>2001-10-19T00:00:00-04:00</pubDate>
-    <title>AS/400 TIPS:\\&amp;quot;Creating user-defined line commands for SEU, part 1\\&amp;quot;</title>
-</post>

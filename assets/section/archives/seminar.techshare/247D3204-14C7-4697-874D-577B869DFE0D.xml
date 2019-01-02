@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>na</author>
-    <comments/>
-    <content>&lt;br&gt;I'm bit confused with C# and VB.&lt;br&gt;I am writing a simple C# windows app module.&lt;br&gt;Application's initail Form1 instanciates a form and populates it using ShowDialog() mehtod.&lt;br&gt;Is there any way to call a method in Form1 from a new form ?&lt;br&gt;&lt;br&gt;Greatly appriciate.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content>
-    <postId>247D3204-14C7-4697-874D-577B869DFE0D</postId>
-    <pubDate>2004-08-05T00:00:00-04:00</pubDate>
-    <title>C# call parent form's method.</title>
-</post>

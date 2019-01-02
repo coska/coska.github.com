@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>S. Suh Lee</author>
-    <comments/>
-    <content>I need to write a program that parses C++ header files and generate some C++ source code based on the class names, base class names, virtual function names and their parameter types, as a part of C++ RMI project I am working on. &lt;br&gt;&lt;br&gt;I am new to parsing tools and looking for someone who can give me some guide to do this job. &lt;br&gt;&lt;br&gt;Currently I am looking a tool called "Antlr" (http://www.antlr.org/). Is anyone familier with this tool or any other parsing tool? &lt;br&gt;&lt;br&gt;Any help and/or suggestion will be greatly appreciated!&lt;br&gt;&lt;br&gt;Thanks,&lt;br&gt;&lt;br&gt;SL&lt;br&gt;</content>
-    <postId>4A9018EE-EED4-4B86-B138-954A97B44A89</postId>
-    <pubDate>2004-03-16T00:00:00-05:00</pubDate>
-    <title>[***Urgent]: need guide for parsing C++ header files</title>
-</post>

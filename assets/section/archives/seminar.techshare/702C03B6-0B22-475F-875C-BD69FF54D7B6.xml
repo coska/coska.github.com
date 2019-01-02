@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>부기흡</author>
-    <comments/>
-    <content>I submitted this idea for a patent a few month ago and it was published last December.&lt;br&gt;&lt;br&gt;==================================================================&lt;br&gt;Disclosed is a software framework that allows dynamic contribution of new Java Bean generators for XML Schema files without requiring modifications to the user interface(UI) code.&lt;br&gt;&lt;br&gt;A Java Bean generator allows users to create from an XML schema, java classes that represent the attributes and structure of an XML file. This allows easy creation and saving of these XML files in a Java oriented programming fashion. They typically require the configuration of additional classpath libraries that the generated classes rely on. This means that the user has to figure out how to invoke the generator and then also modify their classpath for their java project to allow successful compilation. For example, in Eclipse, each java project needs to modify their class path variable.&lt;br&gt;...&lt;br&gt;&lt;br&gt;To read the full content, download the attachment.&lt;br&gt;</content>
-    <postId>702C03B6-0B22-475F-875C-BD69FF54D7B6</postId>
-    <pubDate>2005-03-08T00:00:00-05:00</pubDate>
-    <title>Pluggable Java Bean from XML Schema Generation Framework</title>
-</post>

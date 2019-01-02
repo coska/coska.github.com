@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>나수환</author>
-    <comments/>
-    <content>쿼리할때, 한부분을 삽입하면 오라클의 속도가 현저하게 차이를 보입니다.&lt;br&gt;&lt;br&gt;(( &lt;br&gt;(DRP.DATA_RESOURCE_PURPOSE_TYPE_ID =&amp;nbsp;&amp;nbsp;'MOC_WORKFLOW_TASK' ) &lt;br&gt;)) &lt;br&gt;&lt;br&gt;&lt;br&gt;이러한 경우는 어떠한 문제해결방법을 생각할수 있을까요?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;SELECT *&lt;br&gt;FROM &lt;br&gt;FACILITY FCLT, DATA_SOURCE DS, WORK_EFFORT_PARTY_ASSIGNMENT WEPA, &lt;br&gt;WORK_EFFORT WE, DATA_RESOURCE_PURPOSE DRP, ROLE_TYPE RT, STATUS_ITEM SI, &lt;br&gt;DATA_RESOURCE DR, DATA_CATEGORY DC, PERSON P, DATA_RESOURCE_ATTRIBUTE DRAT &lt;br&gt;WHERE &lt;br&gt;(( &lt;br&gt;(DRP.DATA_RESOURCE_PURPOSE_TYPE_ID =&amp;nbsp;&amp;nbsp;'MOC_WORKFLOW_TASK' ) &lt;br&gt;)) &lt;br&gt;AND (WE.CURRENT_STATUS_ID=SI.STATUS_ID &lt;br&gt;AND WE.WORK_EFFORT_ID=WEPA.WORK_EFFORT_ID &lt;br&gt;AND WEPA.ROLE_TYPE_ID=RT.ROLE_TYPE_ID &lt;br&gt;AND WEPA.FACILITY_ID=FCLT.FACILITY_ID &lt;br&gt;AND WEPA.PARTY_ID=P.PARTY_ID &lt;br&gt;AND WE.SOURCE_REFERENCE_ID=DR.DATA_RESOURCE_ID &lt;br&gt;AND DR.DATA_SOURCE_ID=DS.DATA_SOURCE_ID &lt;br&gt;AND DR.DATA_CATEGORY_ID=DC.DATA_CATEGORY_ID &lt;br&gt;AND DR.DATA_RESOURCE_ID=DRP.DATA_RESOURCE_ID &lt;br&gt;AND DRAT.DATA_RESOURCE_ID=DR.DATA_RESOURCE_ID &lt;br&gt;AND DRAT.ATTR_NAME = 'statusT') &lt;br&gt;ORDER BY DR.CREATED_DATE DESC</content>
-    <postId>AC34E7A1-C1CD-4849-B6DC-AAE8C029C8BB</postId>
-    <pubDate>2005-02-23T00:00:00-05:00</pubDate>
-    <title>오라클 쿼리 문제.</title>
-</post>

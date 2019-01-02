@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>노세환</author>
-    <comments/>
-    <content>setClock is not defined. &lt;br&gt;&lt;br&gt;자바 스크립트 에러입니다.&lt;br&gt;거의 대부분의 페이지에서 이런 에러창이 뜹니다.&lt;br&gt;이런 에러에 민감하지 않은 브라우저는 무시하지만&lt;br&gt;많은 브라우저에서 페이지 이동때마다 뜨는군요.&lt;br&gt;&lt;br&gt;&amp;lt;script language=\\&amp;quot;JavaScript\\&amp;quot;&amp;gt;&amp;lt;!--&lt;br&gt;document.write (\\&amp;quot;Toronto \\&amp;quot;+setClock()+\\&amp;quot;&amp;lt;br&amp;gt;\\&amp;quot;);&lt;br&gt;document.write (\\&amp;quot; Seoul&amp;nbsp;&amp;nbsp;\\&amp;quot;+seoulClock());&lt;br&gt;// --&amp;gt;&lt;br&gt;&amp;lt;/script&amp;gt;&lt;br&gt;&lt;br&gt;이런 스크립트 코드가 있는데.. &lt;br&gt;이부분은 삭제 되어야 할것 같습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;gt;I cannot find any problem. &lt;br&gt;&amp;gt;However, if anybody has the same problem, please let us know.&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;Coska web team.&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;Hello, members!&lt;br&gt;&amp;gt;&amp;gt;I am Paul Yoon (Korean Name: 윤석규). I like our home page very much and it didn't have any problem until I upgraded my browser. Recently I upgraded it to MS IE 6.0 (the lastest version). After that, I have got a runtime error whenever I click any link in COSKA web page. Does any of you get the same experience? If this one is not only my problem, I think it is supposed to be fixed.&lt;br&gt;&amp;gt;&amp;gt;Thank you.&lt;br&gt;&amp;gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;</content>
-    <postId>7D1F0A6F-899F-4763-96A0-572501F1541A</postId>
-    <pubDate>2002-03-07T00:00:00-05:00</pubDate>
-    <title>[re] A runtime error occurs after upgrading my browser</title>
-</post>

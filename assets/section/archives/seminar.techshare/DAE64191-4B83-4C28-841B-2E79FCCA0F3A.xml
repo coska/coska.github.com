@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>김경용</author>
-    <comments/>
-    <content>만일 문제가 한글이름의 zip파일때문이라면,, 클라이언트에서 압축해제전 파일명을 영문으로 바꾸고 해제하면 해결될것으로 보입니다만,,,&lt;br&gt;혹 제가 문제에 대해 잘못 이해한 거라면,, 다시 한번 구체적 문제상황을 설명해주시기 바랍니다.&lt;br&gt;도움이 되셨기를...&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;gt;나수환입니다. 현재 근무하는곳에서 영문윈도우2003서버에서 압축한 한글 파일을 클라인트(윈도우 XP)에서 압&amp;#52741;된 파일을 해제할려고 하는데 문제가 발생하여 개발자의 요청으로 문의 합니다.&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;개발환경은 .NET입니다.&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;예제 프로그램이나, 경험담을 부탁드립니다.&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;zipping files with korean, chinese and japanese names. For example, it could be 正在&amp;#22788;理&amp;#35831;.zip &lt;br&gt;&amp;gt; &lt;br&gt;&amp;gt;I was able to zip files with chinese and japanese names on a english machine and was able to unzip it on a chinese and a japanese machine respectively. However, when i create a korean zip file on a english machine and try unzipping it on a korean machine, it does not work (I could not unzip the file). I am using unicode UTF8 to encode. Should i be using other encodings when it comes to korean. I assumed all unicode languages would work with UTF8 encoding.&lt;br&gt;</content>
-    <postId>DAE64191-4B83-4C28-841B-2E79FCCA0F3A</postId>
-    <pubDate>2009-05-30T00:00:00-04:00</pubDate>
-    <title>[re] zipping files on a english OS Server (windows 2003 server) and Unzipping on a korean OS (windows xp) client machine</title>
-</post>

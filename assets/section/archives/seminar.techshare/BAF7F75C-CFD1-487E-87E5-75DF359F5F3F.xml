@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>강동욱</author>
-    <comments/>
-    <content>All:&lt;br&gt; &lt;br&gt;The 6 pm build will be the _RELEASE_CANDIDATE_ build.&amp;nbsp;&amp;nbsp;NO code should be checked into VSS after that time.&amp;nbsp;&amp;nbsp;If you think you must make changes after 6 pm, please talk to your Team Leader.&lt;br&gt; &lt;br&gt;We are all going to test with that build and will decide whether any problems we find will be fixed tonight.&amp;nbsp;&amp;nbsp;Any code changes after 6 pm will be reviewed and supervised.&lt;br&gt; &lt;br&gt;Please ensure that any code you check -in by 6 pm compiles.&amp;nbsp;&amp;nbsp;Only check in code that has been tested and/or fixes serious issues you have already been assigned.&lt;br&gt; &lt;br&gt;If in doubt, please ask.&lt;br&gt;&lt;br&gt;&lt;br&gt;여기서 VSS는 Visual Source Safe을 말하며 소스를 저장 하는 곳이죠.&lt;br&gt;개발후 다른 사람 소스를 받아서 컴파일후 이상 없으면 자기 소스를 업데이트 하죠.&lt;br&gt;&lt;br&gt;릴리즈를 오늘 밤 할 예정인데 6시 이후는 check in하지 말라는 얘기죠.&lt;br&gt;check in은 소스를 업데이트 하는 것을 말합니다.&lt;br&gt;소스를 수정 하려면 반드시 check out을 먼저 하여야 한다는 거죠.&lt;br&gt;build는 전체 컴파일을 말하죠.&lt;br&gt;&lt;br&gt;그리스에서 이민온 메니져의 글입니다. 아주 바른 영어가 아닐수 도 있죠.&lt;br&gt;제가 뭐 아나요? 알아 먹으면 그만 이지..&lt;br&gt;</content>
-    <postId>BAF7F75C-CFD1-487E-87E5-75DF359F5F3F</postId>
-    <pubDate>2002-07-31T00:00:00-04:00</pubDate>
-    <title>(2) 실무 영어 - 현지 오피스 메일</title>
-</post>

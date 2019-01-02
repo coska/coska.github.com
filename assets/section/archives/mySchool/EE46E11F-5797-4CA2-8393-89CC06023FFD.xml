@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>부기흡</author>
-    <comments/>
-    <content>I checked in the initial version of database scripts in the repository. &lt;br&gt;&lt;br&gt;Attached is a MySQL version but has not been tested (simply because I do not have MySQL installed yet). Also this does not include the instructor table discussed at the previous meeting yet.&lt;br&gt;&lt;br&gt;Review and give me feedback. If you have a chance to actually test it, let me know the results, and feel free to go ahead and fix the errors if you like. &lt;br&gt;&lt;br&gt;</content>
-    <postId>EE46E11F-5797-4CA2-8393-89CC06023FFD</postId>
-    <pubDate>2006-01-21T00:00:00-05:00</pubDate>
-    <title>database intall/uninstall scripts for mysql</title>
-</post>

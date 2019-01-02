@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>허현옥</author>
-    <comments/>
-    <content>오늘 루비 작업을 위해서 jsp 파일 수정 중에 발견된 사항들입니다.&lt;br&gt;&lt;br&gt;--------STUDENT------------------&lt;br&gt;COUTRY OF CITIZENSHIP,&lt;br&gt;FIRST LANGUAGE,&lt;br&gt;Emergency - Contack, Telephone&lt;br&gt;Education - Degree/Diploma&lt;br&gt;위의 데이타에 대한 정의가 된 Model 이 없더군요.&lt;br&gt;제가 못 본건지 아니면 아직 정의가 안된건지 확인 바랍니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;그리고,&lt;br&gt;스크린에서 Student의 Education에 있던 From, To 에서&lt;br&gt;From,To를 Graduation Date로 변경하였습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;CVS에서 받아 확인하시고, 잘못된 부분들은 바로 작업하시면 됩니다.&lt;br&gt;물론, sync 하실때 comment 달아주시는거 잊지 말아주시구요..^^</content>
-    <postId>18AD38DA-7D3B-4B0D-B82D-8E4CEB3938EE</postId>
-    <pubDate>2006-03-09T00:00:00-05:00</pubDate>
-    <title>Model의 필요한 수정사항들...</title>
-</post>

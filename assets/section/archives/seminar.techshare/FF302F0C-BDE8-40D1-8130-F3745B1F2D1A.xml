@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>Chris</author>
-    <comments/>
-    <content>Try this.&lt;br&gt;&lt;br&gt;System Key: [HKEY_LOCAL_MACHINE\\\\SOFTWARE\\\\Microsoft\\\\Windows NT\\\\CurrentVersion\\\\Winlogon]&lt;br&gt;Value Name: PowerdownAfterShutdown&lt;br&gt;Data Type: REG_SZ (String Value)&lt;br&gt;Value Data: (0 = default, 1 = power down)&lt;br&gt;&lt;br&gt;&lt;br&gt;Change the value to 1 to power down after shutdown.&lt;br&gt;&lt;br&gt;If your PC has ACPI board the computer should power off even if the value is set to 0, but you have to manually set it if not.&amp;nbsp;&amp;nbsp;Please let me know if this doesn't work.&amp;nbsp;&amp;nbsp;Thanks.&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;gt;누구 도움좀 주세요.&lt;br&gt;&amp;gt;Shut Down을 해도 하드디스크는 Power off가 되질 않아서 매번 손으로 꺼야&lt;br&gt;&amp;gt;합니다. 무엇이 문제인가요.&lt;br&gt;</content>
-    <postId>FF302F0C-BDE8-40D1-8130-F3745B1F2D1A</postId>
-    <pubDate>2002-08-12T00:00:00-04:00</pubDate>
-    <title>[re] [질문] Win2000 - How to Auto Power off?</title>
-</post>

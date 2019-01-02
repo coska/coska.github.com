@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>na</author>
-    <comments/>
-    <content>one of rquirment of the currnet project I am wokring on is create drop down style calendar. the calendar should able to recognzie user's keystrokes ( down arrow and up arrow keystrokes) and add or substract day, month, or year.&lt;br&gt;Is there any third party component? In case, I have to create my own control, is there any function or way to recognize which key user presses?&lt;br&gt;&lt;br&gt;thank you,&lt;br&gt;&lt;br&gt;</content>
-    <postId>139A568F-9D9B-4644-BE63-000E4A05524D</postId>
-    <pubDate>2006-12-12T00:00:00-05:00</pubDate>
-    <title>ASP.NET keystroke</title>
-</post>

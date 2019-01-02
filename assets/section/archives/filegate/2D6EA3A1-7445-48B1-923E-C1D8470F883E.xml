@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>부기흡</author>
-    <comments/>
-    <content>Attached is an article about .net application test.&lt;br&gt;&lt;br&gt;...&lt;br&gt;This guide presents recommendations on how to test .NET application blocks during their development life cycle, during customization, and during their integration with an application. The recommended process can be easily used no matter what software development life cycle you use to develop, customize, and integrate these blocks.&lt;br&gt;&lt;br&gt;Because this guide focuses on testing NET application blocks, its scope does not include user interface (UI) testing or database testing. Although the guidance is developed within the context of Microsoft patterns &amp; practices application blocks, it applies to testing .NET code in general.&lt;br&gt;...&lt;br&gt;&lt;br&gt;To read on, download the attachment.</content>
-    <postId>2D6EA3A1-7445-48B1-923E-C1D8470F883E</postId>
-    <pubDate>2005-06-23T00:00:00-04:00</pubDate>
-    <title>[test] testing .net application blocks</title>
-</post>

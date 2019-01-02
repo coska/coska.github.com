@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>임정숙</author>
-    <comments/>
-    <content>Qustion 1: &lt;br&gt;There will be no way to find out the font face and setting information from the gif file itself.&amp;nbsp;&amp;nbsp;You can consult with a visual designer who has some experience with typography to find out.&amp;nbsp;&amp;nbsp;They should have a collection of fonts to compare your font in the graphic file.&lt;br&gt;&lt;br&gt;Question 2:&lt;br&gt;I think this could be some options. &lt;br&gt;- use &amp;lt;meta name="keywords" content="title, sub titles,.....so on&amp;gt;&lt;br&gt;- use alt tags with each image such as below... &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;lt;img src="/images/home/aboutus.gif" width="100" height="100" border="0" alt="About Us" /&amp;gt;&lt;br&gt;&lt;br&gt;*** alt tag is very important when you are using images on the web especially when dealing with accessbility.&amp;nbsp;&amp;nbsp;Braille (reading tool for the visually challenged user) reads the alt tags on images.&amp;nbsp;&amp;nbsp;I think this is the same concept.&lt;br&gt;&lt;br&gt;I hope this helps.&lt;br&gt;Jay S.&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;gt;I am updating company's web site.&lt;br&gt;&amp;gt;All the title of the web site are image files.&lt;br&gt;&amp;gt;However, I couldn't figure out which font it is, no way to connect the web solution company which initially created the web.&lt;br&gt;&amp;gt;I only have gif format of images. How can I find out font and character info from gif image?&amp;nbsp;&amp;nbsp;Is it possible?&lt;br&gt;&amp;gt;Since every title and sub titles are image, search engines can't catch the content, is there any way to search engines catch the content by adding some comment or so ?&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;</content>
-    <postId>27E078FC-6928-41EF-9B14-570AA9C72788</postId>
-    <pubDate>2004-03-05T00:00:00-05:00</pubDate>
-    <title>[re] about web site project</title>
-</post>

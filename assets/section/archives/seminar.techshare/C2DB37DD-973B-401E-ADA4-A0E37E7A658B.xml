@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>윤석규</author>
-    <comments/>
-    <content>안녕하십니까? 윤석규라는 신규회원입니다.&lt;br&gt;최근에 제 컴퓨터에 한 가지 문제가 생겼는데 아무리 노력해도 해결할 수가 없어 경험 많으신 분들의 도움을 받아 볼까하고 편지릉 올립니다.&lt;br&gt;얼마전에 컴퓨터를 새로 format 했는데 그 이후로 URL에서 localhost나 127.0.0.1이 인식되지 못합니다. 즉 예전에는 http://localhost이나 http://127.0.0.1 라고 입력하면 default web server의 default file (저의 경우에는 IIS의 iisstart.asp)가 나왔었는데 지금은 The page cannot be displayed라는 에러만 나타나고 있읍니다.&lt;br&gt;Dos 상태에서 ping localhost 또는 ping 127.0.0.1 이라는 command를 입력하면 loss없이 data를 주고 받고 있고 저의 ip address인 24.153.13.20를 가지고 URL을 입력하면 아무 문제 없이 작동하고 있읍니다.&lt;br&gt;왜 가장 기본적인 localhost가 작동하지 않는 지 잘 모르겠읍니다.&lt;br&gt;혹시 해결방법을 아시는 분은 안계십니까?&lt;br&gt;도움을 주시면 감사하겠습니다.&lt;br&gt;</content>
-    <postId>C2DB37DD-973B-401E-ADA4-A0E37E7A658B</postId>
-    <pubDate>2002-05-16T00:00:00-04:00</pubDate>
-    <title>조언 부탁드립니다</title>
-</post>

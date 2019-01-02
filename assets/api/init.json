@@ -36,7 +36,7 @@
         {"title": "New Year Party","pgid": "m030201","layout": "section","doctype": "markdown","format": "list"},
         {"title": "Picnics/Campings","pgid": "m030102","layout": "section","doctype": "markdown","format": "card", "disabled":true},
         {"title": "Campings","pgid": "m030103",     "layout": "section","doctype": "markdown","format": "card", "disabled":true},
-        {"title": "Golf Coska","pgid": "m030104",   "layout": "section","doctype": "markdown","format": "card"}
+        {"title": "Golf Coska","pgid": "m030104",   "layout": "section","doctype": "html","format": "card"}
       ]
     },
     {

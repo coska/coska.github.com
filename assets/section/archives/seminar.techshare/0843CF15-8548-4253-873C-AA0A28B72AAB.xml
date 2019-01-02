@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>구게시판</author>
-    <comments/>
-    <content>김우성 wrote:&lt;br&gt;&lt;br&gt;당근입니다.. 단순히 fdisk 해서는 지울수 없죠.... 마스터 부트 파트션에 그 정보가&lt;br&gt;기록 되서요...... &lt;br&gt;&lt;br&gt;fdisk /mbr 물론 dos 화면에서 합니다.. 그럼 아무런 동작을 하지 안는것 처럼 보이지만&lt;br&gt;실제로는 해결 되죠.... 그럼 수고 하세요... 안녕...... &lt;br&gt;&lt;br&gt;&lt;br&gt;James lee wrote:&lt;br&gt;&lt;br&gt;&amp;gt;Hello.&lt;br&gt;&amp;gt;I want to delete Linux partitions from my hard drive.&lt;br&gt;&amp;gt;Of course I tried dos fdisk and linux fdisk for it.&lt;br&gt;&amp;gt;Unfortunately I can`t.&lt;br&gt;&amp;gt;If you know how to do that, Please let me know it.&lt;br&gt;&amp;gt;On linux I command ` fdisk -d`, but it is not available command.&lt;br&gt;&amp;gt;I heard from many linux partitions could be deleted by linux fdisk.&lt;br&gt;&amp;gt;If you know this as well, please answer me.&lt;br&gt;&amp;gt;Thank you for reading.&lt;br&gt;&amp;gt;&lt;br&gt;</content>
-    <postId>0843CF15-8548-4253-873C-AA0A28B72AAB</postId>
-    <pubDate>2001-08-31T00:00:00-04:00</pubDate>
-    <title>[re] [2000/4/16] Linux partitions??? (김우성)</title>
-</post>

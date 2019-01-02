@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>강동욱</author>
-    <comments/>
-    <content>JAVA에서 member 를 access하는 getXXXX() 카는 함수들 있죠..&lt;br&gt;&lt;br&gt;class MyClass {&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; int m_i;&lt;br&gt;&amp;nbsp;&amp;nbsp; CSomeObj m_obj;&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; int getInt()&lt;br&gt;&amp;nbsp;&amp;nbsp; {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; return m_i;&lt;br&gt;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; int getGetObj()&lt;br&gt;&amp;nbsp;&amp;nbsp; {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; return m_obj;&lt;br&gt;&amp;nbsp;&amp;nbsp; }&lt;br&gt;};&lt;br&gt;&lt;br&gt;이런 경우 m_obj는 object인데 기냥 리턴해 버리면 C/C++ 에서 말하는 pointer가 리턴 되는 거죵. 그걸 받아 간쪽에서 그걸 고치기라도 하면..&lt;br&gt;여기 안에 있는 값이 변경 되죠.. 그럼 안되잖아요?&lt;br&gt;값만 알려 줄려고 했는데 ..&lt;br&gt;&lt;br&gt;그러니 복사를 해서 주면 되겠지요. 그래서 clone() 이라는게 있지요.&lt;br&gt;그걸로 복사 해서 주면.. 복사해 간놈을 아무리 고쳐도 내가 가지고 있는 오리지날은 안 바뀌죠.&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; int getGetObj()&lt;br&gt;&amp;nbsp;&amp;nbsp; {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; return (CSomeObj)m_obj.clone();&lt;br&gt;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&lt;br&gt;이렇게 해야 되죠. clone이 무언지 모르고 왜 그걸 써야 하며 &lt;br&gt;여기서 왜 (CSomeObj)을 cast해 주는지는 질문 하시면 &lt;br&gt;답변에 올리겠슴다.&lt;br&gt;질문 방법은 &lt;br&gt;&lt;br&gt;[Q] 어쩌고 저쩌고.. 왜 그런 가요?&lt;br&gt;&lt;br&gt;뭐 이런식으로 올리십숑.&lt;br&gt;&lt;br&gt;그럼 또</content>
-    <postId>17AF7BEB-1314-4223-8472-20D950D159B5</postId>
-    <pubDate>2001-12-12T00:00:00-05:00</pubDate>
-    <title>[I] JAVA의 함정 하나</title>
-</post>

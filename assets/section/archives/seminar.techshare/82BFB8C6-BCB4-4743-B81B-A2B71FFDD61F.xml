@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>부기흡</author>
-    <comments/>
-    <content>Technically this does not seem to be regarded as virus, consequently no vaccine exists either :-)&lt;br&gt;&lt;br&gt;The symptom of this slammer is that your machine is almost hung since sqlsvr.exe is very busy causing severe network traffic. All you need to do is shutdown and reboot your machine. It will go this way. If this does not work, then it will be something else than the slammer.&lt;br&gt;&lt;br&gt;Apply service pack 3 from MS and it is a good idea to run the SQL server only when you are testing.&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;gt;집에서 공부도 하고 포트폴리오도 올릴겸 해서 IIS Server를 SQL 7.0 과 함께 돌리고 있는데, 얼마전 Slammer Virus에 감염된 것 같아요..&lt;br&gt;&amp;gt;보안패치등을 깔아 보아도 이미 감염된 상태라 그런지 복구가 되지 않습니다.&amp;nbsp;&amp;nbsp;램에 상주하는 바이러스를 없애기 위해서 CPU를 포맷한다는 소릴 어디선가 들은것 같은데, 그런 방법으로 바이러스에 감염된 서버를 복구할수 있는지, 있다면 어떻게 해야 하는지(어디로 컴퓨터를 들고 가야 하는지,) 좀 아시는 분 있으면 답변 주세요. 가뜩이나 취업이 어려운때라 나름대로 샘플들을 몇게 만들어 놓았는데, 마음이 답답하네요... 서버가 뽀사져서..&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;모두 건강하시구요...&lt;br&gt;&amp;gt;안녕히....&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt; &lt;br&gt;</content>
-    <postId>82BFB8C6-BCB4-4743-B81B-A2B71FFDD61F</postId>
-    <pubDate>2003-02-24T00:00:00-05:00</pubDate>
-    <title>[re] Slammer Virus</title>
-</post>

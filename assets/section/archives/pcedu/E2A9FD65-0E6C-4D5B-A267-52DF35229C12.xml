@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>최종구</author>
-    <comments/>
-    <content>소리바다처럼 한글만을 지원하는 실행 프로그램에서 한글을 사용하려면 아래에 있는 4번을 참고 하면 됩니다. 그리고 시스템 복구 방법은 xp에 내장되어 있는 복구 방법이 있는데 필요하면 다음 URL을 참고하세요. &lt;br&gt;http://www.microsoft.com/Korea/msdn/library/techart/windowsxpsystemrestore.htm&lt;br&gt;그리고 복구 CD 만드는 방법은 고스트를 사용하면 됩니다. 아래 URL을 참고하세요.&lt;br&gt;http://myhome.naver.com/wlsdn5/html/study/Ghost.htm&lt;br&gt;&lt;br&gt;(펌) 영문 xp에서 한글과 한글 프로그램 사용 방법&lt;br&gt;1. start-control panel-regional and language-languages-suplamental language support-instell file for east asian lauguage(체크)-apply-ok(한글을 입력시키기 위하여 몇분이 걸립니다. 때로는 Window&amp;nbsp;&amp;nbsp;xp cd 원본이 필요할 수도 있습니다.)&lt;br&gt;2. start-control panel-regional and language-languages-taxt service and input language-Ditail-installed services-add-input language와 key board layout등에 korean이 나오도록 선택한다.(한국어로 입력이 되도록 하는 것과 한글 키보드를 사용할 수 있도록 한 것이다&lt;br&gt;3&amp;nbsp;&amp;nbsp;start-control panel-regional and language-languages-defualt input language에 korean을 위 아래로 선택한다.(한국어로 입력 설정)&lt;br&gt;4.start-control panel-regional and language-advanced-language for none unicode program 에 korean을 선택한다.(이것을 선택해야 한글 프로그램을 설치시 프로그램 한글을 볼 수 있다.&lt;br&gt;&lt;br&gt;&amp;gt;안녕하세요?&lt;br&gt;&amp;gt;여기서 윈도우 XP 컴퓨터를 한대 샀는데,&lt;br&gt;&amp;gt;두가지를 문의 드릴려고 합니다.&lt;br&gt;&amp;gt;한글 입력은 언어셋팅을 해서 문제가 없는데,&lt;br&gt;&amp;gt;바탕화면및 실행프로그램들에서 뿌리는 한글 메세지가 &lt;br&gt;&amp;gt;깨져서 나오는 문제하구요,&lt;br&gt;&amp;gt;시스템에 장애가 생겼을 &amp;#46468; 다시 통째로 복구하는 CD를 만드는 방법을&lt;br&gt;&amp;gt;혹시 아시면 좀 가르쳐 주십시오 ^^&lt;br&gt;&amp;gt;감사합니다.&lt;br&gt;&amp;gt;&lt;br&gt;</content>
-    <postId>E2A9FD65-0E6C-4D5B-A267-52DF35229C12</postId>
-    <pubDate>2003-03-28T00:00:00-05:00</pubDate>
-    <title>[re] 한글과 시스템 백업</title>
-</post>

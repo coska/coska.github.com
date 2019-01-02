@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>이상윤</author>
-    <comments/>
-    <content>일자 : 9월 22일 (금)&lt;br&gt;일시 : 7시 30분 - 10시&lt;br&gt;인원 : 오승준,김석,이진경,이상윤,최봉준,오주환,김동욱,김형태&lt;br&gt;&lt;br&gt;내용 : &lt;br&gt;- IO &amp; Network 팀 Class Diagram Review&lt;br&gt;- 현재 까지 프로그램 simulation&lt;br&gt;- AsyncSocket 으로 진행 (Non blocking)&lt;br&gt;- 단방향 전송&amp;nbsp;&amp;nbsp;토의 (최초버전)&lt;br&gt;- Dynamic IP Address 처리, dns2go.com 에서 정보를 얻을수 있음&lt;br&gt;- 동시 여러곳 백업 (차후 버전)&lt;br&gt;- 방화벽,암호화 토의 &lt;br&gt;&lt;br&gt;장소 :&amp;nbsp;&amp;nbsp;7 Bishop Computer Room&lt;br&gt;&lt;br&gt;기타 :&amp;nbsp;&amp;nbsp;이진경 NDA Form 전달. (김형태)&lt;br&gt;&lt;br&gt;&lt;br&gt;</content>
-    <postId>C417CD92-5DB6-4D8A-971C-01428EA5FF98</postId>
-    <pubDate>2005-09-24T00:00:00-04:00</pubDate>
-    <title>[re] [File IO] &amp; [네트맨] 미팅 결과 보고 합니다.</title>
-</post>

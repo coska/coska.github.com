@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>강동욱</author>
-    <comments/>
-    <content>대부분 Beta1 을 전에 깔았다가 Uninstall을 확실히 해야 하는데&lt;br&gt;제대로 안되었을때 이런 경우 발생 합니다.&lt;br&gt;즉 2개의 버젼이 호환(compatibility)이 안되는 거죠.&lt;br&gt;&lt;br&gt;일단 regedit.exe 에서 &lt;br&gt;[HKEY_CLASSES_ROOT\\\\Licenses\\\\C4B8C1BC-A36C-4723-AF48-F362BFAB9DF5]&lt;br&gt;키를 찾아서 제거 하고 그래도 안되면&lt;br&gt;&lt;br&gt;Beta1을 install한 다음 다시 uninstall하고 나서 하면 Beta 2도 깔립니다.&lt;br&gt;&lt;br&gt;너무 좁은 범위의 사람에게만 해당 하는 정보인가?&lt;br&gt;&lt;br&gt;하지만 앞으로 Visual Studio.NET 어쩔수 없이 접하게 될 기회 올겁니다.&lt;br&gt;이건 SUN의&amp;nbsp;&amp;nbsp;J2EE/EJB 시스템과 많이 흡사하고 좋은것만 골라서 &lt;br&gt;만든거라 기존의 Microsoft의 그런것들과는 많이 달라 졌더군요.&lt;br&gt;즉 무지하게 사용하기 쉬워 졌다는 거죠.&lt;br&gt;쉬우면 회사에서 많이 채택하죠.&lt;br&gt;&lt;br&gt;그럼 다음에 또..</content>
-    <postId>DEFB1EE2-673D-4B71-A4A7-CB3CE9BB1048</postId>
-    <pubDate>2001-12-30T00:00:00-05:00</pubDate>
-    <title>[i] Visual Studio.NET Beta 2 Install Fail 했을때</title>
-</post>

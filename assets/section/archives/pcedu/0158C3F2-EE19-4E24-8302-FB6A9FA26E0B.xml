@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>Brendan</author>
-    <comments/>
-    <content>혹여 그 코드를 validation에 쓰신다면 이것도 고려해보시지요.&lt;br&gt;&lt;br&gt;아래 코드는 JUnit 테스트 케이스의 일부 method입니다. 실행해보시면 아시겠지만, 두자리 수 년도에 대해 거부하지 않고 받아들입니다. 즉, ParseException이 발생하지 않는다는 것이죠. 게다가 입력된 그 두자리 숫자마저, 의도하는 결과가 아닐 수 있습니다. 그러므로, 만약 사용자의 데이타 입력에 대해 정확히 Validate 하고자 한다면, regex를 통한 방법이 더 정확할 것입니다.&lt;br&gt;&lt;br&gt;public void testSimpleDateFormat() throws java.text.ParseException {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;SimpleDateFormat df = new SimpleDateFormat("dd-MM-yyyy");&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Date dateOkay = df.parse("31-03-2006");&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;assertTrue(dateOkay.getYear()==106); //106 = 2006 - 1900&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Date dateWrong = df.parse("31-03-06");&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;assertFalse(dateWrong.getYear()==106);&lt;br&gt;}&lt;br&gt;</content>
-    <postId>0158C3F2-EE19-4E24-8302-FB6A9FA26E0B</postId>
-    <pubDate>2006-07-28T00:00:00-04:00</pubDate>
-    <title>[re] Parsing Dates from String Values</title>
-</post>

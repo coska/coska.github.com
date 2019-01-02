@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>부기흡</author>
-    <comments/>
-    <content>I added 'Instructor' table according to the Jan. 13 design review.&lt;br&gt;&lt;br&gt;To run, you need to refresh the database with tonight's DDL. Sync up the model as well.&lt;br&gt;&lt;br&gt;</content>
-    <postId>72A0E1F7-47CC-4592-9756-43DEC6982D1A</postId>
-    <pubDate>2006-02-13T00:00:00-05:00</pubDate>
-    <title>JUnit tests pass rate 34%</title>
-</post>

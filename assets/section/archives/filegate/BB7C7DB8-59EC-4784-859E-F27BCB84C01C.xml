@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>김동욱</author>
-    <comments/>
-    <content>지난 주 7월7일에 열린 config팀 미팅에 기존의 팀멤버인 최종구,박나리,박윤희,김동욱,김형태씨,부기흡 조장님 및 오승준 부회장님,이진경,조복산,최선두,박진호,김석씨등이 이번 팀 미팅에 참석해주셨습니다. &lt;br&gt;많은 분들이 참석해 주셔서 config팀의 인기를 실감할수 있었습니다..^___^&lt;br&gt;&lt;br&gt;미팅에서 논의된 agenda는 다음과 같습니다.&lt;br&gt;&lt;br&gt;1. 각자 role 정하기(이부분은 부기흡 조장님께서 각자 맡을 부분들을 정해서 하면 책임감을 가지고 열심히 해나갈수 있을꺼라 생각하시고 차후 다른팀들의 requirement가 생성되면 그에 맞게 role를 정해서 config팀의 완성도를 한층 높였으면 하고 팀원들과 의견일치를 봤습니다.)&lt;br&gt;&lt;br&gt;2. Common module : logging file list(history), event handle&lt;br&gt;&lt;br&gt;3. Scheduler : 전체백업, differencial 백업&lt;br&gt;&lt;br&gt;4. Config 관리 module : system file back up 및 flag&lt;br&gt;&lt;br&gt;5. Filegate.config 에서&amp;nbsp;&amp;nbsp;FileGate.configuration으로 change함&lt;br&gt;&lt;br&gt;6. Time interval 조정&lt;br&gt;&lt;br&gt;7. source folder 지정&lt;br&gt;&lt;br&gt;8. Include/exclude list 지정&lt;br&gt;&lt;br&gt;9. Destination URI 필요없음&lt;br&gt;&lt;br&gt;10.Network timeout setting&lt;br&gt;&lt;br&gt;11.User(Machine ID)ID,password list를 encryption and save한다 &lt;br&gt;&lt;br&gt;12. Idle time 백업시 set priority of file(백업할때 어떤 종류의 file을 우선 순위에 두느냐) type, file size&lt;br&gt;&lt;br&gt;이상과 같이 시종 화기애애한 분위기속에 config팀 첫 미팅을 순조롭게 마쳤습니다.혹시 제가 missing한 부분이 있으면 사정없이 리플로 때려주시고요..^^&lt;br&gt;&lt;br&gt;UI팀을 마지막으로 팀별 미팅이 마무리 됐습니다.이제부터는 팀별 미팅때 수렴된 내용를 토대로 좀 더 구체적으로 설계파트 구성이 진척되가길 바랍니다.&lt;br&gt;&lt;br&gt;File Gate 아자아자!!!!</content>
-    <postId>BB7C7DB8-59EC-4784-859E-F27BCB84C01C</postId>
-    <pubDate>2005-07-12T00:00:00-04:00</pubDate>
-    <title>[config]팀 미팅 결과보고</title>
-</post>

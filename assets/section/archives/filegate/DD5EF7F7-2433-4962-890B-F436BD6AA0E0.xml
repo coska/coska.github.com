@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>부기흡</author>
-    <comments/>
-    <content>While briefly going through the scenarios, I came across with the following paragraph from the Installation case. &lt;br&gt;...&lt;br&gt;진호는 회사 컴퓨터의 project폴더를 집에 있는 backup폴더와 sync를 시키고 싶어 합니다. 그래서 파일게이트를 설치하죠.&lt;br&gt;...&lt;br&gt;&lt;br&gt;It was my oversight that I did not pay much attention to this. The above scenario raises a few interesting issues that are not so obvious (at least to me):&lt;br&gt;&lt;br&gt;1) If the only connectivity between Jinho's workplace and home is Internet (this case has been my impression so far), we would have to assume that FileGate supports HTTP and his home PC should be running a web server. Also, he might need to have a static IP address and/or domain name registered (Let's not say there is a way of doing this without static IP if we want to call FileGate a product).&lt;br&gt;&lt;br&gt;2) If his home PC supports VPN, the PC should be running Windows Server and he must have a static IP address.&lt;br&gt;&lt;br&gt;3) FileGate only works in a LAN or Intranet environment so the scenario is not realistic.&lt;br&gt;&lt;br&gt;The above pre-conditions do not sound very impressive. Am I missing something? Any thoughts? How are the other products supporting this?&lt;br&gt;&lt;br&gt;&lt;br&gt;</content>
-    <postId>DD5EF7F7-2433-4962-890B-F436BD6AA0E0</postId>
-    <pubDate>2005-09-21T00:00:00-04:00</pubDate>
-    <title>Requirements - communication protocol question</title>
-</post>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>부기흡</author>
-    <comments/>
-    <content>I worked on the model tonight and just checked in the code in CVS (COSKA_MySchool_Model).&lt;br&gt;&lt;br&gt;I plan to write a few sample JUnit test cases hopefully in a day or two. The JUnit test cases will test model API and persistence through Hibernate mappings. Initially all of the persistence code will be failing and this is intentional.&lt;br&gt;&lt;br&gt;Hopefully someone would finished up the entire JUnit test suite while I work on Hibernate mapping files to make the test cases pass.&amp;nbsp;&amp;nbsp;</content>
-    <postId>6AD94F72-DD79-4067-A972-AA6D31D245C6</postId>
-    <pubDate>2006-01-24T00:00:00-05:00</pubDate>
-    <title>Initial model code checked in</title>
-</post>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>송강호</author>
-    <comments/>
-    <content>in Form1&lt;br&gt;&lt;br&gt;private void button1_Click(object sender, System.EventArgs e)&lt;br&gt;{&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Form2 f2 = new Form2();&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;f2.ShowDialog(this);&lt;br&gt;}&lt;br&gt;&lt;br&gt;&lt;br&gt;In Form2&lt;br&gt;private void button1_Click(object sender, System.EventArgs e)&lt;br&gt;{&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;string s = this.Owner.ToString();&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;MessageBox.Show(s.ToString());&lt;br&gt;}&lt;br&gt;</content>
-    <postId>23258A69-008F-4FDB-925C-D87DA32BCB69</postId>
-    <pubDate>2004-08-09T00:00:00-04:00</pubDate>
-    <title>[re] C# call parent form's method.</title>
-</post>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>김성욱</author>
-    <comments/>
-    <content>Q. How/What will you take care of the situation when there're multiple concurrent requests to a servlet?</content>
-    <postId>36C92DE5-48FE-4A5C-866D-7AD804B466B0</postId>
-    <pubDate>2004-03-05T00:00:00-05:00</pubDate>
-    <title>Concurrent requests to a servlet?</title>
-</post>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>부기흡</author>
-    <comments/>
-    <content>I added a new test case in StudentTest.java. It shows how to get a student by its ID - i.e. using hSesssion.get(...).&lt;br&gt;&lt;br&gt;You need to refer to the database script to see which columns must not be null - this should be done as part of validation in the JSP pages - to avoid exceptions coming from the database.&lt;br&gt;&lt;br&gt;Thanks.&lt;br&gt;</content>
-    <postId>58DDBFEC-0A2B-4F3A-A6BF-D1E2C33801E6</postId>
-    <pubDate>2006-04-03T00:00:00-04:00</pubDate>
-    <title>[re] Student model에 대한 궁금...</title>
-</post>

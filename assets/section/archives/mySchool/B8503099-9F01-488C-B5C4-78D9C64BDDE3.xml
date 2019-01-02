@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<post>
-    <author>허현옥</author>
-    <comments/>
-    <content>이틀전에 김동욱님과 황정선님께 잠깐 저희 프로젝트 설명할때&lt;br&gt;두분이 DB schema를 못 찾겟다고 하시더군요..^^;&lt;br&gt;&lt;br&gt;그러고 봤더니 저희가 처음에 저희끼리 DB 스키마 작업을 하고 &lt;br&gt;ER-Win으로 초기 설계만 해놓고 말었더라구요.. 이런 무책임한...^^;&lt;br&gt;&lt;br&gt;그래서 지금까지 부 회장님이 작업하신 DDL을 기반으로 ER-Win으로&lt;br&gt;연관 관계만 그려보았습니다. 그리고 파일을 jpg로 만들어서&lt;br&gt;wiki에 올려놨습니다.&lt;br&gt;&lt;br&gt;혹시 잘못된 부분이나 궁금하시부분있으면 답글달아주세용~</content>
-    <postId>B8503099-9F01-488C-B5C4-78D9C64BDDE3</postId>
-    <pubDate>2006-04-29T00:00:00-04:00</pubDate>
-    <title>ERD 올려놨습니다.</title>
-</post>

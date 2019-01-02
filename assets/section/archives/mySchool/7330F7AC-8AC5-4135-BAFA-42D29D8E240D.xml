@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>k</author>
+    <comments>
+        <comment>
+            <author>허현옥</author>
+            <date>2006-03-29T00:00:00-05:00</date>
+            <content>awesome!</content>
+        </comment>
+    </comments>
+    <content>It fails on one case out of 35 total test cases.&lt;br&gt;</content>
+    <postId>7330F7AC-8AC5-4135-BAFA-42D29D8E240D</postId>
+    <pubDate>2006-03-28T00:00:00-05:00</pubDate>
+    <title>JUnit 97% pass</title>
+</post>

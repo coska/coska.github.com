@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>Hye Sung</author>
+    <comments/>
+    <content>Thank you.&lt;br&gt;It has been removed.&lt;br&gt;&lt;br&gt;&amp;gt;setClock is not defined. &lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;자바 스크립트 에러입니다.&lt;br&gt;&amp;gt;거의 대부분의 페이지에서 이런 에러창이 뜹니다.&lt;br&gt;&amp;gt;이런 에러에 민감하지 않은 브라우저는 무시하지만&lt;br&gt;&amp;gt;많은 브라우저에서 페이지 이동때마다 뜨는군요.&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&amp;lt;script language=\\&amp;quot;JavaScript\\&amp;quot;&amp;gt;&amp;lt;!--&lt;br&gt;&amp;gt;document.write (\\&amp;quot;Toronto \\&amp;quot;+setClock()+\\&amp;quot;&amp;lt;br&amp;gt;\\&amp;quot;);&lt;br&gt;&amp;gt;document.write (\\&amp;quot; Seoul&amp;nbsp;&amp;nbsp;\\&amp;quot;+seoulClock());&lt;br&gt;&amp;gt;// --&amp;gt;&lt;br&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;이런 스크립트 코드가 있는데.. &lt;br&gt;&amp;gt;이부분은 삭제 되어야 할것 같습니다.&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;</content>
+    <postId>136C1409-2EE2-4F70-9497-2633C97EC630</postId>
+    <pubDate>2002-03-08T00:00:00-05:00</pubDate>
+    <title>[re] A runtime error occurs after upgrading my browser</title>
+</post>

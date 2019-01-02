@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>S. Suh Lee</author>
+    <comments>
+        <comment>
+            <author>허현옥</author>
+            <date>2006-01-19T00:00:00-05:00</date>
+            <content>That's amazing stuff...^^ You've done a lot of work. After I read(If I can finish it..^^;;) I will leave comment if I have any commet.</content>
+        </comment>
+        <comment>
+            <author>KB</author>
+            <date>2006-01-19T00:00:00-05:00</date>
+            <content>Fantastic! Will feedback during the weekend. Also I would be finishing an initial version of database install/uninstall scripts by then.</content>
+        </comment>
+    </comments>
+    <content>Hi, all.&lt;br&gt;&lt;br&gt;I loaded the first draft of test cases on wikispace under the link "Test Plan". The document is not complete but I need some feedback before I finish it.&lt;br&gt;&lt;br&gt;Please feel free to comment, especially on following items:&lt;br&gt;&lt;br&gt;1. Are test cases detail enough?&lt;br&gt;2. Is each test case valid ?&lt;br&gt;3. Are there any cases missing?&lt;br&gt;4. Is the language and format used in the document clear and concise?&lt;br&gt;5. Some of the less clear items are underlined on the document. Please feel free to confirm/comment on any of them.&lt;br&gt;&lt;br&gt;Thanks,&lt;br&gt;&lt;br&gt;S. Suh Lee&lt;br&gt;</content>
+    <postId>D6DCD56A-0F32-45F0-A814-45F59E62F6A8</postId>
+    <pubDate>2006-01-19T00:00:00-05:00</pubDate>
+    <title>Test Cases for Watir Script (draft) is loaded</title>
+</post>

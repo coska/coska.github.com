@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>허현옥</author>
+    <comments>
+        <comment>
+            <author>오승준</author>
+            <date>2006-03-28T00:00:00-05:00</date>
+            <content>수고 많습니다~</content>
+        </comment>
+    </comments>
+    <content>이번주내에 컨트롤러까지는 마무리 하려고 합니다. 물론, blank Manager 클래스도 같이 만들어야 겠죠.&lt;br&gt;&lt;br&gt;그리고나면 부 회장님이 작업하신 부분이 완료되는 데로 Manager 클래스에서 붙이고, 결과를 화면에 뿌려는 주는 거만 하면 1차적으로 돌아가는 모양을 볼 수 있을 것 같습니다.&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;제 예상으로는 이상태가 될때까지 기간을 2주정도로..4월7일(금요일)에는 1차 완성본을 볼 수 있지 않을까 싶네요.(물론, 다른 작업들이 다 완성된다는 예상 하에 그렇습니다.)&lt;br&gt;&lt;br&gt; 1차 완료후에 고객에게 테스트 부탁을 하고, 그 중에 저희는 Ruby로 자동화 테스트를 만들면 2차 완료에 자동화된 테스팅까지 전달할 수 있을 것 같습니다.&lt;br&gt;&lt;br&gt; 결국은 제가 빨리 빨리 진행하는 일들만 남은 거 같네요..^^&lt;br&gt;&lt;br&gt;그럼 모두 파팅!</content>
+    <postId>BE1D1A3F-0E6E-46EC-8136-14EFF9441400</postId>
+    <pubDate>2006-03-27T00:00:00-05:00</pubDate>
+    <title>스트러츠 컨트롤러는 개발은...</title>
+</post>

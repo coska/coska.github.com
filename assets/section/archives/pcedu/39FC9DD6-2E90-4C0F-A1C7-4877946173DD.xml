@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이준희</author>
+    <comments/>
+    <content>사용자의 요청과네트웍의 환경에 &lt;br&gt;따른 오버렙 비동기 처리가 필요하고&lt;br&gt;때에따른. 쓰레드 뮤텍스도 필요하다.&lt;br&gt;CPU 에 존재하는&amp;nbsp;&amp;nbsp;요청에 따라&lt;br&gt;여러 쓰레드 중에 하나의 쓰레드를 switching &lt;br&gt;해야 한는데....이걸 c#으로짜고 있습니다.&lt;br&gt;그런데..지원되야할 커널(win32) 을 알고 계신분&lt;br&gt;부탁드립니다.좀 급해서요.^^</content>
+    <postId>39FC9DD6-2E90-4C0F-A1C7-4877946173DD</postId>
+    <pubDate>2007-03-16T00:00:00-04:00</pubDate>
+    <title>Context Switching</title>
+</post>

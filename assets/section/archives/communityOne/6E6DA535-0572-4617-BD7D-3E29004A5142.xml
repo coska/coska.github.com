@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>황성규</author>
+    <comments/>
+    <content>JBuilder를 이용해서 Servlet을 디버깅할수 있는 방법입니다.&#xD;
+&#xD;
+&lt;b&gt;Apache Tomcat Servlet and JavaServer Pages Development with JBuilder Foundation&lt;/b&gt;&#xD;
+&#xD;
+http://community.borland.com/article/0,1410,22057,00.html&#xD;
+&#xD;
+이홍식 wrote:&#xD;
+&gt; Thanks for your tip.&#xD;
+&gt; &#xD;
+&gt; So the "result-&gt;..." will be populated on the DOS window, I guess...&#xD;
+&gt; &#xD;
+&gt; Using VAJ is like flying an air plane to me. It's too complicated!! I don't get killed though, when the VAJ crashes on me :-)&#xD;
+&gt; &#xD;
+&gt; Regards,&#xD;
+&gt; B Lee&#xD;
+&gt; &#xD;
+&gt; 이성기 wrote:&#xD;
+&gt; &gt; &#xD;
+&gt; &gt; If you are using VAJ, you can do tracking with breakpoint at the line of servlet code. Another way is to insert&#xD;
+&gt; &gt; System.out.println("result -&gt; " + username) between lines. &#xD;
+&gt; &gt; There is no special debugging method for servlet because servlet is a java code. &#xD;
+&gt; &gt; &#xD;
+&gt; &gt; If you want to debug your JSP in VAJ, you can turn on JSP monitor in your Websphere Test Environment dialog box. &#xD;
+&gt; &gt; &#xD;
+&gt; &gt; Scott Lee</content>
+    <postId>6E6DA535-0572-4617-BD7D-3E29004A5142</postId>
+    <pubDate>2001-08-09T00:00:00-04:00</pubDate>
+    <title>RE: RE: RE: Servlet Debugging?</title>
+</post>

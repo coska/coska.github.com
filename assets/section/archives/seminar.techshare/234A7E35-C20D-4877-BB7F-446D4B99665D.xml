@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>yih2d</author>
+    <comments>
+        <comment>
+            <author>cavecafe</author>
+            <date>2012-04-21T00:00:00-04:00</date>
+            <content>RewriteCond %{REQUEST_URI} ^/(css|images)/?.*$ [NC]
+
+또는 
+
+RewriteRule ^(css|images|) - [L]
+
+둘 중에 하나를 사용하면 안될까요?
+
+다음 사이트에서 참조했습니다. 시도해 보진 않았구요.
+http://net.tutsplus.com/tutorials/other/a-deeper-look-at-mod_rewrite-for-apache/
+www.sitepoint.com/apache-mod_rewrite-examples</content>
+        </comment>
+        <comment>
+            <author>dslee28</author>
+            <date>2012-04-22T00:00:00-04:00</date>
+            <content>님께서 쓰는 rewriterule 은 codeigniter 에서 사용하는 패턴과 거의 동일합니다.
+따라서 codeigniter 에서 사용하는 rewriterule을 응용해서 사용하면 다음과 같이 쓰면 되지 않을까 생각합니다.
+
+http://codeigniter.com/wiki/mod_rewrite
+
+RewriteCond %{REQUEST_URI} !^(/index\.php|/img|/js|/css|/robots\.txt|/favicon\.ico)
+RewriteRule ^page/([^/]*)$ /index.php?page=$1 [L]
+
+</content>
+        </comment>
+    </comments>
+    <content>&lt;p&gt;처음 글 올려보는데, 이렇게 질문을 해도 되는지 모르겠습니다만, 도와주시면 큰 도움이 될 것 같습니다.&lt;/p&gt;
+&lt;p&gt;clean url 이라고 하죠?&lt;/p&gt;
+&lt;p&gt;abc.com/index.php?page=summary 이런 주소를&lt;/p&gt;
+&lt;p&gt;abc.com/page/summary 이렇게 바꿔주고 싶어서 mod_rewrite에 대해 알아보고 있는데요.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;RewriteRule ^page/([0-9]+)/?$ page.php?id=$1 이렇게 써주면 된다는 거까지는 어떻게 알아냈는데,&lt;/p&gt;
+&lt;p&gt;이렇게 RewriteRule을 써주고나면, css/style.css 의 경로를 page/css/style.css 에서 찾는 바람에 404 Not Found가 나와버립니다.&lt;/p&gt;
+&lt;p&gt;css나 js, images 들의 경우에는 rule에서 제외시켜주고 싶은데, 어떻게 하면 될까요?&lt;/p&gt;</content>
+    <postId>234A7E35-C20D-4877-BB7F-446D4B99665D</postId>
+    <pubDate>2012-04-20T00:00:00-04:00</pubDate>
+    <title>mod_rewrite 관련해서 질문이 있습니다.</title>
+</post>

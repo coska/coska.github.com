@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>charley</author>
+    <comments/>
+    <content>By Lee Copeland Gladwin &#xD;
+(Apr. 23, 2001) Developing applications for wireless devices is rife with challenges, including proprietary device operating systems, insufficient standards and usability issues. Nonetheless, such development is on the rise, and Java is the language of choice, according to a new report. &#xD;
+&#xD;
+The study, from Evans Data Corp., a market research firm in Santa Cruz, Calif., reported that 30% of 521 developers surveyed plan to use Sun Microsystems Inc.'s Java 2 Micro Edition for mobile development projects. Developers' second choice was Palm Inc.'s operating system (25%), followed by Microsoft Corp.'s Windows CE (22%). &#xD;
+&#xD;
+&#xD;
+Users say Java enables them to write code &#xD;
+&#xD;
+Developers' Choice &#xD;
+Which Platform will ou use for the wireless development in the next 18 mnths? &#xD;
+ &#xD;
+  Sun's Java 2 Micro Edition&#xD;
+ &#xD;
+  Palm's operating system&#xD;
+ &#xD;
+  Microsoft's Windows CE operating system.&#xD;
+ &#xD;
+  Linux EM&#xD;
+ &#xD;
+  Other&#xD;
+ &#xD;
+base: 521 users &#xD;
+that can run on numerous hardware devices; Microsoft advocates, meanwhile, say coding for the Windows CE operating system in languages like Visual C++ and Visual Basic makes development easier. &#xD;
+&#xD;
+&#xD;
+Later this year, Purchase, N.Y.-based MasterCard International Inc. plans to roll out wireless access to its e-wallet portal, an application that allows cardholders to store credit card numbers and shipment and billing information online. The Brodia Group in San Francisco developed the Java-based application for MasterCard. The start-up says support is forthcoming for the Palm OS but not for Windows CE. &#xD;
+&#xD;
+&#xD;
+"On the server side, it's all Java," said Brodia Chief Technology Officer Paul Guthrie. "On the client side, we'll support whatever the consumer demands, but today, there's no traction on Windows CE devices." &#xD;
+&#xD;
+&#xD;
+The Home Depot Inc. in Atlanta developed a custom-built wireless application using Microsoft's Visual Basic six years ago. The application, which allows its retail outlets to do product ordering and inventory updates from store floors, was rolled out to all 1,200 stores two years ago. But henceforth, Home Depot plans on using Java for its wireless application development projects. &#xD;
+&#xD;
+&#xD;
+"We want to run Java, as opposed to something proprietary like [Visual Basic]," said Curtis Chambers, senior manager of architecture at Home Depot. "We're rolling out Linux-based clients, and you can't just port VB over to Linux." &#xD;
+&#xD;
+&#xD;
+The assurance that the application will run on different hardware platforms led General Motors Corp. to begin exploring Java-based applications for its OnStar in-vehicle communications system, said Mike Hichme, a lead systems engineer at GM. "Java has a lot of benefits from the capability of downloading an application that can run on any device, from a hardware-agnostic standpoint," Hichme said. &#xD;
+&#xD;
+&#xD;
+But Microsoft is by no means out of the running. &#xD;
+&#xD;
+&#xD;
+To get access to wireless reports and alerts from its e-commerce site onto Research In Motion Ltd. BlackBerry pagers, Mark Sundt, CTO at Haystack Toy Co. in St. Louis, built an application using Visual Basic and Active Server Pages. &#xD;
+&#xD;
+&#xD;
+"It's a bake-off between developing faster in VB or doing harder coding in Java," said Sundt. "But our expertise is primarily on the Microsoft platform." &#xD;
+&#xD;
+</content>
+    <postId>AF7B6872-941C-45B7-90D5-431208344DAC</postId>
+    <pubDate>2001-04-24T00:00:00-04:00</pubDate>
+    <title>Java top choice of wireless developers </title>
+</post>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>강동욱</author>
+    <comments>
+        <comment>
+            <author>임재영</author>
+            <date>2003-03-09T00:00:00-05:00</date>
+            <content>좋은 자료 감사합니다.. 기초를 튼튼히~~</content>
+        </comment>
+    </comments>
+    <content>원래 제가 C++에 가장 자신 있는 전형 적인 C++ 프로그래머 입니다.&lt;br&gt;&lt;br&gt;근데 인터뷰때 최근의 첨단 기술을 물어 볼지 알고 준비해 갔는데 그런건 &lt;br&gt;안물어 보고 기초적이면서 어려운 부분 물어 보더군요.&lt;br&gt;&lt;br&gt;저는 잘알고 있고 충분히 설명할 수 있는데 영어로 연습을 안해서 죽썼습니다.&lt;br&gt;&lt;br&gt;다른분들을 위해서 올려 봅니다.&lt;br&gt;&lt;br&gt;1. class 의 inheritance 꼭 물어 봅니다. java 인터뷰일때도 물어 봅니다.&lt;br&gt;2. 특히 Polymorphism &amp; Virtual Functions을 꼭 물어 봅니다.&lt;br&gt;3. operator나 function overloading에 대해서도 물어 보더 군요.&lt;br&gt;4. Template에 관해서도 물어 봅니다.&lt;br&gt;&lt;br&gt;어떨때 사용하는건지, 그리고 어떻게 사용 하는건지를 물어 봅니다.&lt;br&gt;&lt;br&gt;when&lt;br&gt;실제 답은 필요할때 사용하고, &lt;br&gt;&lt;br&gt;how&lt;br&gt;메뉴얼 보면서 simple example을 보거나 돌려 보면서 해보고 사용하죠.&lt;br&gt;&lt;br&gt;이게 답인데 이렇게 대답 하면 나 라면 뽑겠는데.. 여기 사람들은 아닐것 같군요.&lt;br&gt;&lt;br&gt;그래서 미리 미리 주절 거릴걸 주절 거려서 연습 해 두어야 겠네요. 그쵸.&lt;br&gt;&lt;br&gt;위의 질문에 대해 공부 할 분은 \\&amp;quot;Thinking in C++\\&amp;quot; 이라는 책을 보면 아주 &lt;br&gt;잘 나와 있는데 살필요 없고, 이것은 제가 파일로 아래에 올렸을 겁니다. &lt;br&gt;&lt;br&gt;함 찾아 보시죠.&lt;br&gt;그럼 나중에 또..&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content>
+    <postId>0A904410-CEDB-485B-9295-81E2AF2B232C</postId>
+    <pubDate>2002-01-31T00:00:00-05:00</pubDate>
+    <title>[i] C++ 인터뷰때 물어 보는것 (실경험)</title>
+</post>

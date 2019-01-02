@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>최봉준</author>
+    <comments/>
+    <content>안녕하세요? &lt;br&gt;네트맨 팀장 최봉준입니다.&lt;br&gt;&lt;br&gt;결과를 정리해서 올린다는 게 좀 늦었군요.&lt;br&gt;참석자: 양재호, 박재홍, 김형태, 최봉준&lt;br&gt;&lt;br&gt;아직도 많은 부분에 대한 설계가 끝나진 않았지만, 파일팀을 위한 클래스 설계가 어느정도 되었습니다. 일단 첨부 파일로 Document Help 파일과 파일IO팀을 위한 클래스 Diagram을 올렸습니다.&lt;br&gt;이해가 잘 안되실 것 같긴 하지만, 제 나름대로 정리해봤습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;1. 파일IO팀 큐 설계 수정 논의 부탁- 현재 파일 모듈에서 구현하신 큐에 Reference Counter 필드를 첨가해주셨으면 합니다. 네트워크 클래스의 메쏘드를 호출한 후 반환된 클라이언트 수로 초기화를 하고 네트워크 클래스에서 메쏘드에 대한 결과가 이벤트로 전해지면 1씩 줄여줍니다. 총 이벤트 발생수는 초기 클라이언트 수와 동일하며 이 필드의 값이 0가 되면 (즉 클라이언트 수만큼 이벤트가 발생하면) 큐에서 자연적으로 삭제되도록 설계를 해주셨으면 합니다. &lt;br&gt;&lt;br&gt;2. 파일팀 관련 클래스 설계&lt;br&gt;A. Document를 보시면 아시겠지만, 파일팀에서 주로 액세스할 클래스들은 다음과 같습니다.&lt;br&gt;* NetFileSystem Class - abstract 클래스로 NetFile과 NetDirectory 클래스의 상위클래스입니다.&lt;br&gt;* NetFile - 파일관련 클래스 : &lt;br&gt;* NetDirectory - 디렉토리관련 클래스&lt;br&gt;멤버함수들(Create, Delete, ....)은 모두 Asynchronous하게 동작하며 결과는 아래의 event를 통해서 알려줍니다. 또한 함수결과값으로는 현재 연결된 클라이언트 수를 반환합니다.&lt;br&gt;파일모듈에서는 반환된 클라이언트수를 큐에 있는 Reference counter에 저장을 주세요.&lt;br&gt;&lt;br&gt;B. 관련 Event&lt;br&gt;위 클래스를 호출한 뒤 네트웍 전송이 끝나면 &lt;br&gt;TransferCompleted(TransferCompletedEventArgs)&lt;br&gt;TransferFailed(TransferFailedEventArgs)&lt;br&gt;각 이벤트가 호출될때마다 큐에 저장되어 있는 Reference counter를 1만큼 감소시켜 주세요. 만일 이 counter값이 0이되면 큐에서 삭제할 수 있습니다.&lt;br&gt;&lt;br&gt;아무래도 의문이 많으실 것 같아 이번주 쯤해서 다시 네트맨 팀과 파일 IO팀간에 조인트 미팅을 갖는 게 어떨까 하는데요.&lt;br&gt;안되면 제가 파일팀장님과 만나서 상의를 해도 되구요.&lt;br&gt;&lt;br&gt;여하튼 제가 파일팀장님께 연락을 드리도록 하겠습니다.&lt;br&gt;&lt;br&gt;그리고, 네트맨 팀 여러분들께서도 Documentation를 한번 검토해보시고 문의점이나 권고사항이 있으면 알려주세요.&lt;br&gt;감사합니다.</content>
+    <postId>E0CAF978-CDF8-45EE-B53F-16ED8722945A</postId>
+    <pubDate>2005-10-14T00:00:00-04:00</pubDate>
+    <title>[네트맨] 모임결과-파일팀 참고해주세요.</title>
+</post>

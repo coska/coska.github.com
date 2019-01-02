@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>허현옥</author>
+    <comments>
+        <comment>
+            <author>KB</author>
+            <date>2006-03-20T00:00:00-05:00</date>
+            <content>In relation with the user roles, we might need to start defining various user tasks separately, which would be fed into a relevant API development at a later time.&lt;br&gt;e.g.&lt;br&gt;- manage users&lt;br&gt;- add/update courses&lt;br&gt;- manage course histories&lt;br&gt;- register students&lt;br&gt;- etc...</content>
+        </comment>
+        <comment>
+            <author>부기흡</author>
+            <date>2006-03-20T00:00:00-05:00</date>
+            <content>I added root:&lt;br&gt;user id: Administrator&lt;br&gt;password: 1234&lt;br&gt;&lt;br&gt;re-install database.</content>
+        </comment>
+        <comment>
+            <author>허현옥</author>
+            <date>2006-03-21T00:00:00-05:00</date>
+            <content>부회장님... db schema에서요.&lt;br&gt;# INSTRUCTOR 와&lt;br&gt;# ADDRESS 의 순서가 바뀌어야 됩니다.&lt;br&gt;address 테이블이 먼저 생성되고 나서, insttructor가 생성되어야.&lt;br&gt;instructor가 address의 pk를 fk로 사용할 수 있기때문입니다.&lt;br&gt;&lt;br&gt;순서가 바뀌지 않으면 테이블 생성시 에러납니다.</content>
+        </comment>
+        <comment>
+            <author>부기흡</author>
+            <date>2006-03-21T00:00:00-05:00</date>
+            <content>will fix it.</content>
+        </comment>
+    </comments>
+    <content>Skype 성능 테스트만 해 볼까 하다가 부 회장님과 User 기능 확인까지 했습니다.&lt;br&gt;&lt;br&gt;부 회장님과 테스트 하면서 나온 이슈 및 내용은.&lt;br&gt;&lt;br&gt;1.Server 프로젝트의 문제(server.xml)에 대한 해결책을 문서화 할것.&lt;br&gt;2.ANT 로 build.xml을 만들어서 개발자들에게 헛갈리지 않고 명확한 테스트 및 실행 환경을 만들것.&lt;br&gt;3.UserRoles 에 대한 값 : 현재는 String으로 되 있으나, Int로 값을 바꾸는 것에 대한 걸 생각해볼것.(나중에 나중에 생각할것.)&lt;br&gt;4.Developer guide 작업 할 것.&lt;br&gt;&lt;br&gt;등이었습니다.&lt;br&gt;&lt;br&gt;우선은 User쪽 작업을 제가 완전히 마무리 하고 문서작업해서 wiki에&lt;br&gt;올려놓겠습니다. 아마도 월 or 화요일이 될 것 같습니다.</content>
+    <postId>369165E2-CCCB-4858-98F5-6C6C21B6E787</postId>
+    <pubDate>2006-03-19T00:00:00-05:00</pubDate>
+    <title>MySchool - User 기능 테스트 through Skype</title>
+</post>

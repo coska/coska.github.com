@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김민</author>
+    <comments/>
+    <content>Source : JavaWorld&#xD;
+&#xD;
+Awards season has just begun. This week JavaWorld proudly announces the finalists for its 2002 JavaWorld Editors' Choice Awards. Established in 1997, the awards recognize innovative companies, organizations, and individuals for their commitment to developing new Java tools and technologies that drive the platform forward. Finalists were chosen from more than 200 products and technologies nominated by vendors, readers, as well as JavaWorld editors and writers. &#xD;
+&#xD;
+Through a rigorous selection process, JavaWorld's panel of expert judges -- made up of JavaWorld contributors -- participated in several rounds of voting to determine which products or technologies most deserve finalist status. In choosing the finalists, the judges carefully weighed each product or technology on the basis of its features and functions, as well as its impact in advancing Java as a language and/or platform. &#xD;
+&#xD;
+Please note that finalists are listed in alphabetical order per category. One winner will be named in each category and all finalists will be honored at the JavaWorld Editors' Choice Awards ceremony on March 25th during the JavaOne Conference and Expo in San Francisco. &#xD;
+&#xD;
+Here are the finalists: &#xD;
+&#xD;
+&#xD;
+=== Best Java Virtual Machine &#xD;
+Java Hot Spot Virtual Machine, Solaris 1.3.1, Sun Microsystems &#xD;
+Java Hot Spot Virtual Machine, Windows 1.3.1, Sun Microsystems&#xD;
+JRockit 3.0, Windows, Appeal Virtual Machines &#xD;
+&#xD;
+=== Best Java IDE &#xD;
+Forte for Java 3.0, Sun Microsystems &#xD;
+IDEA 2.5, IntelliJ&#xD;
+JBuilder 6.0 Enterprise, Borland Software &#xD;
+&#xD;
+=== Best Java Performance Monitoring/Testing Tool &#xD;
+JProbe 3.0, Sitraka&#xD;
+JUnit 3.7, JUnit.org&#xD;
+Optimizeit Suite 4.11, Borland Software &#xD;
+&#xD;
+=== Best Java-XML Tool &#xD;
+Java XML Pack Winter 01, Sun Microsystems &#xD;
+Xalan-Java 2.2, The Apache XML Project &#xD;
+Xerces Java Parser 1.4.4, The Apache XML Project &#xD;
+&#xD;
+=== Most Useful Java Community-Developed Technology &#xD;
+Apache Ant 1.4.1, The Jakarta Project &#xD;
+JUnit 3.7, JUnit.org &#xD;
+Tomcat 4.0, The Jakarta Project &#xD;
+&#xD;
+=== Best Java Application Server &#xD;
+BEA WebLogic Server 6.1, BEA Systems &#xD;
+JBoss 2.4.4, JBoss.org &#xD;
+WebSphere Application Server 4.0, IBM &#xD;
+&#xD;
+=== Best Java Book &#xD;
+Effective Java Programming Language Guide, Joshua Bloch, Addison-Wesley &#xD;
+Enterprise JavaBeans, Third Edition, Richard Monson-Haefel, O'Reilly &#xD;
+Just Java 2, Fifth Edition, Peter van der Linden, Prentice-Hall &#xD;
+&#xD;
+=== Best Java Installation Tool &#xD;
+InstallAnywhere 4.5.2, Zero G &#xD;
+InstallShield MultiPlatform 4.5.1, InstallShield &#xD;
+Java Web Start 1.0.1, Sun Microsystems &#xD;
+&#xD;
+=== Best Java Device Application Development Tool &#xD;
+iBus Mobile Java Applications Platform, Softwired &#xD;
+JBuilder MobileSet, Borland Software &#xD;
+VisualAge Micro Edition 1.4, IBM &#xD;
+&#xD;
+=== Most Innovative Java Product or Technology &#xD;
+Java Web Start 1.0.1, Sun Microsystems &#xD;
+Jini 1.2, Jini.org &#xD;
+Project Jxta, Jxta.org &#xD;
+</content>
+    <postId>6219CD62-8826-4F0B-807D-76620F4F5977</postId>
+    <pubDate>2002-02-18T00:00:00-05:00</pubDate>
+    <title>Finalists announced for JavaWorld Editors' Choice Awards 2002</title>
+</post>

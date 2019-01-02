@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>최봉준</author>
+    <comments>
+        <comment>
+            <author>부기흡</author>
+            <date>2005-11-29T00:00:00-05:00</date>
+            <content>Nice work!</content>
+        </comment>
+        <comment>
+            <author>이상윤</author>
+            <date>2005-11-29T00:00:00-05:00</date>
+            <content>메일 잘 받았습니다..저희팀(IO) 개인 메일 발송 했습니다.&lt;br&gt;&lt;br&gt;헌데 hotmail 에서 gmail로 메일 보내는데 리턴되네요...Nice &lt;br&gt;&lt;br&gt;work too!</content>
+        </comment>
+        <comment>
+            <author>김형태</author>
+            <date>2005-11-30T00:00:00-05:00</date>
+            <content>수고 하셨습니다. ^^</content>
+        </comment>
+    </comments>
+    <content>안녕하세요?&lt;br&gt;&lt;br&gt;파일팀을 위한 네트워크 클래스를 어느정도 마무리했습니다.&lt;br&gt;비록 실제 코드는 없지만, 가능한 시나리오를 랜덤하게 반영해서&lt;br&gt;테스트가 가능하도록 했습니다.&lt;br&gt;그에 대한 document를 첨부했으므로 참고해주시기 바랍니다.&lt;br&gt;NetFile과 NetDirectory 클래스의 사용예제도 포함하였으니 &lt;br&gt;참고해주시기 바랍니다.&lt;br&gt;&lt;br&gt;질문이나 궁금한 점이 있으면 지체없이 연락주시면 감사하겠습니다.&lt;br&gt;회사) 416-848-8822&lt;br&gt;email) bongjoonchoi@gmail.com&lt;br&gt;</content>
+    <postId>FCA8421C-F4CD-47E4-9835-FCC4410A30F4</postId>
+    <pubDate>2005-11-28T00:00:00-05:00</pubDate>
+    <title>[네트맨] 파일팀을 위한 네트워크 클래스 구현</title>
+</post>

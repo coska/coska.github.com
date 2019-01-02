@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>강동욱</author>
+    <comments/>
+    <content>매번 한글이 깨져서 encoding에서 Korean으로 지정 해 주어야 하는경우&lt;br&gt;그건 영문 버젼 OS를 쓰는 경우나 browser가 영문 버젼인 경우 &lt;br&gt;발새 할수 있는데&lt;br&gt;&lt;br&gt;Tools-&amp;gt;Option-&amp;gt;General-&amp;gt;Languages 에서 리스트에 Korean이 있나 &lt;br&gt;확인 하고 맨 위로 이동 시키면 됩니다.&lt;br&gt;만약 없다면 [Add]를 눌러서 추가 한후 하면 됩니다.&lt;br&gt;&lt;br&gt;이것을 지정 해도 chracter set에 따라 Encoding을 지정 해야 하는 경우가&lt;br&gt;발생 할 수 있습니다.&lt;br&gt;&lt;br&gt;그럼..</content>
+    <postId>128D84EE-EE30-41A1-B549-364C8FD359AB</postId>
+    <pubDate>2002-01-02T00:00:00-05:00</pubDate>
+    <title>[i] 브라우져에서 한글 문제</title>
+</post>

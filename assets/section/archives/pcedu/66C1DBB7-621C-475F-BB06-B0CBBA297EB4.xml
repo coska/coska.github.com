@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>S. Suh Lee</author>
+    <comments>
+        <comment>
+            <author>나수환</author>
+            <date>2005-08-09T00:00:00-04:00</date>
+            <content>값진 정보 감사합니다.</content>
+        </comment>
+    </comments>
+    <content>제 소견으로는, &lt;br&gt;&lt;br&gt;Web Application의 경우에는 사용자 입장에서는 .net 과 j2ee 개발 환경은 별 영향을 미치지 않습니다. &lt;br&gt;&lt;br&gt;개발자의 입장에서도 많은 경우, 개발자의 개인적인 경험과 preference를 제외하면 기술적으로 큰 차이는 없는 것으로 알고 있습니다. 물론 .net 은 정략적으로 j2ee와 경쟁할 수 있게 나중에 만든 환경이라서, j2ee의 장점 + some other stuff 가 있다고 할 수 는 있지만 그 some other stuff가 그다지 획기적이지는 않다고 볼 수 있습니다.&lt;br&gt;&lt;br&gt;architech의 입장에서는 몇가지 중요한 차이점이 있는데, j2ee는 customization 과 future change 에서 융통성이 많고, 다양한 EIS 통합이 가능한 것이 장점이고, .net은 빠른 시간과 적은 노력으로 목적한 프로그램을 구현하는 것이 가능합니다.&lt;br&gt;&lt;br&gt;제가 선택한다면, 이 외에도 &lt;br&gt;&lt;br&gt;- 기존 system의 MS windows 의존 정도&lt;br&gt;- open source software 이용 가능성 - j2ee 경우&lt;br&gt;- software development culture&lt;br&gt;&lt;br&gt;등을 고려할 것 같습니다.&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;gt;아흐...먼저, 무자게 좋은 질문입니다.,&lt;br&gt;&amp;gt;질문의 답:&lt;br&gt;&amp;gt;1. J2EE 환경에서의 개발을 이야기합니다.&lt;br&gt;&amp;gt;2. J2EE를 .NET에 비교하고자 하시는 것입니까.&lt;br&gt;&amp;gt;3. Web Application 입니다.&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;꾸벅.&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;질문에 Clarification이 필요합니다.&lt;br&gt;&amp;gt;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;1. J2EE 구현하는 것이라면, J2EE 환경에서의 개발을 말씀하시는 것입니까? 아니면 J2EE 환경을 구현하는 것을 말씀하시는 것입니까?&lt;br&gt;&amp;gt;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;2. J2EE 구현하는 것과 하지 않는 것의 차이점 이라면, J2EE를 .NET에 비교하고자 하시는 것입니까, 아니면 아무것도 없는 상태에서 필요한 framework를 자체개발 하는 것에 비교하고자 하시는 것입니까?&lt;br&gt;&amp;gt;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;3. 개발하려고 해는 제품을 대략 설명해 주시면 좀 더 구체적으로 의견을 드리기가 쉬울 것 같습니다. 예를 들어 Web Application 인지, Standalone Server Application 인지, Rich Client 인지... Appliance 인지 등등...&lt;br&gt;&amp;gt;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;&amp;gt;근무하는 직장에서 닷넷으로 개발할려고 했던 제품을 J2EE 환경으로 개발할려고 합니다. 개인적으로 질문하고 싶은것은 &lt;br&gt;&amp;gt;&amp;gt;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;&amp;gt;J2EE 구현하는것과 하지 않는것이 어떠한 차이점이 있는지 궁금합니다.&lt;br&gt;&amp;gt;&amp;gt;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;&amp;gt;1. 개발자 입장&lt;br&gt;&amp;gt;&amp;gt;&amp;gt;2. 사용자 입장&lt;br&gt;&amp;gt;&amp;gt;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;&amp;gt;많은분이 나의 생각은 이렇다 라는 리플을 기대합니다.&lt;br&gt;&amp;gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;</content>
+    <postId>66C1DBB7-621C-475F-BB06-B0CBBA297EB4</postId>
+    <pubDate>2005-08-04T00:00:00-04:00</pubDate>
+    <title>[re]  무자게 쉬운(?) 질문합니다...J2EE</title>
+</post>

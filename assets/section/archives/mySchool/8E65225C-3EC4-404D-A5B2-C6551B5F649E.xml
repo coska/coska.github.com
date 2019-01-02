@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>부기흡</author>
+    <comments>
+        <comment>
+            <author>허현옥</author>
+            <date>2005-12-21T00:00:00-05:00</date>
+            <content>I can see your point however I will need to know what is the benefit of each  pattern and How will we implement them on Struts framework.</content>
+        </comment>
+        <comment>
+            <author>부기흡</author>
+            <date>2005-12-22T00:00:00-05:00</date>
+            <content>I will write a sample code to see if and how the pattern(s) would work with Struts &amp; Hibernate early next year.</content>
+        </comment>
+    </comments>
+    <content>These are the attachments for the previous posting.</content>
+    <postId>8E65225C-3EC4-404D-A5B2-C6551B5F649E</postId>
+    <pubDate>2005-12-21T00:00:00-05:00</pubDate>
+    <title>Java code design pattern (2) - sample code</title>
+</post>

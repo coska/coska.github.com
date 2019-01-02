@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>부기흡</author>
+    <comments/>
+    <content>Now it may be a time to start thinking about the code generation pattern from the UML model.&lt;br&gt;&lt;br&gt;I came up with two different patterns that I'd like to propose for discussion (see the attachments in the next posting). Here are the pros and cons of the approaches.&lt;br&gt;&lt;br&gt;Code pattern 1:&lt;br&gt;&lt;br&gt;- clean separation between model and its persistence extension.&lt;br&gt;- may result in redundant Hibernate code fragments all across the UML model objects in implementing the PersistenceObject methods.&lt;br&gt;- still the above could be avoided if we can leave the persistence classes free from Hibernate&lt;br&gt;&lt;br&gt;Code pattern 2:&lt;br&gt;- Hibernate code refactoring is nicely done in the abstract class (PersistenceObject)&lt;br&gt;- The model (User) is polluted with persistence methods.&lt;br&gt;&lt;br&gt;Note that this is just a theory at this point - i.e. I have not actually implemented and verified if these approaches would work in collaboration with Struts and Hibernate even though I do not see any reasons not.&lt;br&gt;&lt;br&gt;</content>
+    <postId>93244CE3-B332-4065-A838-4296EB02A240</postId>
+    <pubDate>2005-12-21T00:00:00-05:00</pubDate>
+    <title>Java code design pattern (1)</title>
+</post>

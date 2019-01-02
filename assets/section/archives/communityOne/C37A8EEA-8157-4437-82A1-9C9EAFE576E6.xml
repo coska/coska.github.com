@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>황성규</author>
+    <comments/>
+    <content>조금전에 강동경씨랑 점심을 같이하면서 생각해본 방법입니다. &#xD;
+그리고 제가 직접 시험해보니 잘 되는군요.&#xD;
+&#xD;
+1초단위로 페이지를 Refresh하는 HTML을 작성하여 테스트하는겁니다. &#xD;
+이 테스트 페이지를 10개만 띄워놓으면 1초에 10개의 request가 발생하겠지요.&#xD;
+&#xD;
+&lt;font color="blue"&gt;&#xD;
+&amp;lt;HTML&amp;gt;&#xD;
+&amp;lt;HEAD&amp;gt;&#xD;
+	&amp;lt;META http-equiv="refresh" content="1"&amp;gt;&#xD;
+	&amp;lt;TITLE&amp;gt;Stress Test&amp;lt;/TITLE&amp;gt;&#xD;
+&amp;lt;/HEAD&amp;gt;&#xD;
+&#xD;
+&amp;lt;!-- frames --&amp;gt;&#xD;
+&#xD;
+&amp;lt;frameset frameborder="no"&amp;gt;&#xD;
+    &amp;lt;frame name="content" src="&lt;font color=red&gt;Your servlet URL goes here&lt;/font&gt;"&amp;gt;&#xD;
+&amp;lt;/frameset&amp;gt;&#xD;
+&#xD;
+&amp;lt;/HTML&amp;gt;&#xD;
+&lt;/font&gt;&#xD;
+&#xD;
+현재 이 테스트 페이지에는 프레임이 한개만 있지만 프레임을 n개만들면 1초에 n개의 request가 발생하겠지요.&#xD;
+&#xD;
+Scott Wrote:&#xD;
+&gt;I am going to do a stress testing against a servlet based application. If I add 200 users same time to call a servlet, how does this application handle this?&#xD;
+&gt;&#xD;
+&gt;Has anybody done similar test before?&#xD;
+                                                                        &#xD;
+                 &#xD;
+                &#xD;
+                 &#xD;
+                  </content>
+    <postId>C37A8EEA-8157-4437-82A1-9C9EAFE576E6</postId>
+    <pubDate>2001-02-28T00:00:00-05:00</pubDate>
+    <title>Stress Test</title>
+</post>

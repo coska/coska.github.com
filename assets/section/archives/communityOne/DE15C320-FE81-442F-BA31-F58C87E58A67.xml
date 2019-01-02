@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김창국</author>
+    <comments>
+        <comment>
+            <author>차상철</author>
+            <date>2011-03-05T00:00:00-05:00</date>
+            <content>능력이 출중하시니 인터뷰 기회가 많으시군요. 개인적인 경험으로 말씀드리면, 특정 기술에 대해 경험이 없다고 먼저 이야기 할 필요는 없습니다. 그리고 이력서에 근무 회사, 프로젝트, 출신 학교에 대해서는 굳이 한국이라고 명시할 필요는 없으며, 만일 북미에서의 경력이 필요하다면 면접관이 물어 볼 것입니다. 그러면 그때 이야기 하시면 되겠습니다.</content>
+        </comment>
+    </comments>
+    <content>안녕하세요.&#xD;
+저번에 아마존인터뷰후 글을 남겼는데 좋은 말씀들 너무 감사드립니다.&#xD;
+그 후 한 이틀동안 많은 생각을 했습니다. 뭐가 잘못됐을까하고..&#xD;
+2월달 동안 인터뷰 9차례정도 본것 같습니다.(아마존 부터 safeway 유통업체까지 등등). 스스로 만족을 못했기때문에 기대는 안하고 있습니다. 대답못한 질문도 많았구요.&#xD;
+그래서 느낀점이 한국이랑 인터뷰내용 자체가 틀리다는걸 혹독하게 느겼습니다.&#xD;
+한국에서는 뭐 해봤어요 물어보면 해봤다고 하면 끝이고 주로 프로젝트 했던것에 대한 질문을 들었는데 여기는 기초원리를 잘 물어보는것 같습니다. 그리고 그 이유를 말해야 한느것도 같구요. 비교질문도 많이 들어 봤습니다.&#xD;
+인터뷰전 저는 용어 컨셉만 외웠습니다. 이러니 예를들어 설명하라면 꽉 막혀서 말도 못했던 기억이..아직 얼마나 그럴지 모르겠지만요..&#xD;
+다시한번 스스로 응용쪽보다는 기본원리를 알고 영어로 설명을 할수 있어야 일단 기술면접을 볼 수 있다는걸 깨달았습니다. 단기간에 쉽지 않은 일 같습니다. 그냥 열심히 전화영어공부와 영어공부한다고 생각을 가질려고 합니다.&#xD;
+그래도 다행인것은 제 경력이 거의가 한국 경력인데 지원하면 제 레쥬메를 보고 연락이 온다는게 신기할따름입니다.&#xD;
+&#xD;
+2주전 IT컨설팅회사에서 전화와서 면접보자고 해서 HR성 면접을 봤구요 여기서 자기네 클라이언트가 기술면접을 보자고 그래서 3월 10일 EA랑 면접을 보기로 했습니다.(밴쿠버 버나비)&#xD;
+시니어 자바 디벨로퍼가 전화를 걸껀데요.&#xD;
+사실 기술면접 많이 디어서 컨설팅 리쿠르터한테 물어봤죠. 기술면접 조언을 해줄수 있냐고..그래서 그 친구가&#xD;
+아래와 같이 조언을 주었습니다.&#xD;
+&#xD;
+I am including some high level technology points which may be inline with the expectations of this role. &#xD;
+&#xD;
+(Spring)&#xD;
+          Bean scopes / bean type declarations&#xD;
+          Session Bean management&#xD;
+          Handling session issues/crash&#xD;
+(Hibernate)&#xD;
+          Secondary cache&#xD;
+          N+2/N+1 query / lazing loading&#xD;
+          Session Factory/Session&#xD;
+(Database)&#xD;
+          Database isolation level&#xD;
+          Database engine&#xD;
+          Database optimistic locking&#xD;
+(Java)&#xD;
+          Hashmap vs Hashtable&#xD;
+          Interface vs abstract class&#xD;
+          Core Java (i.e.Volatile)&#xD;
+          Understand Java 1.5 (i.e. synchronization)&#xD;
+(Networking)&#xD;
+          TCP vs UDP&#xD;
+&#xD;
+사실 제가 spring, Hibernate는 혼자서 공부중입니다. 한국에서는 자체회사 프레임웍(i-framework, Neffs framework 등)사용했구요. 이력서에 기재한적도 없는데 job description에는 저걸 원하는 사람을 뽑는거 같은데..&#xD;
+&#xD;
+그래서 질문은&#xD;
+첫번째..질문하면 질문에만 답하고 사용해본적이 없다라고 물어보기전엔 이야기 하지 않는게 좋을까요?&#xD;
+두번째..제 경력이 거의 한국경력이고 한국에서 대학나왔는데 애네들도 그걸 알겠죠?&#xD;
+그냥 갑자기 궁금합니다.&#xD;
+&#xD;
+사실 저 위에 질문 봤을때 이해가 안가는 부분도 많습니다.(특히 Hibernate와 database) 아직 저런 용어에 익숙치가 않은지라..휴~ 조언 주실수 있으신분 조언 부탁드려요.&#xD;
+열심히 구글링해야겠습니다.&#xD;
+&#xD;
+감사합니다.!</content>
+    <postId>DE15C320-FE81-442F-BA31-F58C87E58A67</postId>
+    <pubDate>2011-03-05T00:00:00-05:00</pubDate>
+    <title>안녕하세요. 인터뷰후에 느낀점과 궁금한점.</title>
+</post>

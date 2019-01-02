@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>고상호</author>
+    <comments>
+        <comment>
+            <author>권경화</author>
+            <date>2011-05-02T00:00:00-04:00</date>
+            <content>1.	Can Maven set without connect outside network for temporary? (until proxy setting done) &#xD;
+yes&#xD;
+2.	Isn’t it slow? (in real project, not sample project)&#xD;
+no</content>
+        </comment>
+    </comments>
+    <content>Does anyone have Maven experience? Please let me know if you don't mind. I have couple of questions.&#xD;
+For instance,&#xD;
+1.	Can Maven set without connect outside network for temporary? (until proxy setting done) &#xD;
+2.	Isn’t it slow? (in real project, not sample project)&#xD;
+3.	Anything else?</content>
+    <postId>ECAFEF0F-4ECB-4C10-A72C-628079CE22D8</postId>
+    <pubDate>2011-05-02T00:00:00-04:00</pubDate>
+    <title>Anyone Maven experience?</title>
+</post>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>권칠환</author>
+    <comments>
+        <comment>
+            <author>부기흡</author>
+            <date>2005-12-20T00:00:00-05:00</date>
+            <content>Awesome. I briefly looked at the ERD and it makes much sense to me now. I will post my feedback after a detailed review.</content>
+        </comment>
+    </comments>
+    <content>IBM DB2 UDB8.2로 테이블생성해서..DDL 생성기로 돌린것을 올렸습니다.&lt;br&gt;조금..보기엔..이상하네요..&lt;br&gt;ERD는 테이블 생성시 충돌되는 속성 및 엔터티 이름을 변경했습니다.&lt;br&gt;보시고, 의견/제안을 주세요.....^^</content>
+    <postId>F158C349-B905-4B41-94CD-2B6BA70255F4</postId>
+    <pubDate>2005-12-20T00:00:00-05:00</pubDate>
+    <title>ERD &amp; DDL updated</title>
+</post>

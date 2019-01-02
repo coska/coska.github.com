@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>신민용</author>
+    <comments/>
+    <content>EJB 세션레스 빈에서 &#xD;
+user-defined을 exception을 던졌는데,&#xD;
+간혹 가다... 아주 드믈게,,&#xD;
+javax.transaction.TransactionRolledbackException&#xD;
+이 원래의 exception을 꿀꺽 삼키고는 &#xD;
+대신 비겁하게 등장합니다.&#xD;
+고놈이 아주 알미워요..&#xD;
+EJB client에서 엉뚱한데로 catch가 되므로,&#xD;
+FLOW가 엉망이 되버리죠..&#xD;
+임시로 고놈을 catch(...RollbackException) 에서&#xD;
+잡아서 FLOW의 "going crazy"는 막기는 했지만,&#xD;
+여전히 부가 문제점이 많습니다.&#xD;
+&#xD;
+고수님들의 해결책을 부탁합니다.&#xD;
+어짜피 exception을 마찬가지 인데 왜 중요하냐고요?&#xD;
+왜냐하면, 그exception에  error code 및 message&#xD;
+기타 중요한 정보를 담고 있기 때문입니다.&#xD;
+얼뜻 생각에 EJB container가 중간에&#xD;
+rollback를 하고 던지는것 같은데...&#xD;
+문제는 rolback이 있건 없건 간에&#xD;
+일정하게 발생하지 않는 다는 것입니다.&#xD;
+Container transaction/session less bean을 사용하였구요.&#xD;
+혹시 cluster때문에 발생하는게 아닌지...&#xD;
+이걸 해결하라는 안팍의 압력을 받고 있는데,&#xD;
+정말 no idea입니다...&#xD;
+-끝-&#xD;
+</content>
+    <postId>51D379F0-52F8-4B0E-AF47-B740DD0EDBCB</postId>
+    <pubDate>2002-04-11T00:00:00-04:00</pubDate>
+    <title>Who throw javax.transaction.TransactionRolledbackException?</title>
+</post>

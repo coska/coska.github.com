@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>황성규</author>
+    <comments/>
+    <content>10개의 테이블로 구성된 Order Entry 시스템입니다.&#xD;
+이 데이타베이스를 바탕으로 Workshop을 진행 하려고 합니다.&#xD;
+살펴보시고 질문이 있으시면 커멘트란을 이용해주세요.&#xD;
+&#xD;
+&lt;img src="img/genie_demo_erd.jpg"&gt;</content>
+    <postId>50C68EC1-FB61-4F36-9CFF-932075F6673A</postId>
+    <pubDate>2002-09-25T00:00:00-04:00</pubDate>
+    <title>E-R Diagram for workshop database</title>
+</post>

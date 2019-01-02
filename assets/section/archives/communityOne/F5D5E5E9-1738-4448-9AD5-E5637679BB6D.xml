@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>황성규</author>
+    <comments>
+        <comment>
+            <author>황성규</author>
+            <date>2002-12-04T00:00:00-05:00</date>
+            <content>31</content>
+        </comment>
+        <comment>
+            <author>이성기</author>
+            <date>2002-12-04T00:00:00-05:00</date>
+            <content>14</content>
+        </comment>
+    </comments>
+    <content>마우스로 공을 클릭해 보세요.&#xD;
+자신의 점수를 코멘트란에 적어보면 어떨까요?&#xD;
+&lt;OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" ID=movie codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,0,0"&#xD;
+ WIDTH="600" HEIGHT="495"&gt;&#xD;
+ &lt;PARAM NAME=movie VALUE="http://www.spikything.com/games/kickups/kickups.swf?online=1"&gt; &lt;PARAM NAME=loop VALUE=false&gt; &lt;PARAM NAME=menu VALUE=false&gt; &lt;PARAM NAME=quality VALUE=high&gt; &lt;PARAM NAME=bgcolor VALUE=#000000&gt; &lt;EMBED src="http://www.spikything.com/games/kickups/kickups.swf?online=1" loop=false menu=false quality=high bgcolor=#000000  WIDTH="600" HEIGHT="495" NAME=movie TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"&gt;&#xD;
+&lt;/EMBED&gt;&#xD;
+&lt;/OBJECT&gt;&#xD;
+</content>
+    <postId>F5D5E5E9-1738-4448-9AD5-E5637679BB6D</postId>
+    <pubDate>2002-12-04T00:00:00-05:00</pubDate>
+    <title>공차기게임</title>
+</post>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>KB</author>
+    <comments>
+        <comment>
+            <author>S. Suh Lee</author>
+            <date>2006-02-14T00:00:00-05:00</date>
+            <content>I guess its own project is better. I will let you know when I am ready to check in.</content>
+        </comment>
+        <comment>
+            <author>허현옥</author>
+            <date>2006-02-14T00:00:00-05:00</date>
+            <content>yeah. I think that will be better for others who has no idea about Ruby(like me..^^;;; )</content>
+        </comment>
+    </comments>
+    <content>Ms. Lee,&lt;br&gt;&lt;br&gt;Are the Ruby/Watir scripts better to be placed in its own project? Or, they are better to be in the same project where JSPs live? Let us know if you need help with creating a project in the CVS repository. </content>
+    <postId>0C3B9A0A-4C72-4770-8712-F51AE710C87F</postId>
+    <pubDate>2006-02-13T00:00:00-05:00</pubDate>
+    <title>Would it be necessary to create a new project for Ruby tests?</title>
+</post>

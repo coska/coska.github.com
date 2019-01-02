@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>황성규</author>
+    <comments>
+        <comment>
+            <author>이성기</author>
+            <date>2002-02-19T00:00:00-05:00</date>
+            <content>김민구씨의 게시판 프로그램을 war로 jrun deploy해보시면 어떨까요.</content>
+        </comment>
+    </comments>
+    <content>작년에 다운타운에서 JRun 3.0 Seminar에 참석한적이 있는데 그때 메뉴얼이랑 디벨로퍼버젼씨디를 받아왔거든요.&#xD;
+&#xD;
+지금 찾아보니까... 된다네요.&#xD;
+&#xD;
+&lt;b&gt;Deploying Web Applications&lt;/b&gt;&#xD;
+&#xD;
+When you distribute a Web application, you can either distribute it as the expanded directory structure, or you can distribute it as a single, compressed file called a Web Archieve (WAR) file. A WAR file has the extension .war.&#xD;
+&#xD;
+...&#xD;
+&#xD;
+&#xD;
+이성기 wrote:&#xD;
+&gt; In tomcat, we can create myproject.war file under tomcat/webapps directory to wrap all class, java, jsp, html, image, properties...for deployment. This makes us to move development file to production server by copying single war file. &#xD;
+&gt; &#xD;
+&gt; Is it possible in Jrun? </content>
+    <postId>B32EF7E7-5FE6-4E2E-89D7-0FE282700A59</postId>
+    <pubDate>2002-02-18T00:00:00-05:00</pubDate>
+    <title>당연히 된다고 합니다.</title>
+</post>

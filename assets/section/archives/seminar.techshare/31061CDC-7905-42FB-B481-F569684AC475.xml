@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>강동욱</author>
+    <comments/>
+    <content>Window를 다시 깔거나 포맷 하고 어쩌고 하면&lt;br&gt;지금 까지 모아 두었던 즐겨찾기(Favorites) 정보를 잃어 버리는 경우를&lt;br&gt;많이 보았습니다.&lt;br&gt;그게 잘 보이는 곳에만 있어도 따로 백업을 받아 놓으면 되는데..&lt;br&gt;&lt;br&gt;이런 경우에 내가 특정 folder를 만들어서 그 곳을 나의 즐겨찾기(Favorites)&lt;br&gt;장소로 사용 하면 됩니다. 그러면 실수로 지워 버리지 않고 자기가 아는 폴더 이므로 백업도 수시로 해둘수 있죠. &lt;br&gt;그럴 려면..&lt;br&gt;&lt;br&gt;regedit.exe를 실행 해서.. windows 디렉토리에 가면 찾을 수 있습니다.&lt;br&gt;&lt;br&gt;레지스터 에서 키 데이터가 &lt;br&gt;&lt;br&gt;NT나 2000인경우에는 &lt;br&gt;&amp;nbsp;&amp;nbsp; %USERPROFILE%\\\\Favorites&amp;nbsp;&amp;nbsp;를&lt;br&gt;95 98인 경우는.. &lt;br&gt;&amp;nbsp;&amp;nbsp;C:\\\\WINDOWS\\\\Favorites 로 되어 있겠죠.. &lt;br&gt;&amp;nbsp;&amp;nbsp; &lt;br&gt;이것들을 전부 찾아서 자기가 새로 만든 폴더의 전체 경로로 바뀌어 주면 됩니다. 전부 몇개인지 기억은 안나지만... 서너개 정도 인가..&lt;br&gt;그러고 다시 iexplorer실행 하면 새로 만든 폴더가 즐겨 찾기로 됩니다.&lt;br&gt;특히 98이나 95와 NT를 멀티 부팅 사용 하는 분도 이렇게 하나로 통합 해 놓으면 항상 자기 즐겨찾기를 쓸수 있죠.&lt;br&gt;&lt;br&gt;도움이 되시길.. &lt;br&gt;&lt;br&gt;Outlook Express 쓰는 사용자도 같은 방법으로 메일 데이터와 주소록 데이터를 보존 하는 법이 있는데 거의 같은 방법이라고 할수 있겠습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;</content>
+    <postId>31061CDC-7905-42FB-B481-F569684AC475</postId>
+    <pubDate>2001-12-15T00:00:00-05:00</pubDate>
+    <title>[I] 즐겨찾기(Favorites) 보존 하기</title>
+</post>

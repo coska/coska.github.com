@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>부기흡</author>
+    <comments>
+        <comment>
+            <author>허현옥</author>
+            <date>2005-12-13T00:00:00-05:00</date>
+            <content>Totally agree! That looked cool to me. I am sure all of you guys will happy to see that testing tools.</content>
+        </comment>
+        <comment>
+            <author>권칠환</author>
+            <date>2005-12-13T00:00:00-05:00</date>
+            <content>Any other websites or documents  for these items?</content>
+        </comment>
+        <comment>
+            <author>KB</author>
+            <date>2005-12-14T00:00:00-05:00</date>
+            <content>&lt;a href=http://www.rubyonrails.org/ target=_blank&gt;http://www.rubyonrails.org/&lt;/a&gt;</content>
+        </comment>
+    </comments>
+    <content>I saw a nice demo at the XP users group meeting today.&lt;br&gt;&lt;br&gt;We need to investigate:&lt;br&gt;* Ruby &amp; Rail&lt;br&gt;* Watir library (emulating user interactions with IE)&lt;br&gt;* Selerium (not sure about the spell)</content>
+    <postId>FFF236E2-0BEF-407B-AAA4-6DFA0BFA5B0B</postId>
+    <pubDate>2005-12-13T00:00:00-05:00</pubDate>
+    <title>User interface test plan</title>
+</post>

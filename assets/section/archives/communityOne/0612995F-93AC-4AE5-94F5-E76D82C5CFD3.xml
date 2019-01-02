@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>황성규</author>
+    <comments/>
+    <content>자료가 준비되는대로 올리겠습니다.&#xD;
+&#xD;
+지금은 샘플 데이타베이스를 준비하고있습니다.&#xD;
+너무 간단하지도 또 너무 복잡하기도 않게 준비중이고요.&#xD;
+약 10개의 테이블로 된 Order Management시스템용 데이타베이스가 될거구요.&#xD;
+&#xD;
+Entity로는 Client, Order, Order Item, Tax, Item, Sales Rep, Branch, &#xD;
+Order status, Order Tax, City등이 될 예정입니다.&#xD;
+&#xD;
+데이타베이스 상세 디자인 내역과 E-R Dragram 을 미리 올려서&#xD;
+세미나 전에 한번 보고 오시도록 하겠습니다.&#xD;
+&#xD;
+</content>
+    <postId>0612995F-93AC-4AE5-94F5-E76D82C5CFD3</postId>
+    <pubDate>2002-09-18T00:00:00-04:00</pubDate>
+    <title>관련자료 (업데이트중)</title>
+</post>

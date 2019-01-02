@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>Site Admin</author>
+    <comments/>
+    <content>Check this out Scott,&#xD;
+It might be what you are looking for.&#xD;
+&#xD;
+&lt;a href="http://www.bdisystems.com/xtrans.html"&gt;http://www.bdisystems.com/xtrans.html&lt;/a&gt;&#xD;
+&#xD;
+scott lee wrote:&#xD;
+&gt; I'd like to have objects automatically instantiated right after readling XML file. &#xD;
+&gt; Currently, we can use JAXP to parse DOM from XML as Java object. But this is Document Object, not application objects. So developer has to add codes to read each field from the DOM and populate values in own object. &#xD;
+&gt; &#xD;
+&gt; For example, I read an XML file with parser. This XML defines Client, Account and Security info.&#xD;
+&gt; If I read this XML, we can create a DOM. Our program read this DOM file and feeding our own Client, Account and Security objects. &#xD;
+&gt; &#xD;
+&gt; This is mandatory process in current XML and Java. &#xD;
+&gt; But we can avoid this inconvenience by publishing user objects directly from XML.&#xD;
+&gt; &#xD;
+&gt; How can I do this?&#xD;
+&gt; </content>
+    <postId>4DDC5E26-F703-43A6-942D-38869F235DBB</postId>
+    <pubDate>2001-03-13T00:00:00-05:00</pubDate>
+    <title>RE: XML to object conversion?</title>
+</post>

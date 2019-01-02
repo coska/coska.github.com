@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>고상호</author>
+    <comments/>
+    <content>Does anybody have used checkLogon Tag Library in Struts?&#xD;
+I implemented the Tag in an application but it doesn't work.&#xD;
+How can I implement this tag for checking logon status?&#xD;
+In the Struts document, the tag is used for checking logon status.&#xD;
+In my understanding, this tag checks session and displays logon page after session time out.&#xD;
+&#xD;
+---------------------------------------------------------&#xD;
+checkLogon - Checks for the existence of a particular session object, and forwards control to the logon page if it is missing. This is used to catch cases where a user has bookmarked a page in the middle of your application and tries to bypass logging on, or if the user's session has been timed out. &#xD;
+---------------------------------------------------------</content>
+    <postId>58C0C615-39DF-4D2C-90CF-8E7F3A82D947</postId>
+    <pubDate>2004-05-14T00:00:00-04:00</pubDate>
+    <title>checkLogon Tag Library in Struts</title>
+</post>

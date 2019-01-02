@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>허현옥</author>
+    <comments>
+        <comment>
+            <author>권칠환</author>
+            <date>2005-12-11T00:00:00-05:00</date>
+            <content>2번 개발패턴에서, 서로게이트 키 하기로 했죠..&lt;br&gt;3번 Audit은 현재 그려진 그림이랑 상관없는내용. &lt;br&gt;     Audit이 주기를 두고..마구 데이터가 갱신되는 그런곳이라면&lt;br&gt;필요할지도, 예를들면, 증권회사, 은행..기타등등 트랙&amp;#51257;션이 자주 발생하고 번번이 일어 나는곳.(제 생각).&lt;br&gt;자세한 설명은..패턴을 언급한..부님이 한번더 언급할것 같기도 하네요.&lt;br&gt;</content>
+        </comment>
+        <comment>
+            <author>부기흡</author>
+            <date>2005-12-11T00:00:00-05:00</date>
+            <content>A couple more items:&lt;br&gt;Installation guide - Mr. Hwang&lt;br&gt;Discuss data discrepancies between sample data and sample forms (that I posted earlier) with Mr. Park</content>
+        </comment>
+        <comment>
+            <author>권칠환</author>
+            <date>2005-12-11T00:00:00-05:00</date>
+            <content>개발환경을 변경하는것에 대해서..&lt;br&gt;1.DBMS가  IBM DB2 로 변경,&lt;br&gt;2. 톰캣5.0에서 제르니모로 변경되었죠.&lt;br&gt;</content>
+        </comment>
+        <comment>
+            <author>권칠환</author>
+            <date>2005-12-11T00:00:00-05:00</date>
+            <content>동시에 글 올라갔네요..제가 밀렸네요..아래로..^^</content>
+        </comment>
+        <comment>
+            <author>허현옥</author>
+            <date>2005-12-12T00:00:00-05:00</date>
+            <content>흐흐...제가 너무 많이 빼먹었네요.. .담부터는 좀더 정확히 하겠습니다..(__ )꾸벅</content>
+        </comment>
+        <comment>
+            <author>KB</author>
+            <date>2005-12-12T00:00:00-05:00</date>
+            <content>Confirmed on-site eyeball meeting on 12/14 (Wed.), 13:00PM - 15:00PM. Anyone interested in this meeting may email us.</content>
+        </comment>
+        <comment>
+            <author>KB</author>
+            <date>2005-12-12T00:00:00-05:00</date>
+            <content>SRS updated:&lt;br&gt;CourseRecord &amp;lt;--&amp;gt; CourseHistory removed.&lt;br&gt;CourseRecord &amp;lt;--&amp;gt; Course added.&lt;br&gt;Will work on use case diagrams.</content>
+        </comment>
+        <comment>
+            <author>권칠환</author>
+            <date>2005-12-12T00:00:00-05:00</date>
+            <content>ERD Diagram will be updated after off line meeting on Dec 14.</content>
+        </comment>
+    </comments>
+    <content>거의 3시간에 걸친 온라인 미팅을 거쳐서 서로 약간은 의견차이를 좁힌것 &lt;br&gt;같습니다. 고객이 보는 입장과 저희가 보는 입장이 틀렸기에 서로 의견차이가&lt;br&gt;더 많았던거 같기도 합니다. 우선은 수요일 오프라인 미팅때까지 좀 더 &lt;br&gt;서로의 문서를 보고 수요일에 좀 더 장족(?)의 발전이 있었으면 좋겠네요.&lt;br&gt;&lt;br&gt;가장 중요한 부분은 서로가 데이타에 대해서 다른게 이해하고 잇어서 토론시간이 좀 길어졌던 거 같습니다.&lt;br&gt;&lt;br&gt;아래는 온라인 미팅에서 나온 내용중 중요부분 내용부분입니다.&lt;br&gt;&lt;br&gt;-----주요 논의 사항 -----------------------&lt;br&gt;1.스터디 교재인 Hibernate in Action&amp;nbsp;&amp;nbsp;8장에 대해서 논의하였고, 부기흡 회장님의 설명을 기준으로 아래의 Hibernate Sessoin 사용 방법을 사용하게 되었습니다. 그리고, 권칠환님과 부기흡회장님의 의견일치(?)로 Key 에 대한 사용은 surrogate key 를 사용하기로 하였습니다.&lt;br&gt;&lt;br&gt;2.가장 크게 논쟁이 되었던 Course와 CourseHistory, ReportCard(CourseRecord) 부분에 대해서 다른 견해를 가지고들 계셔서 무척 이부분에서 시간이 많이 걸렸습니다. 처음에는 부기흡회장님이 그리니 UML처럼 모두들 생각하고 있었으나 권칠환씨와 허현옥씨가 고객(?)인 박경종 전 회장님을 만나서 회의를 해본 결과 저희들(부,허,권,황)이 생각하고 있던 것과는 조금 차이가 있었습니다. 이부분을 메신저로 설명하기가 상당히 어려웠습니다. 서로 어는 정도는 이해가 되었다고 생각하나 금주 오프라인 모임에서 다시 한번 확실히 집고 넘어가야 겠다는 생각이 들더군요.&lt;br&gt;&lt;br&gt;----- 중요 결정사항 및 계획-----------------------&lt;br&gt;1.[installation guide]&lt;br&gt;&amp;nbsp;&amp;nbsp; 1.개발은 DB2에서 고객에 포팅시는 MySQL로...&lt;br&gt;&amp;nbsp;&amp;nbsp; 2.서버를 Tomcat에서 Geronimo로 변경.&lt;br&gt;2.[개발패턴]&lt;br&gt;&amp;nbsp;&amp;nbsp;Hibernate Session 처리.&lt;br&gt;&amp;nbsp;&amp;nbsp; 1.HttpAction request를 Struts Action 클래스가 받아서,&lt;br&gt;&amp;nbsp;&amp;nbsp; 2.Hibernate Session을 생성하고,&lt;br&gt;&amp;nbsp;&amp;nbsp; 3.각각의 DAO가 실제 Persistence Layer(work unit)에 대한 작업을 마친후&lt;br&gt;&amp;nbsp;&amp;nbsp; 4.Struts Action 클래스 마지막 부분에서 Hibernate Session을 닫고, &lt;br&gt;&amp;nbsp;&amp;nbsp; 5.JSP 로 Forwarding을 한다.&lt;br&gt;&amp;nbsp;&amp;nbsp;Key&lt;br&gt;&amp;nbsp;&amp;nbsp; 1.surrogate 키 사용.&lt;br&gt;3.[ERD]Audit 테이블(추가필요)역할에 대한 설명 필요.-부-&lt;br&gt;4.[ERD]CouseRecord 냐 ReportCard냐에 대한 어휘 정의필요.&lt;br&gt;5.[ERD]Course - CourseType 재정의&lt;br&gt;6.[ERD]Student - Consulting_Hisotry 를 1:0..n관계로 변경.&lt;br&gt;7.[UML] - ReportCard(or CourseRecord) 에 대한 연결관계 재정의.&lt;br&gt;8.[UML] - UseCase를 다이어그램으로 그림.&lt;br&gt;9.[StroyBoard] - 고객 요구사항에 맞게 다시 그림.&lt;br&gt;10.12월14일 오후 "몇"시, "한방병원" 에서 오프라인 미팅. -부,박 결정함-&lt;br&gt;11.화요일 저녁까지 수정된 UML,ERD,StoryBoard를 Wiki에 업로드 할것.</content>
+    <postId>0531A973-BA41-4FC4-9572-04E9B96BEC2A</postId>
+    <pubDate>2005-12-11T00:00:00-05:00</pubDate>
+    <title>Dec/10th Online Meeting.</title>
+</post>

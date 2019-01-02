@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments/>
+    <content>&#xD;
+Struts를 사용하지만 EJB을 사용하지 않는 경우, Database access를 어떤 식으로 하면 좋을까요? Data Access Object (DAO)를 사용한다고 하면, 주소록 프로그램을 어떻게 디자인할 수 있을까요..&#xD;
+예를 들어 Person을 화면에 보여주고 입력을 받고 한다면 &#xD;
+person.jsp가 있어야 겠고, 입력데이타를 저장하는 PersonForm, 그리고 Controller인 PersonAction이 있어야 겠지요..(원칙대로 하자면...) &#xD;
+여기까지는 web presentation tier고 다시 business logic tier로 가면 PersonBO를 만들어서 session object으로 활용하여야 하고, 다시 entity object을 대표하는 PersonDTO (Data Transfer Object - Struts에서 권하는 개념)을 만들어야 하고, 다시 PersonDAO를 만들어 SQL execution을 담당하게 해야 할 겁니다. &#xD;
+&#xD;
+만일 우리가 Bank program으로 돌린다면 Account, Client, Transaction각각에 필요한 DTO와 DAO를 만들어야 할 겁니다. &#xD;
+이러면 Action에서 SQL을 바로 호출하는 형태에 비해서 각 티어별로 클래스 세분화는 잘 되지만, 하나의 Usecase 에 너무 많은 클래스를 생성하는 결과를 낳게됩니다. &#xD;
+&#xD;
+다른 분들은 어떤식으로 Struts를 사용하는지 궁금하군요.</content>
+    <postId>741363FF-442C-41CC-8E88-E6DB2CA0580D</postId>
+    <pubDate>2003-11-21T00:00:00-05:00</pubDate>
+    <title> DAO and Struts 구현방안...</title>
+</post>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김민</author>
+    <comments>
+        <comment>
+            <author>이성기</author>
+            <date>2004-09-15T00:00:00-04:00</date>
+            <content>김성욱씨, Java Architecture for XML Binding 도 해주세요.</content>
+        </comment>
+    </comments>
+    <content>1. 10월 1일 (금), 이인석씨 댁&#xD;
+    주제 : Rule Engine (김민)&#xD;
+2. 10월 29일 (금), 강윤정씨 댁 &#xD;
+    주제 :  Java Server Face (강윤정)&#xD;
+3. 11월 12일 (금), 김성욱씨 댁 - 날짜 변동 가능성 있음&#xD;
+    주제 : Eclipse3.0 + Compel CMS (김성욱)&#xD;
+&#xD;
+지난번 권경화씨의 AOP 강의후 다음번 주제에 대해 토의를 한후 며칠 있다가 그 내용을 올리려하니 벌써 가물가물 하네요.. 혹 생각나는 사람있으시면 첨부및 수정해 주셔요.&#xD;
+&#xD;
+주제나 장소에 대한 더 자세한 내용은 1주전에 단일 Item으로 다시 올리도록 하겠습니다. 그리구 아래와 같이 JavaOne 2004의 Topic을 나열해 보았습니다. 각자가 관심있는 분야를 Pick and Choose해서 준비해 보면 어떨까 합니다.&#xD;
+&#xD;
+1. Java Performance&#xD;
+2. DAO(Data Access Object)/Hibernate/SDO(Service Data Object)&#xD;
+3. Java Virtual Machine (JVM, Hotspot)&#xD;
+4. JDK 1.5&#xD;
+5. JSF (Java Server Faces)]&#xD;
+6. Web Service (JAXB, JAX-RPC)&#xD;
+7. J2ME&#xD;
+8. JDBC 1.0/2.0/3.0/4.0 Comparison&#xD;
+9. SOA (Service Oriented Architecture)&#xD;
+10. XPath, XQuery&#xD;
+11. JBI(Java Business Integration)&#xD;
+12. EJB 3.0&#xD;
+13. Jini&#xD;
+14. XML Beans&#xD;
+15. JMX&#xD;
+16. Java Cache&#xD;
+17. Java Testing (JUnit, ...)&#xD;
+18. Java Scripting Language&#xD;
+19. JAIN/ SLEE&#xD;
+&#xD;
+&#xD;
+</content>
+    <postId>FC1D0B4D-DAF0-468E-93B9-64843F6C5ACF</postId>
+    <pubDate>2004-09-14T00:00:00-04:00</pubDate>
+    <title>9월 10월 중 세미나 제안 ..</title>
+</post>

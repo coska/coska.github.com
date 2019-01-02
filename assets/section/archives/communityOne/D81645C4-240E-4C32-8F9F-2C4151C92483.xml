@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments>
+        <comment>
+            <author>황성규</author>
+            <date>2004-05-05T00:00:00-04:00</date>
+            <content>동감입니다. 윤정씨 세미나한번 해주세요.</content>
+        </comment>
+        <comment>
+            <author>강윤정</author>
+            <date>2004-05-05T00:00:00-04:00</date>
+            <content>Our company has a new project based on JSF and&#xD;
+we found JSF is quite strong in presentation layer.&#xD;
+</content>
+        </comment>
+    </comments>
+    <content>FYI,&#xD;
+IBM Releases New Versions of WebSphere Studio 5.1.2.&#xD;
+WSAD 5.1.2 will support GA version of JavaServerFaces and early support for Service Data Object (SDO). &#xD;
+&#xD;
+http://www-306.ibm.com/software/swnews/swnews.nsf/n/pmcs5ygp2y?OpenDocument&amp;Site=wsstudio&#xD;
+&#xD;
+http://www.internetnews.com/dev-news/article.php/3349281&#xD;
+&#xD;
+JavaServerFaces가 뜰것 같군요...</content>
+    <postId>D81645C4-240E-4C32-8F9F-2C4151C92483</postId>
+    <pubDate>2004-05-05T00:00:00-04:00</pubDate>
+    <title>WebSphere Studio 5.1.2.+  JavaServerFaces + Service Data Object (SDO). </title>
+</post>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>부기흡</author>
+    <comments>
+        <comment>
+            <author>김형태</author>
+            <date>2005-09-16T00:00:00-04:00</date>
+            <content>Config 파트와 UI 파트의 조인트 미팅을 제안합니다. &lt;br&gt;왜냐면, 눈에 보이는 UI 를 만들면서 Config를 정비하는 것도 괜찮을 것 같습니다. 7 Bishop 에서 모이면 장소는 코딩을 직접하기에 괜찮을 것 같습니다. (만일 모인다고 결정난다면, 동욱씨 장소 협조 좀 부탁 ^^ )&lt;br&gt;&lt;br&gt;네트워크 파트와 IO 파트가 다음 주에 조인트 미팅한다구 그러는데요. ^^</content>
+        </comment>
+        <comment>
+            <author>부기흡</author>
+            <date>2005-09-16T00:00:00-04:00</date>
+            <content>I do not see a good reason of having joint meeting between Config and UI at this time. All we need at this phase is to list up all the known parameters as much as possible, which can be shared by all of the teams. If you need to have a meeting nevertheless, please go ahead but I am not there.</content>
+        </comment>
+    </comments>
+    <content>As Yunni pointed out, we might need a bit more improvements in the way we communicate so that we all are on the same page on what we are developing.&lt;br&gt;&lt;br&gt;I have set up a Wiki space and created a product requirements document page so anyone (mostly team leaders I guess) can go there and update the document appropriately.&lt;br&gt;&lt;br&gt;Go to the project homepage (http://filegate.borasoft.com), Documents -&amp;gt; Requirements Ideas, or http://filegate.wikispaces.org/srs.html&lt;br&gt;&lt;br&gt;Click on 'edit' to update the content.&lt;br&gt;&lt;br&gt;It is quite rough and far from a formal document at the moment but consider it a drawing pad. Write down any thing you have in mind. Every member can contribute and everyone can discuss about the content as it grows. &lt;br&gt;&lt;br&gt;Once we determine the content is matured, it will get turned into a nice formal document.&lt;br&gt;</content>
+    <postId>4B1C7F34-C9B3-4094-AC87-C120B3E6C439</postId>
+    <pubDate>2005-09-14T00:00:00-04:00</pubDate>
+    <title>Wiki page has been set up for filegate requirements</title>
+</post>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>허현옥</author>
+    <comments/>
+    <content>제가 이걸 진작에 공고 했어야 하는 데요...^^;&lt;br&gt;&lt;br&gt;황정선님은 QA를 하시던 분이셨습니다. 이번에 프로젝트에 참여하시면&lt;br&gt;아마도 현재 '수' 님이 하고 계시던 Ruby+Watir쪽에 도움을 주실 것 같고,&lt;br&gt;&lt;br&gt;김동욱님은 저와 함께 Integration 밑 전체적인 소스관리+개발을 하실 것 같습니다. 감사하게도 제가 앞으로 조금 바빠질것 같아서(^.^ ) 이번주에 전체적인 소스에 대한 인수인계(?)를 김동욱씨에게 하고 있습니다. 그렇다고 제가 빠지는 건 아니구요...^^ 제가 지금까지 참여하던 비중이 약간 줄어드는 정도겠죠..^^;&lt;br&gt;&lt;br&gt;아. 부기흡회장님, 현재 쏘스는 저번에 전화통화로 했던 부분까지 다 완료가 되어있습니다. 그리고, koreansenior에서 운영하고 계신 호스팅 서비스를 보니까 다수의 도메인을 등록해서 쓸수 있더라구요. (Apache, Tomcat의 Virtual host를 이용해서) 혹시 남는 도메인네임(^^ 말이 안되나?) 있으시면 현재까지 된 소스를 인터넷에 올려서 사용할 수 있을 것 같던데요.....^^ &lt;br&gt;&lt;br&gt;원래 제가 TDD로 Testing부터 시작했어야 되는데.. 이놈의 손에 굳은 버릇때문에 현재까지는 부분,부분의 Unit 테스트만 이루어져 있습니다. 제가 앞으로 그쪽작업(Unit Test)을 마무리 하려고 합니다. Struts의 Form Validation은 김동욱씨가 하시면 어떨까 하고 생각되구요..&lt;br&gt;&lt;br&gt;여기까지가 현재 진행사항입니다. 의견있으시면 답글 주세요.</content>
+    <postId>3FDADC32-F6A2-4873-B29C-583A8CDBA8CA</postId>
+    <pubDate>2006-04-26T00:00:00-04:00</pubDate>
+    <title>팀 멤버가 추가되었습니다. 김동욱, 황정선님.</title>
+</post>

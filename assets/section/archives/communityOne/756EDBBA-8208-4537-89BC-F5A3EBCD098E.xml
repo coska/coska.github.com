@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이홍식</author>
+    <comments/>
+    <content>JSP 공부 좀 해보려고 Sun Java site 에서 servletapi2_1_1-win.zip 과 jakarta-tomcat-3.2.1.zip을 내려받았는데요. Installation을 한 후 잘 안돌아가네요. 이런점이 궁금합니다.&#xD;
+&#xD;
+1. servletapi zip file을 열어보니까 java source만 있지 class file은 존재하지 않음. 그 모든 java souce들을 내 pc에서 compile한다고 가정할때 생성된 class file들을 어디에다 두어야 하나? &#xD;
+&#xD;
+2. javac가 servlet specific 한 class들을 어떻게 인식하게 하나? &#xD;
+&#xD;
+3. tomcat.zip 을 unzip해서 c:\tomcat dir 에 옮겼음. 다음으로tomccat\bin에서 startup을 시행했더니 JAVA_HOME 이 set up이 안됐다는 error가 발생하는 데 이를 어떻게 해결하나? &#xD;
+&#xD;
+4. serverlet과 tomcat을 어떻게 연계시키나?&#xD;
+&#xD;
+혹시 경험이 있으신 분 도움주시면 감사하겠습니다.&#xD;
+&#xD;
+&#xD;
+&#xD;
+</content>
+    <postId>756EDBBA-8208-4537-89BC-F5A3EBCD098E</postId>
+    <pubDate>2001-07-11T00:00:00-04:00</pubDate>
+    <title>Servlet/TomCat installation</title>
+</post>

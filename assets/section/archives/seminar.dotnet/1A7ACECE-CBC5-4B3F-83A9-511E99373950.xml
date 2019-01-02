@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이동수</author>
+    <comments>
+        <comment>
+            <author>김형태</author>
+            <date>2010-03-31T00:00:00-04:00</date>
+            <content>기대되네요. 혹시 스크린 캐스팅 테스트는 해 보셨는지요?</content>
+        </comment>
+    </comments>
+    <content>우선 맥 호환 시스템을 가지고 계신 회원님들께서는 아이폰 sdk 다운 받으셔서 인스톨 하시면 되구요.&lt;br&gt;해킨토시를 구현하셔서 sdk 하실려면 필요하다면 제가 도움을 드릴 수 도 있습니다.&lt;br&gt;&lt;br&gt;vmware를 사용하시는 방법은 비추입니다.&lt;br&gt;디버깅이라든지 실행시에 제약이 많습니다.&lt;br&gt;&lt;br&gt;그럼.. 기본적으로 아이폰 sdk 개발 환경이 구축되었다는 가정하에 다음 주제들을 갖고서 2번에 나누어서 세미나를 진행하고자 합니다.&lt;br&gt;&lt;br&gt;iphone development design pattern(cocoa library - mvc pattern, target action, delegation, etc)&lt;br&gt;- how to use uikit(controller flow)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- parentview, modalview, tabbar, multiview(front, back)&lt;br&gt;&lt;br&gt;- utility app development&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- core data (sql-lite, file, etc)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- networking&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- map tool kit&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- multi media&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- web browser&lt;br&gt;&lt;br&gt;- opengl es app development&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- 장기 게임 (현재 개발중인)&lt;br&gt;&lt;br&gt;그러고 혹시 제가 개발 중인 장기 게임 함께 하시고 싶은 분 계시면 멜 주세요. 소스 코드랑 공유 가능합니다.&lt;br&gt;&lt;br&gt;그리고 첫 세미나는 주로 교재중심으로 진행 하고자 합니다.&lt;br&gt;교재는 Head First Iphone development - 아주 재미있게 그림으로 잘 설명 해줍니다. 다 아시겠지만.. 필요하면 제게 멜 보내주시면 제가 링크를.. ㅋㅋ&lt;br&gt;&lt;br&gt;그럼 즐공 하세요&lt;br&gt;&lt;br&gt;</content>
+    <postId>1A7ACECE-CBC5-4B3F-83A9-511E99373950</postId>
+    <pubDate>2010-03-28T00:00:00-04:00</pubDate>
+    <title>아이폰 개발 세미나</title>
+</post>

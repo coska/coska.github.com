@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>최익준</author>
+    <comments/>
+    <content>바탕화면에서 마우스 우측버튼 클릭하시고,&#xD;
+Properties 선택 후,&#xD;
+Screen Saver -&gt; 아래쪽 Poewr button -&gt; APM 선택&#xD;
+Enable Advanced Power Management support를 check한 후에 shutdown해보셔요...&#xD;
+&#xD;
+이성기 wrote:&#xD;
+&gt; Window 2000를 설치한 후에 instant power shutdown을 가능하게 할려면 어찌해야 할까요?&#xD;
+&gt; 새로 산 PC가 Window2000에서 shutdown을 하면 화면이 꺼지고 system은 terminated된 것 같은데, 전원에 불이 여전히 들어와 있습니다. 이 Power button을 한 5초가량손으로 꼭 누르고 있으면 그제서야 불이 나갑니다. &#xD;
+&gt; &#xD;
+&gt; 혹시 이런 경험을 하신분이 있으면 제가 어디를 검사해야 고칠수 있을까요. ?</content>
+    <postId>E220B8F3-FBFA-4991-9CDE-501072443001</postId>
+    <pubDate>2001-05-14T00:00:00-04:00</pubDate>
+    <title>RE: Power shut down in Window 2000</title>
+</post>

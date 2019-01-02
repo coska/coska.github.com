@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김성욱</author>
+    <comments>
+        <comment>
+            <author>김성욱</author>
+            <date>2010-11-12T00:00:00-05:00</date>
+            <content>2 ways of (1) before Java 5 (2) since Java 5</content>
+        </comment>
+    </comments>
+    <content>enum Face {ONE, TWO, THREE, FOUR, FIVE, SIX}&#xD;
+&#xD;
+Collection&lt;Face&gt; faces = Arrays.asList(Face.values());&#xD;
+&#xD;
+for (Iterator&lt;Face&gt; i=faces.iterator(); i.hasNext())&#xD;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;for (Iterator&lt;Face&gt; j=faces.iterator(); j.hasNext())&#xD;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;System.out.println(i.next() + "-" + j.next);&#xD;
+&#xD;
+&#xD;
+-----------&#xD;
+The codelet above has a bug of course. It tries to print all possible combinations (e.g. one-one, one-two, ... , six-six), however you will see the result is far from the expectation. What is wrong and how you can fix it?&#xD;
+&#xD;
+* Direction: You can fix it by 2 ways of (1) &lt;Java5 and (2) Java5+</content>
+    <postId>E8254423-632F-4079-95B6-D687B6A51DAF</postId>
+    <pubDate>2010-11-10T00:00:00-05:00</pubDate>
+    <title>Java quiz - for loop &amp; for-each</title>
+</post>

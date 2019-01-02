@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments/>
+    <content>&#xD;
+---&lt; 2.1 Homework &gt;-------------------------------------&#xD;
+This assignment will be reviewed on April 7, 7:30 Evening Class&#xD;
+&#xD;
+Mandatory - All assigments must be handed in with a class diagram, pseudo code and source code.&#xD;
+&#xD;
+- (1) Address Book (Due date : Apr 6)&#xD;
+When user need to find out email address, search it by person name. &#xD;
+Also user can find telephone number by email address or person name.&#xD;
+This address book should have addition, revision and deletion menus.&#xD;
+&#xD;
+You can make this application by Java application, Servlet, JSP or Swing&#xD;
+Neither fancy nor detail funcionality is required. Simple is the best. &#xD;
+RDB is not required. You may implement the data storage in external file or internal hard code list.&#xD;
+</content>
+    <postId>1EE8F779-8844-4177-B1A5-AD85EF27FA6F</postId>
+    <pubDate>2001-04-28T00:00:00-04:00</pubDate>
+    <title>2.1 Homework </title>
+</post>

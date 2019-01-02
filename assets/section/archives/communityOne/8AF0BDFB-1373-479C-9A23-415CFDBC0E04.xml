@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>황성규</author>
+    <comments/>
+    <content>&lt;i&gt;ZDNet.com&lt;/i&gt;&#xD;
+&#xD;
+By Stephen Shankland&#xD;
+Special to ZDNet News &#xD;
+April 4, 2001 12:25 PM PT&#xD;
+&lt;b&gt; &#xD;
+Sun Microsystems has found a problem with computers using its new UltraSparc III processor, the company acknowledged Wednesday.&lt;/b&gt;&#xD;
+&#xD;
+The problem affects only initial models of the Sun Blade 1000 workstation, one of the first computers based on the critical new design from the Palo Alto, Calif-based company, spokeswoman Kasey Holman said. &#xD;
+&#xD;
+Though Sun (Nasdaq: SUNW) is distributing a program that fixes the problem, the patch disables a feature of the chip and thus cuts computer performance under some circumstances, Holman said. &#xD;
+&#xD;
+The glitch can cause problems with some mathematical operations, she said. "This issue affects only a small number of Sun Blade 1000 workstations that have shipped, and only floating-point calculations used typically in scientific and engineering applications are impacted," she said. &#xD;
+&#xD;
+&#xD;
+&#xD;
+"I don't think it looks good for them, obviously, but I don't think this is going to have too much bearing on new product sales" because Sun appears to have the problem in hand, said ARS Market Intelligence analyst Steve Greenberg. &#xD;
+&#xD;
+But Sun already has had some problems with its new UltraSparc III chip, which is critical to its effort to keep IBM, Hewlett-Packard and Microsoft at bay. For one thing, Sun couldn't meet initial demand for UltraSparc III computers. For another, manufacturing problems have prevented the company from switching as fast as planned from 750MHz chips to 900MHz models using copper circuitry. &#xD;
+&#xD;
+Sun has been steadily winning an ever-larger share of the server market, which IDC said accounted for $60 billion in sales in 2000. &#xD;
+&#xD;
+The problem doesn't affect the Sun Fire 280R server introduced at the same time and later Sun Fire 3800, 4800 or 6800 models introduced in March, Holman said. &#xD;
+&#xD;
+Sun discovered the problem itself, Holman said. That contrasts with a glitch involving high-speed cache memory that afflicted high-end UltraSparc II-based systems. With that problem, which caused computers to unexpectedly reboot, Sun customers brought the problem to Sun's attention. &#xD;
+ &#xD;
+</content>
+    <postId>8AF0BDFB-1373-479C-9A23-415CFDBC0E04</postId>
+    <pubDate>2001-04-05T00:00:00-04:00</pubDate>
+    <title>Glitch discovered in SUN UltraSparc III</title>
+</post>

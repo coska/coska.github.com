@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>심용해</author>
+    <comments/>
+    <content>이번에는 백지에 사진을 합성하고자 합니다. 조금 자연스럽게 합성하는 기능중 하나인 opacity 를 잘 활용해 봅시다.&lt;br&gt;우선 저의 경우 민서가 입은 옷의 배에 사진을 붙여 보도록 하겠습니다. &lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/n01.jpg"&gt;&lt;/p&gt;&lt;br&gt;앞에서 배운것과 같은 방법으로 사진하나를 복사하여 다른 원본 사진에 붙여 넣습니다. &lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/n02.jpg"&gt;&lt;/p&gt;&lt;br&gt;crtl+t 를 누르면 방금 복사한 사진이 네모박스로 생기면서 바로 편집이 가능합니다. 마우스를 이용하여 사진 크기를 조절해 줍니다. &lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/n03.jpg"&gt;&lt;/p&gt;&lt;br&gt;편집 상태에서 alt 누르고 마우스를 모서리에 가져가면 마우스 포인터가 화살표로 변하면서 모서리만 움직일수 있습니다.&lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/n04.jpg"&gt;&lt;/p&gt;&lt;br&gt;어느정도 그림이 맞았다 생각되면 우측 아래에 있는 Opacity를 조절하여 붙여 넣은 사진을 흐리게 만듭니다.&lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/n05.jpg"&gt;&lt;/p&gt;&lt;br&gt;많이 흐려져서 자연스럽게 합성됐다 싶으면 완료 입니다. &lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/n06.jpg"&gt;&lt;/p&gt;&lt;br&gt;이제 합성사진때문에 가려진 원본 사진의 손을 살리기 위해 합성된 사진을 지워 줍니다. 사진을 확대하여 지워주세요..&lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/n07.jpg"&gt;&lt;/p&gt;&lt;br&gt;다 지웠으면 사진을 원래 크기대로 해 보세요..어때요? 합성이 잘 됐나요??&lt;br&gt;&lt;img src="http://www.hahadude.co.kr/goo/n08.jpg"&gt;&lt;/p&gt;&lt;br&gt;</content>
+    <postId>F1F8D520-22C6-43F6-BBF6-265194E73A9C</postId>
+    <pubDate>2008-04-09T00:00:00-04:00</pubDate>
+    <title>포토샵 이용하여 두사진 합성</title>
+</post>

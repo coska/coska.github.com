@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이홍식</author>
+    <comments/>
+    <content>선배님&#xD;
+&#xD;
+String var3 = "1234"; 하셔서 이전의 var3 reference 값이 String "1234" (무명씨 reference) 로 대치되지 않았습니까? 아래주신 Sample code 4번 if는 젤 처음 올려놓으신 것과 다릅니다. String var3 = "1234"; line이 없었던 것 같은데요.&#xD;
+&#xD;
+아래 sample이 돌아간다는 것은 젤 처음 1번 if condition앞에 달아놓은 저의 설명이 옳았음을 재차 증명합니다.&#xD;
+&#xD;
+&#xD;
+이성기 wrote:&#xD;
+&gt; &#xD;
+&gt; String var3 = "1234"; &#xD;
+&gt;  if (var3 == "1234") &#xD;
+&gt;  System.out.println("4. two values are same"); &#xD;
+&gt; 를 돌려보면 결과가 나옵니다. &#xD;
+&gt; 이걸 모르겠어요...&#xD;
+&gt; 한번 이것만 돌려보세요. 현재 jvm 1.2.2를 사용하고 있어요. &#xD;
+&gt; &#xD;
+&gt; </content>
+    <postId>CC36B17B-94C4-46FE-B6F2-CB3DB513A6CF</postId>
+    <pubDate>2001-11-05T00:00:00-05:00</pubDate>
+    <title>처음 주신 Sample Code와 다르기 때문입니다.</title>
+</post>

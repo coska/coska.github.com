@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>황성규</author>
+    <comments/>
+    <content>윈도우즈 98을 사용하신다면 Oracle 8i Personal Edition을 다운로드 받으시면 되구요. NT4.0이상을 사용하신다면 Oracle 8i Personal Edition이나 Standard Edition둘다 설치 가능할겁니다. 다운로드는 무료이고 OTN member가입을 하셔야 될겁니다.&#xD;
+&#xD;
+그런데 다운로드할 파일이 수백메가에 달하므로 하이스피드인터넷이아니면 시도를 안하시는게 좋습니다.&#xD;
+&#xD;
+http://otn.oracle.com/software/&#xD;
+&#xD;
+&#xD;
+이성기 wrote:&#xD;
+&gt; Spencer or anyone!&#xD;
+&gt; I am going to have light and small version of personal edition of RDB into my PC. Is there any free and easy to install and run with my small Java /JDBC program with it?&#xD;
+&gt; &#xD;
+&gt; If I download oracle, what kind of oracle will be small and simple? Or I need to use cloudscape with J2ee? &#xD;
+&gt; Any suggestion?</content>
+    <postId>A21E06BE-4361-4C36-9DE6-E79F254FB4A9</postId>
+    <pubDate>2001-04-16T00:00:00-04:00</pubDate>
+    <title>RE: Light RDB downloadable?</title>
+</post>

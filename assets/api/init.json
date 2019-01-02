@@ -1,0 +1,69 @@
+{
+  "maintenance": {
+    "enable": false,
+    "title": "Temporary Maintenance",
+    "desc": "Oops!, we are working on it.",
+    "link": "https://google.com",
+    "start_dt": "2018/09/29 23:00",
+    "end_dt": "2018/09/30 12:23"
+  },
+  "assets": "./src/assets",
+  "menus": [{
+      "title": "About", "pgid": "m01",
+      "subMenu": [
+        {"title": "코스카 소개","pgid": "m010101","layout": "page","doctype": "html"},
+        {"title": "임원진 소개","pgid": "m010102","layout": "page","doctype": "markdown"},
+        {"layout": "divider" },
+        {"title": "발자취 ", "layout": "header"},
+        {"title": "1979~1999","pgid": "m010201","layout": "page","doctype": "markdown", "disabled":false},
+        {"title": "2000~2009","pgid": "m010203","layout": "page","doctype": "markdown"},
+        {"title": "2010~","pgid": "m010204","layout": "page","doctype": "markdown"},
+        {"layout": "divider" },
+        {"title": "추억의 앨범","pgid": "m010301","layout": "section","doctype": "markdown", "format": "card"}
+      ]
+    },
+    {
+      "title": "세미나", "pgid": "m02",
+      "subMenu": [
+        {"title": "Techday","pgid": "m020101","layout": "page","doctype": "markdown"},
+        {"title": "COSKA Lab","pgid": "m020102","layout": "page","doctype": "markdown"},
+        {"title": "취업 세미나","pgid": "m020103","layout": "page","doctype": "markdown"}
+      ]
+    },
+    {
+      "title": "Events", "pgid": "m03",
+      "subMenu": [
+        {"title": "New Year Party","pgid": "m030201","layout": "section","doctype": "markdown","format": "list"},
+        {"title": "Picnics/Campings","pgid": "m030102","layout": "section","doctype": "markdown","format": "card", "disabled":true},
+        {"title": "Campings","pgid": "m030103",     "layout": "section","doctype": "markdown","format": "card", "disabled":true},
+        {"title": "Golf Coska","pgid": "m030104",   "layout": "section","doctype": "markdown","format": "card"}
+      ]
+    },
+    {
+      "title": "Archives", "pgid": "archives",
+      "subMenu": [
+        {"title": "세미나","pgid": "seminar","layout": "section","doctype": "xml"},
+        {"title": " .Tech Share","pgid": "seminar.techshare","layout": "section","doctype": "xml"},
+        {"title": " .DOTNET Study","pgid": "seminar.dotnet","layout": "section","doctype": "xml"},
+        {"title": "운영자 자료실","pgid": "admin.files","layout": "section","doctype": "xml"},
+        {"title": "My School","pgid": "mySchool","layout": "section","doctype": "xml"},
+        {"title": "PC Education","pgid": "pcedu","layout": "section","doctype": "xml"},
+        {"title": "게시판","pgid": "bbs","layout": "section","doctype": "xml"},
+        {"title": "수다떨기","pgid": "suda","layout": "section","doctype": "xml"},
+        {"title": "FileGate","pgid": "filegate","layout": "section","doctype": "xml"},
+        {"title": "EYE FIVE","pgid": "eyefive","layout": "section","doctype": "xml"},
+        {"title": "Living in Canada","pgid": "livinginCanada","layout": "section","doctype": "xml"},
+        {"title": ".Immigration","pgid": "livinginCanada.immigration","layout": "section","doctype": "xml"},
+        {"title": ".Classified","pgid": "livinginCanada.classified","layout": "section","doctype": "xml"},
+        {"title": "Golf Coska","pgid": "golfCoska","layout": "section","doctype": "xml"},
+        {"title": "COMMUNITY ONE","pgid": "communityOne","layout": "section","doctype": "xml"},
+        {"title": "구인/구직","pgid": "job","layout": "section","doctype": "xml"},
+        {"title": "공지","pgid": "notice","layout": "section","doctype": "xml"},
+        {"layout": "divider" },
+        {"title": "Manual","pgid": "manual","layout": "page","doctype": "markdown"}
+      ]
+    },
+    {"title": "Facebook","layout": "extlink","url": "https://www.facebook.com/groups/coska4u"}
+    
+  ]
+}

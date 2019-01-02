@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이홍식</author>
+    <comments/>
+    <content>선배님께서 올려놓으신 code를 "TestIf" java code로 만들어 돌려보았습니다. 그리고 output의 출처를 추적하기 쉽도록 println 안에 번호를 매겼습니다.&#xD;
+&#xD;
+결과는 아래와 같습니다.&#xD;
+&#xD;
+1. two objects are same&#xD;
+2. two values are same&#xD;
+5. two values are same&#xD;
+&#xD;
+4번 if condition안의 println 이 출력되지 않은 이유는 var3가 "1234"값을 갖게된 경로가 단순한 assignment(var3="1234") 가 아니라 new라는 operator(String var3 = new String("1234");) 사용이었다는 것입니다. 그러므로 새롭게 만들어진 var3 reference 와 "1234" 를 denote 하는 무명의 reference 값을 "=="로 비교했을 때 그 둘의 reference 값이 다르므로 4번 if condition안의 println 은 출력이 되지 않은 것입니다.  만약 if condition을 if (var3.equals("1234")) 로 했다면 출력이 됩니다. 왜냐하면 "equals()"는 reference가 denote하는 실제 value를 비교하기 때문입니다.&#xD;
+&#xD;
+선배님은 훌륭한 가르치는 기술을 갖고 계시내요. 칭찬과 격려는 학생들을 고무하고 격려하는 큰 힘이 있는 것 같습니다!&#xD;
+&#xD;
+&#xD;
+&#xD;
+이성기 wrote:&#xD;
+&gt; &#xD;
+&gt; 놀랍습니다, 이홍식씨, &#xD;
+&gt; String이 reference를 share한다는 것을 몰랐었습니다. &#xD;
+&gt; 체계적인 설명 좋았습니다. &#xD;
+&gt; 상세히 알아보아야 겠어요. &#xD;
+&gt; &#xD;
+&gt; 헌데, 4번은 생각밖의 결과를 가져옵니다. &#xD;
+&gt; String var3 = "1234";&#xD;
+&gt; if (var3 == "1234") &#xD;
+&gt;  System.out.println("two values are same"); &#xD;
+&gt; &#xD;
+&gt; 과연 이 메세지가 나올까요?&#xD;
+&gt; 궁금하지요... &#xD;
+&gt; </content>
+    <postId>0093FF6F-63FF-4B92-934F-3DA962680768</postId>
+    <pubDate>2001-11-04T00:00:00-05:00</pubDate>
+    <title>RE: 격려의 칭찬, 감사합니다!</title>
+</post>

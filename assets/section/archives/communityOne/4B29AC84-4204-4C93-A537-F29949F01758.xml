@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>Bran</author>
+    <comments/>
+    <content>j2ee를 내 pc에 설치해서 tutorial에 나오는 sample을 돌려보려고 하는 겁니다. 제가 생각하는 application은 개념검증정도의 simple prototype입니다. 혹시 이 j2ee를 가지고 play를 해본적이 있다면, &#xD;
+&#xD;
+1. j2ee를 가지고 none EJB program을 만드는 것이 얼마나 flexible한지 알고 싶습니다. &#xD;
+-&gt; If u are going to develop a none-EJB program, why are u gonna follow J2EE specifications and use J2SDKEE? I can't under stand ur question. I take ur thought as u are going to make "JavaBeans's system" but if it is, u'd better not have any idea of EJB. I'm sure u know EJB is single threaded model and if it is collaborated with other general beans (multiple threaded), the management will be more difficult than mostly using EJBs. Please do not neglect this.&#xD;
+&#xD;
+2. front-end는  servlet, jsp등이 가겠지만, backend business logic을 ejb가 아닌 pure java object으로 할 경우 나머지 것들, jms, jndi, connector등을 연결할때, 얼마나 쉽게 연동이 될지 궁금합니다. 첫째 질문 은 바로 이것이 알고 싶어서 한것이고요. &#xD;
+-&gt; One EJB is basically bean(class), so it works well with any other 'Beans'. But it means it has to go without Container Management and so u must consider all the possible transactions, security and states and implement those in the Beans. I think this is why we are using EJB in a 'big' enterprise system development.&#xD;
+&#xD;
+3. ejb container config용으로 embed된것 말고,sample program에서 rdb access를 할려고 할때, installation, admin과정이 가장 손쉽고, j2ee와 별 무리 없이 잘 연결될 light db로 무엇이 좋은지 물은 것이 였습니다. 음 제 질문은 ejb와 연결이 잘될 db가 아니라 j2ee package에서 잘 결합될 prototype 용 db로 어떤 것이 좋은지 에 관한것이 였습니다.&#xD;
+-&gt; In my case I used Oracle DB (PC version), and it was nice to excute any programs without problems. I recommend it to u. I have heard cloudscape is also nice, but I don't know how to use it and what else I should configure so I just added one line to set jdbc property in J2EE's config file.&#xD;
+&#xD;
+&#xD;
+&#xD;
+4. 3rd party ejb vendor의 제품의 deploy, install 이 아니라 download한 j2ee를 가지고 sample program을 개발하고 검사하는 installation, deploy과정이 얼마나 쉬운지 그 정도를 알고자 했던 겁니다. &#xD;
+-&gt; Well, it is just a matter of Time. No high difficulty.&#xD;
+&#xD;
+&#xD;
+5. 혹시 j2ee를 가지고 tutorial혹은 간단한 ecommerce application을 돌려본 경험이 있으면 조언 부탁합니다. 제가 언급한 j2ee는 spec이아니라 j2sdkee를 말한 겁니다. &#xD;
+-&gt; Now I know that what u are saying is about J2SDKEE. As I told u, I'm going to build a new site for EC and that is, I'm applying my knowledge to a real world. I'm sorry I cannot tell u more about that. So far I have developed B2C internet shopping malls with JSPs, Servlets. But If u have any question please ask me. I will try to help u.&#xD;
+&#xD;
+Thanks.</content>
+    <postId>4B29AC84-4204-4C93-A537-F29949F01758</postId>
+    <pubDate>2001-04-19T00:00:00-04:00</pubDate>
+    <title>RE: RE: RE: Anyone starts J2EE before?</title>
+</post>

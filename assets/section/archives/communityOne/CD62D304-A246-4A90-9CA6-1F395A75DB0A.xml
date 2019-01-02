@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김성욱</author>
+    <comments>
+        <comment>
+            <author>이성기</author>
+            <date>2003-11-21T00:00:00-05:00</date>
+            <content>김성욱씨가 가지고 있는 utility class들을 사용방법, 적용사례등과 함께 차곡차곡 정리해 주세요. 일단 누군가 깃발을 흔들고 앞으로 나가야 겠지요.</content>
+        </comment>
+    </comments>
+    <content>글을 쓰다가 생각이 나서 여기 적어봅니다.&#xD;
+&#xD;
+각자 개발을 하시다가 만드신 유틸리티 클래스들이 제법 유용하다거나 다른 분들과 함께 공유하여 발전시키고 싶은 적이 있지는 않으십니까?&#xD;
+&#xD;
+세미나를 통해 이런 작은 모듈들을 살펴보고, 같이 고민하고 Enhancing 방안을 논의함은 어떨까요?</content>
+    <postId>CD62D304-A246-4A90-9CA6-1F395A75DB0A</postId>
+    <pubDate>2003-11-21T00:00:00-05:00</pubDate>
+    <title>[발의] 내가 만든 유틸리티...</title>
+</post>

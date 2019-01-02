@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>부기흡</author>
+    <comments/>
+    <content>Javascript는 인터프리티브 언어이기 때문에 eval함수가 쉽게 가능한데 Java는 그렇게 쉽지는 않겠군요. 구체적으로 무얼하고 싶은지에 따라서 해결방법이 다를것 같습니다. 제네릭한 (약간은 무식한) 방법으로는 Java VM 버추알 머신안에서 다른 또하나의 버추알 머신을 만든후 여기서 하고 싶은일을 하고, 그 결과를 원래 VM으로 돌려주면 되지 않을까요?&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;gt;Javascript의 eval함수와 같은 역할을 하는 java함수를 찾습니다.&lt;br&gt;&amp;gt;조언주세요.. 감사합니다.&lt;br&gt;&amp;gt; &lt;br&gt;</content>
+    <postId>82D5BA4F-AFE5-4AC8-95CA-70CA3E585335</postId>
+    <pubDate>2006-12-12T00:00:00-05:00</pubDate>
+    <title>[re] Javascript의 eval함수와 같은 역할을 하는 java함수를 찾습니다.</title>
+</post>

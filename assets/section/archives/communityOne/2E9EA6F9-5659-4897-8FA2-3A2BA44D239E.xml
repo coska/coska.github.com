@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments/>
+    <content>http://www.ibm.com/software/vadd/data/document2345?OpenDocument&amp;p=1&amp;BCT=1&amp;Footer=1&#xD;
+&#xD;
+This series of articles takes you step-by-step through a sample Online Banking System (OBS) based on enterprise Java technologies, from requirements through analysis, design, and implementation. It uses VisualAge�� for Java and WebSphere 3.02 for development and deployment, to show you how the author created a live demo that is accessible via the Internet. The system uses a lightweight servlet framework, JavaServer Pages (JSPs), Enterprise Java Beans (EJBs), and eXtensible Markup Language (XML).&#xD;
+&#xD;
+&#xD;
+</content>
+    <postId>2E9EA6F9-5659-4897-8FA2-3A2BA44D239E</postId>
+    <pubDate>2001-12-15T00:00:00-05:00</pubDate>
+    <title>Enterprise Java Tutorial -- Part I: Architecture and Analysis </title>
+</post>

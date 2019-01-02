@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김성욱</author>
+    <comments/>
+    <content>Now you're in a boat. Hope you to be a great navigator! :)&#xD;
+&#xD;
+기본적으로 Cactus는 Junit의 골격을 상속받은 Wrapper Framework이라고 보시면 됩니다. Junit 자체도 이미 framework이지만, Cactus는 remote 서버와 클라이언트간에 unit test를 지원하는 확장 개념이고요 한글로도 잘 설명이 나와 있으니, 아래 주소를 참조하세요.&#xD;
+&#xD;
+http://jakarta.apache-korea.org/cactus/&#xD;
+&#xD;
+Junit에 대해 경험이 없으시다면, 먼저 이것부터 이해하셔야 할 것 같습니다. 동작 원리나 순서, 기본 클래스들의 용도 등을 아시고 나면, Cactus에서 언급하는 많은 단어나 클래스명이 보다 이해하기 쉬워질거라 믿습니다. Manning사의 'Junit in Action'이란 책이 제가 지금도 보고 있고 이해하기 쉬운 책이라 추천하고요.&#xD;
+&#xD;
+저도 많은 실전 경험이 없어서 이 정도로만 정보를 드릴 수 밖에 없네요. Anthill은 전혀 모르는 부분이고요.&#xD;
+&#xD;
+이 기회에 자성하는 차원에서... 좀 더 실력을 갖춰서 나중에 TDD에 대해 세미나를 할 수 있도록 하겠습니다. 그때 Junit과 Cactus도 다뤄보길 바랍니다만. 참, 언제 하냐고는 묻지 마세요... :) 고상호씨 화이링~~~!!</content>
+    <postId>FAE3416F-B0C8-4E39-9C15-50FEFB2C8668</postId>
+    <pubDate>2004-08-18T00:00:00-04:00</pubDate>
+    <title>RE: Cactus and Junit</title>
+</post>

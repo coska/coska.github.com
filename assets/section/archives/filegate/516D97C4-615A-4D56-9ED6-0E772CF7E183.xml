@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>박진호</author>
+    <comments>
+        <comment>
+            <author>부기흡</author>
+            <date>2005-07-10T00:00:00-04:00</date>
+            <content>cool.</content>
+        </comment>
+        <comment>
+            <author>박진호</author>
+            <date>2005-07-11T00:00:00-04:00</date>
+            <content>다른 시나리오들을 추가시켜 주시기 바랍니다. (예: exception시나리오...) 평화로운 날들만 계속되면 좋지만, 그게 맘대로 되나요.. 잘 안 돌아갈때의 시나리오도 생각해 주시면 감사하겠습니다.</content>
+        </comment>
+        <comment>
+            <author>김형태</author>
+            <date>2005-07-11T00:00:00-04:00</date>
+            <content>시나리오로 생각해 보니 간결해서 좋습니다.</content>
+        </comment>
+    </comments>
+    <content>안녕하세요, 7월 8일 UI팀 모임 결과 보고입니다.&lt;br&gt;장소는 Slug and lettus 에서 있었구요. 최이경,고범진,윤영섭,박진호씨가 참여하셨습니다.&lt;br&gt;&lt;br&gt;회의 Agenda는 다음과 같았습니다.&lt;br&gt;1) 기존 프로그램 검토&lt;br&gt;--우리 것이 없는 상태에서 다른 사람이 만든것을 먼저 보면, 생각이 굳어버릴것 같아서, 일정의 맨 뒤로 바꿨습니다.&lt;br&gt;&lt;br&gt;2) 파일게이트 스크린 디자인&lt;br&gt;--시나리오 결정, 스크린 구성&lt;br&gt;&lt;br&gt;3) 로고 결정&lt;br&gt;--회의가 너무 길어지는 바람에 논의 되지 못했습니다.&lt;br&gt;&lt;br&gt;------------------------------------&lt;br&gt;2-1) 시나리오 &lt;br&gt;진호는 회사 컴퓨터의 project폴더를 집에 있는 backup폴더와 sync를 시키고 싶어 합니다. 그래서 파일게이트를 설치하죠.&lt;br&gt;&lt;br&gt;install 하고 나면 맨처음 실행시킬때 profile wizard가 실행되지요.(여기서 sync할 folder, network setting, file filtering rule, scheduling등이 결정됩니다.)&lt;br&gt;&lt;br&gt;설정이 끝나면 sync가 되는 진행사항이 보여집니다.&lt;br&gt;창을 닫으면 tray에 아이콘만 남고, "창을 닫았지만,아직도 돌아갑니다"라는 식의 메세지가 뜹니다.(메신저 처음 쓸때 나오는 풍선 도움말.)&lt;br&gt;&lt;br&gt;설정을 바꾸고 싶으면 Tray아이콘을 더블클릭하면 파일게이트 메인 화면이 뜨고 여기서 filegate profile을 바꿀수 있습니다.&lt;br&gt;&lt;br&gt;2-2) 스크린 디자인&lt;br&gt;-- 그림을 그려야 되는데...&lt;br&gt;&amp;nbsp;&amp;nbsp; 나중에 올려드릴께요&lt;br&gt;&lt;br&gt;감사합니다.</content>
+    <postId>516D97C4-615A-4D56-9ED6-0E772CF7E183</postId>
+    <pubDate>2005-07-10T00:00:00-04:00</pubDate>
+    <title>[UI 팀] 모임 보고</title>
+</post>

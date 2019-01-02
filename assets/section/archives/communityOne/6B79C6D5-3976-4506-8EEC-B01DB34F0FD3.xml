@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>Bran</author>
+    <comments/>
+    <content>Actually I've implemented JavaMail on my site.&#xD;
+&#xD;
+I'm sure u know it is needed to install sendmail package of the latest version at first.&#xD;
+&#xD;
+After that u have to download two JAR files (activation.jar mail.jar) and add those to the current classpath. (I recommend those files locate in "ext" directory because of no need to change CLASSPATH)&#xD;
+&#xD;
+And ur program will need several lines following...&#xD;
+&#xD;
+import  javax.mail.* ;&#xD;
+import  javax.activation.*;&#xD;
+import  javax.mail.internet.* ;&#xD;
+&#xD;
+I introduce to u an article about JavaMail 1.1.3 from SUN.&#xD;
+I wish it will be helpful to who needs.&#xD;
+&#xD;
+------------------------------------------------------------&#xD;
+JavaMailTM 1.1.3 Release &#xD;
+&#xD;
+(Feb 22, 2000) &#xD;
+&#xD;
+The JavaMailTM API provides a set of abstract classes that model a mail system. The API provides a platform independent and protocol independent framework to build Java technology-based mail and messaging applications. The JavaMail API is implemented as a Java platform standard extension. Sun provides a royalty-free reference implementation, in binary form, that developers will be able to use and ship. &#xD;
+&#xD;
+This release provides the JavaMail 1.1.3 implementation. It includes implementations of the core JavaMail API packages as well as implementations of the IMAP and SMTP service providers. (A POP3 service provider is available separately.) This release includes the source code for many demo programs that illustrate the use of the JavaMail API, as well as the JavaMail API specification that explains the use of the JavaMail API. All these items are included in the single download package. &#xD;
+&#xD;
+NOTE: You will also need the JavaBeansTM Activation Framework extension or JAF (javax.activation). It is available at http://java.sun.com/beans/glasgow/jaf.html. &#xD;
+ &#xD;
+ </content>
+    <postId>6B79C6D5-3976-4506-8EEC-B01DB34F0FD3</postId>
+    <pubDate>2001-03-27T00:00:00-05:00</pubDate>
+    <title>about javamail</title>
+</post>

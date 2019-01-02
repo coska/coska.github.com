@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>권경화</author>
+    <comments>
+        <comment>
+            <author>권상하</author>
+            <date>2008-09-23T00:00:00-04:00</date>
+            <content>몇시간 정도 합니까?</content>
+        </comment>
+    </comments>
+    <content>Location: Quest Conference Room, Basement Level - 260 King Street East (East of Sherbourne, across from the Toronto Sun building).&#xD;
+&#xD;
+October 7th, 7:00 PM&#xD;
+&#xD;
+New in the World of Spring - Part I&#xD;
+Presented by Colin Sampaleaunu and Marius Bogoevici&#xD;
+&#xD;
+Part one of a two part talk, this session provides an update on enhancements found in version 2.5 of the popular Spring Framework, followed by a look at the OSGi programming model and the SpringSource dm Server, a lightweight, scalable server with support for OSGi and Spring. Next month, part two will cover Spring Integration and Spring Batch.&#xD;
+Spring Framework 2.5&#xD;
+&#xD;
+Over the past 4 years, use of Spring Framework, the core of the Spring Portfolio of projects, has become ubiquitous in the java community, with more than 50% of Java development efforts using Spring. Spring adds value at development and runtime by providing a platform which allows programs to be coded using a "Plain-java" programming model, with much increased portability, testability, and agility (ability to evolve) compared to traditional approches.&#xD;
+&#xD;
+This presentation provides an update on the enhancements introduced by Spring 2.5, including new dependency injection capabilities using annotations, and an annotation based approach to handling web requests in the Spring MVC UI framework.&#xD;
+SpringSource dm Server&#xD;
+&#xD;
+Java developers today have available to them a capable programming language and a large set of frameworks and libraries that provide lots of functionality out of the box. However, they regularly face significant pain with regards to modularity, versioning, and code re-use, due to the present use of an execution platform (JAR, WAR and EAR packages deployed into standard Java EE servers) stuck in the year 2000. The OSGi platform, an industry-wide standard which has evolved over a 10 year period, solves these pain points. This presentation introduces OSGi, the Spring Dynamic Modules project which integrates the plain Java programming model of Spring with OSGi, and the SpringSource dm Server, a lightweight, scalable server with support for OSGi, Spring, and the concept of "profiles", such as the initial web profile which includes an embedded Tomcat server.&#xD;
+&#xD;
+About the speakers:&#xD;
+Colin Sampaleanu is Director of Technical Sales at SpringSource, the company behind Spring, and is one of the original committers on the Spring Framework. Marius Bogoevici is a Senior Consultant at SpringSource and committer to the Spring Integration project. </content>
+    <postId>B2BAC3BF-EAAE-4BD1-98C9-A16D754FEADE</postId>
+    <pubDate>2008-09-23T00:00:00-04:00</pubDate>
+    <title>Toronto JUG October 2008 Meeting</title>
+</post>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>강윤정</author>
+    <comments>
+        <comment>
+            <author>황성규</author>
+            <date>2009-10-07T00:00:00-04:00</date>
+            <content>장윤정씨 오랫만입니다. 밴쿠버 출장 몇번갔었는데 김민씨만 한번 잠깐 만나고 왔어요... 준호씨도 잘 있죠? 질문이랑 관계없는 내용이라 죄송</content>
+        </comment>
+    </comments>
+    <content>안녕하세요 오랜만이에요~ ^^&#xD;
+&#xD;
+openID consumer 프로그램 해보신 분 계신가요.&#xD;
+client가 오픈아이디 줄테니 그걸로 유저 인증하라고 해서&#xD;
+안해본 거라 급 서치중입니다.&#xD;
+자바환경 서포트하는 툴킷이 여러개 있던데 뭘 선택해야 할지 모르겠네요. &#xD;
+이 중에서 openID4Java - 이게 만만해 보여서 살짝 보고 있는 중인데 이것말고 다른 게 더 인기 있는지 몰라서요.&#xD;
+&#xD;
+그리고 web2.0 지원한다고 IBM WebSphere의 sMesh라는 서버가 따로 나온 거 같은데.. 그냥 여기저기에서 라이브러리 가져다가 일반 웹스피어 서버나 톰캣에서도 돌리면 굳이 web2.0 전용 서버 필요없지 않나요?</content>
+    <postId>E6C6F237-9D94-4A53-B2F5-12C532A2CFDC</postId>
+    <pubDate>2009-10-01T00:00:00-04:00</pubDate>
+    <title>OpenID 써보신분? + web2.0 질문.</title>
+</post>

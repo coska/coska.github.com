@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>thomas lee</author>
+    <comments/>
+    <content>According to Statistic # I have been read, only 25 % of SW project are completed on time and on scope. Rest of them are failed or are shunk the scope of original work.&#xD;
+&#xD;
+Why are these numbers so bad? There are probably as many opinions on that question as there are people asking it, but I think there are a few primary reasons:&#xD;
+&#xD;
+-People aren't convinced they have a problem.&#xD;
+&#xD;
+-People know they have a problem, but are afraid to risk doing something different to try to solve it.&#xD;
+&#xD;
+-People know they have a problem, are willing to try to solve it, but misunderstand the problem they are trying to solve.&#xD;
+&#xD;
+-People know they have a problem, are willing to try to solve it, understand the problem, but are constrained to the status quo. &#xD;
+&#xD;
+Let's cover each of these reasons briefly.&#xD;
+&#xD;
+- Not convinced there is a problem&#xD;
+People have an extraordinary capacity for self-delusion. Company and project leaders are no exception. It's quite possible for software development projects to be going down the corporate drain while everyone is convinced everything is fine -- or at least they act like it is. The numbers I mentioned earlier should make it obvious that software development in organizations isn't going well. There are exceptions, of course, but lots of organizations are oblivious to their own problems.&#xD;
+&#xD;
+Does your organization have an adversarial relationship between IT and "business people"? Do business leaders in your organization say things like, "If technology is so slick, how come all I hear from IT is 'No'?" If so, you have a problem that needs solving. If you don't solve it, inertia may keep you going for a while, but failure looms.&#xD;
+&#xD;
+-Know the problem exists, but afraid to risk solving it&#xD;
+More commonly, intelligent and observant people in an organization recognize that their current software development methods aren't working. They simply are afraid to risk trying something different to make the situation better. This is understandable. Trying new things requires courage and often involves taking a risk. And in our culture of quick wins and instant gratification, failure can be harmful -- or even fatal -- to your career.&#xD;
+&#xD;
+With the odds stacked against them, most people take the path of least resistance. This approach may preserve a career in the short term, but it only postpones and compounds the problems. If you wait too long, little problems become insurmountable. Ultimately there is no way to force people to be brave and take more risk, but ideas in this column and the associated forum might help you get people in your organization (including yourself) past the fear of failure.&#xD;
+&#xD;
+-Know a problem exists, willing to try to solve it, but misunderstand the problem to solve&#xD;
+Sometimes people know they have a problem and are willing to try to solve it, even if that means trying new things. But they try to solve the wrong problem. For instance, they try to solve a production problem, assuming (perhaps unconsciously) that developing software is like turning out products on an assembly line. It doesn't make sense to have folks on an assembly line diverge from the efficient order and method of assembly. Software is different because it is an emergent reality. In his presentation from XP2002, Agile Methodologies: Problems, Principles, and Practices (see Resources), Jim Highsmith describes the difference between optimizing and exploring in software. In software, we're often exploring new territory and doing things that haven't been done before. This makes software development an entirely different sort of problem that requires a different solution.&#xD;
+&#xD;
+If you try to "mechanize" or control the software development process too much, you'll lose control. I hope the upcoming articles in this column will help to articulate the software development problems you are trying solve.&#xD;
+&#xD;
+-Know the problem exists, willing to try to solve it, but constrained by the status quo&#xD;
+Finally, people might know there's a problem, are willing to solve it, understand the problem they're trying to solve, but are unable to act within their organizations. This is a sad and difficult -- but not necessarily impossible -- problem to overcome. Unfortunately, it requires much more courage than most people have. Sometimes you have to step on some toes to cause change. I know that's easier said than done, but if you're part of an organization with leadership that refuses to address problems jeopardizing the organization's health, you have a choice to make: you can go for broke and try to create change, or you can leave before the organization gets crushed under its own weight. This article and future ones in this column should give you some good arguments to help overcome resistance to new things in general -- or to XP in particular -- within your organization.&#xD;
+&#xD;
+One solution: Agile methods&#xD;
+In a way, the name "Extreme Programming" is unfortunate. Most people probably think of extreme sports -- or a Microsoft operating system -- when they hear about XP. The idea behind the name is that there are best practices for software development, such as writing unit tests and code reviews. Why not do them all the time? When you do, they morph into concepts like test-driven development and pair programming, which most people view as rather extreme. That's where the name came from. It has nothing to do with soda, bungee jumping, or Bill Gates.&#xD;
+&#xD;
+The XP values :&#xD;
+As we said in "XP distilled," XP prescribes a core set of values and practices that allow software developers to do what they do best: write code. XP eliminates the unnecessary artifacts of most heavyweight processes that distract from that goal by slowing down and draining the development staff (such as Gantt charts, status reports, multi-volume requirements documents, and so on). Kent Beck outlined the core values of XP in his book, Extreme Programming Explained: Embrace Change (see Resources). These values haven't really changed in the last year. I still summarize them this way:&#xD;
+&#xD;
+- Communication: Problems with projects often can be traced back to somebody not talking to somebody else about something important at some point. XP makes it almost impossible not to communicate.&#xD;
+&#xD;
+- Simplicity: XP proposes that you always do the simplest thing that could possibly work with regard to process and writing code. The way Kent puts it, "XP is making a bet. It is betting that it is better to do a simple thing today . . . than to do a more complicated thing today that may never be used anyway."&#xD;
+&#xD;
+- Feedback: Concrete feedback early and often from the customer, from the team, and from real end users gives you more opportunity to "steer" your efforts. Feedback keeps you on the road and out of the ditch.&#xD;
+&#xD;
+- Courage: Courage exists within the context of the other three values. They all support each other. It takes courage to trust that concrete feedback along the way is better than trying to know everything up front. It takes courage to talk to others on the team when that might expose some of your own ignorance. It takes courage to keep the system simple, deferring tomorrow's decisions until tomorrow. And without a simple system, constant communication to spread knowledge, and feedback to steer with, it's tough to be brave. &#xD;
+&#xD;
+These are the reasons I like to include XP into the project.</content>
+    <postId>9CC03A97-A905-498F-A50A-3589EE086B78</postId>
+    <pubDate>2002-10-10T00:00:00-04:00</pubDate>
+    <title>RE: Basic Concept of eXtreme Programming</title>
+</post>

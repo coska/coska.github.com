@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>부기흡</author>
+    <comments/>
+    <content>Just trying to organize next development items and what needs to be done. Let's discuss about this and task assignments at the next meeting.&lt;br&gt;&lt;br&gt;* Struts configurations (including ActionForm and Action class definitions)&lt;br&gt;* Database install/uninstall scripts&lt;br&gt;* Model objects&lt;br&gt;* Hibernate mapping files&lt;br&gt;* JUnit for Hibernate mapping test&lt;br&gt;* Ruby/Watir for UI driven test&lt;br&gt;* User manual&lt;br&gt;&lt;br&gt;Add on if I missed anything or if you have a different idea.</content>
+    <postId>88C092FA-0580-4F35-B88A-ED87C39BA382</postId>
+    <pubDate>2006-01-09T00:00:00-05:00</pubDate>
+    <title>Tasks</title>
+</post>

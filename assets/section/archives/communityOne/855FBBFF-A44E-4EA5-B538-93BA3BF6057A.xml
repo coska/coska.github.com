@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments/>
+    <content>You guys are alive on net...Good..&#xD;
+I understand Struts exists for web presentation framework. My question on DTO and DAO is beyond struts but all are necessary for common web application. My question is more like about when we use DTO and DAO, when we don't.&#xD;
+&#xD;
+When I display account information on web, I need to create, &#xD;
+account.jsp&#xD;
+accountForm&#xD;
+TellerAction &#xD;
+Those are only for web tier with struts. &#xD;
+In business tier, &#xD;
+We may create&#xD;
+AccountBO - account specific logic, called by TellerService&#xD;
+TellerService - generic banking logic&#xD;
+AccountDTO - entity style object to pass data to data access tier&#xD;
+&#xD;
+In DataAccess tier, &#xD;
+AccountDAO - include Connection, SQL execution&#xD;
+&#xD;
+Some application consists of 40% WEB, 20% business, 40% data access logic and some other has 30% WEB, 50 % business, 20 % data access logic. All situation is different by business domain. For future expansion, if we make extra business classes (AccountBO, AccountDTO, AccountDAO) on former case, is it reasonable approach?&#xD;
+&#xD;
+Another thought is to replace specific DTO classes with generic DTO class made of HashMap internally because DTO has only getter and setter methods and nothing else (same idea as DynaActionForm vs multiple Form classes)&#xD;
+Even DAO, we can make BaseDAO contains database connection, update, batch and query logic. This BaseDAO takes SQLDataSet from caller. &#xD;
+&#xD;
+class DataSet&#xD;
+- int no&#xD;
+- String statement&#xD;
+- HashMap hashMap&#xD;
+&#xD;
+This hashMap contains key-value of Account object. &#xD;
+int accountid&#xD;
+String type&#xD;
+double balance&#xD;
+The hashMap contains key-value list of those three info. Then BaseDAO reads this hashMap and set proper preparedStatement method dynamically and BaseDAO returns result in HashMap format. Caller to DAO - it could be TellerService or AccountBO - can read HashMap and pass object to web tier.&#xD;
+&#xD;
+By taking this approach, benefit is &#xD;
+1. No DTO creation replaced by HashMap&#xD;
+2. Reduce size of DAO - calling getConnection, releaseConnection, execute query, set and get value from result set. Some application only reading/updating database and display on web can directly call DAO from Action. I don't know why people try to apply strict fixed n-tier patterns to all business domain. It could be over-engineering I guess.&#xD;
+&#xD;
+Is there any other benefit to keep DTO while we can use hashMap?&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+</content>
+    <postId>855FBBFF-A44E-4EA5-B538-93BA3BF6057A</postId>
+    <pubDate>2003-11-21T00:00:00-05:00</pubDate>
+    <title>any other benefit to keep DTO </title>
+</post>

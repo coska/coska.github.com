@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>허현옥</author>
+    <comments>
+        <comment>
+            <author>김경환</author>
+            <date>2010-10-19T00:00:00-04:00</date>
+            <content>보니까 이건 한국 개발자들만의 문제가 아니라 안드로이드 구조적인 문제 같습니다. Tweetdeck의 경우도 무려 100여가지의 다른 안드로이드 버전에서 테스트를 했다고 하는군요. 개발 자체는 아이폰과 비교해서 힘들지 않지만 최종 프로덕트가 나오기위한 QA과정이 악몽이라는군요. 사실 구글이 직접 폰을 만들지 않으니 OS업그레이드도 문제고 폰 제조사에서 독자적으로 좀 바꾸기도 하고 하여간 이래저래 골치가 아프답니다. 머 그래도 스마트폰의 대중화의 선봉은 누가 뭐래도 안드로이드임에는 틀림없지만요.</content>
+        </comment>
+    </comments>
+    <content>지난 Android 세미나때 김경환씨가 지적한이야기를 한국 Daum에서 하고 있는거 같다는 느낌이..&#xD;
+&#xD;
+아래 링크를 보시면, 어감이 마치 Daum Mobile App은 갤러시S에만 최적화 되있는것처럼 보입니다.&#xD;
+&#xD;
+http://daummobile.tistory.com/212&#xD;
+&#xD;
+Android OS는 모든 개발환경 API를 다 따져봐도 모든 형태의 Mobile Phone에 맞힐수 있게 개발을 할수 있게 만들어놨는데... 이것이 갤럭시S 와 무슨 마케팅전략으로 저렇게 글을 써놓은건지 아니면 예전에 Cell Phone의 App을 개발하시던분들이 그때 그 생각만 가지고 특정 Hardware에 종속을 시켜서 App을 만든신건지 모르겠네요.&#xD;
+&#xD;
+만약 이런식으로 한국의 대기업들의 App이 나간다면 새로운 스마트폰 시장에서 한국이 똑똑한 머리를 가지고도 허접한 App들만 개발하는 오류를 범하지 않을까 싶네요...</content>
+    <postId>A5CA6B0D-79CC-4855-AC71-A85894A2B28F</postId>
+    <pubDate>2010-10-13T00:00:00-04:00</pubDate>
+    <title>한국의 안드로이드 App이 잘못된 길을 가고 있는걸까요?</title>
+</post>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments/>
+    <content>&#xD;
+많은 회사에서 EJB를 경험해 보게 됨으로서 이제야 그 한계를 인식하는 것 같습니다. 제가 보기에 EJB는 오래 가지 못할것 같습니다. 하지만 web application을 위한 공통적인 design set은 필요할 겁니다. Ed Roman은 회사내에서 Framework을 만드는 것은 오래 시간과 경비가 걸리는 일이라고 합니다. 동의합니다. 그러면 Big company의 framework을 살수도 있지만, 이것 역시 복잡하고, 배우는 데 시간이 많이 걸리고 더우기, 기능이 많을수록, performance가 떨어지는 문제가 있습니다. 더 심각한 문제는 그 회사의 IT가 Framework software 회사에 lock in되거나, 많이 그 framework을 포기하면 지금까지 했던 코드를 rewriting해야 하게 됩니다. &#xD;
+&#xD;
+J2EE도 EJB와 마찬가지로 복잡성과 performance문제로 사그러 질 확률이 높다고 봅니다. 적어도 2001년도에는 J2EE를 아는 것만으로도 수요가 높겠지만, J2EE를 현업에 적응시키는 회사가 많아질 내년도가 되면 여기에 대한 비판적인 의견이 많이 나올것으로 보입니다. &#xD;
+&#xD;
+이럴때 solution은 home based OO application과 J2EE, EJB의 중간정도의 복잡성과 기능을 가진 대안들이 향후 각광을 받지 않을까 조심스럽게 추측해 봅니다. &#xD;
+&#xD;
+그런 면에서 rojaware.wo.to에 소개된 light weight framework이 자리매김이 될것 같습니다. &#xD;
+</content>
+    <postId>D54CF462-C2D8-4F68-B990-167AABD5B37D</postId>
+    <pubDate>2001-10-12T00:00:00-04:00</pubDate>
+    <title>RE: Deciding whether EJB is appropriate</title>
+</post>

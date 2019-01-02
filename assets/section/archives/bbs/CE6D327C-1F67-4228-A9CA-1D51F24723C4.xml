@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>dslee28</author>
+    <comments>
+        <comment>
+            <author>duly0122</author>
+            <date>2011-10-25T00:00:00-04:00</date>
+            <content>DroidDraw 라는 Tool이 있는데 조금은 편리한 것 같네요 Open source이구요. 다른 Tool들도 많이 있는데, 저두 안써봐서 뭐라 들릴 말씀이 없네요. 아래에 가 보시면 비교해 놓은 자료가 있습니다.
+
+http://www.amlcode.com/2010/07/16/comparison-appinventor-rhomobile-phonegap-appcelerator-webview-and-aml/</content>
+        </comment>
+        <comment>
+            <author>cavecafe</author>
+            <date>2011-10-26T00:00:00-04:00</date>
+            <content>원하시는 답은 아닐 것 같습니다만, 
+저는 직접 XML 파일에 태그를 사용하는 걸 권합니다. 
+
+이래저래 오동작을 하는 것을 자꾸 보다보니까 구조도 
+깔끔히 정리할 겸 차라리 그냥 합니다.
+
+'피할 수 없다면 즐겨라' ;)
+
+</content>
+        </comment>
+        <comment>
+            <author>javajjang</author>
+            <date>2011-10-28T00:00:00-04:00</date>
+            <content>여러형태의 모양을 갖는 안드로이드 기반의 폰들을 지원하시려면 Layout을 사용하시는게 가장 좋을거 같습니다. 위에서 말씀하셨듯이 xml 기반으로 Layout을 만드시는게 좋구요. 저도 요즘 찾아보고 있긴 한데... 일러스트레이터가 폰용 디자인툴이 같이 있습니다. 그쪽에서 솔루션을 찾아보시는것도 괜찮을것 같네요.</content>
+        </comment>
+        <comment>
+            <author>mannerh</author>
+            <date>2011-10-31T00:00:00-04:00</date>
+            <content>안드로이드 처음할 때 보다 지금 많이 좋아진 것입니다. --;;
+그래도 많이 복잡합니다.  
+http://croute.me/341 를 참조해 보세요.. </content>
+        </comment>
+    </comments>
+    <content>&lt;p&gt;요즘에 모바일 태블렛을 이용해서 기존의 산업용 장비 - 저희는 물류 유통회사다 보니 바코드 스캐너가 그 첫번째 겠죠 - 를 대체하는 솔루션 개발을 시작했습니다.&lt;/p&gt;
+&lt;p&gt;기반은 안드로이드며 소프트웨어 스캐닝은 zxing라는 open source를 채택했습니다.&lt;/p&gt;
+&lt;p&gt;아직 android를 배우는 중이라 layout designer를 통한 gui 구현이 조금은 짜증스럽더라고요.&lt;/p&gt;
+&lt;p&gt;wyswyg rule 과는 아주 상관없는 layout desinger가 가끔 황당하게 하기도 하더라구요.. 안드로이드 gui 갈끔하게 디자인하는 좋은 방법 아시는분 조언 부탁드립니다.&lt;/p&gt;
+&lt;p&gt;아 그러고 eclipse에서 layout designer 바꾸고 나서 혹은 xml 수정하고 나서는 꼭 project-&amp;gt;clean을 눌러 주시길.. 이걸 모르고 있다 한동안 디버깅한다고 삽질했다는.. ㅋㅋ&lt;/p&gt;</content>
+    <postId>CE6D327C-1F67-4228-A9CA-1D51F24723C4</postId>
+    <pubDate>2011-10-24T00:00:00-04:00</pubDate>
+    <title>android layout designer 좀더 깔끔한 방법이 없을까요? </title>
+</post>

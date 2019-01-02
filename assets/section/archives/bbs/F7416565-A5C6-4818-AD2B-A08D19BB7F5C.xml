@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이동수</author>
+    <comments/>
+    <content>광고에서 나오는 이미지 비디오 등의 파일 공유 앱이더라고요. 오픈소스라서 소스까지 공개 되어 있어 금상첨화 라고나 할까. 그래서 소스를 다운 받아서 실행해 보기로 맘 먹었는데.. 소스 컨트롤이 git 이란 툴을 사용하더라고요.. 그래서 이것 저것 다운 받아서 readme에 나와 있는대로 실행 해 봤는데 안되더라고요.&lt;br&gt;여하튼 우여 곡절 끝에 다운 받아서 실행 해 보았습니다. 스크린샷은 그걸 캡쳐 한거구요.&lt;br&gt;방법은.&lt;br&gt;&lt;br&gt;우선 맥용 git을 인스톨 하십니다.&lt;br&gt;http://code.google.com/p/git-osx-installer/&lt;br&gt;그리고 터미날에서 git clone git://github.com/millenomi/mover-packaging.git&lt;br&gt;그러면 mover-packaging 이란 폴더가 하나 생겼을 겁니다. 우선 폴더로 이동하셔서&lt;br&gt;sh Edge 를 실행하시면 필요한 파일들을 리파지터리에서 다운 받을 겁니다.&lt;br&gt;그럼 파일 준비는 다 되셨고. xcode 프로젝트 파일을 더블 클릭 하시면 xcode가 실행 되실 겁니다. build and debug 버튼을 클릭하시면 컴파일 끝나고 시뮬레이터가 실행되면서 다음과 같은 스크린 샷을 얻으실 수 있습니다.&lt;br&gt;오픈소스라서 비슷한 유형의 앱에 관심이 있으시면 참고 될수 있는 프로젝트인것 같습니다.&lt;br&gt;&lt;br&gt;그럼 즐공 &lt;br&gt; </content>
+    <postId>F7416565-A5C6-4818-AD2B-A08D19BB7F5C</postId>
+    <pubDate>2010-03-09T00:00:00-05:00</pubDate>
+    <title>mover 프로젝트 github 에서 가져 와서 실행 시켜 보기</title>
+</post>

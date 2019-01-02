@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김성욱</author>
+    <comments>
+        <comment>
+            <author>김성욱</author>
+            <date>2010-11-22T00:00:00-05:00</date>
+            <content>&lt;pre&gt;&#xD;
+* The first condition of 'first &lt; second' auto-unbox, which is good&#xD;
+&#xD;
+* The second condition of 'first==second' is an identity comparison that checks an equality of instances, which would return nearly always false &#xD;
+&#xD;
+So, there are 2 ways to fix it. &#xD;
+&#xD;
+(1) return first &lt; second ? -1 : (first.equals(second) ? 0 : 1); &#xD;
+&#xD;
+(2) &#xD;
+public int compare(Integer first, Integer second) { &#xD;
+int f = first; &#xD;
+int s = second; &#xD;
+return f &lt; s ? -1 : (f == s ? 0 : 1); &#xD;
+} &#xD;
+&#xD;
+** I omitted a parameter validity check ('null-check' in this case) at the first line of method implementation.&#xD;
+&lt;/code&gt;</content>
+        </comment>
+    </comments>
+    <content>This is relatively easy though...&#xD;
+&#xD;
+&lt;font color=blue&gt;&lt;b&gt;What is the flaw at the below code, and can you fix it?&lt;/b&gt;&lt;/font&gt;&#xD;
+&#xD;
+Please note Integer is the type parameter (Java5) of the Comparator implementation, so you cannot really change the signature to compare(int, int).&#xD;
+&#xD;
+------------&#xD;
+&#xD;
+Comparator&lt;Integer&gt; naturalOrder = new Comparator&lt;Integer&gt;() {&#xD;
+&#xD;
+&amp;nbsp;&amp;nbsp;public int compare(Integer first, Integer second) {&#xD;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;return first &lt; second ? -1 : (first == second ? 0 : 1);&#xD;
+&amp;nbsp;&amp;nbsp;}&#xD;
+&#xD;
+}</content>
+    <postId>8301A3E3-3ECF-4BFF-A4F9-24439545BFCC</postId>
+    <pubDate>2010-11-12T00:00:00-05:00</pubDate>
+    <title>Java quiz - Auto-unboxing</title>
+</post>

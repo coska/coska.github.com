@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>나수환</author>
+    <comments>
+        <comment>
+            <author>김형태</author>
+            <date>2005-06-29T00:00:00-04:00</date>
+            <content>사상누각? ^^ 좀 더 설명하자면요, 왜 XML Web Service 같은 고상한 방법이 있는데 왜 소켓 프로그래밍을 해야 하냐는 의견(나수환 씨)이 있어서 XML Web Service 를 사용하는 백엔드를 사용하면 구현은 쉽지만 전용 Web Server 를 만들던지, IIS, WebSphere같은 Web Server를 백업 프로그램에 항상 달고 다녀야 한다는 얘기였습니다. 다른 의견있으시면 코멘트 부탁드립니다.</content>
+        </comment>
+        <comment>
+            <author>김형태</author>
+            <date>2005-06-29T00:00:00-04:00</date>
+            <content>쉽게 표현하자면, 소켓 프로그래밍은 구닥다리 방법이 아니라 Web Service보다 근본적인 방법이 되는 셈이죠. 결국 Web Server 도 소켓으로 구현되는 거니까요. 네트맨 팀에서는 다들 알고 계실 걸로 생각되지만... 노파심에서 부연 설명합니다.</content>
+        </comment>
+        <comment>
+            <author>김형태</author>
+            <date>2005-06-29T00:00:00-04:00</date>
+            <content>나수환씨가 부럽군요. &lt;br&gt;저는요, 이민와서 그 시간까지 일 안해 본 날을 손가락으로 꼽아야 할 것 같은데요. ^^</content>
+        </comment>
+        <comment>
+            <author>최봉준</author>
+            <date>2005-06-29T00:00:00-04:00</date>
+            <content>제가 참석했어야 되는데, 연락이 너무 늦게 와서 나수환님이 고생하신 것 같습니다. 구체적인 설계단계에 들어가면 이야기가 될 것 같긴합니다만, 제가 좀 무식해서리, 몇가지 불분명한 점이 있어서요.&lt;br&gt;1. Socket Interface라고 하시면 구현할 Network 클래스들의 API를 말씀하시는 건지?&lt;br&gt;2. 업데이트중 업로드/다운로드 방지 부분은 네트워크 파트라고만 하기는 힘들 것 같은데. 파일I/O에서 업데이트 실행 여부를 알려주고, 결과에 따라 네트웍부분에서 어떤 액션을 취해야하는 게 아닌지? 물론 네트파트에서 모두 처리할 수 있기는 합니다만.&lt;br&gt;</content>
+        </comment>
+        <comment>
+            <author>alexna</author>
+            <date>2005-06-29T00:00:00-04:00</date>
+            <content>예리한 .. 웨메, 금방 그예리함에 손가락 비네.. 만나 야기해야죠?..안그래유?</content>
+        </comment>
+        <comment>
+            <author>alexna</author>
+            <date>2005-06-29T00:00:00-04:00</date>
+            <content>참고로 예리는 우리 딸아이 이름이네요... 허참 쓰고 보니 그렇게 되네.. 나예리.</content>
+        </comment>
+        <comment>
+            <author>Kelly J Lee</author>
+            <date>2005-06-29T00:00:00-04:00</date>
+            <content>사상누각이라는 말 이런때 쓰이는게 아닌것 같은데요????</content>
+        </comment>
+        <comment>
+            <author>김형태</author>
+            <date>2005-06-29T00:00:00-04:00</date>
+            <content>맞습니다. 그날 그 부분에 대해서도 IO팀과 협력해서 해야 한다는 얘기가 나왔습니다. &lt;br&gt;그러나, 엄밀히 따지자면 네트맨 팀에서 할 일이라기 보다 IO팀에서 해야할 일 인 것 같습니다. 아마도 그날 얘기하면서 이상윤씨는 잘 알고 계시는 것으로 생각하고 있습니다(이상윤씨가 올린 글의 5번 항: [양방향 전송시 같은 파일의 정보변경시 어떻게 처리 할것인가?] 을 참고로 보시면 아실 듯). 아마도 나수환씨가 그날 정리하시면서 추가가 된 듯 합니다. ^^&lt;br&gt;</content>
+        </comment>
+        <comment>
+            <author>김형태</author>
+            <date>2005-06-29T00:00:00-04:00</date>
+            <content>네트맨 팀 처음 미팅하실 때 저도 참석하고 싶습니다.</content>
+        </comment>
+        <comment>
+            <author>최봉준</author>
+            <date>2005-06-29T00:00:00-04:00</date>
+            <content>김형태님 물론 당근 환영입니다. 성전환 수술은 조만간 제가 주선해드리도록 하겠습니다. 좀 안아프게 하는 데로 알아보죠. ^^</content>
+        </comment>
+        <comment>
+            <author>박진호</author>
+            <date>2005-06-30T00:00:00-04:00</date>
+            <content>전 남자인 김형태님이 더 좋은데..여자 되셔도 별로 안예쁠것 같은 예감이...-_-a</content>
+        </comment>
+    </comments>
+    <content>땜빵으로 File Gate의 모임에 이끌려가서 Network에서 이루워져야할 시항들을 들었다.&lt;br&gt;참여하는날이 장날이라고 전혀 이렇지 않는데 그날 따라 직장에 늦게까지 일을 하게되었다.&lt;br&gt;아마, 한국에서 이민온후 이렇게 늦게까지 근무했던 경험이 손가락으로 셈을 할 정도라고 기억한다.&lt;br&gt;도착하자 참여하신 모든분들이 막 자리를 뜨고 있던 순간이었다.&lt;br&gt;코에서는 음식냄새 혀에서는 빨랑 음식 담아달라고, 배에서는 꼬르르 거리고 전체적으로 허기에 구역질나는 기분 느끼며.. (개인적으로 너무 배고프면 구역질 현상이 나는데.이것 정상입니까?) &lt;br&gt;의사가 있으면 좋으련만, 최근 몇일전 부터 뒷골이 땡기는 현상까지 생겨 (문제가 많이 발생하고 있음 젊은나이에…쯔쯔.. 하지만 사주에 의하면&amp;nbsp;&amp;nbsp;벽에 똥칠할때까지 산다고하는데..) 뭔푸닥거리라도 해야하는지…&lt;br&gt;&lt;br&gt;다음은 Network 팀에서 발생될수 있는 모줄에 관한 사항입니다.&lt;br&gt;혹, 잘못 이해하고 있거나 전달사항의 설명이 부족하다고 느끼면 리플달아 주세요..&lt;br&gt;무조건 잘못했읍니다.. (뭘 잘못한지 모르고)&lt;br&gt;&lt;br&gt;1.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Socket Interface&lt;br&gt;2.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Multi Thread &lt;br&gt;3.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Stream Encryption&lt;br&gt;4.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Access Control 구현은 v2.0&lt;br&gt;&lt;br&gt;&lt;br&gt;다음은 Network팀과 관련하여 나온 여담의 내용및 &lt;br&gt;1.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;에러메세지 코드번호: 20000&lt;br&gt;2.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;코딩 가이드 &amp;#8211; 코멘트내용및 기입법&lt;br&gt;3.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;업데이트중 화일다운로드/업로드 방지기능&lt;br&gt;4.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;소켓통신과 네트웍 클래스&lt;br&gt;5.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;DCOM사용 &amp;#8211;의존도가 높고, 문제발생시 무자게 힘들다 하여 사용 회피하는것 좋다.&lt;br&gt;&lt;br&gt;사자성어 &amp;#8211; 사상누각 (沙上樓閣)&lt;br&gt;&lt;br&gt;왜? 오래된, 구닥다리 방법으로 네트&amp;#50939;을 구현해야하나? 한마디로 뼈대알면 다 응용이 가능하다.&lt;br&gt;&lt;br&gt;&lt;br&gt;위에 기입된 모쥴에대한 자세한 논의는 다시한번 소그룹 모임에서 충분히 논의가 될거라고 기대하면서..&lt;br&gt;&lt;br&gt;&lt;br&gt;</content>
+    <postId>FC9BB1B2-DC6D-4040-93B5-D42A54B97540</postId>
+    <pubDate>2005-06-28T00:00:00-04:00</pubDate>
+    <title>[ Network - 모임 정리 ]</title>
+</post>

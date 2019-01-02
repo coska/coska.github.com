@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>부기흡</author>
+    <comments/>
+    <content>If you are enthusiastic in software engineering, and interested in start practicing UML2, there is a tool available from Eclipse. &lt;br&gt;&lt;br&gt;At the moment it does not support a drawing tool (like Rose does) but its tree view style editing looks to be good enough for small to medium scale projects (in fact it may be more efficient in learning UML2 modeling). &lt;br&gt;&lt;br&gt;There is a nice tutorial too:&lt;br&gt;&lt;br&gt;http://dev.eclipse.org/viewcvs/indextools.cgi/%7Echeckout%7E/uml2-home/docs/articles/Getting_Started_with_UML2/article.html&lt;br&gt;&lt;br&gt;enjoy.</content>
+    <postId>69C999BD-851C-459A-92C3-B67AE33F426E</postId>
+    <pubDate>2005-07-15T00:00:00-04:00</pubDate>
+    <title>Free UML2 modeling tool</title>
+</post>

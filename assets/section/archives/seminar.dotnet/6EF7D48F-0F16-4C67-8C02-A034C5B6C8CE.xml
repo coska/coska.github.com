@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>허현옥</author>
+    <comments>
+        <comment>
+            <author>박재홍</author>
+            <date>2010-03-19T00:00:00-04:00</date>
+            <content>현재 현업에서는 Java를 쓰지않아서 익숙하지 않지만 Language 자체보다는 tool (Eclipse)을 직접 사용해서 간단한 프로그램(Hello world)을 edit - compile - debug - deploy 하는 과정을 보여 주시면 어떨까요?</content>
+        </comment>
+        <comment>
+            <author>김형태</author>
+            <date>2010-03-20T00:00:00-04:00</date>
+            <content>허거걱, 채찍? ^^ 자바 설치부터 하면 너무 시간이 짧으니까요. 지금 생각하신 게 좋은 방법인 것 같아요.</content>
+        </comment>
+        <comment>
+            <author>허현옥</author>
+            <date>2010-03-21T00:00:00-04:00</date>
+            <content>네 알겠습니다. ^^;; (Whipped again~)</content>
+        </comment>
+    </comments>
+    <content>Android 세미나를 맡은 허현옥입니다.&lt;br&gt;&lt;br&gt;현재 김형태회장님의 채찍을 맞으며(?) 열공중인데요. 세미나를 준비하는 과정에 미리 정리하고 넘어갔으면 하는게 있어서요.&lt;br&gt;&lt;br&gt;&lt;br&gt;이번 세미나는 아무래도 Android이기 때문에 Java를 기본으로 하신다고 보고 할려고 합니다. 만약에 Java에 약하신분들은 미리 공부를 하시는게 좋을듯합니다. 물론 요청이 많다면 Java설치부터 할 수도 있습니다.( 답글에 써주세요. 2~3분이상 요청하시면 간단히 자바 설치부터 세미나를 하겠습니다.)&lt;br&gt;&lt;br&gt;암튼 &lt;br&gt;첫 세미나는 주로 developer.android.com에 있는 아주 기본적인 샘플들을 위주로 얼마나 간단히 Android 프로그래밍을 시작하실수 있는지를 보여 드릴테구요.&lt;br&gt;&lt;br&gt;두번째 세미나는 developer.android.com에 있는 Note Pad Example과 약간 비슷한 예제를 가지고 할 것 같습니다. 제가 공부하면서 앞으로 자주 쓸만한 모든 기능들을 억지로(?) 집어 넣어놓은 Note Pad가 될 것 같네요. 예를 들면 일반 Note 기능+ GPS + Camera + email + sms 같이 가능한 최대한 여러가지 API를 써서 앞으로 Android 개발하는데 좋은 참고 자료가 될수있는 예제가 되게하려고 합니다.&lt;br&gt;&lt;br&gt;의견있으신분들은 답글 남겨주세요. 아무의견이나 다 받습니다.</content>
+    <postId>6EF7D48F-0F16-4C67-8C02-A034C5B6C8CE</postId>
+    <pubDate>2010-03-19T00:00:00-04:00</pubDate>
+    <title>Android 세미나 관련 공지사항</title>
+</post>

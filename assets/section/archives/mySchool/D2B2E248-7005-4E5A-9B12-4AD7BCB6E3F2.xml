@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>KB</author>
+    <comments/>
+    <content>&amp;gt;1. 박 =&amp;gt;태스크 부여제안,&lt;br&gt;&amp;gt;&amp;nbsp;&amp;nbsp; - 재무(총무)&lt;br&gt;&lt;br&gt;여기서 재무란 사전 미통보 미팅불참 벌금 관리를 예기함 :-)&lt;br&gt;&lt;br&gt;&amp;gt;&amp;nbsp;&amp;nbsp; 이슈 첫번&amp;#51760;: 사용자가 퇴사하면..사용자 전체 레코드 날려야 되나? (부 제안)&lt;br&gt;&lt;br&gt;제가 다른 UML을 여기 보여 봅니다. 미팅에서 재미있는 걸 발견 했길래.&lt;br&gt;&lt;br&gt;첫째, 사용자를 영구 보관하자는 의견이 있었는데, 이 경우, login을 방지하기 위하여 'active'를 더해 보았읍니다. 종업원이 퇴사를 하면 이것이 false가 되죠, 그러면 login이 불가능 해집니다.&lt;br&gt;&lt;br&gt;둘째, 위에 의하여 연관관계를 현재와 같이 유지 해도 되겠으나 (기술적으로는) 과연 그게 필요할지 혹은 스트링 컨설탄트 이름을 그냥 써도 무난할지는 고객과 의논해서 결정 하는게 좋을듯 합니다. 퍼포먼스가 이슈가 되지는 않을것 같으니까요.&lt;br&gt;&lt;br&gt;</content>
+    <postId>D2B2E248-7005-4E5A-9B12-4AD7BCB6E3F2</postId>
+    <pubDate>2005-12-17T00:00:00-05:00</pubDate>
+    <title>[re] OnLine Meeting on Dec 17</title>
+</post>

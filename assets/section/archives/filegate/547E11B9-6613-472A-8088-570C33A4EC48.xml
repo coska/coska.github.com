@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>부기흡</author>
+    <comments>
+        <comment>
+            <author>김형태</author>
+            <date>2005-09-05T00:00:00-04:00</date>
+            <content>잘 봤습니다. 처음에 제가 의도했던 것 보다 더 잘 설명해 주신 것 같습니다. ^^&lt;br&gt;&lt;br&gt;헌데, 한 가지 Configuration Data를 database에 저장할 일이 생길 수 있을지 모르겠네요. 설계상으로는 좋지만, 실제 db에 저장하는 상황이 생길 수 있는 가능성이 있는 곳은 Config 쪽 보다는 File IO 쪽이 더 가능성이 있을 것 같습니다. &lt;br&gt;&lt;br&gt;그러므로 IConfig 라는 interface 보다는 Common 쪽에 하나의 인터페이스(가령 이름을 IStorage or IFactory 로 한다면..) 로 뽑아서 필요한 사람들이 사용하게 제공해 주고, 또한 Config에서도 Common에 있는 IStorage 를 불러서 사용하는 쪽이 더 나을 듯 합니다. 단순히 제 생각입니다.</content>
+        </comment>
+    </comments>
+    <content>Ladies and Gentlemen,&lt;br&gt;&lt;br&gt;It's been a bit delayed than planned but I attached a design draft for your review.&lt;br&gt;&lt;br&gt;There are only a handful of fundamental classes in this draft so that you could catch it up easily at your leisure. However... Heads up - it will grow very fast as we continue to discover first classes such as Schedule, User, FileFilter, and etc.&lt;br&gt;&lt;br&gt;This review is planned to last for a week only and implementation will start based on feedback we might have got by then.&lt;br&gt;&lt;br&gt;Thanks and anticipating for your feedback. </content>
+    <postId>547E11B9-6613-472A-8088-570C33A4EC48</postId>
+    <pubDate>2005-08-30T00:00:00-04:00</pubDate>
+    <title>Request for Design Review - Configuration &amp; Common (Draft)</title>
+</post>

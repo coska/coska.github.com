@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>황성규</author>
+    <comments/>
+    <content>&lt;i&gt;ZDNet.com&lt;/i&gt;&#xD;
+&#xD;
+By Matthew Broersma&#xD;
+ZDNet (UK) &#xD;
+April 5, 2001 5:07 AM PT&#xD;
+&#xD;
+&lt;b&gt;&#xD;
+A wireless local area network platform is becoming a de facto standard in businesses, and its popularity could come at the expense of Bluetooth. &lt;/b&gt;&#xD;
+&#xD;
+IEEE 802.11b, as it is designated by the Institute of Electrical and Electronics Engineers (IEEE), will get a boost later this year when Microsoft (Nasdaq: MSFT) builds support for it into the new version of Windows. But Windows support is just a recognition of the increasing popularity of the standard, which lets laptop computers and other portable devices connect to a corporate LAN (local area network) without bothering with networking cables. &#xD;
+&#xD;
+802.11b has already been offered for some time by manufacturers such as Apple Computer (Nasdaq: AAPL), 3Com (Nasdaq: COMS), Lucent Technologies (NYSE: LU) and Dell (Nasdaq: DELL), and chip giant Intel (Nasdaq: INTC) last month added its support for 802.11b as a home networking standard. It had previously supported a competing wireless LAN technology called HomeRF for consumer use, but 802.11b's popularity in the workplace has caused prices to drop, bringing it into range of home users. &#xD;
+&#xD;
+Besides its use in homes--all Apple laptop computers are capable of connecting to Apple's 802.11b system--it has become prevalent enough in US corporations that some airports there now offer 802.11b wireless Internet links for business users. &#xD;
+&#xD;
+But the popularity of 802.11b in the US could limit the success of Bluetooth, a radio technology originally developed by Ericsson as a cable replacement technology for mobile phone accessories, but now expanded, in theory, to connect everything from PCs to refrigerators. &#xD;
+&#xD;
+One of Bluetooth's advantages is that it is simple to use--unlike a wireless LAN, it doesn't have to be configured, but simply connects automatically to any device in the area you tell it to. In the PC world, Bluetooth supporters envision built-in Bluetooth chips connecting handheld computers, desktops, laptops and peripherals. &#xD;
+&#xD;
+Some of those functions now look more likely to be carried out by wireless LANs, even in the home, according to experts. "The US doesn't look like it will be a huge Bluetooth supporter, because most of the wireless LANs, especially in the offices, are 802.11 at the moment," said industry analyst Carsten Schmidt of Forrester Research. &#xD;
+&#xD;
+Schmidt said that for many office functions Bluetooth isn't as appealing as a wireless LAN because it is slower and is optimised for a shorter range--within ten meters. &#xD;
+&#xD;
+A practical obstacle exists as well: Bluetooth and 802.11b use the same radio spectrum range, and not all the interference issues have been worked out, say experts. "Both operate in the same spectrum, and there are interference issues that have to be solved," said Mike Foley, Microsoft's wireless architect. &#xD;
+&#xD;
+Microsoft sees Bluetooth as having a limited role in the computing world. "802.11 was designed from the beginning to be a networking medium, and it fits nicely into the networking world," Foley said. "Bluetooth is focussed on cable replacement scenarios. If it limits its scope sufficiently, it could come up with a point-to-point single-target solution pretty soon. But for more general purposes, like connecting a PDA to a laptop to a cell phone, that will take more time." &#xD;
+&#xD;
+The success of 802.11 appears to relegate Bluetooth to more of a niche role than some boosters had originally hoped for, but supporters still see it carving out its own important role, particularly in Europe, where home networking hardly comes into the picture. &#xD;
+&#xD;
+For one thing, Bluetooth costs far less than wireless LAN, making it more appropriate for consumers. "Bluetooth is cheap," said Mike Bonello, Intel's business client marketing manager for Europe, the Middle-East and Asia. "It is less fully featured (than a wireless LAN), but the average home user doesn't care about those things. If you want to network a printer with wireless LAN you need a print server machine, but with Bluetooth, you just need a Bluetooth-enabled printer." &#xD;
+&#xD;
+He estimated that it might cost upwards of &amp;pound;200 to network two PCs with 802.11, whereas Bluetooth attachments could do the same job for about &amp;pound;50. Embedded Bluetooth chips could bring the cost down to &amp;pound;3 or less. &#xD;
+&#xD;
+Bonello also noted that the upcoming 802.11a standard will change the spectrum at which the platform operates, removing Bluetooth interference issues.&#xD;
+ &#xD;
+</content>
+    <postId>F79F0049-CCAA-41F9-8868-FECDF69CEB90</postId>
+    <pubDate>2001-04-05T00:00:00-04:00</pubDate>
+    <title>Bluetooth ambushed by a LAN mine</title>
+</post>

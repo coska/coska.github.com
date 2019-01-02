@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments/>
+    <content>내가 소속된 회사에서 지난 1년간 EJB를 바탕으로 IBM Websphere 3.02, Visual Age for Java 3.02그리고 AMS사의 jPylon EJB based framework으로 금융관련 프로그램을 만들었습니다. 우리 회사에서는 향후 진행되는 e-commerce project은 더이상 EJB로 하지 않고 IBM Business composer로 하기로 하고 현재 진행중입니다. 지난 3주동안 그 EJB based program에 stress test을 하면서 우리 회사직원들이 EJB based program의 performance와 concurrent management등에 문제점을 많이 발견하고 실망을 많이 했습니다. 우리 회사에서는 MQ-seriese, DB2, LDAP(ibm secureway directory)등을 사용하여 EJB를 business logic으로 JSP, Servlet등으로 환경이 구성되어 있었습니다. &#xD;
+debugging, performance, deploy, developing모든것이 복잡하고 &#xD;
+시간이 오래 소요되었습니다. 개발인원은 모두 6명정도 였습니다. 이제 우리 회사에서는 EJB의 문제점과 한계에 대하여 공감대가 이루어 졌고, 저의 의견은 이를 바탕으로 작성된 것입니다. &#xD;
+&#xD;
+IBM websphere가 BEA weblogic보다 성능면에서 user friendly system이라는 면에서 못한 것 같습니다. Websphere에서는 EJB 하단에 CORBA IIOP를 사용합니다. 그래서 object instantiation이 더 많지요. 어쨋든, EJB로 개발을 할 예정이면 BEA solution이 보다 나은 것 같습니다. 한국에서 EJB로 개발하고 있는 회사가 많습니까? 그럴 경우, architecture, designer들을 별도로 채용하나요? 이를 위한 3rd party 회사로 유명한 곳이 있나요. 아니면 모든것을 개발자들이 알아서 합니까? 한국에서의 ec는 어떤 개발 방법론을 주로 따르는지요? EJB project은 경험이 있는  전문 architecture, OO designer 가 정말 중요하다는 것을 지난 1년 느꼇습니다. 이런 문제를 한국기업에서는 어떻게 해결하는지 궁금합니다. &#xD;
+</content>
+    <postId>44191DC7-FCD8-4266-AD78-2F4820AE7D52</postId>
+    <pubDate>2001-04-20T00:00:00-04:00</pubDate>
+    <title>RE: ROUND3 Why we think of EJBs.</title>
+</post>

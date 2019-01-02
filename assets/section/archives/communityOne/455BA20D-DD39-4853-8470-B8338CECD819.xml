@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이계영</author>
+    <comments/>
+    <content>저는 Pet Store를 예를 들고 싶습니다.&#xD;
+썬의 Pet store는 많은 디자인 패턴을 쓰고 소프트웨어 엔지니어링측면 에서 볼때 훌륭한 프로젝트라고 봅니다.&#xD;
+&#xD;
+그런데 마이크로소프트가 디자인 패턴을 적게 쓰고 stored procedure도 사용해서 Dot Net Pet store 버전을 만들었습니다.&#xD;
+그리고 자바 버전에 비해 much fewer lines, better performance를 갖는다고 발표를 했지요.(물론 코딩 컨벤션에 따라 라인 수는 달라지는데 마이크로소프트는 public int getNumber() { return(this.number) } 식으로 한줄로 쓰는 꽁수(?)를 부렸지요)&#xD;
+&#xD;
+그리고 theserverside.com 사이트에 가면 Clinton Begin이라는 캐나다 프로그래머가 JPetStore라는 modified pet store를 만들었는데 여러 사람으로 부터 칭찬을 받고 있더군요. 라인수도 마이크로소프트랑 별로 차이도 나지 않고요.&#xD;
+&#xD;
+위의 예를 보면 디자인에 따라 얼마나 결과가 달라지는지를 쉽게 알수 있지요.&#xD;
+&#xD;
+GIGO(Garbage In Garbage Out) 라는 말도 있고 code reusability보다는 design reusability가 훨씬 경제성이 있으므로, 좋은 설계가 선행되어야 한다고 봅니다. 가끔 Gold In Garbage Out도 나오기는 하지만...&#xD;
+&#xD;
+하지만 아무리 좋은 설계도 개발자가 이해를 못하거나 기간내에 끝낼수 없다면...&#xD;
+한국에 있을때 C++를 사용하려고 했는데, 팀원들중 OOP를 이해하고 C++를 이해하는 사람이 한사람 밖에 없어서 결국 다른 방향을 찾았습니다.&#xD;
+&#xD;
+이부분은 기술적인 요소뿐만 아니라 인적자원 측면에서도 동시에 고려되어야 할 것 같습니다.&#xD;
+&#xD;
+My two cents on.....&#xD;
+&#xD;
+이성기 wrote:&#xD;
+&gt; 회사에서 일하면서 우리는 끊임없이 좋은 디자인과 개발결과물사이에서 갈등하게 됩니다. 잘된 디자인이라는 것은 무었일까요? 미래를 예측하기 힘들기 때문에 수정이 없는 애플리케이션은 없습니다. 다음 글은 이점에서 토론거리를 줍니다. 인용한 글에 대한 여러분의 경험과 의견을 듣고 싶군요. &#xD;
+</content>
+    <postId>455BA20D-DD39-4853-8470-B8338CECD819</postId>
+    <pubDate>2002-07-13T00:00:00-04:00</pubDate>
+    <title>RE: Good OO design 이란 무었일까요?</title>
+</post>

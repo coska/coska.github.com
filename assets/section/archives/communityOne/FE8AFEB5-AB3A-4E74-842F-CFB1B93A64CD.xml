@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김중수</author>
+    <comments>
+        <comment>
+            <author>jameslee</author>
+            <date>2002-03-18T00:00:00-05:00</date>
+            <content>보안 레벨도 확인해보세요(url과 쿠키)</content>
+        </comment>
+        <comment>
+            <author>황성규</author>
+            <date>2002-03-18T00:00:00-05:00</date>
+            <content>그렇다면 홈페이지에 있는 URL로 접속해 보세요.</content>
+        </comment>
+        <comment>
+            <author>황성규</author>
+            <date>2002-03-18T00:00:00-05:00</date>
+            <content>혹시 IE6.0사용하시는지 먼저 Check해보시구</content>
+        </comment>
+    </comments>
+    <content>황성규씨..&#xD;
+XP에서 Comm1와 접속하려고 하니 계속 Login만 Check하는군요.&#xD;
+아마 XP가 java를 지원하지 않는것 때문인것 같군요.&#xD;
+Java Virtual Machine을 Install후 재 접속해도 같은 현상입니다.&#xD;
+XP에서 Check 한번 해 보심이 어떠실지...&#xD;
+감사합니다.&#xD;
+&#xD;
+</content>
+    <postId>FE8AFEB5-AB3A-4E74-842F-CFB1B93A64CD</postId>
+    <pubDate>2002-03-18T00:00:00-05:00</pubDate>
+    <title>Win XP와 Comm1.wo.to와의 전쟁</title>
+</post>

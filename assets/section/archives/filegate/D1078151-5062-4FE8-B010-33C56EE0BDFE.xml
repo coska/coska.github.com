@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>윤영섭</author>
+    <comments>
+        <comment>
+            <author>박진호</author>
+            <date>2005-06-28T00:00:00-04:00</date>
+            <content>UI 팀장님 화이링~!!</content>
+        </comment>
+        <comment>
+            <author>김형태</author>
+            <date>2005-06-29T00:00:00-04:00</date>
+            <content>FileGate의 얼굴이니까 멋지게 한번 만들어 주시길 바래요. 수고. ^^</content>
+        </comment>
+        <comment>
+            <author>부기흡</author>
+            <date>2005-06-29T00:00:00-04:00</date>
+            <content>there was a posting regarding FileGate logo (from Jinho)</content>
+        </comment>
+        <comment>
+            <author>Kelly J Lee</author>
+            <date>2005-06-29T00:00:00-04:00</date>
+            <content>햐~~기대가 커요. 멋진 UI 기대합니다~~</content>
+        </comment>
+        <comment>
+            <author>김형태</author>
+            <date>2005-06-29T00:00:00-04:00</date>
+            <content>아이콘 모양이 스타게이트 SG1에서 사용하는 문 모양은 어떨지요? 길가다가 한번 생각이 나서...</content>
+        </comment>
+        <comment>
+            <author>Sonia</author>
+            <date>2005-06-29T00:00:00-04:00</date>
+            <content>우리 멋있게 한번 만들어 봐요.</content>
+        </comment>
+        <comment>
+            <author>박진호</author>
+            <date>2005-06-30T00:00:00-04:00</date>
+            <content>우리 UI 팀도 함 뭉쳐야죠? 언제 시간이 되시나요?</content>
+        </comment>
+    </comments>
+    <content>우선 늦게 글 올린점 사과드립니다. 밤새 컴퓨터를 다시세팅하느라.. OTL&lt;br&gt;&lt;br&gt;6월 27일 조장 미팅에서 UI파트에 대해 논의했던 부분들을 정리해봤습니다.&lt;br&gt;&lt;br&gt;[Namespace]&lt;br&gt;&amp;nbsp;&amp;nbsp;o Root Namespace -&amp;gt; FileGate&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 따라서 UI의 namespace는 FileGate.UI로 정해&amp;#51220;습니다.&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;FileGate.UI&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;|&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;하위에 각 component들로 구성(uicomp.dll)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;.&lt;br&gt;&lt;br&gt;&lt;br&gt;[User Interface]&lt;br&gt; - Configuration UI&lt;br&gt;&amp;nbsp;&amp;nbsp;o Schedule, Filter, File, Log..등의 탭으로 구성&lt;br&gt;&amp;nbsp;&amp;nbsp;o 각 탭마다 어떤 컨트롤이 어떻게 배치되어야하는지 효율적이고 최적화된 인터페이스 요망.&lt;br&gt;&lt;br&gt; * 그밖에 File I/O, Network등 모든파트와도 지속적인 조율이 필요함.&lt;br&gt;&lt;br&gt;&lt;br&gt;[Graphic]&lt;br&gt; - Installer Graphics&lt;br&gt;&amp;nbsp;&amp;nbsp;o FileGate가 인스톨되는동안 보여질 그래픽과 UI&lt;br&gt;&amp;nbsp;&amp;nbsp;o installer name : FGateUI.exe&lt;br&gt;&lt;br&gt; - Graphic Elements&lt;br&gt;&amp;nbsp;&amp;nbsp;o Animated Icon : FileGate가 실행되는동안 시스템트레이에 올라와있으며 각 이벤트 발생시 상황을 알려주는 애니메이션 효과&lt;br&gt;&amp;nbsp;&amp;nbsp;o Tray Icon name : FGateMon.exe&lt;br&gt;&lt;br&gt;&lt;br&gt;[Error Code]&lt;br&gt;&amp;nbsp;&amp;nbsp;o UI파트에 할당된 에러코드는 30000 ~ 39999번 입니다.&lt;br&gt;&amp;nbsp;&amp;nbsp;o 에러메세지에 cell번호도 적어놔야한다는 의견도 잠깐 나왔었읍니다만.. --a&lt;br&gt;&lt;br&gt;[기존 프로그램 참조]&lt;br&gt;&amp;nbsp;&amp;nbsp;o download.com에서 network backup software를 다운받아서 참조하면 좀더 구체적이고 많은 아이디어를 얻을 수 있을것임&lt;br&gt;&lt;br&gt;* 그래서 17개의 관련 프로그램을 다운받았습니다. 아직 깔아보지는 못했는데, 필요하시면 연락주세요.&lt;br&gt;&lt;br&gt;이상이 어제 논의 되었던 부분들인데, 제가 적는다고는 적었지만 부족한 부분들이 많아보입니다.&lt;br&gt;부족한부분들을 지적해주시면 좋겠습니다.&lt;br&gt; &lt;br&gt;그밖에 File Gate logo도 있어야할것 같습니다.&lt;br&gt;제가 시안을 이것저것 몇개 만들어보겠습니다. 혹시 로고나 그래픽 element들에 대해 좋은 의견이 있으시면 언제든지 알려주세요.&lt;br&gt;&lt;br&gt;</content>
+    <postId>D1078151-5062-4FE8-B010-33C56EE0BDFE</postId>
+    <pubDate>2005-06-28T00:00:00-04:00</pubDate>
+    <title>[UI - 아이디어 정리]</title>
+</post>

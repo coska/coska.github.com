@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>Kelly J Lee</author>
+    <comments>
+        <comment>
+            <author>김형태</author>
+            <date>2005-06-27T00:00:00-04:00</date>
+            <content>지난 토요일(6월 25일) 푹푹찌는 폭염에도 불구하고 참석하셔서 강의실을 뎁혀(^^) 주셨던 많은 분들께 감사드립니다. 그리고 훌륭한 강의실(365 한방병원)을 빌려주신 박경종 전 코스카 전 회장님께도 감사 말씀 드립니다.&lt;br&gt;</content>
+        </comment>
+        <comment>
+            <author>alexna</author>
+            <date>2005-06-27T00:00:00-04:00</date>
+            <content>나수환입니다. 참석을 못해죄송하며, 그리고, Networking 부분에 참여하고자 합니다. 이름 덧붙여 주세요..</content>
+        </comment>
+        <comment>
+            <author>오승준</author>
+            <date>2005-06-27T00:00:00-04:00</date>
+            <content>많은 분들 열성적으로 참여해주심에 힘이 납니다.&lt;br&gt;걱정말고 모여 처음기분으로 끝까~지.&lt;br&gt;&lt;br&gt;p.s.고진범씨가 아니고 고범진씨로 알고 있는데요..</content>
+        </comment>
+        <comment>
+            <author>최선두</author>
+            <date>2005-06-28T00:00:00-04:00</date>
+            <content>파일게이트 화이팅! 서기짱!</content>
+        </comment>
+    </comments>
+    <content>FILE GATE Meeting Note &lt;br&gt;&lt;br&gt;날짜: 2005년 6월 18일&lt;br&gt;&lt;br&gt;진행: 김 형태&lt;br&gt;&lt;br&gt;참석(이름순): 총 17명 참가&lt;br&gt;고 범진, 김 동욱, 김 형태, 박 나리, 박 윤희, 박 재홍, 박 진호&lt;br&gt;부 기흡, 양 재호, 오 승준, 윤 영섭, 이 상윤, 이 진경, 최 봉준&lt;br&gt;최 선두, 최 이경, 최 종구 &lt;br&gt;&lt;br&gt;&lt;br&gt;안건&lt;br&gt;&lt;br&gt;1. 기존 프로그램 DEMO 및 장단점 비교 분석 &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- Incrediback, synchro, ViceVersa, VVPro등 File Gate와 성격이 비슷&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;한 기존 프로그램들의 비교 분석. 김 형태씨의 데모 시연으로 진행 됨.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-기존 프로그램의 단점 요약&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; =NT service로 올라오지 않은데 따른 관리의 한계&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; =Memory 점유율 문제&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; =Network Backup시의 불완전성.&lt;br&gt;&lt;br&gt;2. 팀 프로젝트 진행에 따라 필요하게 될 Source Control Tool 선택건.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;VSS와 CVS 중 어떤걸 사용하게 될지 토의 중에 새로 나온 Clear Case에&amp;nbsp;&amp;nbsp; 대한 의견이 나와서 추후 게시판에 공고후 결정하기로 투표로 결정. (고 범진씨께서 자세히 조사해서 게시판에 게제하기로 하셨음)&lt;br&gt;&lt;br&gt;&lt;br&gt;3. 전체 일정/교육 계획에 대한 결정.&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-전체 개발 일정 : 교육 및 설계 1개월 + 개발 3개월 = 총 4개월&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;다른 생활과 병행하면 진행되어 간다는 File Gate의 성격상 확실한 일정을&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;예상하기에 어려움이 있지만 가이드라인으로서의 일정을 설정하자는 결정&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;하에 처음 1개월을 교육과 설계가 공동 진행의 기간, 실제 개발에 3개월을 &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;예정. 총 4개월의 일정을 잠정적으로 결정하나 테스팅과 다른 기반 문제들&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;을 고려하여 최대 6개월에서 1년을 예상.&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; -교육 일정: 1개월 or 5, 6회의 미팅을 통한 주제별 강의 - 자세한 일정 및 &lt;br&gt;&amp;nbsp;&amp;nbsp; 내용은 게시판에 올릴예정 (박 진호)&lt;br&gt;&lt;br&gt;4. 각 모듈별 팀장님 팀원 결정.&lt;br&gt;&amp;nbsp;&amp;nbsp; ** 팀장 독단의 진행이 아닌 팀원 상호간의 의견 절충 후에 진행될것임에 &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 의견 일치.&lt;br&gt;&lt;br&gt;프로젝트 고문 : 오 승준&lt;br&gt;설계 총괄 : 김 형태&lt;br&gt;설계 운영 : 김 동욱&lt;br&gt;&lt;br&gt;( 이름은 신청순)&lt;br&gt;&lt;br&gt; a. File I/O &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;팀장: 이 상윤 &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;팀원: 이 진경, 오 승준, 김 석&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Main Tasks: File Monitor (for NT Service), Rule based filter&lt;br&gt;&lt;br&gt; b. Networking &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;팀장: 최 봉준&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;팀원: 양 재호, 박 재홍, 최 선두, 나 수환&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Main Tasks: Socket Interface, Security Control, Stream Encryption&lt;br&gt;&lt;br&gt; c. UI&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;팀장: 윤 영섭&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;팀원: 박 진호, 고 범진, 최 이경, 조 복산&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Main Tasks: Configuration UI&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt; d. Config&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;팀장: 부 기흡&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;팀원: 박 윤희, 최 종구, 김 동욱, 박 나리,김 형태&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Main Tasks: Timer, Backup, Scheduler, Installer, XML&lt;br&gt;&lt;br&gt;&lt;br&gt;이상입니다. 혹시 빠진 사항이 있으면 덧글 달아주세요.&lt;br&gt;참가하신 분들께 감사드립니다.&lt;br&gt;File Gate 서기 이 진경 ^__^&lt;br&gt;&lt;br&gt;&lt;br&gt;</content>
+    <postId>8EA6EDDB-044A-4C22-8514-D445C31937CB</postId>
+    <pubDate>2005-06-27T00:00:00-04:00</pubDate>
+    <title>File Gate Meeting Note - Jun 18, 2005</title>
+</post>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김희경</author>
+    <comments/>
+    <content>아래의 최종구선생님 말씀대로 해도 원래는 되야 하는데요. 메신저자체가 윈도우즈 실행시 자동실행, 알림으로 되어 있으면 Admistrative tool에서 변경한게 안 되는 것 같더라구요. 이 component 바꾸는 것은 Windows messenger와는 관계가 없다고 되어 있는데 그 때문인지...&lt;br&gt;&lt;br&gt;그러니 둘다 해보세요. xp의 경우&lt;br&gt;start-&amp;gt;setting-&amp;gt;control panel-&amp;gt;Performance and mainteance-&amp;gt;Admistrative tool-&amp;gt;service을 열면 messenger가 있거든요. 그걸 두번 누르면 Properties가 열리는데 그중 가운데 부분의 startup을 펼치면 automatic, manual, disable이 있어요. 그중 disable을 선택하고 ok합니다.&lt;br&gt;&lt;br&gt;2000의 경우는 start-&amp;gt;setting-&amp;gt;control panel-&amp;gt;Admistrative tool-&amp;gt;service을 열면 messenger가 나오고 위랑 같습니다.&lt;br&gt;&lt;br&gt;또 아래 올려놓은 메신저메뉴에서 알림을 다 제거하는 방법도 해놓으시고..&lt;br&gt;&lt;br&gt;98의 경우는 Administrative tool을 찾을 수 없으므로 설정하기가 어렵겠구요&lt;br&gt;메신저 메뉴에서(아래에 방법 있어요) 알림을 다 선택하지 않는 방법을 해보세요&lt;br&gt;&lt;br&gt;&amp;gt;요즈음 광고성 messanger service pop up window가 계속 뜨고 있어 짜증나게 합니다.&lt;br&gt;&amp;gt;없애는 방법이 없나요 ?&amp;nbsp;&amp;nbsp;&lt;br&gt;</content>
+    <postId>CE01FBCB-4C05-4D98-9898-168D5E5F372B</postId>
+    <pubDate>2003-02-05T00:00:00-05:00</pubDate>
+    <title>[re] Messanger service 광고 pop up window 없애는 밥법 ?</title>
+</post>

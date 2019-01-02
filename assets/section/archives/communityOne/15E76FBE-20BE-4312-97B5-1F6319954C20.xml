@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>황성규</author>
+    <comments/>
+    <content>회원간의 의사소통수단은 이메일, 체팅 그리고 쪽지보내기입니다.&#xD;
+위 메뉴를 보시면 Send Memo 라는 링크가 있습니다. 여길 클릭하시면 Send Memo라는 작은 창이 뜹니다. 이때 반드시 메모를 받을 사람의 Member ID를 알아야합니다.&#xD;
+&#xD;
+더 쉽게 쪽지를 보낼수 있는 방법은 멤버리스트의 멤버이름앞의 send를 누르시면 됩니다.&#xD;
+&#xD;
+쪽지는 받는 상대방이 로그인 중이면 다음번 request를 서버로 보낼때 서버로부터 response와 함께 쪽지를 받게 됩니다. 만일 상대방이 로그인중이 아니면 다음번에 로그인할때 그 쪽지를 받게 됩니다.</content>
+    <postId>15E76FBE-20BE-4312-97B5-1F6319954C20</postId>
+    <pubDate>2001-03-28T00:00:00-05:00</pubDate>
+    <title>쪽지보내기(Send Memo)사용방법</title>
+</post>

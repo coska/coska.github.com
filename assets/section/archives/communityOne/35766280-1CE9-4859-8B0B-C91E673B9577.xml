@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김성욱</author>
+    <comments/>
+    <content>This is the question I had before, and still wondering what it'd be like. Please comment your idea. Thanks.&#xD;
+&#xD;
+My Answer:&#xD;
+웹개발에 있어서 컨텍스트란 ServletContext를 의미합니다. 즉, 하나의 JVM 상에서 존재하는 하나의 어플리케이션은 단일하게 존재하는 ServletContext Instance를 가지고 있으며, 이 어플리케이션 내에서는 어떠한 jsp나 servlet도 이 공통 오브젝트를 공유함으로써 동일한 정보 교환이 가능합니다.</content>
+    <postId>35766280-1CE9-4859-8B0B-C91E673B9577</postId>
+    <pubDate>2004-03-05T00:00:00-05:00</pubDate>
+    <title>What's CONTEXT's definition in web environment?</title>
+</post>

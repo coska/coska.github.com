@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>S. Suh Lee</author>
+    <comments>
+        <comment>
+            <author>허현옥</author>
+            <date>2006-03-14T00:00:00-05:00</date>
+            <content>context-path 에 아마도 path 가 path="Coska_MySchool"로 되있을 지 모르겠네요..그렇게 되있으면... path="" 로 바꾸시면 됩니다.</content>
+        </comment>
+    </comments>
+    <content>Hi, &lt;br&gt;&lt;br&gt;I have following problem running project Coska_MySchool in eclipse.&lt;br&gt;&lt;br&gt;1. the files under WebContents folder are not copied to .deployables folder. so when I run the project I get http error 404&lt;br&gt;&lt;br&gt;2. I manually copied the files to .deployables, and run the project; the login page is loaded OK, but when I click "login" link, the link points, IE tries to load page http://localhost:8080/search/search.do and the same 404 occurs.&lt;br&gt;&lt;br&gt;3. The same problem occurs when it deployed to local tomcat server. &lt;br&gt;&lt;br&gt;It seems like the &amp;lt;context-path&amp;gt; is not set, and Tomcat cannot find the files correctly. Could anyone help me wtih this? &lt;br&gt;&lt;br&gt;I need to run this to test ruby/watir scripts.&lt;br&gt;&lt;br&gt;Thanks,&lt;br&gt; </content>
+    <postId>B8E5767D-BE68-48FD-AE4B-A9194CD98098</postId>
+    <pubDate>2006-03-13T00:00:00-05:00</pubDate>
+    <title>problem running Coska_MySchool project</title>
+</post>

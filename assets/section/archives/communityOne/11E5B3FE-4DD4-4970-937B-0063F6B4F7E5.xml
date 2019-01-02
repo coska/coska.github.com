@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments/>
+    <content>&#xD;
+I found an interesting article on useless EJB. &#xD;
+He suggest not to use EJB and JSP/Servlet based J2EE is better to most case projects.&#xD;
+&#xD;
+http://www.sys-con.com/java/article.cfm?id=1192</content>
+    <postId>11E5B3FE-4DD4-4970-937B-0063F6B4F7E5</postId>
+    <pubDate>2001-11-05T00:00:00-05:00</pubDate>
+    <title>J2EE without EJB?</title>
+</post>

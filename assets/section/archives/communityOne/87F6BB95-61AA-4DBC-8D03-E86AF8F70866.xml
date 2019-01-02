@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments/>
+    <content> &#xD;
+Memo I did draw class diagram for mortgage quote by referring J2EE connector interface. &#xD;
+&#xD;
+Please take a loot at it and &#xD;
+give any comments to me. &#xD;
+&#xD;
+Location: &#xD;
+ftp comm1.dyndns.org &#xD;
+userid: comm1 &#xD;
+passwd: jjaavvaa &#xD;
+&#xD;
+... after connected.. &#xD;
+&#xD;
+cd okid &#xD;
+get xmlmapper.mdl &#xD;
+&#xD;
+It includes 2 sequential diagrams under ResourceManager package. &#xD;
+those two diagrams might be helpful to get the picture. &#xD;
+&#xD;
+Thank you! &#xD;
+ &#xD;
+</content>
+    <postId>87F6BB95-61AA-4DBC-8D03-E86AF8F70866</postId>
+    <pubDate>2001-11-30T00:00:00-05:00</pubDate>
+    <title>Design Session(Kang Yoon Jung Diagram)</title>
+</post>

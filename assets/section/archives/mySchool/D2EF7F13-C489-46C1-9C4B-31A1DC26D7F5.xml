@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>부기흡</author>
+    <comments>
+        <comment>
+            <author>허현옥</author>
+            <date>2006-03-29T00:00:00-05:00</date>
+            <content>If you think you are pretty much done, I will copy your Model project to Coska_MySchool project. I am still struggling with Action and Manager classes but, I think I can start combine Model and Manager classes at this weekend. If I have a problem with Model, I will let you know. Thank you for you all the hard works.</content>
+        </comment>
+    </comments>
+    <content>CourseType is implemented as a class and integrated with Course.&lt;br&gt;A JUnit for it has been created and tested.&lt;br&gt;&lt;br&gt;I think I am pretty much done with the model now.&lt;br&gt;Will go back and keep relevant documents up to date.&lt;br&gt;&lt;br&gt;Let me know if there is anything that is not working during UI integration.&lt;br&gt;&lt;br&gt;Thanks.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content>
+    <postId>D2EF7F13-C489-46C1-9C4B-31A1DC26D7F5</postId>
+    <pubDate>2006-03-29T00:00:00-05:00</pubDate>
+    <title>CourseType completed</title>
+</post>

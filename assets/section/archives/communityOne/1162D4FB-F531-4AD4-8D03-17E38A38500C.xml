@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments/>
+    <content>http://webhome.idirect.com/~scottl/java/ejb/&#xD;
+에 모든 자료를 올려놓고 있습니다. 여러분이 한 숙제중에서 견본이 될만한 것들도 여기에서 찾을수 있습니다. 따라서 &#xD;
+위의 링크를 bookmark해 놓으면 좋겠지요. &#xD;
+&#xD;
+---- 지난번 글 --------&#xD;
+&#xD;
+지금 부터 숙제할때 사용할 기본 데이타를 여기에 저장하고 &#xD;
+있습니다. &#xD;
+http://webhome.idirect.com/~scottl/java/ejb/&#xD;
+에 가면 ejbdb.jar가 있습니다. &#xD;
+이것을 download하여 푼다음 (jar -xvf ejbdb.jar)&#xD;
+현재의 콤퓨터를 db2admin/db2admin으로 다시 login하여&#xD;
+dos prompt에서 &#xD;
+createbank.bat&#xD;
+loadbank.bat&#xD;
+listbank.bat&#xD;
+를 수행하면 자동적으로 현재의 DB2에 EJBBANK라는 database를 설치합니다. &#xD;
+</content>
+    <postId>1162D4FB-F531-4AD4-8D03-17E38A38500C</postId>
+    <pubDate>2001-06-19T00:00:00-04:00</pubDate>
+    <title>이번수업에 필요한 자료가 있는 곳 </title>
+</post>

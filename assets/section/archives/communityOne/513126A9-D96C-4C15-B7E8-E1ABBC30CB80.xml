@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이경록</author>
+    <comments/>
+    <content>error message를 잘 보면 문제의 원인과 해결방안을 찾아볼 수 있다는 원칙을 다시한번 확인했습니다..&#xD;
+&#xD;
+VAJ3.0에서 제공되는 project resources중에 JFC class libraries가 있습니다. 말그대로 java foundation classes(swing관련)죠. com.sun.java.swing.plaf.*등등이 들어있는...&#xD;
+혹시나 해서 jar file을 만들때 이놈을 몽땅 같이 포함해서 export하니까(덕분에 jar file이 무지 커졌지만, 따로 WAS classpath에다 import해야죠 이제),  되는군요....&#xD;
+아직 JFC를 사용해본 경험이 없어 뭐라 얘기할 수 없지만, 이거 WAS3.0.2에 기본적으로 포함되는 components가 아닌가봐요..&#xD;
+해결해서 기쁘긴 하지만....&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+이경록 wrote:&#xD;
+&gt; IBM의 Online Banking Demo(http://www7.software.ibm.com/vad.nsf/data/Document2345?OpenDocument&amp;p=1)를 따라, VAJ의 WTE에서 성공적으로 test를 수행하고, BankingEJBs.jar로(deployed jar)로  export했습니다. &#xD;
+&gt; &#xD;
+&gt; 다음단계로 WAS(3.0.2)에서 test하기위하여 &#xD;
+&gt; WAS Admin Console에서 Default Container에 Enterprise Bean을 추가하려고 VAJ에서 작성한 BankingEJBs.jar 화일을 선택했더니... &#xD;
+&gt; 화일을 open하지 못하고 아래와 같은 error가 납니다. &#xD;
+&gt; NoClassDefFoundError로 보아서는 file을 못찾는 것 같은데, class path도 맞고, 다른 jar file, 즉, WAS 자체 EJBSamples의 ejb(예, Hello.jar)는 잘 되고 있습니다. &#xD;
+&gt; &#xD;
+&gt; 혹시 경험있으시면 도움 부탁드립니다. &#xD;
+&gt; &#xD;
+&gt; &#xD;
+&gt; &#xD;
+&gt; Exception: &#xD;
+&gt; java.lang.NoClassDefFoundError &#xD;
+&gt; &#xD;
+&gt; com.ibm.ejs.sm.exception.OpException: java.lang.NoClassDefFoundError &#xD;
+&gt; &#xD;
+&gt; &#xD;
+&gt; -------- &#xD;
+&gt; com.ibm.ejs.sm.client.ClientException: Error while obtaining files &#xD;
+&gt; &#xD;
+&gt; at com.ibm.ejs.sm.client.ui.fs.NodeFileSystemView.getFiles(Compiled Code) &#xD;
+&gt; &#xD;
+&gt; at com.sun.java.swing.plaf.basic.BasicDirectoryModel$LoadFilesThread.run(Compiled Code)</content>
+    <postId>513126A9-D96C-4C15-B7E8-E1ABBC30CB80</postId>
+    <pubDate>2001-03-16T00:00:00-05:00</pubDate>
+    <title>역시 기본 원칙이...</title>
+</post>

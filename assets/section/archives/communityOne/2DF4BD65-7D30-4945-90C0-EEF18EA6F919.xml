@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>Site Admin</author>
+    <comments/>
+    <content>안녕하십니까?&#xD;
+&#xD;
+이제부터 회원들끼리 쪽지 보내기(Send Memo)를 이용해 간단한 메모를 주고 받을수 있습니다.&#xD;
+화면위에 Send memo라는 link을 눌러 메모를 보낼수 있습니다. 이때 받는사람의 아이디를 알아야 합니다. &#xD;
+&#xD;
+더 쉬운 방법은 Member list를 보고 memo link를 누르시면 됩니다. Member list에는 현재 누가 접속중인지 나타납니다. &#xD;
+&#xD;
+아시겠지만 메모는 실시간으로 전달되는것이 아닙니다. 해당 회원이 다음번 request를 커뮤니티원에 보낼때 전달됩니다. 상대방이 접속중이 아닌경우 메모를 보내면 다음 로그인시에 메모가 전달 됩니다.&#xD;
+&#xD;
+아직 테스트가 부족한 관계로 문제가 있을수 있습니다.&#xD;
+혹시 문제점이 있으면 제게 쪽지를 보내주세요.&#xD;
+&#xD;
+싸이트 운영자 황성규드림.&#xD;
+</content>
+    <postId>2DF4BD65-7D30-4945-90C0-EEF18EA6F919</postId>
+    <pubDate>2001-03-19T00:00:00-05:00</pubDate>
+    <title>Send Memo(쪽지 보내기) 서비스를 오픈합니다.</title>
+</post>

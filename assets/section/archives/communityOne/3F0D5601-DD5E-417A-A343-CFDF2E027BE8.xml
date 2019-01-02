@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments>
+        <comment>
+            <author>이성기</author>
+            <date>2003-04-09T00:00:00-04:00</date>
+            <content>강윤정씨의 도움으로 executeBatch()를 사용해서 해결하였음. 70% faster.</content>
+        </comment>
+    </comments>
+    <content>database의 테이블들을 업데이트하는 프로그램이 있습니다. &#xD;
+한번 코넥션을 가져와서 insert-update등을 여러 레코드수행하여야 하는데, 바람직한 최대양이 있을까요?&#xD;
+&#xD;
+현재 내가 하는 프로그램에서 한번 서브렛 연결에서  2000 건의 업데이트를 해야 합니다. 어떨때는 750000 건의 시퀄을 수행해야 하는데, 이거 데이타베이스에 부담을 덜주면서 완료하는 좋은 방법이 없을까요?&#xD;
+&#xD;
+More detail in English. &#xD;
+I made a DBAccessor providing DB connection pool, general query / update method . For example this DBAccessor class has methods&#xD;
+- Connection connect()&#xD;
+- disconnect()&#xD;
+- Vector query(SQLDataSet)&#xD;
+- int update(Object)&#xD;
+&#xD;
+SQLDataSet as entity class has two attributes&#xD;
+- String statement ( sql statement )&#xD;
+- Hashtable hashtable (container for index and values for input data)&#xD;
+&#xD;
+In business logic class, for example, RegistrationDB extends DBAccessor can have 'execute()'&#xD;
+- execute()&#xD;
+  Hashtable hash = new Hashtable(10);&#xD;
+  Hash.put("1", "12345");&#xD;
+  Hash.put("2", "Ontario");&#xD;
+  Hash.put("3", "A");&#xD;
+  &#xD;
+  SQLDataSet ds = new SQLDataSet(SELECT_VIN, hash);&#xD;
+  Vector v = new Vector(); &#xD;
+  v.add(ds); // ==&gt; 여기서 수 많은 레코드를 추가할수 있음...&#xD;
+  int row = update(v);&#xD;
+  System.out.println(row + " is updated");&#xD;
+&#xD;
+In another SQLConstant interface has&#xD;
+public static final String SELECT_VIN="insert into DEALER values (?, ?, ?)";&#xD;
+&#xD;
+In 'update(Object o)' method has transaction management code such as 'commit()' and 'rollback()'. It obtains DBconnection and execute 'executeUpdate()' method in Vector looping.&#xD;
+&#xD;
+So, if vector has 1000 elements, it will executeUpdate() by 1000 times. &#xD;
+I don't know if this is optimal looping in DBA perspective.&#xD;
+  &#xD;
+&#xD;
+</content>
+    <postId>3F0D5601-DD5E-417A-A343-CFDF2E027BE8</postId>
+    <pubDate>2003-01-31T00:00:00-05:00</pubDate>
+    <title>database sql size ?</title>
+</post>

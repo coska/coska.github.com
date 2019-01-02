@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments/>
+    <content>1. 목적, &#xD;
+-  J2EE에 대한 이해를 높이고, 비판적인 시각으로 응용할 힘을 가지게 한다. &#xD;
+-  실제 금융또는 정부기관에서 이루어 질수 있는 규모있는 프로젝트에 적응할 수 있는 능력을 키운다. &#xD;
+-  Enterprise web application 디자인 실력을 키운다. &#xD;
+&#xD;
+2. 질문..&#xD;
+-  어느정도까지 user requirement를 추상화 할수 있나?&#xD;
+-  J2EE를 어느정도까지 응용할 것인가?&#xD;
+-  결과로서의 applciation의 복잡성에 대한 기준..&#xD;
+&#xD;
+이것은 제가 생각하고 있는 자바세미나의 향후 세미나 주제 모음입니다. Loan application을 project으로 정하여 다음 기술들을 하나씩 공부하고 동시에 application에 응용하여, 3개월뒤에는 &#xD;
+다음 기술들에 대하여 경험을 가지게 되고 아울러 E-commerce project경험도 생기게 됩니다. &#xD;
+이 Project에 토픽을 선정하여 본인이 코딩, 발표등 개발자로서 관심이 있는 분은 여기에 이름을 적어주세요. 이름을 안적은 분은 청강자로 하겠습니다. &#xD;
+이름 &#xD;
+----&#xD;
+이성기 &#xD;
+이인석 &#xD;
+이홍식&#xD;
+최익준 &#xD;
+황성규 &#xD;
+강윤정&#xD;
+&#xD;
+&#xD;
+가상주제들..&#xD;
+===============&#xD;
+overview - application architecture&#xD;
+overview - infrastructure architecture&#xD;
+http://www.javaworld.com/javaworld/jw-12-2000/jw-1201-weblogic.html?&#xD;
+&#xD;
+공부주제.&#xD;
+-------&#xD;
+1. Legacy communication - MQ and flat file conversion with XML http://www7.software.ibm.com/vad.nsf/data/document4379?OpenDocument&amp;p=1&amp;BCT=1&amp;Footer=&#xD;
+&#xD;
+2. Security &#xD;
+3. Mail&#xD;
+4. Transaction&#xD;
+5. System Management&#xD;
+6. Report&#xD;
+7. Business Rule&#xD;
+8. Swing UI&#xD;
+9. SOAP&#xD;
+10. WAP&#xD;
+11. Printing&#xD;
+</content>
+    <postId>900A94F9-957B-4D57-BF15-CE026392F727</postId>
+    <pubDate>2001-11-05T00:00:00-05:00</pubDate>
+    <title>mini J2EE를 하기위한 질문들...</title>
+</post>

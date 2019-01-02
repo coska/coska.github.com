@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>부기흡</author>
+    <comments/>
+    <content>Previously we discussed that the "consultant" field of this table would be a foreign key to a row in the User table that is used for authentication and authorization purpose.&lt;br&gt;&lt;br&gt;It looked good at that time but now I realize that there would be a flaw in that theory. The User table reflects only the current users and not the ex-users of the system.&lt;br&gt;&lt;br&gt;Imagine the case that a user quit and removed from User. The value in the "consultant" field will become obsolete and this will break the system integrity.&lt;br&gt;&lt;br&gt;I suggest to change the data type of "consultant" to varchar containing consultant's full name. Of course this name would come from the User table. Consequently there will be no physical links between User and ConsultingHistory.</content>
+    <postId>0D991EFE-9FE8-4D1C-AF83-08B8F6F229C6</postId>
+    <pubDate>2005-12-16T00:00:00-05:00</pubDate>
+    <title>Second thought on ConsultingHistory</title>
+</post>

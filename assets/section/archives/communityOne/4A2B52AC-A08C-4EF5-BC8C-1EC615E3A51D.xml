@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>황성규</author>
+    <comments>
+        <comment>
+            <author>황성규</author>
+            <date>2004-03-03T00:00:00-05:00</date>
+            <content>글 작성자만 화일을 하나만 첨부할수 있는데요, 글 작성후 "Admin"버튼을 눌러서 화일을 나중에 첨부합니다.</content>
+        </comment>
+    </comments>
+    <content>&lt;pre&gt;&#xD;
+  public int insertAttachment(String forumId, String articleId,&#xD;
+    String fileName, FileUpload fileUp) {&#xD;
+&#xD;
+    DBConnectionManager connMgr = DBConnectionManager.getInstance();&#xD;
+    Connection conn = connMgr.getConnection("comm1");&#xD;
+    int result;&#xD;
+    int fileSize = 0;&#xD;
+&#xD;
+    try {&#xD;
+      conn.setAutoCommit(false);&#xD;
+&#xD;
+      String sql_stmt =&#xD;
+        "insert into attachment (forum_id, article_id, file_name, file_data) " +&#xD;
+        "values (?, ?, ?, empty_blob())";&#xD;
+&#xD;
+      PreparedStatement pstmt = conn.prepareStatement(sql_stmt);&#xD;
+      pstmt.setString(1, forumId);&#xD;
+      pstmt.setString(2, articleId);&#xD;
+      pstmt.setString(3, fileName);&#xD;
+&#xD;
+      result = pstmt.executeUpdate();&#xD;
+&#xD;
+      pstmt.close();&#xD;
+&#xD;
+      Statement stmt = conn.createStatement();&#xD;
+      ResultSet rs = stmt.executeQuery(&#xD;
+        "select file_data from attachment where forum_id = '" + forumId +&#xD;
+        "' and article_id = '" + articleId + "' FOR UPDATE");&#xD;
+&#xD;
+      if (rs.next()) {&#xD;
+        Blob blob = rs.getBlob(1);&#xD;
+        OutputStream blobWriter = ((oracle.sql.BLOB)blob).getBinaryOutputStream();&#xD;
+&#xD;
+        try {&#xD;
+//          blobWriter.write(article.getBody());&#xD;
+          fileSize = fileUp.writeFile(blobWriter);&#xD;
+          blobWriter.close();&#xD;
+        } catch (IOException e) {}&#xD;
+      }&#xD;
+&#xD;
+      conn.commit();&#xD;
+&#xD;
+      PreparedStatement pstmt2 = conn.prepareStatement(&#xD;
+        "update attachment set file_size=?, no_download=0 " +&#xD;
+        "where forum_id = ? and article_id = ? ");&#xD;
+&#xD;
+      pstmt2.setInt(1, fileSize);&#xD;
+      pstmt2.setString(2, forumId);&#xD;
+      pstmt2.setString(3, articleId);&#xD;
+      result = pstmt2.executeUpdate();&#xD;
+&#xD;
+      pstmt2.close();&#xD;
+&#xD;
+    } catch (SQLException e) {&#xD;
+      System.out.println(e);&#xD;
+      errorMsg = e.getMessage();&#xD;
+    } finally {&#xD;
+      try {&#xD;
+        conn.setAutoCommit(true);&#xD;
+      } catch (SQLException e) {}&#xD;
+      connMgr.freeConnection(conn);&#xD;
+    }&#xD;
+&#xD;
+    return fileSize;&#xD;
+  }&#xD;
+&lt;/pre&gt;</content>
+    <postId>4A2B52AC-A08C-4EF5-BC8C-1EC615E3A51D</postId>
+    <pubDate>2004-03-03T00:00:00-05:00</pubDate>
+    <title>BLOB</title>
+</post>

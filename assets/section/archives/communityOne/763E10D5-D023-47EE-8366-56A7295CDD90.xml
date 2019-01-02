@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>황성규</author>
+    <comments>
+        <comment>
+            <author>jameslee</author>
+            <date>2002-09-10T00:00:00-04:00</date>
+            <content>what a quick implementation!! thanks</content>
+        </comment>
+    </comments>
+    <content>이계영씨가 제안해주신 내용을 구현해 보았습니다.&#xD;
+My Profile과 Member List 사이에 Memo라는 링크가 보이시죠?&#xD;
+여기를 클릭하시면 그동안 나에겐 왔던 메모(쪽지)를 모두 보실수 있습니다.&#xD;
+&#xD;
+아직 얼마동안 메모를 보관하다가 지울것인지 Policy가 없는 관계로 당분간 무한정 보관하겠습니다.&#xD;
+&#xD;
+이를 계기로 메모보내기가 활성화 되면 좋겠군요.&#xD;
+&#xD;
+&#xD;
+이계영 wrote:&#xD;
+&gt; Hi,&#xD;
+&gt; &#xD;
+&gt; I also got a message but pop-up killer app killed the pop-up memo.&#xD;
+&gt; Please send me a mail instead.&#xD;
+&gt; &#xD;
+&gt; Mr. Hwang, Can you add below functionality? :&#xD;
+&gt; Save the memo message in database, and Make the user can retrieve his own memo later.</content>
+    <postId>763E10D5-D023-47EE-8366-56A7295CDD90</postId>
+    <pubDate>2002-09-10T00:00:00-04:00</pubDate>
+    <title>그동안 나에겐 온 메모는 ...</title>
+</post>

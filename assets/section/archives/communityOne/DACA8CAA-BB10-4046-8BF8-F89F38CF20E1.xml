@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>신민용</author>
+    <comments>
+        <comment>
+            <author>신민용</author>
+            <date>2002-09-30T00:00:00-04:00</date>
+            <content>But personally I'd like support Mr Lee's idea, which is that deleted data could become a phantom.</content>
+        </comment>
+        <comment>
+            <author>jameslee</author>
+            <date>2002-09-30T00:00:00-04:00</date>
+            <content>I searched several web sites and found out Mr Sheen presented the right definition.</content>
+        </comment>
+    </comments>
+    <content>이계영씨께서 phantom에 대해 전에 좋은 지적을 해주셨습니다.&#xD;
+오라클 메뉴얼을 &amp;#52287;아보니, 아마 내가 옜날에 이것을&#xD;
+읽었을 것이고, 아마 이것을 바탕으로 제가 설명을 했을 것이라고&#xD;
+생각이 듭니다.&#xD;
+그러나, 이계영씨말이 몇몇 다른 사이트에서도 잘못 설명&#xD;
+되어 있다고 하는데,&#xD;
+좌우간, 이계영씨 설명에 100% 동의 합니다.&#xD;
+좀더 설득력이 있는것 같고 말이 됩니다(make sense).&#xD;
+근데, 문제는 몇몇 공식 메뉴얼에 있는 것을 무시할수도 없고,&#xD;
+혹시라고 면접같은데에서 누가 질문하면 어캐 대답하여야 &#xD;
+하나요...(휴~~~)&#xD;
+&#xD;
+어째거나, 더욱 중요한것은 실제로 이용할때는,&#xD;
+그 두가지(nonrepeatable,phantom)를 같은 한묶음으로&#xD;
+처리하므로, 별로 관계는 없습니다.&#xD;
+이용하는 방법을 아는것이 더 중요하죠.&#xD;
+아직 잘 이해가 안되시는 분들이 다음의 실험을 해보세요.&#xD;
+&#xD;
+1) 두개의 SQL+ 혹은 any SQL tool를 open한다.&#xD;
+   첫번째를 A, 두번째 session를 B라고 합시다.&#xD;
+2) A에서 test할려는 table을 select해봅니다.&#xD;
+3) B에서 test table에 새로 1record를 insert하여&#xD;
+   추가합니다.&#xD;
+   물론  commit 까지 해야죠.&#xD;
+4) A에서 다시 select를 해봅니다.&#xD;
+   그러면 새로 B에서 새로 insert한 data까지&#xD;
+   볼수 가 있습니다.&#xD;
+5) 자 그러면, A의 transaction mode를 바꾸어 봅시다.&#xD;
+   From "Read commited"(default) to Serializable .&#xD;
+   다음의 명령어를 A에서 실행합니다.&#xD;
+   "SET TRANSACTION ISOLATION LEVEL SERIALIZABLE;"&#xD;
+6) 그리고 A에서 select를 실행해 봅니다.&#xD;
+7) B에서 다시한번 1 record를 insert하여 추가합니다.&#xD;
+   물론, commit 까지.&#xD;
+8) A에서 Select를 해보면, 4번에서 실행했을때와는&#xD;
+   라는게, 신규로 insert된 record를 여기서는&#xD;
+   볼수가 없습니다.&#xD;
+   "SET...."후에 첫번째 select를 실행할때,&#xD;
+   모든 data가 Freeze되어 snapshot되기 때문입니다.&#xD;
+   그래서 데이타 interity가 최우선적으로&#xD;
+   보장이 된다고 할수 있겠습니다.&#xD;
+   그러나 performance고려도 해서,&#xD;
+   이유없이 사용하는것은 (STUPID!~~~eih?)&#xD;
+&#xD;
+&#xD;
+------From Oracle Manual--------------&#xD;
+The three preventable phenomena are: &#xD;
+&#xD;
+dirty read &#xD;
+ A transaction reads data that has been written by another transaction that has not been committed yet.  &#xD;
+ &#xD;
+nonrepeatable (fuzzy) read &#xD;
+ A transaction rereads data it has previously read and finds that another committed transaction has modified or deleted the data. &#xD;
+ &#xD;
+phantom read &#xD;
+ A transaction re-executes a query returning a set of rows that satisfies a search condition and finds that another committed transaction has inserted additional rows that satisfy the condition. &#xD;
+ &#xD;
+&lt;PRE&gt;&#xD;
+    -end-&#xD;
+&lt;/PRE&gt;&#xD;
+</content>
+    <postId>DACA8CAA-BB10-4046-8BF8-F89F38CF20E1</postId>
+    <pubDate>2002-09-30T00:00:00-04:00</pubDate>
+    <title>phantom read</title>
+</post>

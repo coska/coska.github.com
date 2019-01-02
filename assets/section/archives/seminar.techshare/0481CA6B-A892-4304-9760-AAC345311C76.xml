@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>강동욱</author>
+    <comments/>
+    <content>회원중 한명이 질문해서 여기 올려 봅니다.&lt;br&gt;좋은 자료 있으신분은 답변 부탁 드립니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;gt; my company expects me to build VB application using Citrix Metaframe on Windows 2000 server.&lt;br&gt;&amp;gt; &lt;br&gt;&amp;gt; My questions are&lt;br&gt;&amp;gt; 1. How upload files(probably kind of source code) from client machine to server machine?- I guess(I am familiar with Citrix things),the application will be running on the server.&lt;br&gt;&amp;gt; 2. When user enters user name and password , how to encrypt password? Is there any way to accomplish it programmatically rather than server setting?&lt;br&gt;</content>
+    <postId>0481CA6B-A892-4304-9760-AAC345311C76</postId>
+    <pubDate>2002-03-01T00:00:00-05:00</pubDate>
+    <title>[q] upload and password</title>
+</post>

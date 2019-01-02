@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments>
+        <comment>
+            <author>황성규</author>
+            <date>2002-11-06T00:00:00-05:00</date>
+            <content>http://www.logicamente.com/sockets.html</content>
+        </comment>
+    </comments>
+    <content>&#xD;
+내가 회사에서 하는 프로그램중에 다음과 같은 것이 있습니다. &#xD;
+서버 프로그램이 다른 서버에 있는 프로그램과 text string을 주고 받는데, HttpUrlConnection.getResponseCode를 사용하고 있습니다. &#xD;
+상대 서버에서 응답이 않올경우, 에러를 내보내려고 하는데, 어떻게 하면 될까요. &#xD;
+&#xD;
+현재는 응답이 올때까지 무한정 기다려 여기에 시간을 주고 (1분) 그 동안 오지 않으면 TimeLimitExceedException같은 것을 주려고 합니다. &#xD;
+&#xD;
+HttpUrlConnection conn = new HttpUrlConnection("http/....");&#xD;
+....&#xD;
+conn.getResosponseCode();&#xD;
+&#xD;
+이 HttpUrlConnection에는 setTimer등의 메쏘드가 없어서 불편합니다. &#xD;
+여러분의 창의적의 조언을 바랍니다. </content>
+    <postId>2003895A-2196-401B-9362-20482D71DF28</postId>
+    <pubDate>2002-11-05T00:00:00-05:00</pubDate>
+    <title>Timer를 주는 법..</title>
+</post>

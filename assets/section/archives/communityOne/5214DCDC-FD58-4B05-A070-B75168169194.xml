@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김중수</author>
+    <comments/>
+    <content>하라는 대로 다 했어요..&#xD;
+마지막에 jvm.cfg 에 -ojvm추가 까지요..&#xD;
+그리고 Jbuilder.ini file고치는 것두요.&#xD;
+그런데 Error Message가 나와요&#xD;
+"Jdeveloper를 위한 VM을 실행할수 엄따".&#xD;
+어떻게 해야 하나요.&#xD;
+아마 황성규씨가 알것 같은데...&#xD;
+그것을 알려주세요..&#xD;
+Please...</content>
+    <postId>5214DCDC-FD58-4B05-A070-B75168169194</postId>
+    <pubDate>2001-06-22T00:00:00-04:00</pubDate>
+    <title>(질문) JDeveloper 3.1에서 JDK1.3 을 쓰려면? 현재 1.2.2</title>
+</post>

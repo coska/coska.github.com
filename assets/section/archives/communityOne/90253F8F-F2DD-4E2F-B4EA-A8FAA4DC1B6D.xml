@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이계영</author>
+    <comments>
+        <comment>
+            <author>김성욱</author>
+            <date>2003-09-05T00:00:00-04:00</date>
+            <content>아하 그렇군요. 역시 고수님께 많은 것을 배우게 됩니다. 그렇다면 그 퍼포먼스 차이에 대해 구체적으로 좀 더 언급해 주실 수는 있을런지요.</content>
+        </comment>
+    </comments>
+    <content>As I commented in the source code, there are 2 methods for Value Object as well as EJB methods.  So you can call not only EJB methods but also methods for value object.(Am I missed something?, I didn't post AccountValue class code but you can figure out how AccountValue class look like).&#xD;
+&#xD;
+If you test value object calling vs EJB methods calling. You will notice the performance difference. Of course it depends on how many calls are made.</content>
+    <postId>90253F8F-F2DD-4E2F-B4EA-A8FAA4DC1B6D</postId>
+    <pubDate>2003-09-05T00:00:00-04:00</pubDate>
+    <title>RE: RE: Sample code using Value Object</title>
+</post>

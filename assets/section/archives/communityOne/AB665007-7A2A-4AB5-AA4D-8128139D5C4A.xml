@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>최덕선</author>
+    <comments>
+        <comment>
+            <author>이성기</author>
+            <date>2009-03-11T00:00:00-04:00</date>
+            <content>hibernate로 sp를 호출하지는 않았지만, Spring 에서 호출하는 것은 알려드릴수 있습니다.</content>
+        </comment>
+    </comments>
+    <content>Hi,&#xD;
+&#xD;
+ In current project we need to call the stored procedures in the hibernate annotation environment, but haven't been successful.&#xD;
+&#xD;
+ Belows are the code snippet in the bean class and implementation class and kind of lost what should be done.&#xD;
+&#xD;
+1)&#xD;
+@NamedNativeQuery(name="test2", query="call lh_actual_test(?, :anything)", callable=true, resultClass=LhActual.class)&#xD;
+&#xD;
+&#xD;
+2)&#xD;
+          Query query = getSession().getNamedQuery("test1");&#xD;
+          query.setParameter(1, "3");&#xD;
+&#xD;
+          int i = query.list().size();&#xD;
+...&#xD;
+&#xD;
+&#xD;
+&#xD;
+ Any suggestion?</content>
+    <postId>AB665007-7A2A-4AB5-AA4D-8128139D5C4A</postId>
+    <pubDate>2009-03-11T00:00:00-04:00</pubDate>
+    <title>calling stored procedure in hibernate</title>
+</post>

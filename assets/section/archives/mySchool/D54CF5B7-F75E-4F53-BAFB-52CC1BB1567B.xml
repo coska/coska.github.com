@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>허현옥</author>
+    <comments>
+        <comment>
+            <author>부기흡</author>
+            <date>2006-02-20T00:00:00-05:00</date>
+            <content>I will update the installation guide. We could decide on the final versions to use later before a release date.</content>
+        </comment>
+        <comment>
+            <author>허현옥</author>
+            <date>2006-02-20T00:00:00-05:00</date>
+            <content>installation guide를 금요일 이전에 업데이트 하실꺼면 해당 라이브러리에 대해 링크를 걸어주시는 것도 좋을 것 같네요. 아니면 cvs를 이용해서 공유하는 것도 좋을 것 같구요. 아니면, 금요일 미팅시에 정해도 될것 같구요.~. 암튼 수고해주시는데에 대해서 "무한감사" (_ _  )</content>
+        </comment>
+    </comments>
+    <content>위키에 올라있는 installation guide에 맞추던가, 아니면 installation guide를 변경하던가 해서 include될 library 파일 버젼을 맞추는 게 좋을 것 같습니다.&lt;br&gt;&lt;br&gt;현재 installation guide에 올라있는 라이브러리 파일에 대한 버젼은 제가 알기로는 황인환씨가 맡았던걸로 기억을 하는데, 아마도 권칠환씨가 그때 대신하기로 하셨던거 같네요.(^^;;;; 기억이 가물가물....)&lt;br&gt;&lt;br&gt;지금 부기흡 회장님이 올리신 모델 프로젝트를 보면 사용하신 라이브러리 버젼이 installation guide하고 조금씩 틀리네요. 제 짧은 경험상으로 보면 마이너 업그레이드가 된 라이브러리도 조금씩 틀린경우가 있으니 아무래도 맞추는 게 좋을 것 같습니다.&lt;br&gt;&lt;br&gt;그리고, 온라인 미팅을 메일로 제안했었는데... 아무도 못받으셧는지... 답장을 한통도 못받았네요...ㅜ_ㅜ;;; 다들 바쁘신 건지?&lt;br&gt;&lt;br&gt;온라인 미팅을 한번은 해야 진행되는 사항이나 앞으로 진행해 갈 사항이 좀 더 순조로울것 같네요. 부디 편한 날짜를 올려주시길...(전 아무때나 괜찮습니다. 아....담주 화요일 저녁만 빼구요... )&lt;br&gt;&lt;br&gt;그럼 답변 부탁 드립니다.</content>
+    <postId>D54CF5B7-F75E-4F53-BAFB-52CC1BB1567B</postId>
+    <pubDate>2006-02-18T00:00:00-05:00</pubDate>
+    <title>라이브러리 버젼을 맞춰야 하지 않을까 하는데요...</title>
+</post>

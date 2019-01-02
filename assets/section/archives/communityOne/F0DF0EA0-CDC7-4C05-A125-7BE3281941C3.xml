@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김성욱</author>
+    <comments>
+        <comment>
+            <author>김경용</author>
+            <date>2010-10-20T00:00:00-04:00</date>
+            <content>제가 뭘 잘못 안건가요? 저는 260나오는데,, 이거가 틀린건가요?</content>
+        </comment>
+    </comments>
+    <content>I learn these days significantly important Java5 features, and below is one interesting quiz.&#xD;
+&#xD;
+Q1. What do you think the result will be? Guess and try.&#xD;
+&#xD;
+Q2. What will be a good means/way to avoid such a bug using Java5 feature?&#xD;
+&#xD;
+import java.util.HashSet;&#xD;
+import java.util.Set;&#xD;
+&#xD;
+&#xD;
+public class OverrideSample {&#xD;
+	&#xD;
+	private final char first;&#xD;
+	private final char second;&#xD;
+	&#xD;
+	public OverrideSample(char first, char second) {&#xD;
+		this.first = first;&#xD;
+		this.second = second;&#xD;
+	}&#xD;
+	&#xD;
+	public boolean equals(OverrideSample obj) {&#xD;
+		return obj.first==this.first &amp;&amp; obj.second==this.second;&#xD;
+	}&#xD;
+	&#xD;
+	public int hashCode() {&#xD;
+		return 31 * first + second;&#xD;
+	}&#xD;
+	&#xD;
+	public static void main(String[] args) {&#xD;
+		Set&lt;OverrideSample&gt; s = new HashSet&lt;OverrideSample&gt;();&#xD;
+		//10 times&#xD;
+		for (int i=0; i&lt;10; i++) {&#xD;
+			//26 alphabets&#xD;
+			for (char ch = 'a'; ch &lt;= 'z'; ch++) {&#xD;
+				s.add(new OverrideSample(ch, ch));&#xD;
+			}&#xD;
+		}&#xD;
+		System.out.println(s.size());&#xD;
+	}&#xD;
+	&#xD;
+}</content>
+    <postId>F0DF0EA0-CDC7-4C05-A125-7BE3281941C3</postId>
+    <pubDate>2010-10-19T00:00:00-04:00</pubDate>
+    <title>Interesting Java5 quiz</title>
+</post>

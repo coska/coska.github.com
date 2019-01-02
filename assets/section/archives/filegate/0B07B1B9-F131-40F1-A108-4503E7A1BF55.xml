@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김형태</author>
+    <comments>
+        <comment>
+            <author>허현옥</author>
+            <date>2006-02-18T00:00:00-05:00</date>
+            <content>잘되고 있다니까 축하드립니다.^^ MySchool도 열심히 해야겠네요.FileGate랑 비교되지 않으려면요..^^;;;</content>
+        </comment>
+        <comment>
+            <author>오승준</author>
+            <date>2006-02-18T00:00:00-05:00</date>
+            <content>그렇습니다. 실험(?)의 성공을 6명의 눈으로 확인했습니다. ㅎㅎ</content>
+        </comment>
+        <comment>
+            <author>이상윤</author>
+            <date>2006-02-18T00:00:00-05:00</date>
+            <content>그렇습니다. 원천기술을 확보 했습니다..ㅋㅋ</content>
+        </comment>
+        <comment>
+            <author>Kelly J Lee</author>
+            <date>2006-02-19T00:00:00-05:00</date>
+            <content>그렇습니다. 원천 기술을 눈으로 확인한 논문 참여 연구원(?) 입니다. ㅋㅋㅋ 바로 윗분은 '김 선종'이셨다지요? ^___^</content>
+        </comment>
+        <comment>
+            <author>김동욱</author>
+            <date>2006-02-20T00:00:00-05:00</date>
+            <content>제가 잠시 한국에 나와있는 관계로 원천기술을 확보하는 역사적인 순간(?)을 같이 못해서 아쉽네요..에궁.. 파일 게이트 참여 연구원들분 그동안 수고들 많이 하셨구요.. 다시 한번 힘을 모아 우리들의 힘을 보여줍시다..^^&lt;br&gt;곧 다시 보는 날을 학수고대하며..파일게이트 아자아자!!</content>
+        </comment>
+        <comment>
+            <author>김형태</author>
+            <date>2006-02-23T00:00:00-05:00</date>
+            <content>동욱씨가  배양(?)이 끝나기 전에 돌아와 주시길 기원하면서 ... ^^</content>
+        </comment>
+    </comments>
+    <content>안녕하세요. 김형태 입니다.&lt;br&gt;&lt;br&gt;어제(2월 17일) IO 팀과 NetMan 팀의 조인트 미팅에서 파일게이트 IO와 Net 모듈에 대한 동작 테스트에 성공하였음을 알려 드립니다.&lt;br&gt; &lt;br&gt;실험(?)의 내용은 연결된 두대의 컴퓨터에서 각자 FileGate Test Program을 올려서 한쪽에서는 파일에 대해 다양한 변화(Create, Update, Delete, Folder Create, Delete, Update, Rename)를 주고, 한쪽에서는 그걸 자동으로 수신할 수 있는지 테스트 하였습니다. 몇가지 소소한 개선점은 있지만, 기본적으로 두대간 자동으로 파일을 백업하는 기능은 제대로 동작함을 확인하였습니다.&lt;br&gt;&lt;br&gt;그 동안 개인적으로 시간을 할애해서 모듈 제작에 힘써 주신 IO 팀과 NetMan팀, 그리고 Config 팀, 전 멤버 분들께 우선 감사를 드립니다. (아직 다 끝난 것은 아니지만 ^^)&lt;br&gt;&lt;br&gt;파일게이트가 회사에서 하는 프로젝트라면 모듈 동작 테스트 성공에 이렇게 저 처럼 난리법석(?)을 떨지 않을 수도 있을 것 같습니다만, 여러 명이 모여서 크지 않지만 몬가 이루어 내는 일 자체가 큰 기쁨으로 다가옵니다.&lt;br&gt;&lt;br&gt;참석자 : (존칭 생략 무순 이옵니다. 그냥 앉아 계셨던 순서대로...)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;IO 팀 : 이진경,오승준,이상윤&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;NetMan팀 : 최봉준, 김형태&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;UI 팀 : 박진호&lt;br&gt;&lt;br&gt;이제 남아 있는 일은 UI쪽과 Service 로 엮어서 셋업 프로그램으로 묶는 일만 남았군요. 조금만 더 하면 좋은 결과 있을 것 같습니다. 그 동안의 성원에 감사드립니다. 김형태 드림.&lt;br&gt;&lt;br&gt;</content>
+    <postId>0B07B1B9-F131-40F1-A108-4503E7A1BF55</postId>
+    <pubDate>2006-02-18T00:00:00-05:00</pubDate>
+    <title>줄기세포가 배반포까지 수립되었습니다. ^^</title>
+</post>

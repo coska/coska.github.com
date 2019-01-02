@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>부기흡</author>
+    <comments>
+        <comment>
+            <author>권칠환</author>
+            <date>2005-12-07T00:00:00-05:00</date>
+            <content>이전에 질문했듯이. course_history란게..말씀하신 그런의미가 아니라고 고객의 답변에 의해서 이해했네요.&lt;br&gt;단지, 학과구별을 위해서 만든게..course_history로 알고 있습니다. &lt;br&gt;각 엔터티에 대한 관계는 컨설턴트입장에서 작성된 겁니다.&lt;br&gt;사용자는 컨설턴트 하나일 뿐(userview: consultant)이라고 봅니다. 그러면, 아마..제가 그린 그림이 이해되어 보이지 않을까요??&lt;br&gt;&lt;br&gt;</content>
+        </comment>
+        <comment>
+            <author>권칠환</author>
+            <date>2005-12-07T00:00:00-05:00</date>
+            <content>그 세개의 엔터티 관계는 아직도 혼돈스럽네요..</content>
+        </comment>
+        <comment>
+            <author>KB</author>
+            <date>2005-12-07T00:00:00-05:00</date>
+            <content>I re-read the customer's reponse. The customer's explanation was about Couse Type and Course ID, not between Course and Couse Hisotory, isn't it?</content>
+        </comment>
+        <comment>
+            <author>권칠환</author>
+            <date>2005-12-07T00:00:00-05:00</date>
+            <content>course-history는 course-table을 구분하는 테이블로 본것입니다.&lt;br&gt;고객이 courseId, coursetype을 학과..과목으로 설명했듯이..&lt;br&gt;컨설턴트가 학과와 과목을 입력/수정/삭제하는것이고, 학생은 어떠한 입력/수정/삭제의 권한을 가지지 않는것으로 정의되었네요..&lt;br&gt;컨설턴트가 한 학생의 학과/과목을 리뷰할수 있게할수 있으며,성적을 뽑아낼수 있게되어 있네요.&lt;br&gt;해서 주체를 컨설턴트로 봤구요, &lt;br&gt;UML을 보면..사용자 뷰가 학생으로 이해된 부분이 있다고 봅니다.&lt;br&gt;(제가 이해를 잘못했다면, 다시 리뷰해야 겠지만요..^^)&lt;br&gt;이전에 언급했듯이..학생이 수강한 과목 히스토리로 course_hisotry로 보지 않았네요. 그렇게 봤다면..course_history의 속성들의 내용이 수정되어야 하지 않을까요?&lt;br&gt;만약, course_history가 제가 이해한 학과구분용으로 사용되었다면. 전..course_table을 하나로 가는것도 한 방법일수 있네요..&lt;br&gt;</content>
+        </comment>
+    </comments>
+    <content>The relationship among Course, Course History, and Transcript is not very well understood. I will attempt to define these entities &amp; relationships here to see if it makes sense.&lt;br&gt;&lt;br&gt;Course: This represents actual course items. New courses will be created, existing courses may be modified, but the existing courses cannot be removed for obvious reasons. We might need an extra field to flag whether or not a Course item is currently open/closed. &lt;br&gt;&lt;br&gt;Course History: This captures all the Course items a student has taken so far. It will have a reference to a Course. The relationship will look like:&lt;br&gt;Student(1) &amp;lt;--&amp;gt; (n) Course History&amp;nbsp;&amp;nbsp;(A student has taken many courses)&lt;br&gt;Course History (1) &amp;lt;--&amp;gt; (1) Course (Each history item refers to the actual Course)&lt;br&gt;&lt;br&gt;Transcript: Most confusing part from the initial table design given from the customer. A new Transcript item is created for a Student per semester/term. The Transcript item contains references to the Course History items the student applied for in a particular term. The relationship will look like:&lt;br&gt;Student (1) &amp;lt;--&amp;gt; (n) Transcript (A student has one report card per term)&lt;br&gt;Transcript (1) &amp;lt;--&amp;gt; (n) Course History&lt;br&gt; &lt;br&gt;Pitch in your thoughts.</content>
+    <postId>C865BD17-E9AE-426B-9BA4-00368D935A1E</postId>
+    <pubDate>2005-12-06T00:00:00-05:00</pubDate>
+    <title>[re] 2차 관계도</title>
+</post>

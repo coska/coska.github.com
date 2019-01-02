@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>cavecafe</author>
+    <comments>
+        <comment>
+            <author>javajjang</author>
+            <date>2012-04-16T00:00:00-04:00</date>
+            <content>전 그냥 하나의 그룹으로 묶어놓는게 나을거 같다는 생각을 하는데요. 우선은 하나로 해놓고 사용량이 많아지면 그때 나누어도 괜찮을듯 싶네요. 어차피 Group 자체에서 매번 이메일을 보내는것과 모아서 보내주는 기능이 있으니까요.</content>
+        </comment>
+        <comment>
+            <author>dexter</author>
+            <date>2012-04-23T00:00:00-04:00</date>
+            <content>저는 이 제안에 무조건 동의합니다. 사실 홈페이지를 자주 매번 들어가서 확인하는게 쉽지가 않더라구요.. 간혹 들어가면 번개모임이라던가.. 세미나 일정이 잡혀있어서 갑자기 일정이 닥쳤을땐 시간을 내기가 쉽지 않았습니다. 만약에 이메일로 계속해서 업데이트된 내용을 받을 수 있다면.. 일정이나 정보를 놓치는 일이 없을것 같습니다..  빨리 진행됐으면 좋겠네요.. ^^</content>
+        </comment>
+        <comment>
+            <author>duly0122</author>
+            <date>2012-04-30T00:00:00-04:00</date>
+            <content>메일로 업데이트된 내용을 받아 볼 수 있다는 것은 정말로 좋은 의견 같습니다. Web site도 발전해 나갈 수 있고요. 한가지 걱정되는 일은 상업적인 용도 이용하는 사람들 때문에 이런 스팜 메시지를 Filtering 할 수 있다면 좀더 훌륭한 기능이 되지 않을까 생각합니다.</content>
+        </comment>
+        <comment>
+            <author>cavecafe</author>
+            <date>2012-05-01T00:00:00-04:00</date>
+            <content>duly0122 님 의견에 공감합니다. 스팸메일화 되지 않도록 하는 방법이 몇가지 있을 것 같습니다. 계속 의견을 수렴해 나가면서 보완해 나가야 할 것 같습니다.</content>
+        </comment>
+    </comments>
+    <content>&lt;html&gt;
+
+&lt;head&gt;
+&lt;meta http-equiv=Content-Type content="text/html; charset=ks_c_5601-1987"&gt;
+&lt;meta name=Generator content="Microsoft Word 14 (filtered)"&gt;
+&lt;style&gt;
+&lt;!--
+ /* Font Definitions */
+ @font-face
+	{font-family:굴림;
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:굴림;
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:"\@굴림";
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:115%;
+	text-autospace:none;
+	word-break:break-hangul;
+	font-size:10.0pt;
+	font-family:"맑은 고딕";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+.MsoChpDefault
+	{font-family:"맑은 고딕";}
+.MsoPapDefault
+	{margin-bottom:10.0pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:115%;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:3.0cm 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--&gt;
+&lt;/style&gt;
+
+&lt;/head&gt;
+
+&lt;body lang=KO link=blue vlink=purple&gt;
+
+&lt;div class=WordSection1&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span style='font-family:굴림'&gt;안녕하세요&lt;span lang=EN-US&gt;. &lt;/span&gt;김형태
+입니다&lt;span lang=EN-US&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span style='font-family:굴림'&gt;일전에도 몇번 말씀드린 적이 있지만&lt;span
+lang=EN-US&gt;, &lt;/span&gt;매번 자세히 설명할 상황이 아니어서 정리하는 차원에서 다시 적어 봅니다&lt;span lang=EN-US&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span lang=EN-US style='font-family:굴림'&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span style='font-family:굴림'&gt;코스카 홈페이지에 올라오는 글을 자동으로&lt;span
+lang=EN-US&gt;, &lt;/span&gt;구글그룹&lt;span lang=EN-US&gt;(coska@googlegroups.com)&lt;/span&gt;계정으로 전송하여&lt;span
+lang=EN-US&gt;, &lt;/span&gt;홈페이지에 올라온 글을 신속하게 회원들에게 전파할 수 있도록 했으면 합니다&lt;span lang=EN-US&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span lang=EN-US style='font-family:굴림'&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span style='font-family:굴림'&gt;간단하게 하자면&lt;span lang=EN-US&gt;, &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span style='font-family:굴림'&gt;코스카 홈페이지에 올라오는 모든 글을 구글그룹에 이미 등록한
+미리 정한&lt;span lang=EN-US&gt; email (&lt;/span&gt;가령&lt;span lang=EN-US&gt;
+coska.googlegroups@coska.com)&lt;/span&gt;로 &lt;span lang=EN-US&gt;forwarding &lt;/span&gt;하는 겁니다&lt;span
+lang=EN-US&gt;. &lt;/span&gt;그럼&lt;span lang=EN-US&gt;, &lt;/span&gt;모든 가입자들이 이메일을 받아 볼 수 있습니다&lt;span
+lang=EN-US&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span lang=EN-US style='font-family:굴림'&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span style='font-family:굴림'&gt;좀 더 세세한 세부 메일이 필요하다면&lt;span
+lang=EN-US&gt;, &lt;/span&gt;코스카 홈페이지에 있는 각각의 카테고리별로&lt;span lang=EN-US&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span style='font-family:굴림'&gt;다른 이메일 &lt;span lang=EN-US&gt;address&lt;/span&gt;와
+다른 구글그룹 계정을 쓰는 겁니다&lt;span lang=EN-US&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span lang=EN-US style='font-family:굴림'&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span style='font-family:굴림'&gt;가령&lt;span lang=EN-US&gt;,&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none'&gt;
+ &lt;tr&gt;
+  &lt;td width=92 valign=top style='width:69.2pt;border:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'&gt;
+  &lt;p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'&gt;&lt;span lang=EN-US style='font-family:굴림'&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td width=254 valign=top style='width:190.35pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'&gt;
+  &lt;p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'&gt;&lt;span style='font-family:굴림'&gt;코스카 메일 계정&lt;/span&gt;&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td width=270 valign=top style='width:202.55pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'&gt;
+  &lt;p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'&gt;&lt;span style='font-family:굴림'&gt;카테고리별 구글 그룹 계정&lt;/span&gt;&lt;/p&gt;
+  &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+  &lt;td width=92 valign=top style='width:69.2pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'&gt;
+  &lt;p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'&gt;&lt;span style='font-family:굴림'&gt;골프코스카&lt;/span&gt;&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td width=254 valign=top style='width:190.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'&gt;
+  &lt;p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'&gt;&lt;span lang=EN-US style='font-family:굴림'&gt;coska.golf@coska.com&lt;/span&gt;&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td width=270 valign=top style='width:202.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'&gt;
+  &lt;p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'&gt;&lt;span lang=EN-US style='font-family:굴림'&gt;coska.golf@googlegroups.com&lt;/span&gt;&lt;/p&gt;
+  &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+  &lt;td width=92 valign=top style='width:69.2pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'&gt;
+  &lt;p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'&gt;&lt;span style='font-family:굴림'&gt;커뮤니티원&lt;/span&gt;&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td width=254 valign=top style='width:190.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'&gt;
+  &lt;p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'&gt;&lt;span lang=EN-US style='font-family:굴림'&gt;coska.community.one@coska.com&lt;/span&gt;&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td width=270 valign=top style='width:202.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'&gt;
+  &lt;p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'&gt;&lt;span lang=EN-US style='font-family:굴림'&gt;coska.community.one@googlegroups.com&lt;/span&gt;&lt;/p&gt;
+  &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+  &lt;td width=92 valign=top style='width:69.2pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'&gt;
+  &lt;p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'&gt;&lt;span style='font-family:굴림'&gt;수다떨기&lt;/span&gt;&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td width=254 valign=top style='width:190.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'&gt;
+  &lt;p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'&gt;&lt;span lang=EN-US style='font-family:굴림'&gt;coska.suda@coska.com&lt;/span&gt;&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td width=270 valign=top style='width:202.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'&gt;
+  &lt;p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'&gt;&lt;span lang=EN-US style='font-family:굴림'&gt;&lt;a
+  href="mailto:coska.suda@googlegroups.com"&gt;coska.suda@googlegroups.com&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+  &lt;td width=92 valign=top style='width:69.2pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'&gt;
+  &lt;p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'&gt;&lt;span style='font-family:굴림'&gt;기타 등등&lt;/span&gt;&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td width=254 valign=top style='width:190.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'&gt;
+  &lt;p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'&gt;&lt;span lang=EN-US style='font-family:굴림'&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td width=270 valign=top style='width:202.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'&gt;
+  &lt;p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'&gt;&lt;span lang=EN-US style='font-family:굴림'&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+  &lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span lang=EN-US style='font-family:굴림'&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span style='font-family:굴림'&gt;홈페이지에&lt;span lang=EN-US&gt; email &lt;/span&gt;보내기
+기능을 추가하는 것은 별로 힘든 일은 아닐 것 같구요&lt;span lang=EN-US&gt;. (&lt;/span&gt;필요하다면 자원할 수도&lt;span
+lang=EN-US&gt;.. ^^) &lt;/span&gt;나머지는 절차상의 문제가 아닐까 싶군요&lt;span lang=EN-US&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span style='font-family:굴림'&gt;다른 분들 의견 부탁 드립니다&lt;span
+lang=EN-US&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+</content>
+    <postId>C848191B-1457-4D7B-81A7-0057DDDA0A81</postId>
+    <pubDate>2012-04-10T00:00:00-04:00</pubDate>
+    <title>[제안] 홈페이지 글과 구글 그룹 이메일 연동</title>
+</post>

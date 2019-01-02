@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>부기흡</author>
+    <comments>
+        <comment>
+            <author>김형태</author>
+            <date>2005-06-24T00:00:00-04:00</date>
+            <content>프로젝트 후반에 많은 도움이 될 것 같습니다. 감사합니다.</content>
+        </comment>
+    </comments>
+    <content>Did some research on the JUnit-based testing tools from SourceForge.&lt;br&gt;&lt;br&gt;=============&lt;br&gt;NUnit .Net unit testing framework&lt;br&gt;&lt;br&gt;NUnit brings xUnit-style unit-testing to all .Net languages. Initially ported from JUnit, the current version has been re-written to take advantage of .NET language features. &lt;br&gt;&lt;br&gt;http://sourceforge.net/projects/nunit/&lt;br&gt;&lt;br&gt;=============&lt;br&gt;NUnitForms &lt;br&gt;&lt;br&gt;NUnitForms is a tool for automatically testing Windows Forms applications written on .NET. It is an extension to NUnit that should make it easy to test Windows Forms applications. &lt;br&gt;&lt;br&gt;http://sourceforge.net/projects/nunitforms/&lt;br&gt;&lt;br&gt;==============&lt;br&gt;VSNUnit&lt;br&gt;&lt;br&gt;An integrated NUnit test runner for Visual Studio .NET that allows for graphical display of test results, and easy navigation from results to source code. &lt;br&gt;&lt;br&gt;http://sourceforge.net/projects/vsnunit/&lt;br&gt;&lt;br&gt;===============&lt;br&gt;VSUnit&lt;br&gt;&lt;br&gt;VSUnit provides a Visual Studio Addin for use with NUnit. It will support integrated unit testing, debugging and test generation. VSUnit is being developed as a separate project by the developers of NUnit itself. &lt;br&gt;&lt;br&gt;http://sourceforge.net/projects/vsunit/&lt;br&gt;&lt;br&gt;===================&lt;br&gt;Zanebug&lt;br&gt;&lt;br&gt;Zanebug is an advanced unit testing application for .NET. It supports existing NUnit tests, performance metrics, multiple test iterations, in-depth error information, pass / fail stats, perfmon integration, result graphing, etc. &lt;br&gt;&lt;br&gt;http://sourceforge.net/projects/zanebug/&lt;br&gt;&lt;br&gt;=======================&lt;br&gt;DotTestToolkit &lt;br&gt;&lt;br&gt;A library of classes designed to be used in conjunction with a unit testing framework such as NUnit. The library facilitates automated tests, mock objects and white box testing (GUI testing etc). &lt;br&gt;&lt;br&gt;http://sourceforge.net/projects/dottesttoolkit/&lt;br&gt;&lt;br&gt;==========================&lt;br&gt;Nunit integration to visual studio.net &lt;br&gt;&lt;br&gt;nunit add-in to visual studio.net &lt;br&gt;&lt;br&gt;http://sourceforge.net/projects/nvunit/&lt;br&gt;&lt;br&gt;==============&lt;br&gt;end&lt;br&gt;</content>
+    <postId>FB614DA3-CE49-486E-9D37-B6298496EEF1</postId>
+    <pubDate>2005-06-23T00:00:00-04:00</pubDate>
+    <title>[test] functional/performance testing tools for .net</title>
+</post>

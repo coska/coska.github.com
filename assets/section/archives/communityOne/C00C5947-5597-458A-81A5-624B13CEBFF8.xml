@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이성기</author>
+    <comments>
+        <comment>
+            <author>이성기</author>
+            <date>2002-04-01T00:00:00-05:00</date>
+            <content>Sun J2EE tutorial sample, Duke Bank를 제 Lilac Framework으로 테스트해볼 분을 찾습니다. 프레임워크소스코드를 드리고 사용방법을 별도로 만나서</content>
+        </comment>
+    </comments>
+    <content>음..제가 만든 프레임워크에서 EJB를 구현하려고 할때, 어떤 방식으로 할 수 있는지에 관하여 세미나를 할까 합니다. (혹 다른 분이 세미나 를 계획하고 있다면 일정변경가능합니다)&#xD;
+&#xD;
+프레임워크 없이 EJB를 만들경우와 프레임워크를 가지고 할 경우 모델이 어떻게 변경되는지, &#xD;
+EJB와 Pure Java object을 혼합하여 구성하는 경우, 그 장단점&#xD;
+등에 관하여 논의를 하고자 합니다. EJB를 해보신분들의 의견을&#xD;
+듣고 싶습니다. &#xD;
+&#xD;
+일시: 4월6일, 토요일 8시 정도, (김민씨 참석할수 있게 토요일로 합니다)&#xD;
+장소 : 이성기 자택  181 Anthony Ave Mississauga (close to Hurontario St and Bristol Rd East) 아래 약도 참조 &#xD;
+905-502-1201&#xD;
+(roadmap)&#xD;
+	&lt;IMG SRC="http://webhome.idirect.com/~scottl/roadmap.gif" ALIGN=BOTTOM ALT=""&gt;&#xD;
+&#xD;
+&#xD;
+강사: 이성기&#xD;
+참고자료 : &#xD;
+&#xD;
+http://www3.sympatico.ca/scottlee/book/english/ejb.doc (완성)&#xD;
+&#xD;
+참석자&#xD;
+======&#xD;
+이성기&#xD;
+최덕선&#xD;
+김  민&#xD;
+김경찬&#xD;
+홍영기&#xD;
+</content>
+    <postId>C00C5947-5597-458A-81A5-624B13CEBFF8</postId>
+    <pubDate>2002-03-23T00:00:00-05:00</pubDate>
+    <title>[제안] EJB framework 세미나 -이성기자택으로 확정....</title>
+</post>

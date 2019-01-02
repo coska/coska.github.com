@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>조성원</author>
+    <comments>
+        <comment>
+            <author>이성기</author>
+            <date>2004-07-08T00:00:00-04:00</date>
+            <content>이분이 솔라리스 설치경험이 있는 분에게 하루 유료 컨설팅을 받고 싶다고 합니다. 혹 경험이 있는 분은 이분에게 연락부탁합니다. 자세한 연락처는 이 글을 쓴이의 이름을 링크하면 됩니다.</content>
+        </comment>
+    </comments>
+    <content>Hi.&#xD;
+I just installed Solaris 9 x86 platform version to PIII(Intel), but it boot itself whenever it start to initialize system.&#xD;
+pls advice me.  </content>
+    <postId>5D4021A7-E8AC-4BAB-AFB2-D18C9E1C9499</postId>
+    <pubDate>2004-06-24T00:00:00-04:00</pubDate>
+    <title>solaris 9</title>
+</post>

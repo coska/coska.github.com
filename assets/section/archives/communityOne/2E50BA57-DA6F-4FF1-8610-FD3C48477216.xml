@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김성욱</author>
+    <comments/>
+    <content>Vaadin is a relatively new and modern framework for web app development.&#xD;
+&#xD;
+I've just kickstart developing with it for another project, and it looks quite interesting.&#xD;
+&#xD;
+IMO, it is better than Struts, Stripes, Wicket, and Spring MVC in terms of getting away from silly JSP/HTML trivial (but huge amount of) jobs. Yes, Vaadin lets you work on serverside what you've mostly have done in those kind of presentations.&#xD;
+&#xD;
+Data Model wise, even though it supports a whole different way of JPA, I prefer the layered and traditional approach so far.&#xD;
+&#xD;
+Try some demo at their official website. It's free of course including the reference book.&#xD;
+&#xD;
+&lt;a href="http://vaadin.com"&gt;vaadin.com&lt;/a&gt;</content>
+    <postId>2E50BA57-DA6F-4FF1-8610-FD3C48477216</postId>
+    <pubDate>2011-08-10T00:00:00-04:00</pubDate>
+    <title>Vaadin - web app framework</title>
+</post>

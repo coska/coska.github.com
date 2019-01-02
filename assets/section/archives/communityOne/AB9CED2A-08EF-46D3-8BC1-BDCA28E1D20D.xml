@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이홍식</author>
+    <comments/>
+    <content>설치시 password 등록에 문제가 있었습니다!&#xD;
+&#xD;
+win2000에 db2admin login password와 install시 등록한 password가 달랐기 때문에 db2start가 작동되질 않았던 것 같습니다.&#xD;
+&#xD;
+Control Panel - Admin Tool - Service 에서 db2의 owner인 db2admin의 password를 win2000/db2admin과 match시켜 주었더니 table creation을 할 수 있었습니다.&#xD;
+&#xD;
+김용우씨 감사합니다.&#xD;
+익준씨도 고마와요.&#xD;
+&#xD;
+&#xD;
+김용우 wrote:&#xD;
+&gt; &#xD;
+&gt; 음.. SQL1042가 connect시 발생하는것으로 봐서.. db2가 제대로&#xD;
+&gt; 설치 되어 있지 않는것 같습니다. &#xD;
+&gt; &#xD;
+&gt; 현재 사용하는 버전과 시스템사양을 알려주시고&#xD;
+&gt; db2diag.log화일 ($DB2PATH/DB2 디렉토리안에 있슴)을 첨부&#xD;
+&gt; 해주시고, trap화일이나 dump화일이 있으면 함께 알려주시면&#xD;
+&gt; 좋겠습니다.&#xD;
+&gt; &#xD;
+&gt; W2K나 NT의 경우에 사용자가 따로 db2start를 할 필요가&#xD;
+&gt; 없고 login또한 window login이름을 사용하므로 별도로 .. 신경&#xD;
+&gt; 쓸일이 없습니다.&#xD;
+&gt; &#xD;
+&gt; 설치를 다시 하시고... 그래도 계속적으로 문제가 발생하면 &#xD;
+&gt; 연락주십시요..&#xD;
+&gt; &#xD;
+&gt; -꾸벅-&#xD;
+&gt; &#xD;
+&gt; &#xD;
+&gt; &#xD;
+&gt;  </content>
+    <postId>AB9CED2A-08EF-46D3-8BC1-BDCA28E1D20D</postId>
+    <pubDate>2001-06-22T00:00:00-04:00</pubDate>
+    <title>이제 잘 됩니다!!</title>
+</post>

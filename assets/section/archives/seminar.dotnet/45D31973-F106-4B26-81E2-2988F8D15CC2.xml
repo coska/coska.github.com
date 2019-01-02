@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이호준</author>
+    <comments/>
+    <content>이번 세미나 주제는 Java.util대신 아래 내용으로 변경되었으니 참조바랍니다.&lt;br&gt;&lt;br&gt;◆ Classes and Objects describes how to write the classes from which objects are created, and how to create and use the objects. &lt;br&gt;&lt;br&gt;◆ Interfaces and Inheritance describes interfaces&amp;#8212;what they are, why you would want to write one, and how to write one. This section also describes the way in which you can derive one class from another. That is, how a subclass can inherit fields and methods from a superclass. You will learn that all classes are derived from the Object class, and how to modify the methods that a subclass inherits from superclasses. &lt;br&gt;&lt;br&gt;보다자세한 내용은 http://java.sun.com/docs/books/tutorial/java/index.html 를 참조하세요. ^^&lt;br&gt;&lt;br&gt;&amp;gt;장소 : 갤러리아 문화센터&lt;br&gt;&amp;gt;날짜 : 2007년 8월 2일 목요일&lt;br&gt;&amp;gt;시간 : PM 7:00 - 8:30&lt;br&gt;&amp;gt;내용 : Java.util (Vector, Arraylist, Hashtable 등) &lt;br&gt;&amp;gt;강사 : 이호준&lt;br&gt;</content>
+    <postId>45D31973-F106-4B26-81E2-2988F8D15CC2</postId>
+    <pubDate>2007-07-31T00:00:00-04:00</pubDate>
+    <title>[re] 2007년 8월2일 자바 스터디</title>
+</post>

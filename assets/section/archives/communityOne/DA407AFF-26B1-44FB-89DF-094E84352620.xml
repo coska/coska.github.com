@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김중수</author>
+    <comments/>
+    <content>좋은 생각이십니다..&#xD;
+헌데 제 생각으로는 이 프로젝트는 Java보다는 ASP나 PHP,Perl등을 이용하는게 훨씬 경제적이고 관리가 쉬울것 같습니다.&#xD;
+공부만을 위해서라면 Java,J2EE계열로 가는게 좋지만, &#xD;
+프로젝트의 수주및 완성,관리를 위해서는 다른 편으로 가는게..&#xD;
+&#xD;
+또 특히 EJB는 몇년 후의 B2B로의 확장을 고려 한다면 모를까..&#xD;
+너무 무거워 실협의 요구사항에는 부적합 하지 않을까 하는 생각이 듭니다..&#xD;
+실예로 저의 프로젝트(상당히 큰 대규모 ..GUI part만 백만불)에 EJB를 썼다가 그 속도 때문에 호되게 고생한 기억이 있어서요..&#xD;
+...최초의 Loading Timems 은 거의 환상적이 더군요..Zzzzzzz..&#xD;
+&#xD;
+(죄송합니다.. 주제 넘게 아는 체를 해서...&#xD;
+  저는 그냥 도움이 되셨으면 해서리....)&#xD;
+</content>
+    <postId>DA407AFF-26B1-44FB-89DF-094E84352620</postId>
+    <pubDate>2004-03-11T00:00:00-05:00</pubDate>
+    <title>의견하나..</title>
+</post>

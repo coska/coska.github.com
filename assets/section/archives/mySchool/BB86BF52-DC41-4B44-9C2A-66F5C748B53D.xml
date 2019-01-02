@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>KB</author>
+    <comments/>
+    <content>&amp;lt;JUnit&amp;gt;&lt;br&gt;After attending .Net user group meeing tonight, I spent some time adding a Student test case. Currently it works well with Address.&lt;br&gt;&lt;br&gt;I will be adding more relationships soon:&lt;br&gt;- consulting history&lt;br&gt;- course records &lt;br&gt;- education history&lt;br&gt;&lt;br&gt;&amp;lt;Model build&amp;gt;&lt;br&gt;I checked in a build file - build.xml - to build a model jar file. The following is how you build the model.&lt;br&gt;1) Right-click on build.xml&lt;br&gt;2) Select Run As -&amp;gt; Ant Build&lt;br&gt;3) After a successful run, it will generate myschool.jar. You need to refresh the folder to see the generated file.&lt;br&gt;4) Copy the jar file as needed. e.g WEB-INF/lib. Now you can use the model API. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content>
+    <postId>BB86BF52-DC41-4B44-9C2A-66F5C748B53D</postId>
+    <pubDate>2006-02-15T00:00:00-05:00</pubDate>
+    <title>JUnit pass 56%, source code build started</title>
+</post>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>부기흡</author>
+    <comments/>
+    <content>Added a couple more user scenarios and updated File I/O requirements. Feel free to add/update these and other sections.&lt;br&gt;&lt;br&gt;http://filegate.wikispaces.org/srs.html&lt;br&gt;&lt;br&gt;Note: There was a question regarding whose company is borasoft.com, or wikispaces.org for that matter. Even if I do not understand the true intention of that question, it is all ir-relevant. I am providing all of these, and I am the one who is providing the server where the current web drive is sitting as well. If anyone is willing to contiribute web hosting for free, I would not mind changing it to filegate.YourGoodWillCompany.com.&lt;br&gt;&lt;br&gt;All of these are going to change anyway because we cannot use the name FileGate that would have been already copyrighted.&lt;br&gt;&lt;br&gt;On a different note, the souce code comments, FileGate forum postings, web drive, e-mail, and homepage are all complementary communication mechanisms. Each of these has its own purpose - i.e. they are not mutually exclusive. For example, I would use forums for on-going discussion but use homepage for organizing documents or meeting minutes. It is not like you choose one or the other.&lt;br&gt;&lt;br&gt;My 2 cents.</content>
+    <postId>A32467E1-625F-43F9-8CE7-A35B4AD0B847</postId>
+    <pubDate>2005-09-19T00:00:00-04:00</pubDate>
+    <title>Requirements Spec updated</title>
+</post>

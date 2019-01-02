@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>신민용</author>
+    <comments>
+        <comment>
+            <author>황성규</author>
+            <date>2002-08-19T00:00:00-04:00</date>
+            <content>비밀번호가 "secret"이 아니군요. 우리가 자주쓰던 그 비밀번호입니다.</content>
+        </comment>
+    </comments>
+    <content>Database 강의 9월 2 째주..&#xD;
+&#xD;
+참가하시고 싶은 분은 이름과 원하는 날짜를 적어주세요. &#xD;
+원하는 날짜중 가장 많은 날로 하겠습니다. &#xD;
+강의는 이인석씨의 영향을 받아 영어로 진행합니다.&#xD;
+질문답변도 영어로 진행됨.&#xD;
+&#xD;
+강의내용: 데이타비이스 모델링을 중심으로,&#xD;
+          가능한 데이타베이스 관련사항을 &#xD;
+          모두 취급하려 합니다.&#xD;
+          기본 SQL과, 흔희 실수하는 Pitfall,&#xD;
+          시간이 되면, PL/SQL&amp; stored procedure.&#xD;
+          또한 시간이 되면, How to use JDBC&#xD;
+          or how to access in C++.&#xD;
+          그래도 시간이 나면 Dynamic SQL &amp; &#xD;
+                             Database Object by O.O.P.&#xD;
+                             which is only supported by&#xD;
+                             higher than Oracle 8i.&#xD;
+          시간을 아주 쥐어짜서 약간의 틈이 있으면&#xD;
+          How to use Weblogic Connection pool &amp;&#xD;
+          JTA&#xD;
+          or EJB Transactions.&#xD;
+          무조건 시간을 막판에 조금 내서&#xD;
+          와인을 한잔 합시다.&#xD;
+&#xD;
+    칠판이 좀 큰게 있으면 좋겠는데.....&#xD;
+&#xD;
+장소 : 황성규자택 &#xD;
+ 19 Moresby St. Richmond Hill&#xD;
+  (905) 762-9537&#xD;
+일시 : date: 9월 6일 금요일&#xD;
+       time: 08:00 PM&#xD;
+(비밀번호 is secret) &#xD;
+&#xD;
+참가자&#xD;
+--------------------------------------- &#xD;
+신민용&#xD;
+황성규 - 기대가 됩니다. 몇번에 나누어서 시리즈로 하심이...&#xD;
+이성기 &#xD;
+이인석&#xD;
+최덕선&#xD;
+강동경&#xD;
+Brendan(김성욱) - 엄청 기대 됩니다. 많이 배울 것 같네요. ^^&#xD;
+김민&#xD;
+홍대의&#xD;
+강윤정&#xD;
+홍영기&#xD;
+백재진 - 칠판큰거 있음&#xD;
+염희경 - 오늘 지원해도 되죠?</content>
+    <postId>E156E99E-416A-4678-B900-C730C343CABE</postId>
+    <pubDate>2002-08-19T00:00:00-04:00</pubDate>
+    <title>데이타베이스 강의</title>
+</post>

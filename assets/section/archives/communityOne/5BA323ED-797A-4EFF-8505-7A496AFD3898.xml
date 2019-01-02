@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>최덕선</author>
+    <comments>
+        <comment>
+            <author>고상호</author>
+            <date>2004-02-11T00:00:00-05:00</date>
+            <content>May I ask what kind of position, industry, develop environment you had interview?&#xD;
+It is so picky. &#xD;
+</content>
+        </comment>
+    </comments>
+    <content>The followins are one of them asked during the recent telephone interview.&#xD;
+&#xD;
+1) What is the difference between inner and outer join ?&#xD;
+2) Tell me how to implement when you receive message in the JMS.&#xD;
+3) Please tell the MVC in the struts context&#xD;
+...&#xD;
+&#xD;
+Hope it is useful to who might be interested.&#xD;
+&#xD;
+</content>
+    <postId>5BA323ED-797A-4EFF-8505-7A496AFD3898</postId>
+    <pubDate>2004-02-11T00:00:00-05:00</pubDate>
+    <title>Technical question...</title>
+</post>

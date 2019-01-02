@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김민</author>
+    <comments/>
+    <content>Hi,&#xD;
+&#xD;
+ We are encouraging you to download the BackupMaster from "http://www.storageasp.com/" and use the great and secure backup solution provided by StorageASP. You can see the blinking button on left botton side to main web page for downloading.&#xD;
+&#xD;
+ You can think it's a e-Hard which was serviced by a few vendors. But all of sites are changed from free to charging the fee. Initial limit of usage is "100 MB". Also we are pretty sure,,, we cannot open your file ... So you should keep the your id,password and private key. Private key is used to encryt the data.&#xD;
+&#xD;
+&#xD;
+Required Steps :&#xD;
+1. Download "BackupMASTER2_ENG.exe"&#xD;
+2. Extract file to temp directory&#xD;
+3. Install by "Install.exe"&#xD;
+4. Modify "Server.ini" file like below -&#xD;
+  [SERVER INFO]&#xD;
+  METHOD=HOST&#xD;
+  VALUE=backupmaster.storageasp.net&#xD;
+5. Execute BackupMaster2.0 and register ..&#xD;
+6. And enjoy the beautiful app.&#xD;
+&#xD;
+If you have any concern and problem, please mail me "min.kim@storageasp.com".&#xD;
+&#xD;
+Thank you.   </content>
+    <postId>69037DDD-C860-4B63-BB38-D800E820EB1A</postId>
+    <pubDate>2002-07-08T00:00:00-04:00</pubDate>
+    <title>Backup your hard to secure StorageASP by Backup Solutions.</title>
+</post>

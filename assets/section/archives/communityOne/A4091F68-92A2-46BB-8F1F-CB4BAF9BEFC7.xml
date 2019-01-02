@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>고상호</author>
+    <comments/>
+    <content>XMLSPY로 작성된 shcema를 Eclipse Modeling Framework (EMF) 이용하여 자바 클래스를 생성했는데 일부만 생성되는군요. 호환성에 문제가 있는건지, 아니면 내가 뭘 잘 못했는지 모르겠네요. 사용법은 매우 간단하던데...&#xD;
+해결책이나, EMF가 아니더라도 다른 방법을 추천해 주실분 있으신가요?&#xD;
+신속한 해결책을 제공하는 분께 후사함 :)</content>
+    <postId>A4091F68-92A2-46BB-8F1F-CB4BAF9BEFC7</postId>
+    <pubDate>2009-11-05T00:00:00-05:00</pubDate>
+    <title>How to generate Java from schema (xsd)</title>
+</post>

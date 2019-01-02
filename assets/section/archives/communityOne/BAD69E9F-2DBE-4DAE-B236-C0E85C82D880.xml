@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>thomas lee</author>
+    <comments/>
+    <content>I have had the unique opportunity to review several thousands resumes over the&#xD;
+career and interview several hundred people for IT job positions for my clients&#xD;
+and startups I have done work with during my career. At Echoworx, the number of&#xD;
+resumes I reviewed and threw in the garbage numbered over 4000. During my time&#xD;
+at Echoworx though I developed a series of standard interview questions or concepts&#xD;
+that would allow me to determine if the person I was hiring was good for the IT&#xD;
+position. Unfortunatly, we did not hire many people although the people that I did&#xD;
+hire did excellent work.  &#xD;
+&#xD;
+Andrew Dick wrote a paper of this experience (he worked with me at Echoworx) and&#xD;
+presented it at XP 2001. The paper was on personality traits. Today I came across&#xD;
+a brief &lt;a href="http://www.artima.com/wbc/interprog.html"&gt;article&lt;/a&gt; that discussed &#xD;
+hiring policies that came out from the 'Writing better code summit' in Oregon. Overall &#xD;
+I enjoyed the article and thought, "Hey, I have never posted my interview approach". &#xD;
+So, here is it...&#xD;
+&#xD;
+- Ask about hobbies. Hiring for a person that will work well within the environment is as important&#xD;
+as hiring for skills. It's a shame that schools feel that you should not write hobbies on the resume.&#xD;
+This is poor knowledge of our contemporary environment. In an interview I always ask a person about&#xD;
+his hobbies. I use there ability to discuss hobbies as a factor in determining their personality as&#xD;
+well as their communication skills. Finding out about a person is important. &lt;i&gt;Being a long-time&#xD;
+martial arts practitioner, I interviewed one person who was a green-belt in a form of Karate. In the&#xD;
+interview I asked them the form (pre-defined pattern of techniques) they where studying and even&#xD;
+mentioned the one I thought it would be. His answer was "YES". Nothing else. He didn't get the job.&#xD;
+&#xD;
+- Whats wrong with this. Give the person a series of code snippets that have problems&#xD;
+with them and ask them to name as many things they can find wrong. This can be from poor coding conventions&#xD;
+to blatant code errors. Have a series of questions that cover the basics you want in your new employee.&#xD;
+&#xD;
+- Cover your basics. Don't concern yourself with the time an individual had with&#xD;
+a particular skill over the amount of experience they have had with it. Seven years of Java experience&#xD;
+does not mean 7 years of practical experience over 7 years of doing something or having it on the resume.&#xD;
+Remember, practical knowledge is more important than textbook knowledge. A good Java developer with firm&#xD;
+basics will be a great C# developer even if he has only picked up the book a few days. Why? The power of&#xD;
+basics. The wisdom from experience.&#xD;
+&#xD;
+- What do you like. Ask the person in question what technologies they like and why? For&#xD;
+me I like the Macintosh platform and programming in Objective-C and Java. I can go on-and-on about the &#xD;
+Macintosh. Find out where their non-professional direction would take them. Do they do programming at &#xD;
+home or are they a 9-to-5'er? Determining technical happiness outside of work is enlightening in &#xD;
+determining who got into the job for the "dot-com-boom" and who is in it for the luv of tech.&#xD;
+&#xD;
+- Ask the expert questions. If someone says they are an expert, research an expert&#xD;
+question. Review the spec. for some gleam of information or ask a friend. Never hurts you to learn more&#xD;
+and being an expert means you have a ton of knowledge...I mean..your an expert right.&#xD;
+&#xD;
+- Whats your opinion on. Ask the person what his opinion on a hot technical topic,&#xD;
+a problem you are having in the office, or a general thought. I like asking questions such as "What&#xD;
+do you think of EJBs" or "What do you think of Extreme Programming" or "Which do you prefer and why,&#xD;
+XSL or JSP?"&#xD;
+</content>
+    <postId>BAD69E9F-2DBE-4DAE-B236-C0E85C82D880</postId>
+    <pubDate>2003-04-04T00:00:00-05:00</pubDate>
+    <title>Hiring, Resumes, and the Road to Hell - 2nd XP Toronto</title>
+</post>

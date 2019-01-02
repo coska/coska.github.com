@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김민</author>
+    <comments/>
+    <content>Extract From : http://www.pbs.org/&#xD;
+&#xD;
+Sunset &#xD;
+How to Avoid the Almost Certain End of Sun Microsystems &#xD;
+&#xD;
+By Robert X. Cringely &#xD;
+&#xD;
+Every five to 10 years, Silicon Valley goes broke. This began in the 1950s and maybe long before, but the 1950s is as early as I care to write about.  The Valley then was filled with apricot and cherry orchards only to see agriculture driven out first by the military and aerospace, and then by semiconductor companies.  It is fitting that Shockley Semiconductor -- the first of many transistor companies -- was started in a shed previously used for drying apricots.  Transistors begat Integrated Circuits, which begat memory chips, which begat microprocessors, which begat personal computers, which begat consumer software, which begat networks, which begat the Internet, which begat the day before yesterday and the day after tomorrow. And each of those transitions was accompanied by a seismic shudder going through the Valley as companies went under and home prices slowed, for just a moment, their inexorable rise before continuing to climb again.  A few familiar names survived from each era, but most of the companies went out of business because that's the way it is.  We burn our fields in Silicon Valley, then plow the ashes under and start anew.  It is perfectly natural, then, for companies to die here, but that doesn't mean there is no room for regret and nostalgia.  So today I look with nostalgia on Sun Microsystems and hope -- probably in vain -- that the company doesn't die. &#xD;
+&#xD;
+Sun did not invent the engineering workstation, but they certainly perfected it.  But where are workstations today?  Gone, for the most part.  Sun's workstation business is about the same size as SGI's, which is to say small.  Sun is now a server company, but that won't last long either under the onslaught of Linux.  Cheap Intel and AMD hardware running Linux is going to kill Sun unless the company does something so stop it, which they aren't. &#xD;
+&#xD;
+Sun made a big show this week of rolling out its new product strategy, called N1, which pits the company directly against both Microsoft and IBM.  Both Napoleon and Hitler learned the hard way that it is not a good idea to fight a war on two fronts, and Sun, which can barely afford to compete against one of those companies, much less both, is about to get the same rueful lesson. &#xD;
+&#xD;
+Sun's announcements were too little, too late, and they were made by absolutely the wrong people -- a succession of marketing executives.  Sun is an engineering company, so where were the engineers?  The engineers were kept in the back rooms lest they reveal the despair being felt right now in their company.  The problem is that Sun has no real technical leadership.  CEO Scott McNealy doesn't know what to do with the company.  Ed Zander is gone, which is good, but that means it has been years since the company had anything like charismatic or visionary leadership.  It doesn't look good. &#xD;
+&#xD;
+Even Java is becoming superfluous.  Java is the Dan Marino of software. Just as the former Dolphins quarterback, Java affected the world so much that history cannot be written without its mention.  But nonetheless, neither Java nor Dan ever won the big one.&#xD;
+&#xD;
+So here is the prognosis.  Sun lost $2 billion last year and will probably lose another $2 billion this year.  At that rate, the company has at most five years to live.  They have just renewed a commitment to the Solaris operating system, which is no longer really viable from an economic standpoint.  I know, I know, Solaris users love Solaris, but they don't love Solaris prices.  And with a falling market share, Sun can't afford to make Solaris any cheaper.  Sun is having the same problem in hardware where their SPARC architecture is falling behind, and -- worse still -- has lost nearly all of its manufacturing support in Japan.  Both Solaris and SPARC will absorb vast sums in the coming years and yield absolutely no increase in Sun's market share as a result. &#xD;
+&#xD;
+Here is something very important to understand: winning its current anti-trust suit against Microsoft will not change the final outcome for Sun. An award of $1 billion or even $3 billion (possible treble damages) won't do anything except buy a little time. &#xD;
+&#xD;
+It would be great if something happened to arrest Sun's fall.  One rumor going around is that Sun will merge with Apple, which is ironic since Gil Amelio tried unsuccessfully to GIVE Apple to Sun back in early 1997 before Gil was fired as Apple CEO.  The logic behind this rumor is that Apple is now effectively a Unix company, that Apple and Sun could target the desktop and server markets, respectively, and that Sun would drop SPARC in favor of PowerPC processors. &#xD;
+&#xD;
+This is a nice rumor, but I don't believe it.  Steve Jobs has done an excellent job of turning Apple into a boutique computer company.  He can move Apple quickly to stay ahead of the market as he is doing right now shifting the company more and more into notebooks, about the only PC area that is still growing.  But Jobs couldn't do the same thing with a post-merger Apple/Sun.  The company would be too big and the cash reserves would be too low.  The competition -- again Microsoft and IBM -- would be too big and too rich. Steve is ambitious, but he is not an idiot.  There is nothing at Sun right now that Apple needs. &#xD;
+&#xD;
+So what is to be done?  The answer is clearly two versions of the same thing.  Sun can either find a merger partner to take the company out of its predicament or it can find its own strategy to achieve the same result.  Either way, this is a time for Scott McNealy to literally bet the company. &#xD;
+&#xD;
+To hear them talk, Sun's marketing folks think they are already betting the company, but they aren't.  They are throwing the company away, which is very different.  It is the difference between taking a calculated risk that might turn the company around and the current strategy of simply spending more money NOT trying to turn the company around in hopes that some happy accident will take place before Sun is completely broke. &#xD;
+&#xD;
+I don't know exactly what Sun should do to save itself, but I know it has to involve a bold and brash move that changes the entire company, and with that, the entire game.  Sun has to reinvent itself.  &#xD;
+&#xD;
+One way to do that is through a merger, but the logical merger partner isn't Apple, it is Sony.  The two companies have been talking about some kind of strategic alliance.  Maybe these are merger talks.  Sony is incredibly strong, having just posted its biggest-ever profit.  Sony leadership is changing, making possible a bold move as the new management tries to put its own stamp on the company.  Sony has both the resources to support Sun and the need for technology Sun can provide. &#xD;
+&#xD;
+Sony is a leader in consumer electronics and home entertainment, but not in computers.  While the combined companies could field some very good computer offerings, extending Sony's influence into the server space, the real value of the combination lies in using Sun technology and know-how to transform Sony's current bread-and-butter businesses, which are TVs, video games, and movies. &#xD;
+&#xD;
+With Sun's help, Sony could redefine television, bringing it into the emerging broadband era.  A Sony Internet TV could show Sony content received over a Sony global network, all engineered by Sun.  It is a powerful attraction, and at around $3 per share, Sun is very affordable for Sony. &#xD;
+&#xD;
+I don't know if this will happen, but it might.  If it doesn't happen, then Sun will just have to go it alone, which means Scott McNealy will have to stumble on a new business just as he stumbled on servers and Java.  This means getting new and energetic technical leadership for the company, which desperately needs another Bill Joy.  Then it means finding a new product direction.  And finally it involves betting the whole darned company on that direction.  Like Hernando Cortez conquering Mexico, McNealy has to burn his ships to make retreat impossible.  While the risk in this strategy looks great, the alternative is almost certain doom.  &#xD;
+&#xD;
+What can make the new strategy succeed is a particular CEO behavior: McNealy has to not grow up.  Be brash, be stupid even.  Take enormous risks and do it with &amp;eacute;lan.  Only then will Sun return to greatness. &#xD;
+</content>
+    <postId>5DEF5B23-1BD7-4595-9087-5A77B1E9387B</postId>
+    <pubDate>2003-02-17T00:00:00-05:00</pubDate>
+    <title>How to Avoid the Almost Certain End of Sun Microsystems </title>
+</post>

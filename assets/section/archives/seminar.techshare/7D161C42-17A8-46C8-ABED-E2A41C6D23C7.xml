@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>강동욱</author>
+    <comments/>
+    <content>아래의 것은 C/C++를 배울때 기초 부분이지만.. &lt;br&gt;대부분의 경력자들도 분명히 알지 못하고 왔다 갔다 하죵.&lt;br&gt;이 기회에 함 &amp;#52428; 바람..&lt;br&gt;&lt;br&gt;&lt;br&gt;1. 보통 parameter를 넘겨 줄때 (기냥 넘어가고.)&lt;br&gt;&lt;br&gt;void Function1(int i0); // declare&lt;br&gt;&amp;nbsp;&amp;nbsp;int i=0;&lt;br&gt;&amp;nbsp;&amp;nbsp;Function1(i);&lt;br&gt;이경우는 Function1에서 i값을 바꾸어도 원래 i는 그대로징..&lt;br&gt;&lt;br&gt;&lt;br&gt;2. point를 넘겨 줄때 ( 아! 그치 .. 참 오랫만에 보죵. 하지만 쉬워)&lt;br&gt;void Function2(int *pi) // declare&lt;br&gt;&amp;nbsp;&amp;nbsp;int i=0;&lt;br&gt;&amp;nbsp;&amp;nbsp;Function2(&amp;i);&lt;br&gt;이건 i에 뭔가 받아 올려고 i의 pointer(번지)를 넘겨주종..&lt;br&gt;&lt;br&gt;&lt;br&gt;3. reference를 넘겨 줄때 (읔.. 이거이 머드라.. 음 마죠.. 기억나죵)&lt;br&gt;void Function3(int &amp;ii); // declare&lt;br&gt;&amp;nbsp;&amp;nbsp;int i=0;&lt;br&gt;&amp;nbsp;&amp;nbsp;Function3(i);&lt;br&gt;&lt;br&gt;이경우는 Function3에서 i값을 바꾸면 돌아온 후에 바뀌어 있징..&lt;br&gt;&lt;br&gt;&lt;br&gt;4(오늘의 요지). 근데.. 문제는.. int형이나 double형이 아니고.. pointer를 받아 오거나.. 함수 안에서 변경 할려면.. (캑!.. 요건.. 또 머시다냐.. 이런게 머있지?, 이런거 안써도 프로그램 잘짜나?.. 근데 분석하려는 소스에 있음.. 우짜나?)&lt;br&gt;&lt;br&gt;void Function4(int *&amp;pii); // declare&lt;br&gt;&amp;nbsp;&amp;nbsp;int *pi = NULL;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp;&amp;nbsp;Function4(pi);&lt;br&gt;&lt;br&gt;&lt;br&gt;물론 pointer의 pointer를 쓸수도 있징..&lt;br&gt;void Function5(int **ppi); // declare&lt;br&gt;&amp;nbsp;&amp;nbsp;int *pi = NULL;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp;&amp;nbsp;Function5(&amp;pi);&lt;br&gt;&lt;br&gt;그럼 나중에 또...&lt;br&gt;&lt;br&gt;&lt;br&gt;</content>
+    <postId>7D161C42-17A8-46C8-ABED-E2A41C6D23C7</postId>
+    <pubDate>2001-12-12T00:00:00-05:00</pubDate>
+    <title>[I] C++ 에서 pointer를 reference 하는 법 (&amp; operator사용)</title>
+</post>

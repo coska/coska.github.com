@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이홍식</author>
+    <comments/>
+    <content>public class TestIf&#xD;
+{&#xD;
+	public static void main(String[] args)&#xD;
+	{&#xD;
+&#xD;
+		String var1 = "1234";&#xD;
+		String var2 = "1234";&#xD;
+		String var3 = new String("1234");&#xD;
+		String var4 = new String("1234");&#xD;
+&#xD;
+		/*&#xD;
+		This if will be displayed as both reference var1 and var2 denote(or point) to the&#xD;
+		same anonymous String Object.  Java	shares the reference for all string literals &#xD;
+		with same contents for optimization	purpose &#xD;
+		- "A programmer's guide to Java Certification by K.A. Mughal, p307"&#xD;
+		*/&#xD;
+		if (var1 == var2)&#xD;
+		System.out.println("1. two objects are same");&#xD;
+				&#xD;
+		/* &#xD;
+		This if will be displayed. This is object value equality testing &#xD;
+		i.e. The value of the var1 equals the value of var2.&#xD;
+		*/&#xD;
+		if (var1.equals(var2))&#xD;
+		System.out.println("2. two values are same");&#xD;
+&#xD;
+		/*&#xD;
+		This if will not be displayed.&#xD;
+		The var3 is a brand new reference, thus different from var4. "==" tests the reference equality, not the value of the reference it denotes to.&#xD;
+		*/&#xD;
+		if (var3 == var4)&#xD;
+		System.out.println("3. two objects are same");&#xD;
+&#xD;
+		/*&#xD;
+		This if will not be displayed, same reason as if #3&#xD;
+		*/&#xD;
+		if (var3 == "1234")&#xD;
+		System.out.println("4. two values are same");&#xD;
+&#xD;
+		/*&#xD;
+		This if will be displayed, same reason as if #2&#xD;
+		*/&#xD;
+		if (var3.equals("1234"))&#xD;
+		System.out.println("5. two values are same");&#xD;
+	}&#xD;
+}&#xD;
+&#xD;
+이성기 wrote:&#xD;
+&gt; Can you guess which if condition will not be displayed? Which one do you think right expression for string comparison and why?&#xD;
+&gt; &#xD;
+&gt; String  var1 = "1234";&#xD;
+&gt; String  var2 = "1234";&#xD;
+&gt; String  var3 = new String("1234");&#xD;
+&gt; String  var4 = new String("1234");&#xD;
+&gt; &#xD;
+&gt; if (var1 == var2)&#xD;
+&gt;    System.out.println("two objects are same"); &#xD;
+&gt; &#xD;
+&gt; if (var1.equals(var2))&#xD;
+&gt;    System.out.println("two values are same"); &#xD;
+&gt; &#xD;
+&gt; if (var3 == var4)&#xD;
+&gt;    System.out.println("two objects are same"); &#xD;
+&gt; &#xD;
+&gt; if (var3 == "1234")&#xD;
+&gt;    System.out.println("two values are same"); &#xD;
+&gt; &#xD;
+&gt; if (var3.equals("1234"))&#xD;
+&gt;    System.out.println("two values are same"); &#xD;
+&gt; </content>
+    <postId>E18F6855-D2A3-4F2C-A285-8EE19DB30780</postId>
+    <pubDate>2001-11-02T00:00:00-05:00</pubDate>
+    <title>RE: Answer for the Java Quiz</title>
+</post>

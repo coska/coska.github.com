@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김종윤</author>
+    <comments/>
+    <content>이성기씨,강윤정씨,황성규씨 신민용씨 그리고 전화로 통화한 김민씨 모두 감사드립니다. 고수들의 경험많은 한수에 몸이 한껏 그 정기를 받은 느낌입니다.&#xD;
+&#xD;
+Application logging(log4j를쓰고 있음)을 info 레벨로 내리니까, 1분여걸리던것이 2초안에 끝나는군요. 문제가 되던 Class가 recursive call을 하고 있었고 그안에 logging이 있었지요. Generic하게 한 접근은 점수를 살만했는데, 그 코딩을 풀어 해치기는 싫고... NT보다 AIX에서의 logging이 제속도가 안난다는것이 이해가 안되지만, 너무나 급박한 상황이라, 다른 가능성들을 추후에 정리해서 잡아나가기로 하고 결론지었습니다.&#xD;
+&#xD;
+IBM JVM을 쓰고 있었습니다.&#xD;
+SQL쪽 튜닝,connection pool, code table load도 별 문제없고,&#xD;
+sychronized 사용은 살펴보겠습니다.&#xD;
+강윤정씨의 3번(3. Run the application with DEBUG mode off. )결국 현재의 해결책이 되었네요. &#xD;
+Excessive object instantiation 도 남겨놓은 숙제입니다.&#xD;
+&#xD;
+</content>
+    <postId>95333E47-F57A-49E7-AFA3-387DE677D3B8</postId>
+    <pubDate>2002-09-04T00:00:00-04:00</pubDate>
+    <title>[감사합니다] performance issue for java on AIX</title>
+</post>

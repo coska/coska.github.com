@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>허현옥</author>
+    <comments>
+        <comment>
+            <author>부기흡</author>
+            <date>2006-04-12T00:00:00-04:00</date>
+            <content>that sounds strange. let me understand a little more.&lt;br&gt;after you add education history items: A, B, C, and D in this order, are you getting them back in a different order?</content>
+        </comment>
+        <comment>
+            <author>허현옥</author>
+            <date>2006-04-12T00:00:00-04:00</date>
+            <content>yes. even though I got those data with "createFilter" method with "Order by" phrase, it comes out strange order not that I intend to.&lt;br&gt;&lt;br&gt;I think you can try put several data of EducationHistory for Student object then get it back from database and check out the order.</content>
+        </comment>
+    </comments>
+    <content>현재 Student에 educationHistory의 데이타 타입은 Set으로되어 있습니다.&lt;br&gt;&lt;br&gt;그때문에 오늘 아까 말씀하시것처럼 다시 Order by를 포함하는 createFilter로 Education을 가져와도 결국 데이타가 들어가는 곧이 Set 이기때문에 나중에 데이타를 불러가지고 나올때 보면 순서가 엉망이 되어서 나오네요..-_ㅜ&lt;br&gt;(이거때문에 삽질 좀 했네요...)&lt;br&gt;&lt;br&gt;제 생각에는 순서가 있는 idbag이나 list로 자료형을 변경하는 게 좋을 것 같습니다. 꼭 Set으로 가야 된다면 아까 잠깐 말씀드렸던 거처럼 메타 파일(.hbm)의 &amp;lt;set 속성에 order-by="....." 속성을 추가해야 될 것 같구요.&lt;br&gt;&lt;br&gt;어떻게 해야 될 지 좀 알려주세요. 그동안 저는 정렬 안되는 상태로 그랸 작업하고 있겠습니다.</content>
+    <postId>E5F22344-5241-43F7-9563-270B0EE392AF</postId>
+    <pubDate>2006-04-12T00:00:00-04:00</pubDate>
+    <title>set 대신 idbag을 사용해야 되지 않을까 싶어요..</title>
+</post>

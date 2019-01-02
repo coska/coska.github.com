@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이홍식</author>
+    <comments/>
+    <content>DB2 환경에서 위와같은 error가 발생하여 Table을 만들지 못하고 있습니다.&#xD;
+&#xD;
+OS는 MS2000쓰고 있습니다. 어떻게 문제를 해결하실 수 있을까요?&#xD;
+</content>
+    <postId>DE8DDBC4-B427-4234-9A51-0F891E7541B0</postId>
+    <pubDate>2001-06-20T00:00:00-04:00</pubDate>
+    <title>SQL1032N  No start database manager command was issued.  SQLSTATE=57019</title>
+</post>

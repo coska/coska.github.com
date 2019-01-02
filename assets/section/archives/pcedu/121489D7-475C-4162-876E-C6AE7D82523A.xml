@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>최종구</author>
+    <comments/>
+    <content>첫번째 방법중 사용자 계정 추가 방법에 대해 문의하신 분이 계셔서 보충 설명 하겠습니다.&lt;br&gt;먼저 자기 계정 암호를 잃어 버렸을때 안전모드로 부팅하고 administrator로 로그인 하셔야 합니다. 그리고 start - control panel - user accounts - create new account 하셔서 새로운 계정을 만드시고 다시 부팅해서 새로 추가한 계정으로 사용하시면 됩니다. 그리고 admin 으로 로그인이 안되시면 두번째 방법으로 하셔야 합니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;gt;첫번째 방법:&lt;br&gt;&amp;gt;일단 부팅시 f8을 눌러서 안전모드로 부팅하시구여...&lt;br&gt;&amp;gt;거기서 사용자 계정을 추가하면서 관리자 권한을 주고 재부팅하면&lt;br&gt;&amp;gt;추가한 사용자 계정으로 로그인 할 수 있고..&lt;br&gt;&amp;gt;(암호는 물어보지 않읍니다)&lt;br&gt;&amp;gt;컴터를 사용할 수 있읍니다..&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;두번째 방법:&lt;br&gt;&amp;gt;암호 분실시, 이 방법은 암호가 저장 되어 있는 파일을 날려 버리는 방법입니다.&lt;br&gt;&amp;gt;이파일은 C:\\\\Windows\\\\system32\\\\config 폴더 안에 있는 SAM이라는 파일입니다.&lt;br&gt;&amp;gt;이넘은 발칙하게도 그냥 지울수는 없습니다. 시스템 파일이다 이거죠. &lt;br&gt;&amp;gt;그럼 이넘을 지우게 되면 결과는 암호 없이 그냥 로그인이 가능합니다. 즉 암호넣는 자리에 엔터만 쳐두 넘어간다는 말입니다.&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;그럼 이넘을 지우는 방법은 여러가지 방법이 있겠죠.&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;1. 멀티부팅시 다른 OS로 부팅한후 지운다.&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;2. CD부팅후 콘솔모드에서 직접 지워 버린다.(NTFS의 경우)&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;3. 다른 컴퓨터의 슬레이브로 붙여서 지워버린다. (이것두 NTFS의 경우 겠죠)&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;4. 부팅 디스크로 DOS로 부팅후 지운다. (FAT 일 경우)&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;이정도의 방법이 있겠군요. &lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;xp 나 2000 모두 가능한 팁입니다. 도움이 되시길..&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;- winbbs.intizen.com and winok.co.kr에서 퍼왔읍니다-&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt;&amp;gt;Window XP 에서 Computer Log-In 시 Password 을 잊어버렸어요 어떻케 해야 하나요? Window 을 다시 설치해야 하나요? &lt;br&gt;&amp;gt;&lt;br&gt;</content>
+    <postId>121489D7-475C-4162-876E-C6AE7D82523A</postId>
+    <pubDate>2003-03-07T00:00:00-05:00</pubDate>
+    <title>[re] Password 을 분실</title>
+</post>

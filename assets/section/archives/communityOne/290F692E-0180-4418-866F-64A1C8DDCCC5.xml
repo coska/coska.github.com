@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김민</author>
+    <comments/>
+    <content>According to the Java Language definition, a static variable is shared among all instances of a class, where a non-static variable -- also called an instance variable -- is specific to a single instance of that class. &#xD;
+&#xD;
+According to the Servlet specification, a servlet that does not declare SingleThreadModel usually has one and only one instance, shared among all concurrent requests hitting that servlet. &#xD;
+&#xD;
+That means that, in servlets (and other multithreaded applications), an instance variable behaves very much like a static variable, since it is shared among all threads. You have to be very careful about synchronizing access to shared data. &#xD;
+&#xD;
+The big difference between instance variables and static variables comes when you have configured your servlet engine to instantiate two instances of the same servlet class, but with different init parameters. In this case, there will be two instances of the same servlet class, which means two sets of instance variables, but only one set of static variables. &#xD;
+&#xD;
+Remember that you can store data in lots of different places in a servlet. To wit: &#xD;
+&#xD;
+- Local variables - for loop iterators, result sets, and so forth &#xD;
+- Request attributes - for data that must be passed to other servlets invoked with the RequestDispatcher &#xD;
+- Session attributes - persists for all future requests from the current user only &#xD;
+- Instance variables - for data that persists for the life of the servlet, shared with all concurrent users &#xD;
+- Static variables - for data that persists for the life of the application, shared with all concurrent users -- including any other servlet instances that were instantiated with different init parameters &#xD;
+- Context attributes - for data that must persist for the life of the application, and be shared with all other servlets &#xD;
+(In the case of SingleThreadModel, there may be many instances of the same servlet class even with the same init parameters. SingleThreadModel is confusing and usually unnecessary.) &#xD;
+&#xD;
+</content>
+    <postId>290F692E-0180-4418-866F-64A1C8DDCCC5</postId>
+    <pubDate>2004-05-26T00:00:00-04:00</pubDate>
+    <title>static variables and instance variables in a servlet</title>
+</post>

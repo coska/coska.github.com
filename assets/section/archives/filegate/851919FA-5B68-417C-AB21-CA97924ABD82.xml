@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김형태</author>
+    <comments>
+        <comment>
+            <author>khboo</author>
+            <date>2005-06-14T00:00:00-04:00</date>
+            <content>i suggest to have the next meeting at the coska picnic.</content>
+        </comment>
+        <comment>
+            <author>박재홍</author>
+            <date>2005-06-14T00:00:00-04:00</date>
+            <content>내부 교육 강사가 제가 아니고 최봉준씨로 알고있는데요?  저는 C#쪽으로는 학생축에 속합니다...</content>
+        </comment>
+        <comment>
+            <author>김형태</author>
+            <date>2005-06-15T00:00:00-04:00</date>
+            <content>박재홍씨 알겠습니다. 수정해 놓겠습니다. 죄송합니다.</content>
+        </comment>
+    </comments>
+    <content>안녕하세요. 날씨가 엄청 덥네요. &lt;br&gt;얼마 전까지 춥다고 푸념했는데...&lt;br&gt;건강 주의하세요.&lt;br&gt;&lt;br&gt;6월 11일 오후 1시에 있었던 FileGate Project 준비모임에 대한 결과를 알려드립니다. 더운 날씨에도 불구하고 많은 분 들이 참석해 호응 해 주셔서 감사했습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;[ 참석하신 분 (무순, 존칭은 생략 ^^) ]&lt;br&gt;&lt;br&gt;이진경, 김동욱, 김석, 나수환, 최이경, 부기흡, 오승준, 최종구, 박윤희, 이상윤, 박진호, 김형태, 박재홍, 고범진, 조복산, 최봉준, 권칠환, 김승엽&lt;br&gt;&lt;br&gt;(몇 분 더 계셨던 것 같은데 진행하느라고 적지 못했습니다. 죄송합니다. 확인 되는대로 다시 올리겠습니다)&lt;br&gt;&lt;br&gt;&lt;br&gt;[ 토의 내용 ]&lt;br&gt;&lt;br&gt;1. Ice Breaking: &lt;br&gt;&amp;nbsp;&amp;nbsp; 멤버들 간에 서로를 조금 알기 위해서 자기 소개 시간을 간단하게 가졌습니다.&lt;br&gt;&lt;br&gt;2. File Gate Basic Concept: &lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; 이번 프로젝트에 대한 제안자(김형태)의 생각을 두서없이 칠판에 적어 가면서 좋은 아이디어들을 받았습니다.&lt;br&gt;&lt;br&gt;3. 역할 정하기: &lt;br&gt;&amp;nbsp;&amp;nbsp; 19명 정도 되는 인력을 잘 활용하면서 재미있게 진행하기 위해서 몇 가지 방법에 대한 논의를 하였고, 다음과 같이 담당을 정했습니다. &lt;br&gt;&lt;br&gt;절대 !!! 담당만 일하는 일이 있어서는 안되겠죠? 담당은 일정과 19명이나 되는 인원들을 잘 뽑아서 전체 협의하에 일을 진행시켜나가야 될꺼 같군요.&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; A. Project Manager: 나수환, 박재홍&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (전체 일정관리 및 인력관리 기타)&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; B. 서기:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;이진경 &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (모임 때마다 토의사항을 기록 및 정리)&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; C. 내부 교육 강사:&amp;nbsp;&amp;nbsp; 4인 &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (부기흡, 김형태, 최봉준, 조복산)이 1회씩 담당합니다.&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; D. 시스템 설계 조장: 김동욱 &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (설계 팀 구성에 필요한 인력들을 긁어 모아서 설계를 진행하게 됩니다)&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; E. UI 설계: 박윤희, 이진경, 최이경&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (1차로 UI 시안을 그려서 오기로 했습니다. 어디까지나 시안, 그러니까 샘플이죠. 너무 부담가지시기 마시길... ^^)&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; F. Graphic Design: 박진호 &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(코스카 멤버들 중에서 그래픽 디자이너가 희귀해서 간단한 그래픽은 우선 멤버들 중에 가장 감각이 출중할 것 같은(^^) 분이 담당하기로 했습니다.&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; G. QA 담당 : 부기흡&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(QA 및 제품 테스트에 관련된 자료를 수집 제공, 관리하셔야 하는 막중한 책임을 지셨습니다.)&lt;br&gt;&lt;br&gt;&lt;br&gt;4. 향후 멤버간의 온라인 메세징&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; A. 대화가 필요한 경우 MSN을 활용하기로 했구요.(멤버 모든 분들께 메일로 공지가 된 걸로 알고 있습니다. 혹시 받지 못하신 분께서는 연락 주세요.)&lt;br&gt;&amp;nbsp;&amp;nbsp; B. 프로젝트와 관련된 공지사항은 COSKA 게시판과 멤버의 email로 공지하도록 했습니다. &lt;br&gt;&lt;br&gt;5. 모임 후 근처에서 간단하게(?) Beer Party를 가졌습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;그리고, 아직 프로젝트 시작이라 참여할 기회가 많을 것 같습니다. 현재 참여하신 분들 이외에도 참여할 의향이 있으신 분들은 언제든지 게시판에 글을 남겨 주세요. 그래픽 디자인 하실 수 있는 분, 아이콘 디자인, 프로그램에 들어가는 그래픽 이미지 디자인 해 주실 수 있는 분, 또 프로그램 하는 데 참여하실 수 있는 COSKA 회원 님들의 많은 참여를 바랍니다.&lt;br&gt;&lt;br&gt;더운 날씨인데도 참석해 주시고, 스스로 올가미를 뒤집어 쓰신(^^) 멤버 분들께 감사 드립니다. 마지막으로 훌륭한 강의실을 빌려주신 박경종 전 COSKA 회장님께 감사 드립니다.&lt;br&gt;&lt;br&gt;임시 진행자 김형태 드림 ^^&lt;br&gt;&lt;br&gt;P.S. 내용에 이상이 있거나 정정이 필요한 부분이 있으시면 리플해 주세요.&lt;br&gt;&lt;br&gt;시간이 촉박한 관계로 가장 중요한 사안인 다음 번 미팅 날짜를 정확하게 잡지 못했습니다(죄송 --;). 다음 번&amp;nbsp;&amp;nbsp;전체 미팅 일정은 나수환 님께서 다른 분들의 일정을 고려해서 다시 공지하면 될 것 같습니다. 감사합니다.&lt;br&gt;&lt;br&gt;</content>
+    <postId>851919FA-5B68-417C-AB21-CA97924ABD82</postId>
+    <pubDate>2005-06-14T00:00:00-04:00</pubDate>
+    <title>코스카 공동 프로젝트 FILE GATE 1차 모임 보고</title>
+</post>

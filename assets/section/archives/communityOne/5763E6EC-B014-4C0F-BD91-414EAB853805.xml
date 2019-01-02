@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>강동경</author>
+    <comments>
+        <comment>
+            <author>김종윤</author>
+            <date>2003-01-09T00:00:00-05:00</date>
+            <content>이계영씨,강동경씨 감사합니다. 조언대로 살펴보겠습니다. 혹시 무슨툴을 쓰셨는지 기억나세요?</content>
+        </comment>
+    </comments>
+    <content>메모리를 점점 많이 잡아 먹는 다는 것은 메모리 leak일 가능성이 있는 같 같은데, 이 경우 메모리 leak을 테스트 하는 툴을 사용하거나, 이와 병행해서 메모리 leak 가능성이 있는 클래스에 클래스 생성/소멸시를 표시할 수 있는 코드를 집어 넣어서 그 상태를 파악할 수 있을 것 같습니다.&#xD;
+제가 예전에 이와 같은 방법으로 메모리 leak을 잡았던 기억이 나네요.&#xD;
+&#xD;
+이계영 wrote:&#xD;
+&gt; 먼저 한순간에 많은 메모리를 필요로 하는 메소드가 있는지 확인이 가능한가요.&#xD;
+&gt; 위의 상황이라면 java를 maximum 메모리 값을 높여서 기동시키면 될것 같습니다.&#xD;
+&gt; 그렇지 않다면 애플리케이션에서 메모리 leak이 있을 가능성이 높고요.&#xD;
+&gt; 특히 데이터베이스 connection pool을 쓰면서 Statement, ResultSet을 닫지 않을 경우 connection pool이 계속 유지되므로 GC가 돌아가도 소용이 없으며 메모리가 부족해질 경우가 있습니다.&#xD;
+&gt; &#xD;
+&gt; 김종윤 wrote:&#xD;
+&gt; &gt; Tomcat4.0.3 가 JRE 1.3.1 on AIX 4.3에서 돌아갑니다.&#xD;
+&gt; &gt; Application 이 잘 돌아가다 어느 순간이 되면 OutOfMemoryError를 내는군요(core와 함께). Application 이 memory를 점점 잡아먹고 있는걸 확인했습니다(ps -el). &#xD;
+&gt; &gt; 우선 stack/heap 어느쪽인지 알수 잇는 방법이 있는지요.&#xD;
+&gt; &gt; GC도 JVM에 돌려줄게 없는거 같은 느낌이 듭니다. 강제적으로 GC를 시키는 방법같은거 있습니까?&#xD;
+&gt; &gt; &#xD;
+&gt; &gt; JVM parameter 조정으로 해결될수 있는건지, kernel value를 조정해야하는건지, 아님 physical memory를 늘려야하는지..잘 모르겠습니다. 어떻게 접근을 해야할지 경험있으신분 조언을 부탁드립니다.</content>
+    <postId>5763E6EC-B014-4C0F-BD91-414EAB853805</postId>
+    <pubDate>2003-01-09T00:00:00-05:00</pubDate>
+    <title>RE: RE: OutOfMemoryError</title>
+</post>

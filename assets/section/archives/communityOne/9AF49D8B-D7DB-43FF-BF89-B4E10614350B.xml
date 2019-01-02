@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>황성규</author>
+    <comments/>
+    <content>안녕하세요. &#xD;
+&#xD;
+아시다시피 회원가입과 관련하여 여러가지 의견이 있었습니다. &#xD;
+여러분의 의견을 종합하여 다음과 같이 사이트를 개선하였습니다. &#xD;
+&#xD;
+커뮤니티원의 회원은 누구나 될수 있습니다. &#xD;
+기본 조건으로 이름과 이메일을 반드시 입력하여야 합니다. 가능하면 실명으로 등록하는것을 권하지만 부득이한경우 가명도 인정합니다. 회원(Member)는 기존에 운영되어온 모든 게시판을 이용할 수 있고 기타 서비스 (쪽지, 채팅)등도 종전과 똑같이 이용가능합니다. &#xD;
+다른 회원의 정보는 이름,이메일과 자기소개만을 볼 수 있습니다. &#xD;
+&#xD;
+Valued Member는 지난 2년간 자바세미나를 해왔던 사람들입니다. &#xD;
+Valued Member는 다른 Member들이 이용하는 모든 서비스외에 몇가지 메뉴가 더 있습니다. Valued Member용 메뉴는 이름뒤에 빨간 별표 * 가 붙어 있습니다. &#xD;
+그리고 Valued Member는 회원들의 정보를 모두 볼수 있습니다. (회사, 전화번호, 주소...) &#xD;
+</content>
+    <postId>9AF49D8B-D7DB-43FF-BF89-B4E10614350B</postId>
+    <pubDate>2001-03-30T00:00:00-05:00</pubDate>
+    <title>Member / Valued Member 로 구분합니다.</title>
+</post>

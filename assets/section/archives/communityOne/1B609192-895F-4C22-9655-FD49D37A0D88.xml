@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>황성규</author>
+    <comments>
+        <comment>
+            <author>황성규</author>
+            <date>2003-04-15T00:00:00-04:00</date>
+            <content>Comm1 server로 직접 ftp하실수는 없구요. 대신 다른site의 이미지/화일은 html tag를 써서 link하시면 됩니다. </content>
+        </comment>
+    </comments>
+    <content>&lt;img src="img/choi.gif"&gt;&#xD;
+&#xD;
+1228 Garcia st. Mississauga 905-814-6170 (최덕선 자택)&#xD;
+       (Britannia &amp; Creditview southeast side)&#xD;
+       I would recommend you to come from CreditView since there is no traffic sign from Britania&#xD;
+&#xD;
+       1.See the Duval rd(new) on your right side before tthe Britania and turn to the right(east), and soon you will meet the WhiteHorn&#xD;
+       2.At the WhiteHorn turn to the left(north), you wouldn't miss the Garcia st on your left side.&#xD;
+&#xD;
+</content>
+    <postId>1B609192-895F-4C22-9655-FD49D37A0D88</postId>
+    <pubDate>2003-04-14T00:00:00-04:00</pubDate>
+    <title>Map</title>
+</post>

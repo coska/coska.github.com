@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이홍식</author>
+    <comments/>
+    <content>I have 3.5 VAJ and my pc is equiped with 128 RAM. The "매개변수" is parameter in english, so the error can be tranlated into "too many parameters".&#xD;
+&#xD;
+If upgrading my pc and OS is the only or preferred solution for this problem, I might have to put it aside and deal with it at a later time and stick with Java IDE I currently have.&#xD;
+&#xD;
+Basically I want to have an IDE that does not crush on me whenever I debug an applet.  I currently have JBuilder 3.0 University version and VCafe Expert edition 4.0.  None of them seems to work well when it comes to an applet.  Do I need to set certain properties to prevent them from crushing?&#xD;
+  &#xD;
+Brian&#xD;
+&#xD;
+&#xD;
+이성기 wrote:&#xD;
+&gt; &#xD;
+&gt; What is your VAJ version? and what size RAM do u have? This is not best idea but I upgraded my PC to 196 RAM and Win2000. I think there is some configuration issue to resolve your problem. I'd like to see English error message. Then we can search the fix on net. for example, www.deja.com&#xD;
+&gt; &#xD;
+&gt; VAJ takes lots of memory basically. </content>
+    <postId>AF3CC302-1AC8-44C5-A9B2-80515234C5FF</postId>
+    <pubDate>2001-05-11T00:00:00-04:00</pubDate>
+    <title>RE: VAJ takes lots of memory basically. </title>
+</post>

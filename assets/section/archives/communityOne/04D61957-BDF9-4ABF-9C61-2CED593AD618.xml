@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>신민용</author>
+    <comments>
+        <comment>
+            <author>황성규</author>
+            <date>2002-09-19T00:00:00-04:00</date>
+            <content>어차피 전체를 다 커버할수 없으니 너무 욕심내지 말고 중요한 부분만 하도록 하지요.</content>
+        </comment>
+    </comments>
+    <content>음... 결국은..이리로 들어왔네,,,( comment란이 넘 적네요..)&#xD;
+내가 생각했던, 모든 것을 다 다음 세미나에서 끝내는게,&#xD;
+좀 무리일것 같아서,,&#xD;
+황성규씨가 SQL전반을 맡아주신다면,&#xD;
+(Join,outer join,SubQuery,built-in function(데이타변환등..),  하는 김에 SQL loader 까지 조금.....)&#xD;
+.&#xD;
+전 미처 못끝낸 SQL부분을 생략하고&#xD;
+바로 Stored procedure및 transaction,and tunning&#xD;
+etc(dead lock,built-in package...)&#xD;
+그래도 여전히 다끝낼수 있을까 하는 염려가 조금 되는 군요.&#xD;
+오라클사에서 하는 전문강사에 의한 &#xD;
+training course는 대략 4주 full day course로 알고 있는데...&#xD;
+황성규씨  what do you think?&#xD;
+</content>
+    <postId>04D61957-BDF9-4ABF-9C61-2CED593AD618</postId>
+    <pubDate>2002-09-19T00:00:00-04:00</pubDate>
+    <title>RE: RE: RE: 데이타베이스 세미나 제안</title>
+</post>

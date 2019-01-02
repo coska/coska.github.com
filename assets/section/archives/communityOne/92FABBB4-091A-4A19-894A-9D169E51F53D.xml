@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이 동휘</author>
+    <comments>
+        <comment>
+            <author>김성욱</author>
+            <date>2003-02-20T00:00:00-05:00</date>
+            <content>I heard that version9 supports Java language, but for 8.5 or belows, I'm not sure.</content>
+        </comment>
+    </comments>
+    <content>Crystal report 를 web 이 아닌 standalone Java application 에서 불러올 수 있나요?&#xD;
+&#xD;
+혹시 있으면, 샘플 코드도 보내주시면 감사하겠습니다.</content>
+    <postId>92FABBB4-091A-4A19-894A-9D169E51F53D</postId>
+    <pubDate>2003-02-18T00:00:00-05:00</pubDate>
+    <title>Crystal report and Java application</title>
+</post>

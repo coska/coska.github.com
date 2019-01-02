@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>이철건</author>
+    <comments>
+        <comment>
+            <author>허현옥</author>
+            <date>2011-05-21T00:00:00-04:00</date>
+            <content>오~ inline라는 값도 있었군요. 링크가 도움이 많이되었습니다. ^^ Andrew님께서 시간나시는데로 고쳐주시리라 믿습니다. ^^</content>
+        </comment>
+    </comments>
+    <content>안녕하세요.&#xD;
+이전부터 기존 컴원 사이트 로그인 루틴 내에 브라우저 고유 렌더링 방식에 의존적인 부분이 있어서 브라우저 종류마다 다른 동작을 보인다는 것은 알고 있었지만 이번 세미나 참가 신청과정에서 회원별 등급이 존재했었고 등급마다 노출되는 메뉴를 표시하는 부분에서도 동일한 문제가 존재한다는 것을 알게되었는데요.&#xD;
+&#xD;
+개인적으로는 구글 크롬을 메인 브라우져로 쓰는 바, 개인적인 불편함으로 인해 이 문제의 디버깅을 시도해보게 되었습니다 ㅎㅎ&#xD;
+&#xD;
+&#xD;
+문제가 발생되는 부분은 csp.js 파일 내 344번 째 코드라인 부터 시작되는 loginCheckProcess 함수로 의심되는데요.&#xD;
+로그인 후 회원타입에 따라 메뉴구성을 위해 관련 엘리먼트들 style 의 display 에트리뷰트 값을 변경하는 부분&#xD;
+&#xD;
+document.getElementById( ID_VALUE ).style.display = '';&#xD;
+&#xD;
+공백 값을 대입하는 대신,&#xD;
+&#xD;
+document.getElementById( ID_VALUE ).style.display = 'inline';&#xD;
+document.getElementById( ID_VALUE ).style.display = 'block';&#xD;
+&#xD;
+같이 실제 값을 지정해 주셔야 할 것 같습니다. 공백을 대입하는 방식은 W3C 표준 방식이 아니어서 IE 에서만 제대로 렌더링되는 것 같습니다.&#xD;
+display 에트리뷰트 관련 레퍼런스는 &lt;a href="http://www.w3schools.com/css/pr_class_display.asp" target="_blank"&gt;여기&lt;/a&gt;에서 확인하실 수 있습니다.&#xD;
+&#xD;
+&#xD;
+-----------------------------------------&#xD;
+&#xD;
+좀 더 알아보니 로그인 후 좌측 메뉴영역 출력에 영향을 끼치는 문제는 style 애트리뷰트의 값이라기 보다는 csp.js 파일의 366, 367 번째 코드라인에 있는&#xD;
+&#xD;
+document.getElementById("valuedOnly1").style.display = '';&#xD;
+document.getElementById("valuedOnly2").style.display = '';&#xD;
+&#xD;
+구문의 ID 문자열 때문인 것 같습니다.&#xD;
+&#xD;
+ID 값의 valuedOnly1, valuedOnly2 의 첫 자를 모두 대문자로 ValuedOnly1, ValuedOnly2 수정하면 될 것 같습니다.&#xD;
+&#xD;
+아마도 그 동안 IE 의 7을 포함한 그 이전 버전의 브라우저 혹은 호환모드의 8 버전에서만 제대로 표시되지 않았나 &lt;a href="http://help.dottoro.com/ljrkpkbi.php" target="_blank"&gt;추측&lt;/a&gt;해봅니다.&#xD;
+&#xD;
+감사합니다.</content>
+    <postId>7B1898AD-2B25-41F9-9105-01CDAFF1531D</postId>
+    <pubDate>2011-05-21T00:00:00-04:00</pubDate>
+    <title>컴원 사이트 로그인 후 회원 별 메뉴 출력 문제</title>
+</post>

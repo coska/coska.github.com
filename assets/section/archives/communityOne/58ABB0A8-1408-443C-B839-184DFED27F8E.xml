@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>강윤정</author>
+    <comments/>
+    <content>순간 머리에 스치는 생각은.. 이건 interface쓰면 해결되지 않나..&#xD;
+하는 -_-;&#xD;
+&#xD;
+1. 매년 바뀔 tax calculation class를 감싸는 interface 생성&#xD;
+2. 1의 interface를 implement하는 당해년도 specific tax class 생성&#xD;
+3. 특정 tax class를 생성하는 factory class 만들고, 그&#xD;
+ factory class는 외부 property file로부터 생성시킬 특정&#xD;
+  class name을 읽어들여서 tax object 만들어 return.&#xD;
+4. caller class는 interface의 method getTax()만 call.&#xD;
+5. 당해년도의 바뀐 tax class를 포함한 jar file로 production  site에 deploy.&#xD;
+&#xD;
+물론 tax calculation의 상당부분이 동일하고&#xD;
+차이점을 external화 할 수 있다면 XML을 써서 해도 좋겠고..&#xD;
+공통계산 부분 class를 만들고&#xD;
+당해년도 specific 부분을 떼어서 따로 class를 만든다면..&#xD;
+XML을 쓰지 않더라도 가능할 것 같은데요.&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+</content>
+    <postId>58ABB0A8-1408-443C-B839-184DFED27F8E</postId>
+    <pubDate>2001-10-16T00:00:00-04:00</pubDate>
+    <title>RE: Can you make Java Solution about this?</title>
+</post>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>고상호</author>
+    <comments>
+        <comment>
+            <author>김성욱</author>
+            <date>2004-05-18T00:00:00-04:00</date>
+            <content>As far as I know, you should put the 'action="j_security_check" in &lt;form&gt; tag, and 'name=j_username' &amp; 'password=j_password' in the &lt;text&gt; &amp; &lt;password&gt; tags, which means it might not work with Struts. You should research this first.</content>
+        </comment>
+    </comments>
+    <content>Anybody have a experience for user authentication using tomcat?&#xD;
+&#xD;
+I want to use "j_security_check" in jsp and set the following in web.xml.&#xD;
+&#xD;
+&amp;lt security-constraint&amp;gt&#xD;
+   &amp;ltdisplay-name&amp;gtExample Security Constraint&amp;lt/display-name&amp;gt&#xD;
+   &amp;ltweb-resource-collection&amp;gt&#xD;
+      &amp;ltweb-resource-name&amp;gtProtected Area&amp;lt/web-resource-name&amp;gt&#xD;
+      &amp;lt!-- Define the context-relative URL(s) to be protected --&amp;gt&#xD;
+      &amp;lturl-pattern&amp;gt/*.do&amp;lt/url-pattern&amp;gt&#xD;
+      &amp;lt!-- If you list http methods, only those methods are protected --&amp;gt&#xD;
+      &amp;lthttp-method&amp;gtDELETE&amp;lt/http-method&amp;gt&#xD;
+      &amp;lthttp-method&amp;gtGET&amp;lt/http-method&amp;gt&#xD;
+      &amp;lthttp-method&amp;gtPOST&amp;lt/http-method&amp;gt&#xD;
+      &amp;lthttp-method&amp;gtPUT&amp;lt/http-method&amp;gt&#xD;
+   &amp;lt/web-resource-collection&amp;gt&#xD;
+   &amp;ltauth-constraint&amp;gt&#xD;
+      &amp;lt!-- Anyone with one of the listed roles may access this area --&amp;gt&#xD;
+      &amp;ltrole-name&amp;gttomcat&amp;lt/role-name&amp;gt  &#xD;
+      &amp;ltrole-name&amp;gtrole1&amp;lt/role-name&amp;gt&#xD;
+   &amp;lt/auth-constraint&amp;gt&#xD;
+ &amp;lt/security-constraint&amp;gt&#xD;
+&#xD;
+	&amp;ltlogin-config&amp;gt&#xD;
+		&amp;ltauth-method&amp;gtFORM&amp;lt/auth-method&amp;gt&#xD;
+		&amp;ltrealm-name&amp;gttest for login&amp;lt/realm-name&amp;gt&#xD;
+		&amp;ltform-login-config&amp;gt&#xD;
+			&amp;ltform-login-page&amp;gt/web/login.jsp&amp;lt/form-login-page&amp;gt&#xD;
+			&amp;ltform-error-page&amp;gt/loginfailed.do&amp;lt/form-error-page&amp;gt&#xD;
+		&amp;lt/form-login-config&amp;gt&#xD;
+	&amp;lt/login-config&amp;gt&#xD;
+</content>
+    <postId>61C71921-89C3-426E-ABD4-C2FB62C371C6</postId>
+    <pubDate>2004-05-18T00:00:00-04:00</pubDate>
+    <title>user authentication using tomcat</title>
+</post>

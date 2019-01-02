@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>조용민</author>
+    <comments>
+        <comment>
+            <author>조용민</author>
+            <date>2009-02-03T00:00:00-05:00</date>
+            <content>Eclipse 버젼 문제 였습니다. Eclipse 3.3.2를 사용하니깐 작동을 하네요.</content>
+        </comment>
+        <comment>
+            <author>Gaucho pants</author>
+            <date>2011-07-23T00:00:00-04:00</date>
+            <content>It is the best time to make some plans for the future and it's time to be happy. I've read this post and if I could I want to suggest you some interesting things or suggestions. Maybe you could write next articles referring to this article. I desire to read more things about it! Bye, (Gaucho pants from &amp;lt;a href=&amp;quot;http://www.gauchopantsguide.com&amp;quot;&amp;gt;http://www.gauchopantsguide.com&amp;lt;/a&amp;gt;).</content>
+        </comment>
+    </comments>
+    <content>사이트를 찾아보니 현재 Eclipse 3.4.1에서 Hibernate 를 자동 update시 에러가 발생한다고 해서 Hibernate Tools 3.2.4를 바로 설치할려구 하는데, 인식을 못하네요. 혹시 Hibernate를 Eclipse에 설치해서 사용하는 방법을 아시는 분 있으면 방법 좀 가르쳐 주세요.</content>
+    <postId>6FA04551-B1D9-4395-90B2-9B13EB4884F6</postId>
+    <pubDate>2009-02-02T00:00:00-05:00</pubDate>
+    <title>질문 - Eclipse에 Hibernate를 어떻게 설치 하나요?</title>
+</post>

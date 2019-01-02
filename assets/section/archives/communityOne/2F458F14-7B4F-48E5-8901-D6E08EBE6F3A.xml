@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>강윤정</author>
+    <comments/>
+    <content>The issue was the version of .Net Web Service Extension (WSE) Library.&#xD;
+&#xD;
+We changed the libraray back to ver 1.0 from 2.0 and it worked out!&#xD;
+The way of soap message creation was different between WSE 1.0 and 2.0 and&#xD;
+my WebSphere environment was ok with WSE 1.0 library.&#xD;
+&#xD;
+What I guess is this:&#xD;
+&#xD;
+The latest version WSE 2.0 is based on the standard of "oasis 2004-01" while&#xD;
+the WebSphere test environment 5.1 I tried is based on "http://schemas.xmlsoap.org/ws/2003/06/" so the WebSphere may have not understood the new "oasis" way of tags or the naming space of the tags.&#xD;
+&#xD;
+The initial version WSE 1.0 is based on 2002-07 from xmlsoap.org so the WebSphere may stil cover this backward thing.&#xD;
+&#xD;
+I appreciate all your interests and suggestion on this again.&#xD;
+</content>
+    <postId>2F458F14-7B4F-48E5-8901-D6E08EBE6F3A</postId>
+    <pubDate>2005-01-21T00:00:00-05:00</pubDate>
+    <title>Found the issue, Thank you for everyone interested in this.</title>
+</post>

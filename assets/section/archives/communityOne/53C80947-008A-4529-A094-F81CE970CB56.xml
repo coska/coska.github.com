@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>강윤정</author>
+    <comments>
+        <comment>
+            <author>이성기</author>
+            <date>2003-10-31T00:00:00-05:00</date>
+            <content>A FileIOServlet receives the user file and can store external directory other than WebSphere. When user accesses to look up the file, this FileIOServlet picks the file and displays to user. Generally, this FileIOServlet can access any directory on your server because it is your own class.</content>
+        </comment>
+    </comments>
+    <content>Our application allows the user to upload files.&#xD;
+Those uploaded files are stored in server machine, then&#xD;
+being accessed by the user's URL request such as&#xD;
+http://server.com/application/content/30.doc.&#xD;
+&#xD;
+Whenever WebSphere updates the existing application, I found it deletes the whole directory, create it and unpack the application's war file.&#xD;
+&#xD;
+So if we have a subdirectory to keep those uploaded file,&#xD;
+that directory for keeping uploaded files will be deleted everytime we update the application, which will be the problem.&#xD;
+&#xD;
+The directory for uploaded files should be located outside of the scope of WebSphere's InstalledApp/.. not to be deleted.&#xD;
+&#xD;
+I seek for the solution of setup kind of "virtual path", which web server match the incoming request URL path with some other directory, which does not reside within WebSphere's "InstalledApp/application.ear/....".&#xD;
+&#xD;
+I searched the solution through IBM websphere newsgroups, admin guide and found there are a few people who raises this same question but haven't got the answer yet.&#xD;
+&#xD;
+IIS had been provided this kind of "virtual path" concept 5 years ago, I believe and I can hardly believe WebSphere does not support this functionality though could not found it yet.&#xD;
+&#xD;
+I really appreciate any kind of comment or help from Comm1 members. Thank you!&#xD;
+&#xD;
+&#xD;
+</content>
+    <postId>53C80947-008A-4529-A094-F81CE970CB56</postId>
+    <pubDate>2003-10-29T00:00:00-05:00</pubDate>
+    <title>[Q]Virtual path setup in WebSphere</title>
+</post>

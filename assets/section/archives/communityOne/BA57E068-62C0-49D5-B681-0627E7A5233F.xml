@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김민</author>
+    <comments/>
+    <content>엊그제 이성기씨 댁에서 있었던 Seminar 도중 CMP 가 빠르냐 BMP가 빠르냐 라는 문제에 대하여 다음과 같은 Context를 Extract해서 올림니다. 아울러 몇가지 Interesting Topic에 관해서도요..&#xD;
+&#xD;
+"http://www.javaworld.com/javaworld/jw-12-2001/jw-1207-yesnoejb-p2.html"&#xD;
+&#xD;
+CMP is faster than BMP or BMP is faster than CMP. &#xD;
+==================================================&#xD;
+Misunderstanding: Whether one is faster than the other depends on the quality of the vendor's CMP engine and also on how proprietary it is. The more proprietary an application server is, the more features it can add to its CMP engine, like batch updates, smart updates, and more. &#xD;
+&#xD;
+Entity beans are slow. &#xD;
+======================&#xD;
+True: Entity beans are often too slow and need to be worked around by a combination of session beans and value objects. This shortcoming is most noticeable in cases where a finder method returns thousands of rows. Invariably, you need to rework the business logic. In some cases, application servers try to be smart about loading data (lazy-loading), but such efforts often prove insufficient. &#xD;
+&#xD;
+Stateful session beans are bad and should be avoided. &#xD;
+====================================================&#xD;
+Myth: Stateful session beans scratch an itch that stateless session beans cannot: maintaining server-side state across method invocations. As such, they are a required part of the EJB model and prove valuable in certain situations. However, they should be used sparingly as server-side state always adversely affects scalability. In general, I design all session beans to be stateless by default, but if it makes sense to convert a few to become stateful to meet business requirements, then that's fine. &#xD;
+&#xD;
+EJBs are portable between vendors. &#xD;
+==================================&#xD;
+Half-myth: EJBs are portable if you write them to be. Session beans and BMP (bean managed persistence) entity beans usually port quite easily. In contrast, CMP (container managed persistence) entity beans need a good bit of work. Quite often, applications that rely on a clustering implementation take longer to port, as clustering is a big differentiator between vendors and is also not addressed adequately in the EJB specification. The work might not be in rewriting code, but in reconfiguring deployment descriptors and container/server configurations. In addition, administration and configuration tools and mechanisms are vendor-specific, as are things like startup and shutdown scripts and sometimes build scripts (unless the vendor uses the Ant build tool). &#xD;
+&#xD;
+Security is free with EJB.&#xD;
+============================&#xD;
+Misunderstanding: The EJB specification provides a fully fledged security model (that integrates with the J2EE security model). But it is just a model, you need to set up your users and roles yourself -- and potentially tie in to an existing authentication source, such as a database or LDAP server. &#xD;
+&#xD;
+&#xD;
+아울러 BEA WebLogic (5.1 과 6.0)에서는 100 User 와 15 Records 의 Test 결과 CMP 가 BMP 보다 4배 가량 빠르다는 결과가 나왔습니다.  김경찬씨 말씀데로 신민용씨의 Test결과가 맞는것 같습니다. </content>
+    <postId>BA57E068-62C0-49D5-B681-0627E7A5233F</postId>
+    <pubDate>2002-04-08T00:00:00-04:00</pubDate>
+    <title>CMP is faster than BMP or BMP is faster than CMP. </title>
+</post>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>김민</author>
+    <comments/>
+    <content>다른 곳에서의 사용예는 모르지만 저희쪽(통신관련)에서는 IBM WebSphere의 수효보다는 절대적으로 BEA WebLogic이 많이 쓰이고 있습니다.&#xD;
+&#xD;
+얼마전 수행했던 2개의 Project에서도 WebLogic 6.0을 사용했구요(at Nortel Networks) .. 지금 하고있는 Project에서도 BEA WebLogic 6.1 Service Pack 1을 사용하고 있구요 ...&#xD;
+&#xD;
+전반적인 시장의 악화로 전체적으로 IT분야가 힘이든 가운데 그중 Financial 과 정부쪽관련일들이 상대적으로 안정적이어서 IBM관련 수효가 많이 있기는 하지만, 멀지않아  군살을 빼고, 가벼워지고, 발빠른 쪽에서는 (예전의 DOC Com) BEA WebLogic을 상대적으로 선호할것이라고 개인적으로는 확신합니다.&#xD;
+&#xD;
+....</content>
+    <postId>C67AB5BB-6D24-4C42-AC5C-E548E89CF504</postId>
+    <pubDate>2002-01-08T00:00:00-05:00</pubDate>
+    <title>다른곳은 모르고 TELCO 쪽에선 ...</title>
+</post>

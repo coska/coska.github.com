@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<post>
+    <author>부기흡</author>
+    <comments/>
+    <content>Hi Config team members,&lt;br&gt;&lt;br&gt;As discussed in our previous meeting, we need a candidate API by tomorrow. This is not necessarily a final API as we understand so wrap up your work now and prepare for submission.&lt;br&gt;&lt;br&gt;We are expecting to get the class files with:&lt;br&gt;classes, public attributes, and public methods commented so that they are ready for document generation. Any private fields and/or code implementation do not deserve out interest at this point.&lt;br&gt;&lt;br&gt;Email me your source files to kihup.boo@gmail.com.&lt;br&gt;&lt;br&gt;I will consolidate the works and prepare a design documentation for an external review.&lt;br&gt;&lt;br&gt;Thanks in advance.</content>
+    <postId>CA8D54E4-ABBB-429F-A677-8E1BAC214723</postId>
+    <pubDate>2005-08-23T00:00:00-04:00</pubDate>
+    <title>[config] milestone tomorrow (8/24) - call for api submission</title>
+</post>

@@ -19,7 +19,7 @@
         {"title": "2000~2009","pgid": "m010203","layout": "page","doctype": "markdown"},
         {"title": "2010~","pgid": "m010204","layout": "page","doctype": "markdown"},
         {"layout": "divider" },
-        {"title": "추억의 앨범","pgid": "m010301","layout": "section","doctype": "markdown", "format": "card"},
+        {"title": "추억의 앨범","pgid": "m010301","layout": "section","doctype": "markdown", "format": "list"},
         {"layout": "divider" },
         {"title": "Privacy","pgid": "privacy","layout": "page","doctype": "markdown"}
       ]
@@ -38,7 +38,7 @@
         {"title": "New Year Party","pgid": "m030201","layout": "section","doctype": "markdown","format": "list"},
         {"title": "Picnics/Campings","pgid": "m030102","layout": "section","doctype": "markdown","format": "card", "disabled":true},
         {"title": "Campings","pgid": "m030103",     "layout": "section","doctype": "markdown","format": "card", "disabled":true},
-        {"title": "Golf Coska","pgid": "m030104",   "layout": "section","doctype": "markdown","format": "card"}
+        {"title": "Golf Coska","pgid": "m030104",   "layout": "section","doctype": "markdown","format": "list"}
       ]
     },
     {
@@ -65,7 +65,7 @@
         {"title": "Manual","pgid": "manual","layout": "page","doctype": "markdown"}
       ]
     },
-    {"title": "Facebook","layout": "extlink","url": "https://www.facebook.com/groups/coska4u"}
+    {"title": "Facebook Group","layout": "extlink","url": "https://www.facebook.com/groups/coska4u"}
     
   ]
 }

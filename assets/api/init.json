@@ -19,7 +19,9 @@
         {"title": "2000~2009","pgid": "m010203","layout": "page","doctype": "markdown"},
         {"title": "2010~","pgid": "m010204","layout": "page","doctype": "markdown"},
         {"layout": "divider" },
-        {"title": "추억의 앨범","pgid": "m010301","layout": "section","doctype": "markdown", "format": "card"}
+        {"title": "추억의 앨범","pgid": "m010301","layout": "section","doctype": "markdown", "format": "card"},
+        {"layout": "divider" },
+        {"title": "Privacy","pgid": "privacy","layout": "page","doctype": "markdown"}
       ]
     },
     {

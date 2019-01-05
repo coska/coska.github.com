@@ -35,6 +35,7 @@
     {
       "title": "Events", "pgid": "m03",
       "subMenu": [
+        {"title": "일정표","pgid": "m0301","layout": "page","doctype": "html"},
         {"title": "New Year Party","pgid": "m030201","layout": "section","doctype": "markdown","format": "list"},
         {"title": "Picnics/Campings","pgid": "m030102","layout": "section","doctype": "markdown","format": "card", "disabled":true},
         {"title": "Campings","pgid": "m030103",     "layout": "section","doctype": "markdown","format": "card", "disabled":true},

@@ -10,6 +10,7 @@ npm install --save ngx-markdown prismjs
 ```bash
 npm run build:coska
 npm run deploy:coska
+npm run cli
 ```
 
 ## Configuration

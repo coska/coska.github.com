@@ -26,20 +26,20 @@
   <h5>Responses:</h5>
   <ul class="list-unstyled">
 
-    <xsl:for-each select="comments">
-      <xsl:if test="comment">
+    <xsl:if test="comments/comment">
+      <xsl:for-each select="comments/comment">
         <li class="media">
-          <div class="media-body">
-            <div class="mr-1"><xsl:value-of select="comment/content" /></div>
+          <div class="media-body row">
+            <div class="mr-1"><xsl:value-of select="content" /></div>
             <div class="blockquote-footer">
               <cite title="Source Title">
-                <xsl:value-of select="comment/date"/> by <xsl:value-of select="comment/author" />
+                <xsl:value-of select="date"/> by <xsl:value-of select="author" />
               </cite>
             </div>
           </div>
         </li>
-      </xsl:if>
-    </xsl:for-each>
+      </xsl:for-each>
+    </xsl:if>
 
   </ul>
 </div>

@@ -13,6 +13,7 @@
       "subMenu": [
         {"title": "코스카 소개","pgid": "m010101","layout": "page","doctype": "html"},
         {"title": "임원진 소개","pgid": "m010102","layout": "page","doctype": "markdown"},
+        {"title": "회원구성",   "pgid": "m010103","layout": "page","doctype": "html"},
         {"layout": "divider" },
         {"title": "발자취 ", "layout": "header"},
         {"title": "1979~1999","pgid": "m010201","layout": "page","doctype": "markdown", "disabled":false},

@@ -20,7 +20,7 @@
         {"title": "2000~2009","pgid": "m010203","layout": "page","doctype": "markdown"},
         {"title": "2010~","pgid": "m010204","layout": "page","doctype": "markdown"},
         {"layout": "divider" },
-        {"title": "추억의 앨범","pgid": "m010301","layout": "section","doctype": "markdown", "format": "list"},
+        {"title": "추억의 앨범","pgid": "m0103","layout": "section","doctype": "markdown", "format": "list"},
         {"layout": "divider" },
         {"title": "Privacy","pgid": "privacy","layout": "page","doctype": "markdown"}
       ]
@@ -28,9 +28,9 @@
     {
       "title": "세미나", "pgid": "m02",
       "subMenu": [
-        {"title": "Techday","pgid": "m020101","layout": "page","doctype": "markdown"},
-        {"title": "COSKA Lab","pgid": "m020102","layout": "page","doctype": "markdown"},
-        {"title": "취업 세미나","pgid": "m020103","layout": "page","doctype": "markdown"}
+        {"title": "Techday",    "pgid": "m0201",  "layout": "section",  "doctype": "markdown", "format": "list"},
+        {"title": "COSKA Lab",  "pgid": "m020102","layout": "page",     "doctype": "markdown"},
+        {"title": "취업 세미나", "pgid": "m020103","layout": "page",    "doctype": "markdown"}
       ]
     },
     {

@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
   <url>
+    <loc>https://www.coska.com/</loc><!-- 코스카 메인 -->
+    <lastmod>2018-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://www.coska.com/home/m01/m010101</loc><!-- 코스카 소개 -->
     <lastmod>2018-12-01</lastmod>
     <changefreq>monthly</changefreq>

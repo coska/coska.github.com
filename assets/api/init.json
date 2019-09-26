@@ -30,7 +30,8 @@
       "subMenu": [
         {"title": "Techday",    "pgid": "m0201",  "layout": "section",  "doctype": "markdown", "format": "list"},
         {"title": "COSKA Lab",  "pgid": "m020102","layout": "page",     "doctype": "markdown"},
-        {"title": "취업 세미나", "pgid": "m020103","layout": "page",    "doctype": "markdown"}
+        {"title": "세미나", "pgid": "m020103","layout": "page",    "doctype": "markdown"},
+        {"title": "멘토링", "pgid": "m020104","layout": "page",    "doctype": "markdown"}
       ]
     },
     {
